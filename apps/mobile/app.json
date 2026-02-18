@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Life Design",
+    "slug": "lifedesign",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a2e"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lifedesign.app",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "Life Design uses your microphone to capture voice reflections."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1a1a2e"
+      },
+      "package": "com.lifedesign.app",
+      "permissions": ["RECORD_AUDIO"]
+    }
+  }
+}

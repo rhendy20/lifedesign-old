@@ -1,0 +1,21 @@
+// Life Design — Prisma schema
+// Local: Docker Postgres. Production: Vercel Postgres / Neon.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// TODO: Add User when OAuth is implemented. For now we use a stub userId.
+model Reflection {
+  id        String   @id @default(cuid())
+  userId    String   // Stubbed until OAuth; then FK to User
+  content   String
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}

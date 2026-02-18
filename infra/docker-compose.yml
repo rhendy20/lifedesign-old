@@ -1,0 +1,16 @@
+# Local Postgres for Life Design. Start with: pnpm db:up
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: lifedesign-postgres
+    environment:
+      POSTGRES_USER: lifedesign
+      POSTGRES_PASSWORD: lifedesign_local
+      POSTGRES_DB: lifedesign
+    ports:
+      - "5432:5432"
+    volumes:
+      - lifedesign_pgdata:/var/lib/postgresql/data
+
+volumes:
+  lifedesign_pgdata:

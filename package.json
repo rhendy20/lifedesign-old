@@ -1,0 +1,24 @@
+{
+  "name": "lifedesign",
+  "private": true,
+  "scripts": {
+    "local": "node scripts/run-local.js",
+    "setup": "node scripts/setup.js",
+    "setup:local-postgres": "bash scripts/setup-local-postgres.sh",
+    "dev": "concurrently \"pnpm api\" \"pnpm mobile\"",
+    "db:up": "docker compose -f infra/docker-compose.yml up -d",
+    "db:down": "docker compose -f infra/docker-compose.yml down",
+    "db:migrate": "bash -lc 'set -a; source ./.env; set +a; pnpm --filter api exec prisma migrate dev'",
+    "db:seed": "bash -lc 'set -a; source ./.env; set +a; pnpm --filter api exec prisma db seed'",
+    "db:studio": "bash -lc 'set -a; source ./.env; set +a; pnpm --filter api exec prisma studio'",
+    "api": "pnpm --filter api dev",
+    "mobile": "pnpm --filter mobile start"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@9.0.0",
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
