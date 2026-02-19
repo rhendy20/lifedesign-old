@@ -1,0 +1,14 @@
+---
+description: Fastify API — routes, auth, DB access, streaming
+globs: apps/api/**/*
+alwaysApply: false
+---
+
+# Backend rules
+
+- **Stack:** Fastify + TypeScript. Use `@fastify/cors` for local and future web/mobile.
+- **Routes:** REST. Group by resource (e.g. `routes/reflections.ts`). Validate body/query with JSON schema or a small validation layer.
+- **Auth:** OAuth (Apple/Google) is the target. First slice may stub (e.g. fixed userId or header). Add real OAuth when implementing next slice; document in `docs/decisions.md`.
+- **DB:** Access only via Prisma. No raw SQL in route handlers unless Prisma doesn’t support the use case. Schema and migrations live in `apps/api/prisma`.
+- **Streaming:** When adding AI or long responses, use SSE or chunked JSON; keep Fastify’s streaming in mind.
+- **Ownership:** Backend agent owns API. Schema changes should be consistent with `docs/architecture.md` and `docs/decisions.md`.

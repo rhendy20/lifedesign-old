@@ -1,0 +1,14 @@
+---
+description: Expo/React Native — chat-first UI, navigation, state
+globs: apps/mobile/**/*
+alwaysApply: false
+---
+
+# Mobile rules
+
+- **UI:** Chat-first. Conversation is the primary surface; use prominent visual elements (e.g. distinctive header, cards, accent color) so it doesn’t look like generic chat.
+- **Stack:** Expo + React Native + TypeScript. Use Expo APIs and components where possible.
+- **State:** Prefer local state and simple data flow for the first slice. Add global state (e.g. context or store) when needed.
+- **API:** Call backend via fetch or a thin client. Base URL from env (e.g. `EXPO_PUBLIC_API_URL`). Handle loading and errors in UI.
+- **Navigation:** Start with a single stack or minimal tabs; expand when the product demands it.
+- **Ownership:** Mobile agent owns this app. Backend and schema changes that affect mobile should be coordinated.

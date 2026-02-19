@@ -94,10 +94,13 @@ export function ReflectionScreen() {
   );
   const [loading, setLoading] = useState(true);
   const [sending, setSending] = useState(false);
+  const [saveSuccessVisible, setSaveSuccessVisible] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const pulseAnim = useRef(new Animated.Value(1)).current;
   const spinAnim = useRef(new Animated.Value(0)).current;
+  const reviewSlideAnim = useRef(new Animated.Value(30)).current;
   const isStoppingRef = useRef(false);
+  const saveSuccessTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const isRecording = !!recording;
 
@@ -117,6 +120,15 @@ export function ReflectionScreen() {
   useEffect(() => {
     load();
   }, [load]);
+
+  useEffect(
+    () => () => {
+      if (saveSuccessTimeoutRef.current) {
+        clearTimeout(saveSuccessTimeoutRef.current);
+      }
+    },
+    []
+  );
 
   useEffect(() => {
     if (!isRecording) return;
@@ -175,6 +187,20 @@ export function ReflectionScreen() {
   }, [transcribing, spinAnim]);
 
   useEffect(() => {
+    if (mode !== "review") {
+      reviewSlideAnim.setValue(30);
+      return;
+    }
+
+    Animated.timing(reviewSlideAnim, {
+      toValue: 0,
+      duration: 250,
+      useNativeDriver: true,
+      easing: Easing.out(Easing.ease),
+    }).start();
+  }, [mode, reviewSlideAnim]);
+
+  useEffect(() => {
     return () => {
       if (!recording) return;
       void recording.stopAndUnloadAsync().catch(() => null);
@@ -192,6 +218,13 @@ export function ReflectionScreen() {
       setReflections((prev) => [created, ...prev]);
       setInput("");
       setMode("capture");
+      setSaveSuccessVisible(true);
+      if (saveSuccessTimeoutRef.current) {
+        clearTimeout(saveSuccessTimeoutRef.current);
+      }
+      saveSuccessTimeoutRef.current = setTimeout(() => {
+        setSaveSuccessVisible(false);
+      }, 1200);
     } catch (e) {
       setError(e instanceof Error ? e.message : "Could not save");
     } finally {
@@ -334,70 +367,72 @@ export function ReflectionScreen() {
   };
 
   const renderReview = () => (
-    <KeyboardAvoidingView
-      style={styles.reviewContainer}
-      behavior={Platform.OS === "ios" ? "padding" : undefined}
-    >
-      <View style={styles.reviewHeader}>
-        <TouchableOpacity
-          onPress={() => {
-            setInput("");
-            setMode("capture");
-          }}
-        >
-          <Text style={styles.backAction}>Back</Text>
-        </TouchableOpacity>
-        <Text style={styles.reviewTitle}>Review Entry</Text>
-        <View style={styles.reviewSpacer} />
-      </View>
-      <Text style={styles.reviewDate}>
-        {new Date().toLocaleString(undefined, {
-          month: "short",
-          day: "numeric",
-          hour: "numeric",
-          minute: "2-digit",
-        })}
-      </Text>
-
-      <TextInput
-        style={styles.reviewInput}
-        value={input}
-        onChangeText={setInput}
-        multiline
-        autoFocus
-        placeholder="Your transcription will appear here..."
-        placeholderTextColor="#999"
-        editable={!sending}
-      />
-
-      <View style={styles.reviewActions}>
-        <TouchableOpacity
-          style={styles.discardButton}
-          onPress={() => {
-            setInput("");
-            setMode("capture");
-          }}
-          disabled={sending}
-        >
-          <Text style={styles.discardLabel}>Discard</Text>
-        </TouchableOpacity>
-
-        <Pressable
-          style={styles.saveButton}
-          onPress={() => void send()}
-          disabled={sending || !input.trim()}
-        >
-          <LinearGradient
-            colors={["#667eea", "#764ba2"]}
-            start={{ x: 0, y: 0 }}
-            end={{ x: 1, y: 1 }}
-            style={[styles.saveGradient, (!input.trim() || sending) && styles.saveDisabled]}
+    <Animated.View style={[styles.reviewContainer, { transform: [{ translateY: reviewSlideAnim }] }]}>
+      <KeyboardAvoidingView
+        style={styles.reviewContainer}
+        behavior={Platform.OS === "ios" ? "padding" : undefined}
+      >
+        <View style={styles.reviewHeader}>
+          <TouchableOpacity
+            onPress={() => {
+              setInput("");
+              setMode("capture");
+            }}
           >
-            <Text style={styles.saveLabel}>{sending ? "Saving..." : "Save"}</Text>
-          </LinearGradient>
-        </Pressable>
-      </View>
-    </KeyboardAvoidingView>
+            <Text style={styles.backAction}>{"<- Back"}</Text>
+          </TouchableOpacity>
+          <Text style={styles.reviewTitle}>Review Entry</Text>
+          <View style={styles.reviewSpacer} />
+        </View>
+        <Text style={styles.reviewDate}>
+          {new Date().toLocaleString(undefined, {
+            month: "short",
+            day: "numeric",
+            hour: "numeric",
+            minute: "2-digit",
+          })}
+        </Text>
+
+        <TextInput
+          style={styles.reviewInput}
+          value={input}
+          onChangeText={setInput}
+          multiline
+          autoFocus
+          placeholder="Your transcription will appear here..."
+          placeholderTextColor="#999"
+          editable={!sending}
+        />
+
+        <View style={styles.reviewActions}>
+          <TouchableOpacity
+            style={styles.discardButton}
+            onPress={() => {
+              setInput("");
+              setMode("capture");
+            }}
+            disabled={sending}
+          >
+            <Text style={styles.discardLabel}>Discard</Text>
+          </TouchableOpacity>
+
+          <Pressable
+            style={styles.saveButton}
+            onPress={() => void send()}
+            disabled={sending || !input.trim()}
+          >
+            <LinearGradient
+              colors={["#667eea", "#764ba2"]}
+              start={{ x: 0, y: 0 }}
+              end={{ x: 1, y: 1 }}
+              style={[styles.saveGradient, (!input.trim() || sending) && styles.saveDisabled]}
+            >
+              <Text style={styles.saveLabel}>{sending ? "Saving..." : "Save"}</Text>
+            </LinearGradient>
+          </Pressable>
+        </View>
+      </KeyboardAvoidingView>
+    </Animated.View>
   );
 
   const renderEntries = () => (
@@ -410,7 +445,11 @@ export function ReflectionScreen() {
         <View style={styles.reviewSpacer} />
       </View>
 
-      {reflections.length === 0 ? (
+      {loading ? (
+        <View style={styles.emptyState}>
+          <Text style={styles.statusLabel}>Loading entries...</Text>
+        </View>
+      ) : reflections.length === 0 ? (
         <View style={styles.emptyState}>
           <Text style={styles.emptyStateText}>Start capturing your first thought.</Text>
         </View>
@@ -434,14 +473,13 @@ export function ReflectionScreen() {
 
   const renderDetail = () => {
     if (!selectedReflection) {
-      setMode("entries");
-      return null;
+      return renderEntries();
     }
     return (
       <View style={styles.entriesContainer}>
         <View style={styles.entriesHeader}>
           <TouchableOpacity onPress={() => setMode("entries")}>
-            <Text style={styles.backAction}>Back</Text>
+            <Text style={styles.backAction}>{"<- Back"}</Text>
           </TouchableOpacity>
           <Text style={styles.entriesTitle}>Entry</Text>
           <View style={styles.reviewSpacer} />
@@ -457,25 +495,26 @@ export function ReflectionScreen() {
 
   return (
     <View style={styles.container}>
-      {error ? (
-        <View style={styles.errorBanner}>
-          <Text style={styles.errorText}>{error}</Text>
-        </View>
-      ) : null}
+      <View style={styles.contentShell}>
+        {error ? (
+          <View style={styles.errorBanner}>
+            <Text style={styles.errorText}>{error}</Text>
+          </View>
+        ) : null}
+        {saveSuccessVisible && !error ? (
+          <View style={styles.successBanner}>
+            <Text style={styles.successText}>Saved</Text>
+          </View>
+        ) : null}
 
-      {loading ? (
-        <View style={styles.emptyState}>
-          <Text style={styles.statusLabel}>Loading entries...</Text>
-        </View>
-      ) : mode === "capture" ? (
-        renderCapture()
-      ) : mode === "review" ? (
-        renderReview()
-      ) : mode === "entries" ? (
-        renderEntries()
-      ) : (
-        renderDetail()
-      )}
+        {mode === "capture"
+          ? renderCapture()
+          : mode === "review"
+          ? renderReview()
+          : mode === "entries"
+          ? renderEntries()
+          : renderDetail()}
+      </View>
     </View>
   );
 }
@@ -484,6 +523,12 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#f8f7f4",
+    alignItems: "center",
+  },
+  contentShell: {
+    flex: 1,
+    width: "100%",
+    maxWidth: 420,
   },
   errorBanner: {
     backgroundColor: "#fee2e2",
@@ -491,6 +536,18 @@ const styles = StyleSheet.create({
     marginHorizontal: 20,
     marginTop: 12,
     borderRadius: 12,
+  },
+  successBanner: {
+    backgroundColor: "#dcfce7",
+    padding: 12,
+    marginHorizontal: 20,
+    marginTop: 12,
+    borderRadius: 12,
+  },
+  successText: {
+    color: "#166534",
+    fontSize: 14,
+    fontWeight: "600",
   },
   errorText: {
     color: "#991b1b",
@@ -513,7 +570,7 @@ const styles = StyleSheet.create({
   },
   promptLabel: {
     position: "absolute",
-    top: "30%",
+    top: "35%",
     fontSize: 18,
     color: "#2c2c2c",
     fontWeight: "400",

@@ -81,3 +81,11 @@ Decisions are recorded here. Keep entries short: what was decided, why, and any 
 **Decision:** First journaling interaction is voice-first (`record -> transcribe -> review -> save`), while preserving text input as fallback. Audio is uploaded to API and transcribed server-side (`POST /transcriptions`) using OpenAI.
 
 **Why:** Fastest path to daily low-friction capture without premature complexity. Server-side transcription keeps API keys off device and lets us swap providers later. Manual review before save preserves agency and data quality.
+
+---
+
+## Life Capture MVP stays in existing native stack
+
+**Decision:** Implement the Life Capture MVP inside the current Expo mobile app + Fastify API + Postgres flow, rather than creating a separate web app with local-only IndexedDB storage.
+
+**Why:** This keeps us on the existing product path, avoids duplicate codepaths, and preserves durable history across sessions/devices as we iterate. The MVP scope remains narrow (`record -> transcribe -> review -> save -> view`) without adding platform divergence.

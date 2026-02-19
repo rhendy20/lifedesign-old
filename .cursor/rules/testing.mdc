@@ -1,0 +1,12 @@
+---
+description: What to test, where, and how
+globs: "**/*.test.ts","**/*.spec.ts","**/__tests__/**"
+alwaysApply: false
+---
+
+# Testing rules
+
+- **API:** Jest. Unit tests for route handlers or services; integration tests for HTTP + DB when valuable. Use a test DB or Prisma mock as appropriate.
+- **Mobile:** React Native Testing Library. Prefer component and screen tests over pure unit tests for UI. E2E (Detox/Maestro) can be added later.
+- **Expectations:** New features that change behavior should add or update tests when the change is non-trivial. Tiny UI tweaks or one-line fixes don’t require new tests.
+- **Ownership:** QA agent can own test strategy and regression; Backend/Mobile agents write tests in their areas when implementing features.

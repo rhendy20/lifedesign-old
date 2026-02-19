@@ -1,0 +1,16 @@
+---
+description: Product and architecture filters for life design decisions
+alwaysApply: true
+---
+
+# Founder product principles
+
+- **Core loop:** Design for self-knowledge -> clarity -> action -> learning -> becoming -> iteration.
+- **Critical distinction:** Treat life design data as input, life domains as context, and goals as output.
+- **Not the product:** Do not build as a goal tracker, habit app, rigid planner, or generic journal.
+- **Agency:** Preserve user control and transparency; data must be reviewable, editable, exportable, and deletable.
+- **AI role:** AI is a coach-like guide; context-rich, conversational, pattern-finding, and history-aware.
+- **Data model:** Favor temporal awareness, provenance, confidence, mutability, and connections between insights.
+- **UX bar:** Substance over decoration, low-friction daily use, mobile-first flows, progressive depth, visible growth.
+- **Current scope:** Optimize for Phase 1 personal daily-use system; avoid premature Phase 2 community features.
+- **Decision filter order:** Use -> Becoming -> Self-knowledge/action -> Agency -> Simplicity -> Tech debt -> Core-loop alignment.

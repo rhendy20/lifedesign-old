@@ -1,0 +1,14 @@
+---
+description: Prisma schema, migrations, seeds
+globs: apps/api/prisma/**/*
+alwaysApply: false
+---
+
+# Database rules
+
+- **ORM:** Prisma only. Schema in `schema.prisma`; migrations via `prisma migrate`.
+- **Naming:** Tables and columns in snake_case or Prisma default (camelCase in schema, mapped if needed). Be consistent.
+- **Migrations:** Create migrations for every schema change. Don’t edit past migrations; add new ones.
+- **Seeds:** `prisma/seed.ts` (or .js) for dev data. Idempotent where possible. Document in `docs/local-dev.md`.
+- **Env:** `DATABASE_URL` in `.env`; example in `.env.example`. No secrets in repo.
+- **Hosting:** Schema and migrations should work with local Postgres and with Vercel Postgres / Neon later; avoid local-only extensions unless documented.

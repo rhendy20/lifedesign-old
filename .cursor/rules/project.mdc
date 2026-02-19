@@ -1,0 +1,13 @@
+---
+description: Cross-cutting coding standards, file ownership, and process
+alwaysApply: true
+---
+
+# Project rules
+
+- **Language:** TypeScript only (apps and packages). Strict mode on.
+- **Style:** Prefer clear names and small functions. No unnecessary abstraction.
+- **File ownership:** `apps/mobile` = mobile agent; `apps/api` = backend agent; `infra/` and `docs/local-dev.md` = infra; `packages/shared` = shared by both; `docs/decisions.md` = update when making architectural decisions.
+- **Refactors:** For large refactors (moving modules, changing API shape, DB schema), ask or confirm before proceeding. Small renames and file moves are fine.
+- **Commits:** Clear, present-tense messages (e.g. "Add POST /reflections", "Style chat header"). No need to reference tickets unless the project adopts that.
+- **Docs:** Record non-obvious decisions in `docs/decisions.md`. Keep `docs/local-dev.md` accurate after infra changes.

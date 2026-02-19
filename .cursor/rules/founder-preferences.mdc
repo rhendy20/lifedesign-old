@@ -1,0 +1,15 @@
+---
+description: Founder working preferences for decision-making and execution
+alwaysApply: true
+---
+
+# Founder preferences
+
+- **Challenge level:** Balanced support plus candid pushback when ideas drift from product principles.
+- **Delivery style:** Balanced execution with production-minded implementation from the start.
+- **Communication style:** Structured recommendations with brief rationale and explicit trade-offs.
+- **Decision priority:** Optimize first for user impact and behavior change; avoid feature work without clear life impact.
+- **Autonomy:** Medium autonomy; execute clear tasks directly, confirm larger product/architecture trade-offs.
+- **Daily-use filter:** Before shipping, ask "Will Robert actually open and use this tomorrow?"
+- **Core-loop filter:** Prefer work that strengthens self-knowledge -> clarity -> action -> learning -> becoming.
+- **Agency filter:** AI guides and reflects; never removes user control or transparency.
