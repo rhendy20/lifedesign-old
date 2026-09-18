@@ -323,3 +323,4 @@
 {"ts": 1789748067.640467, "tag": "judge:p08_near_founder", "model": "claude-opus-5", "backend": "cli", "input_tokens": 18004, "output_tokens": 8108, "cost_usd": 0.3902245000000001, "latency_ms": 105333}
 {"ts": 1789748069.6700277, "tag": "judge:p06_osaka", "model": "claude-opus-5", "backend": "cli", "input_tokens": 17948, "output_tokens": 8315, "cost_usd": 0.3948075, "latency_ms": 107285}
 {"ts": 1789748078.1582448, "tag": "judge:p03_cliche", "model": "claude-opus-5", "backend": "cli", "input_tokens": 18115, "output_tokens": 9111, "cost_usd": 0.4164785, "latency_ms": 115701}
+{"ts": 1789748254.7089107, "tag": "catalogue", "model": "claude-opus-5", "backend": "cli", "input_tokens": 58564, "output_tokens": 12849, "cost_usd": 0.950731, "latency_ms": 149498}

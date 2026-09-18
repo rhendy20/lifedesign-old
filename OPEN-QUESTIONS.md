@@ -72,3 +72,25 @@ limitation. Verbatim-quote grounding is checked programmatically, not by a model
 No `ffmpeg` or transcription key is available. The prototype accepts `.txt`/`.md`/`.json`, and will send
 audio files to the same OpenAI transcription endpoint the existing API uses if `OPENAI_API_KEY` is set.
 That path is implemented but unverified.
+
+## Q9. Extended thinking: on or off for the engine?
+
+The CLI enables extended thinking by default; a Haiku extraction call produced 12k output tokens (10.7k thinking) in 119 s for 6 cents,
+versus 1.3k tokens in 11 s for 1 cent with thinking off, with identical valid JSON.
+**Assumption:** engine stages run with thinking off, so the prompt architecture is the variable under test and tier cost/latency
+comparisons are clean. The judge runs with a 6k budget. A thinking-on variant is a candidate for v3 only if budget remains after
+the tier comparison; it would need to be reported as a separate condition, not folded into an architecture generation.
+
+## Q10. The judge did not see `would_predict` for v0/v1 in score set bb1796b8.
+
+The normaliser dropped the prediction field, so no insight in that set could earn depth 4 on prediction grounds (0 fours were given).
+**Fix:** field carried through from now on; v1 frozen outputs amended (prediction copied from the raw delivery stage, nothing else
+changed, noted in FROZEN.json). The final comparison re-scores v0, v1 and later generations together in one pooled set, so the
+earlier set is treated as a development readout, not the headline number.
+
+## Q11. Should v1 count as "beating v0" when its raw recall is lower?
+
+v1 finds 62% of planted truths against v0's 72%, but with 7.5 insights per persona against 26.6. Per insight, v1 is twice as likely
+to be a hit and seven times less likely to be a false positive. **Assumption:** depth rate is the primary architecture metric as the
+brief specifies; recall is reported alongside insights-per-persona so the volume effect is visible, and v2 raises the target count
+to 8-12 to test whether recall recovers without FP rising.

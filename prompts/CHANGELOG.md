@@ -15,3 +15,15 @@ Score (Sonnet 5, 10 personas, blind Opus judge): depth≥3 **22%**, mean depth 1
 - Delivery: headline + evidence chain + confidence note.
 Why: the v0 failure catalogue predicts these failure classes; each stage exists to remove one of them.
 Score effect vs v0: depth≥3 **72%** (+50 pts), mean depth 2.68, hit recall 62% (−10: fewer insights, 7.5 vs 26.6 per persona), hit share 51% (+25), FP 1% (−6), grounded 68%, $0.145/exp (8x).
+
+## v2 — form layer, narrator-frame rule, twelve-test critic, code-enforced grounding
+Driven by the v0 failure catalogue (`eval/results/failure_catalogue_v0__mid.md`) and the judge's notes on v1's depth-2 insights,
+which almost all "adopt the narrator's own explanation as the finding", and on the truths v1 missed, which were mostly about
+form (what gets exact numbers vs vagueness, who is the grammatical subject, what is absent) rather than content.
+- Extraction adds a form layer: narrator_explanations, precision_asymmetry, agency_grammar, specificity_shift, absences.
+- Interpretation: narrator explanations are evidence, never the insight; test each motive against a less flattering alternative; every candidate carries a falsifier and a pillar-named prediction; form/absence/asymmetry candidates are first-class.
+- Grounding gate in code: candidates whose quotes are not verbatim are dropped before the critic (v1 only prompted for this; 32% of its quotes failed).
+- Critic: the catalogue's 12-test checklist (own-thesis, swap, strip-the-label, falsifier, two-instances, detail-check, praise, narrator-motive, hedge, tension, dedupe, no-prescription).
+- Synthesis: five lenses (recurrence, stated-vs-lived, form across stories, absences, compounding); 8-12 insights to recover some of v0's volume-driven recall; no uncovered absolutes.
+- Delivery: names the narrator's framing where it differs; states falsifier and prediction.
+Score effect: pending.
