@@ -94,3 +94,12 @@ v1 finds 62% of planted truths against v0's 72%, but with 7.5 insights per perso
 to be a hit and seven times less likely to be a false positive. **Assumption:** depth rate is the primary architecture metric as the
 brief specifies; recall is reported alongside insights-per-persona so the volume effect is visible, and v2 raises the target count
 to 8-12 to test whether recall recovers without FP rising.
+
+## Q12. Fable is ~9x Sonnet per call; the $75 ceiling cannot cover a full Fable run.
+
+One identical v3 extraction call: Fable $0.47, Sonnet $0.05, Haiku $0.04 (CLI list basis). A ten-persona Fable run of the
+frozen architecture would be roughly $90 on top of $36 already spent.
+**Assumption:** ceiling raised once, to $100, and logged here. Fable runs on a three-persona subset chosen to span archetypes
+(withholder, stated-vs-lived contradiction, different life shape: Lagos); Haiku runs on all ten. The three-tier comparison is
+reported on the identical three-persona corpus, and the Haiku-vs-Sonnet comparison on all ten. This is the reversible choice:
+the subset can be widened later by anyone with budget; the ceiling cannot be un-spent.

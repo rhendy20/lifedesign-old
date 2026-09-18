@@ -42,3 +42,20 @@ Phase-boundary log. What shipped, what the score was, what changed.
 **Read**: depth rate v1→v2 is +4, inside judge noise, so the plateau rule is close to firing. The gain is in depth-4s (predictions) and grounding; the loss is hit share and a return of false positives, all from standalone form/absence claims with unverified universals. v3 targets exactly that and is the last generation regardless of result.
 
 **Spend**: $33.55 of $75.
+
+## Phase 2 boundary — architecture frozen (2026-09-18 17:55 UTC)
+
+**Shipped**: v3 (mechanism-first synthesis, form/absence demoted to evidence, cross-experience critic). Pooled blind re-score of all four generations, score set `50d0a4d5` (10 personas, 511 insights judged).
+
+| condition | insights | depth≥3 | mean | depth-4s | hit recall | hit share | FP | grounded | $/exp | model-s/exp |
+|---|---|---|---|---|---|---|---|---|---|---|
+| v0 | 266 | 22% | 1.92 | 0 | 74% | 27% | 5% | 0% | 0.018 | 12 |
+| v1 | 75 | 76% | 2.80 | 4 | 60% | 52% | 0% | 68% | 0.145 | 67 |
+| v2 | 90 | 77% | 2.86 | 12 | 58% | 44% | 2% | 100% | 0.185 | 97 |
+| v3 | 80 | 76% | 2.84 | 7 | 58% | 46% | 2% | 100% | 0.216 | 121 |
+
+**Stop rule fired**: depth rate plateaued across three consecutive generations (76 / 77 / 76). Iteration stops; evaluation begins.
+
+**Frozen for the tier comparison: v3.** v2 and v3 are indistinguishable on every judged metric; v3 is the latest generation with 100% grounding and the full stage set, and the Haiku run of it was already underway. v2 is the cost-efficient equivalent (17% cheaper) and is noted as such in DECISION.md.
+
+**Spend**: $48.18 of the raised $100 ceiling (see OPEN-QUESTIONS Q12).

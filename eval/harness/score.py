@@ -101,7 +101,7 @@ def main():
     ap.add_argument("--workers", type=int, default=4)
     args = ap.parse_args()
     SCORES.mkdir(parents=True, exist_ok=True)
-    llm = LLM(ledger_path=ROOT / "eval/results/ledger.jsonl", ceiling_usd=75.0)
+    llm = LLM(ledger_path=ROOT / "eval/results/ledger.jsonl", ceiling_usd=100.0)
     ids = args.personas or sorted(p.name for p in PERSONAS.iterdir() if (p / "ground_truth.json").exists())
     tag = hashlib.sha1(",".join(sorted(args.conditions)).encode()).hexdigest()[:8]
 

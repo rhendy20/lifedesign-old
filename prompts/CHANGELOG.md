@@ -39,4 +39,4 @@ Driven by the v2 kind breakdown: `recurrence` insights scored 87% deep / 46% hit
 - New stage: cross-experience critic (quantifier check, counterexample, corpus-level own-thesis, manufactured-axis, function test,
   detail check, parsimony on assumed hidden feelings, dedupe, coverage) cuts to 8-10.
 - Delivery states the function and the counterexample.
-Score effect: pending.
+Score effect (pooled re-score of all four generations, set 50d0a4d5; v0=22%, v1=76%, v2=77%): depth≥3 **76%** (flat), mean depth 2.84, depth-4s 7 (v2: 12), hit recall 58% (=v2), hit share 46% (+2), FP 2% (=v2), grounded 100%, $0.216/exp (+17%), 121 model-s/exp (+25%). Read: the cross-experience critic did not move depth or false positives; the two remaining FPs survived it. **Plateau across v1→v2→v3 (76/77/76): stop rule fires, iteration ends here.**

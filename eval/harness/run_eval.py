@@ -36,7 +36,7 @@ def main():
     ap.add_argument("--personas", nargs="*")
     ap.add_argument("--workers", type=int, default=3, help="personas in parallel")
     ap.add_argument("--stage-workers", type=int, default=3)
-    ap.add_argument("--ceiling", type=float, default=75.0)
+    ap.add_argument("--ceiling", type=float, default=100.0)
     args = ap.parse_args()
 
     llm = LLM(ledger_path=ROOT / "eval/results/ledger.jsonl", ceiling_usd=args.ceiling)

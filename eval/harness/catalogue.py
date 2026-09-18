@@ -49,7 +49,7 @@ def main():
                               "depth": s["depth"], "false_positive": s["false_positive"], "note": s.get("note", "")})
     if not items:
         sys.exit("no scored items for that condition/tag")
-    llm = LLM(ledger_path=ROOT / "eval/results/ledger.jsonl", ceiling_usd=75.0)
+    llm = LLM(ledger_path=ROOT / "eval/results/ledger.jsonl", ceiling_usd=100.0)
     res = llm.complete(args.judge, SYSTEM, json.dumps(items, indent=1, ensure_ascii=False), max_tokens=8000, tag="catalogue", thinking=4000)
     target = ROOT / f"eval/results/failure_catalogue_{args.condition}.md"
     hdr = f"# Failure catalogue — {args.condition}\n\n{len(items)} scored insights across {len({i['persona'] for i in items})} personas. " \

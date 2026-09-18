@@ -105,7 +105,7 @@ def build(llm: LLM, spec: dict) -> str:
 
 if __name__ == "__main__":
     only = sys.argv[1:]
-    llm = LLM(ledger_path=ROOT / "eval/results/ledger.jsonl", ceiling_usd=75.0)
+    llm = LLM(ledger_path=ROOT / "eval/results/ledger.jsonl", ceiling_usd=100.0)
     specs = [s for s in ARCHETYPES if not only or s["id"] in only]
     with ThreadPoolExecutor(max_workers=5) as ex:
         futs = {ex.submit(build, llm, s): s["id"] for s in specs}
