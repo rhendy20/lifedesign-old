@@ -28,3 +28,17 @@ Phase-boundary log. What shipped, what the score was, what changed.
 **Fixed along the way**: extended thinking was on by default in the CLI (10x cost/latency) → off for engine stages, capped budget for judge; per-persona cost was inflated by parallel runs → per-call sinks; predictions were dropped before the judge saw them → carried through.
 
 **Spend so far**: $18.59 of the $75 ceiling.
+
+## Phase 2 checkpoint — v2 (2026-09-18 17:05 UTC)
+
+**Shipped**: v2 (form layer, narrator-frame rule, twelve-test critic from the v0 catalogue, code-enforced grounding). Pooled blind re-score of v0 + v1 + v2, score set `5b4b1cb0`. Judge consistency check: v0 and v1 re-scored within 3 points of the first set.
+
+| condition | insights | depth≥3 | mean | depth-4s | hit recall | hit share | FP | grounded | $/exp |
+|---|---|---|---|---|---|---|---|---|---|
+| v0 | 266 | 24% | 1.91 | 0 | 74% | 25% | 5% | 0% | 0.018 |
+| v1 | 75 | 75% | 2.76 | 3 | 58% | 52% | 0% | 68% | 0.145 |
+| v2 | 90 | 79% | 2.87 | 12 | 52% | 38% | 4% | 100% | 0.185 |
+
+**Read**: depth rate v1→v2 is +4, inside judge noise, so the plateau rule is close to firing. The gain is in depth-4s (predictions) and grounding; the loss is hit share and a return of false positives, all from standalone form/absence claims with unverified universals. v3 targets exactly that and is the last generation regardless of result.
+
+**Spend**: $33.55 of $75.

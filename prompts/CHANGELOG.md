@@ -27,3 +27,16 @@ form (what gets exact numbers vs vagueness, who is the grammatical subject, what
 - Synthesis: five lenses (recurrence, stated-vs-lived, form across stories, absences, compounding); 8-12 insights to recover some of v0's volume-driven recall; no uncovered absolutes.
 - Delivery: names the narrator's framing where it differs; states falsifier and prediction.
 Score effect (pooled re-score, set 5b4b1cb0, v0=24% / v1=75%): depth≥3 **79%** (+4 vs v1, within judge noise), mean depth 2.87 (+0.11), depth-4 count 12 vs 3, grounded **100%** (+32), hit recall 52% (−6), hit share 38% (−14), FP 4% (+4), $0.185/exp (+28%). Read: the form layer earns depth-4s and full grounding but its standalone form/absence claims match the planted truths less often and let a few unsupported claims through; synthesis has no critic after it.
+
+## v3 — mechanism-first synthesis, form/absence demoted to evidence, cross-experience critic
+Driven by the v2 kind breakdown: `recurrence` insights scored 87% deep / 46% hits / 0% FP, while standalone `absence`
+(8% hits, 15% FP) and `form` (31% hits, 8% FP) claims produced every false positive, each via an unverified universal
+("every woman", "never names a want", "only at vindication") or a manufactured axis (gendered splits).
+- Extraction, interpretation and single-experience critic unchanged from v2.
+- Synthesis now proposes 12-16 mechanism candidates: what a recurring behaviour does for the speaker vs what they say it is for.
+  Form and absence observations may only support a mechanism claim. Any quantified claim carries a per-experience check and
+  every candidate names its strongest counterexample.
+- New stage: cross-experience critic (quantifier check, counterexample, corpus-level own-thesis, manufactured-axis, function test,
+  detail check, parsimony on assumed hidden feelings, dedupe, coverage) cuts to 8-10.
+- Delivery states the function and the counterexample.
+Score effect: pending.

@@ -24,7 +24,7 @@ from typing import List
 
 from .corpus import Experience, find_quote
 from .llm import LLM
-from .prompts import fill, framework_brief, load_framework, load_prompt
+from .prompts import PROMPTS_DIR, fill, framework_brief, load_framework, load_prompt
 
 VALID_CATEGORIES = {"core_values", "zone_of_genius", "defining_beliefs", "patterns_to_explore"}
 
@@ -106,16 +106,28 @@ class Pipeline:
         syn = self.llm.complete_json(self.model, fill(p_syn["system"], framework=self.fw_brief),
                                 fill(p_syn["user"], transcripts=all_transcripts, survivors={"survivors": survivors},
                                      n=str(len(corpus))), max_tokens=8000, tag=f"{self.tag_prefix}:synthesis", sink=self._sink)
-        syn_items = syn.get("insights", [])
+        syn_items = syn.get("insights") or syn.get("candidates", [])
         if grounding_gate:
             syn_items, dropped = self._ground_filter(syn_items, corpus)
             syn["_dropped_ungrounded"] = dropped
+
+        # v3+: a cross-experience critic verifies synthesis candidates against the whole corpus before delivery.
+        cross = None
+        if (PROMPTS_DIR / g / "cross_critic.md").exists():
+            p_x = load_prompt(g, "cross_critic")
+            cross = self.llm.complete_json(self.model, fill(p_x["system"], framework=self.fw_brief),
+                                           fill(p_x["user"], transcripts=all_transcripts, candidates={"candidates": syn_items}),
+                                           max_tokens=8000, tag=f"{self.tag_prefix}:cross_critic", sink=self._sink)
+            syn_items = cross.get("insights", syn_items)
+            if grounding_gate:
+                syn_items, dropped = self._ground_filter(syn_items, corpus)
+                cross["_dropped_ungrounded"] = dropped
 
         deliv = self.llm.complete_json(self.model, p_del["system"],
                                   fill(p_del["user"], insights={"insights": syn_items}, transcripts=all_transcripts),
                                   max_tokens=8000, tag=f"{self.tag_prefix}:delivery", sink=self._sink)
         final = deliv.get("insights", syn_items)
-        return {"insights": final, "stages": {"per_experience": stage_out, "synthesis": syn, "delivery": deliv}}
+        return {"insights": final, "stages": {"per_experience": stage_out, "synthesis": syn, "cross_critic": cross, "delivery": deliv}}
 
     # ------------------------------------------------------------------ helpers
     @staticmethod
