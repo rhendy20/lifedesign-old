@@ -1,0 +1,3239 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "patterns_to_explore",
+      "headline": "He becomes calm and competent only when performing unrequested physical labor for strangers, across at least three separate settings.",
+      "explanation": "In E1 he stacks chairs with the hotel staff unasked and reports his \"whole body was calm\" versus the hand-pressing anxiety of the interview itself. In E4 he grabs the end of a stranger's futon unasked (\"I went over and grabbed the other end\") and the same relief shows up minutes later sitting on his own bed. In E3, two years of unglamorous physical tasks (laminating, collating) in Bagwell's room is remembered as \"the calmest I've been.\" The common trigger is not rest or achievement but a specific kind of low-stakes, wordless, useful labor done alongside or for someone who didn't ask for it.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I felt way better doing that than I felt in the whole interview. Like my whole body was calm.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "And I went over and grabbed the other end of the futon.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "Nothing happened for two years and it was the calmest I've been.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Health and Wellness (Energy and flow): given a free unstructured afternoon, he will seek out a physical task to do for someone else (moving something, fixing something) rather than choosing leisure or rest.",
+      "source_exp": null
+    },
+    {
+      "id": "i2",
+      "category": "defining_beliefs",
+      "headline": "He says he is bad at emotional presence (\"I'm not that good at that part\") but the corpus shows he substitutes competent action for presence, successfully, in every crisis.",
+      "explanation": "In E2 he explicitly names the gap: when Cami wants company he says \"nah I'm good\" and then just stands there, or fixes an already-fine blanket. But the same story shows he is the one who manages triage translation, tracks the insurance folder color, and calms his mother by controlling what information reaches her. In E4 the pattern repeats: he cannot sit with his own relief (\"immediately I was like, what is wrong with you\") and instead unpacks in twenty minutes. The self-report of deficiency (\"not that good at that part\") describes stillness with a conscious person; the lived pattern is that he is highly skilled at a different kind of care - logistics-as-love - and treats it as not counting.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I'll be like 'nah I'm good' and then I'll just be standing there. And then I'll go fix her blanket even though the blanket is fine.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Relationships (Marriage and partnership): in a future close relationship, when a partner is upset and wants only company, he will default to doing something practical for them rather than staying seated with the discomfort, then later describe himself as not good at 'that part.'",
+      "source_exp": null
+    },
+    {
+      "id": "i3",
+      "category": "patterns_to_explore",
+      "headline": "He controls what family members hear by translating truth down to a smaller, calmer version of itself, in both a hospital and a scholarship interview.",
+      "explanation": "In E2 he tells the ER doctor's warning (\"this is the kind of thing that can get away from us\") to his mother as merely \"para observación nada más, para vigilarla\" - true but curated. In E1 he gives the scholarship panel a similarly curated, smaller version of his sister's condition (\"she's good, she's a sophomore, she's doing great\") while omitting the swelling ankles from the week before. In both cases the compression is defended internally as technically true (\"That's a true sentence... it's just not the whole thing\" / \"It wasn't like— it's not a lie\"), suggesting a consistent operating rule: manage others' distress by filtering severity, not by lying outright.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "dice que la quieren dejar para observación nada más, para vigilarla.",
+          "verbatim": true
+        },
+        {
+          "exp": 1,
+          "quote": "'she's good, she's a sophomore, she's doing great.' Which she was, at that time, mostly.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Relationships (Communication and conflict): when delivering bad news to his mother or Cami in the future (e.g., about his own finances, health, or a setback at college), he will default to a technically-true, softened version rather than full disclosure.",
+      "source_exp": null
+    },
+    {
+      "id": "i4",
+      "category": "patterns_to_explore",
+      "headline": "He gives numeric, checkable precision to money and small objects but only ever vague, relative language for his own emotional or physical state.",
+      "explanation": "Across experiences he supplies exact figures for parking ($12), scholarship terms ($4,000/year, 3.0 GPA), bus routes (65, 35 minutes), vending machine prices ($1.75), and cash gifts ($100 in twenties, $80 left) — but his internal states are rendered only as hedged approximations: \"not homesick exactly,\" \"I didn't know what I was for,\" \"kind of itchy.\" This is not a general precision deficit (he is capable of exactness) but a selective one: numbers attach to the external and transactional, vagueness to the internal.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "it was more like I didn't know what I was for?",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Personal Growth (Mindset and limiting beliefs): if asked to keep a mood or energy log for a week, he will produce sparse, hedged entries compared to detailed entries he'd produce for a spending or task log.",
+      "source_exp": null
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "Adults who ask him nothing and demand nothing get named, dated, and detailed; adults who praise him directly are rendered as a source of discomfort with almost no specific content.",
+      "explanation": "Bagwell (E3) receives extraordinary texture - his mug, knee, sandwich, laminator technique, all preserved in exact recall over two years of near-silence. By contrast, the college readiness lady who praises him \"in front of people\" and the panelist who says \"you carry a lot\" (E1) are given almost no physical description and provoke immediate deflection or itchiness. The pattern suggests his richest attention and memory go to people who make no emotional claim on him, while people who make a positive emotional claim are the ones he moves away from fastest, in both narration and behavior.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "'you carry a lot for someone your age,' and I— I remember I went, 'oh, it's fine, the bus from my house is only like thirty-five minutes'",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Relationships (Friendships and community): in describing a mentor or friend who is openly affirming toward him, he will supply fewer concrete sensory details than he does for people who relate to him through shared tasks or silence.",
+      "source_exp": null
+    },
+    {
+      "id": "i6",
+      "category": "defining_beliefs",
+      "headline": "Across four experiences spanning three years, his sense of personal worth attaches to being useful to his family's survival, not to his own achievement — and college has not changed this.",
+      "explanation": "E1 and E2 alone could show a teenager managing a family crisis under pressure. But E4, dated three years after E2 and weeks into his own independent life, shows the identical structure persisting after the acute caregiving need has largely relaxed (Cami is \"stable\"): his first words on a weekly call are still \"how were Cami's numbers,\" prompting his mother to explicitly correct the ordering (\"hola primero, Elmer\"). This is what E4 adds that E1-E3 could not: evidence that the caretaking role is not a response to an active emergency but a stable identity structure that has outlasted the emergency and traveled with him into a context (college) built around his own individual advancement.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "And the first thing I ask, every time, before anything, is how were Cami's numbers.",
+          "verbatim": true
+        },
+        {
+          "exp": 2,
+          "quote": "you kind of just become the person who knows where stuff is.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Work and Career (Career direction): his stated career reasoning will continue to reference logistics/being-useful-to-a-system framing (as in E2's supply chain answer) rather than personal ambition or interest, even as he gains more autonomy and distance from home.",
+      "source_exp": null
+    },
+    {
+      "id": "i7",
+      "category": "patterns_to_explore",
+      "headline": "Physical affection or approval from his father is only ever reported as displaced onto an object or a job-related judgment, never as direct address.",
+      "explanation": "In E1, his father's send-off is professional imperative delivered from a truck (\"tú diles la verdad y ya\") before leaving for a job. In E4, pride is expressed by criticizing the building's countertop joints, followed by a wordless hand on the neck: \"he said the joints were bad and then he put his hand on my neck for like a second... that's how he said he was proud of me, I think.\" In both cases the son is left to interpret indirect, trade-inflected signals as love, and states this interpretive labor explicitly (\"I think\").",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "he said the joints were bad and then he put his hand on my neck for like a second.",
+          "verbatim": true
+        },
+        {
+          "exp": 1,
+          "quote": "he goes 'tú diles la verdad y ya,' like just tell them the truth and that's it.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Relationships (Family and parenting): if he becomes a parent, he is likely to default to task-based or indirect expressions of pride/approval toward his own children rather than direct verbal affirmation, unless he consciously interrupts the pattern.",
+      "source_exp": null
+    },
+    {
+      "id": "i8",
+      "category": "patterns_to_explore",
+      "headline": "Across four detailed experiences involving money, none contains him spending on himself by choice, and one shows him actively declining to.",
+      "explanation": "He tracks a $12 parking fee he didn't need to spend, a $1.75 vending machine purchase for his mother, a $4,000/year scholarship, and a $100 gift from his father of which he still has $80 sitting untouched in a tub. In E4 he explicitly notes he \"had actually wanted to buy new ones with the dining hall money\" (sheets) but his mother's gesture preempted it, and he does not return to that want. Given four separate money-adjacent scenes, the total absence of a scene where he spends discretionary money on his own comfort or desire is notable rather than incidental.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "I still have eighty of it because I'm not— I don't know, I keep it in the tub.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I had actually wanted to buy new ones with the dining hall money but she'd already washed those and folded them in the tub.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Work and Career (Finances and stewardship): a review of his actual spending over his first semester will show minimal or no discretionary self-directed purchases relative to income, and money received as gifts will remain unspent significantly longer than typical for his peer group.",
+      "source_exp": null
+    },
+    {
+      "id": "i9",
+      "category": "patterns_to_explore",
+      "headline": "He is grammatically the subject when performing labor or managing others, and grammatically passive or absent when something is done for him.",
+      "explanation": "Active-voice, agentive sentences cluster around caretaking and labor: \"I went and got a Dr Pepper,\" \"I got good at the laminator,\" \"I went over and grabbed the other end of the futon.\" But moments where he is cared for shift to passive construction or center someone else as subject: \"my mom made the bed... and she smoothed it like eight times\" and \"they validated it\" (referring to parking, a benefit given to him). He narrates being the object of care with someone else as the active subject, even when the scene is literally about care directed at him.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "parking was twelve dollars but they validated it",
+          "verbatim": true
+        }
+      ],
+      "confidence": "low",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Health and Wellness (Rest and recreation): when describing any future instance of being cared for (e.g., sick, tutored, mentored), he will foreground the other person's actions and minimize or omit his own experience of receiving.",
+      "source_exp": null
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "The event occurred March of senior year of high school, 2025."
+            },
+            {
+              "line": "L3",
+              "what_happened": "The interview was for a foundation scholarship that selects about twenty kids a year in Houston."
+            },
+            {
+              "line": "L4",
+              "what_happened": "The interview took place downtown in a hotel conference room off the lobby."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Parking cost twelve dollars and was validated per the foundation's email, but speaker brought twelve dollars cash as backup."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker's dad dropped them off and did not come inside."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Dad had to go to a countertop installation job in Katy."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Dad said, from the truck, \"tú diles la verdad y ya\" (tell them the truth and that's it)."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker was asked the challenge question during the interview."
+            },
+            {
+              "line": "L15-16",
+              "what_happened": "The answer was about speaker's sister getting sick and speaker helping out at home."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker told the panel: \"she got diagnosed, it was hard, I learned time management.\""
+            },
+            {
+              "line": "L22",
+              "what_happened": "A panelist asked how the sister is doing now; speaker answered \"she's good, she's a sophomore, she's doing great.\""
+            },
+            {
+              "line": "L23",
+              "what_happened": "The week before the interview, sister's ankles were swelling again and mother was not sleeping, cleaning the kitchen at 1am."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker did not mention the ankle swelling or mother's behavior in the interview."
+            },
+            {
+              "line": "L30",
+              "what_happened": "The panelist with glasses said \"you carry a lot for someone your age\"; speaker responded by describing the 35-minute bus ride."
+            },
+            {
+              "line": "L34",
+              "what_happened": "After the interview, a hotel employee was stacking about ten chairs; speaker joined in without being asked."
+            },
+            {
+              "line": "L36",
+              "what_happened": "The panelist with glasses told speaker they didn't have to stack chairs; speaker said \"no it's okay\" and continued."
+            },
+            {
+              "line": "L40",
+              "what_happened": "During the interview, speaker's hands were pressing on their legs repeatedly."
+            },
+            {
+              "line": "L42-43",
+              "what_happened": "Speaker received the scholarship: $4,000/year, renewable, requires maintaining a 3.0 GPA and submitting a form in April."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Upon reading the acceptance email, speaker's first thought was that the foundation would discover something and revoke the scholarship, specifically that dad earned more in a year with a big job and the family would exceed the income cutoff."
+            },
+            {
+              "line": "L45-46",
+              "what_happened": "Speaker looked up the income cutoff again at eleven at night."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Speaker has the income cutoff information saved."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Mother cried, called a relative (tía) in San Miguel on video, and had speaker say \"cuatro mil\" (four thousand) out loud in Spanish, twice."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L6",
+              "choice_made": "Brought twelve dollars cash despite being told parking would be validated",
+              "alternatives_present_in_text": "Trusting the email's validation promise without backup cash"
+            },
+            {
+              "line": "L19",
+              "choice_made": "Gave a rehearsed, \"clean\" version of the sister's illness story ending in \"I learned time management\"",
+              "alternatives_present_in_text": "Could have given an unrehearsed or more detailed account"
+            },
+            {
+              "line": "L24",
+              "choice_made": "Omitted the recent detail about sister's swelling ankles and mother's sleeplessness",
+              "alternatives_present_in_text": "Could have mentioned the more recent, harder detail (explicitly named as not-said in L23-24)"
+            },
+            {
+              "line": "L30",
+              "choice_made": "Responded to panelist's empathetic comment by discussing the bus route instead",
+              "alternatives_present_in_text": "Could have responded directly to the comment about carrying a lot"
+            },
+            {
+              "line": "L34-36",
+              "choice_made": "Joined the hotel worker in stacking chairs and continued despite being told it wasn't necessary",
+              "alternatives_present_in_text": "Could have stopped when the panelist said \"you don't have to do that\""
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L27",
+              "quote": "It's just I didn't want it to be, like, wet?"
+            },
+            {
+              "line": "L28",
+              "quote": "Like I didn't want them looking at me a certain way."
+            }
+          ],
+          "narrator_explanations": [
+            {
+              "line": "L6",
+              "quote": "because like, what if the guy at the booth doesn't take the ticket, you know?",
+              "explains": "bringing backup cash despite validation"
+            },
+            {
+              "line": "L25",
+              "quote": "I don't know why I didn't say that.",
+              "explains": "omitting the detail about sister's ankles/mother's sleeplessness"
+            },
+            {
+              "line": "L26-27",
+              "quote": "It wasn't like— it's not a lie. It's just I didn't want it to be, like, wet?",
+              "explains": "giving the \"clean\" version instead of the harder truth"
+            },
+            {
+              "line": "L35",
+              "quote": "Like without thinking.",
+              "explains": "joining the chair-stacking"
+            },
+            {
+              "line": "L51",
+              "quote": "I don't know why that stuck.",
+              "explains": "remembering the carpet"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L38",
+              "quote": "I felt way better doing that than I felt in the whole interview."
+            },
+            {
+              "line": "L39",
+              "quote": "Like my whole body was calm."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "time management",
+              "lines": [
+                "L19",
+                "L20",
+                "L21"
+              ]
+            },
+            {
+              "phrase": "the carpet",
+              "lines": [
+                "L4",
+                "L5",
+                "L50",
+                "L51"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L25",
+                "L37"
+              ]
+            }
+          ],
+          "precision_asymmetry": [
+            {
+              "line": "L6",
+              "quote": "parking was twelve dollars but they validated it",
+              "exact_or_vague": "exact",
+              "topic": "parking cost"
+            },
+            {
+              "line": "L9",
+              "quote": "he installs countertops, granite and quartz",
+              "exact_or_vague": "exact",
+              "topic": "dad's occupation/materials"
+            },
+            {
+              "line": "L30",
+              "quote": "the bus from my house is only like thirty-five minutes",
+              "exact_or_vague": "exact",
+              "topic": "bus commute time"
+            },
+            {
+              "line": "L30",
+              "quote": "the 65 bus",
+              "exact_or_vague": "exact",
+              "topic": "bus route number"
+            },
+            {
+              "line": "L43",
+              "quote": "Four thousand a year, renewable, you have to keep a 3.0 and send a form in April",
+              "exact_or_vague": "exact",
+              "topic": "scholarship terms"
+            },
+            {
+              "line": "L46",
+              "quote": "at eleven at night",
+              "exact_or_vague": "exact",
+              "topic": "time of checking income cutoff"
+            },
+            {
+              "line": "L34",
+              "quote": "there were maybe ten chairs",
+              "exact_or_vague": "exact",
+              "topic": "number of chairs"
+            },
+            {
+              "line": "L3",
+              "quote": "I don't want to say the name but it's like a foundation, they do like twenty kids a year",
+              "exact_or_vague": "vague",
+              "topic": "foundation's identity"
+            },
+            {
+              "line": "L16",
+              "quote": "About her getting sick and stuff",
+              "exact_or_vague": "vague",
+              "topic": "sister's illness/diagnosis"
+            },
+            {
+              "line": "L23",
+              "quote": "she'd had a thing where her ankles were swelling again",
+              "exact_or_vague": "vague",
+              "topic": "sister's medical condition"
+            },
+            {
+              "line": "L49",
+              "quote": "That's basically the whole thing.",
+              "exact_or_vague": "vague",
+              "topic": "summary of entire event"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L34",
+              "quote": "I just started doing it with him",
+              "actor": "speaker",
+              "note": "speaker initiates chair-stacking, active"
+            },
+            {
+              "line": "L42",
+              "quote": "I got it.",
+              "actor": "speaker",
+              "note": "speaker stated as recipient/agent of scholarship result"
+            },
+            {
+              "line": "L44",
+              "quote": "they're gonna find out something and take it back",
+              "actor": "unnamed \"they\" (foundation)",
+              "note": "foundation cast as active threat, speaker passive/potential victim"
+            },
+            {
+              "line": "L48",
+              "quote": "made me say the number out loud in Spanish",
+              "actor": "mother",
+              "note": "mother directs speaker's action"
+            },
+            {
+              "line": "L10",
+              "quote": "he goes 'tú diles la verdad y ya'",
+              "actor": "dad",
+              "note": "dad instructs from the truck, not present for interview itself"
+            },
+            {
+              "line": "L36",
+              "quote": "the lady with the glasses came out and saw me stacking chairs",
+              "actor": "panelist",
+              "note": "panelist as observer of speaker's unprompted action"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "carpet/physical setting details (parking, chairs, carpet)",
+              "treatment": "rich",
+              "lines": [
+                "L4",
+                "L5",
+                "L6",
+                "L34",
+                "L50"
+              ]
+            },
+            {
+              "topic_or_person": "sister's actual current condition (ankles swelling, mother not sleeping)",
+              "treatment": "flat",
+              "lines": [
+                "L23",
+                "L24"
+              ]
+            },
+            {
+              "topic_or_person": "the challenge question answer itself (content of the story told)",
+              "treatment": "flat",
+              "lines": [
+                "L16",
+                "L19"
+              ]
+            },
+            {
+              "topic_or_person": "chair-stacking scene",
+              "treatment": "rich",
+              "lines": [
+                "L34",
+                "L35",
+                "L36",
+                "L38",
+                "L39"
+              ]
+            },
+            {
+              "topic_or_person": "scholarship financial terms",
+              "treatment": "rich",
+              "lines": [
+                "L43",
+                "L44",
+                "L45",
+                "L46",
+                "L47"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "Content of what speaker actually wanted or felt going into the interview",
+              "note": "Speaker describes preparation and logistics but not own hopes or goals for the scholarship."
+            },
+            {
+              "expected": "Sister's own perspective or voice",
+              "note": "Sister is discussed only through speaker's summary; no direct quote or scene with her."
+            },
+            {
+              "expected": "Dad's reaction to the outcome (scholarship award)",
+              "note": "Dad appears only in L8-L10 (drop-off) and is not mentioned again after L44's reference to his income."
+            },
+            {
+              "expected": "Direct statement of what receiving the scholarship meant or felt like emotionally",
+              "note": "L42-L48 describes logistics, a fear-based thought, and mother's reaction, without speaker naming their own feeling about winning."
+            },
+            {
+              "expected": "Resolution or reflection on the fear stated in L44 (that it would be taken back)",
+              "note": "The fear is stated and then narrative moves to L45-48 without follow-up on whether/how the fear resolved."
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L11",
+              "quote": "And I said okay.",
+              "note": "One-clause response to dad's instruction, no elaboration."
+            },
+            {
+              "line": "L32",
+              "quote": "And then they kind of laughed and I laughed and that was the interview.",
+              "note": "End of interview compressed into one sentence."
+            },
+            {
+              "line": "L49",
+              "quote": "That's basically the whole thing.",
+              "note": "Entire scholarship outcome/aftermath summarized in one line before returning to the carpet detail."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Dad",
+              "lines": [
+                "L8",
+                "L9",
+                "L10",
+                "L44"
+              ],
+              "what_they_did": "Dropped speaker off, did not come inside, left for a job in Katy, told speaker to tell the truth; referenced later regarding income that speaker fears could disqualify the family."
+            },
+            {
+              "who": "Panel members (lady with glasses, guy on left)",
+              "lines": [
+                "L22",
+                "L30",
+                "L36"
+              ],
+              "what_they_did": "Asked follow-up questions, made an empathetic comment, observed and commented on speaker stacking chairs."
+            },
+            {
+              "who": "Sister",
+              "lines": [
+                "L15",
+                "L16",
+                "L22",
+                "L23"
+              ],
+              "what_they_did": "Got sick/diagnosed in the past; currently a sophomore; had ankle swelling the week before the interview."
+            },
+            {
+              "who": "Mother",
+              "lines": [
+                "L23",
+                "L48"
+              ],
+              "what_they_did": "Did not sleep and cleaned the kitchen at 1am the week before the interview; cried and called a relative on video after the scholarship email, had speaker repeat the amount in Spanish."
+            },
+            {
+              "who": "Tía in San Miguel",
+              "lines": [
+                "L48"
+              ],
+              "what_they_did": "Was called on video by mother to hear the news."
+            },
+            {
+              "who": "Hotel worker",
+              "lines": [
+                "L34"
+              ],
+              "what_they_did": "Was stacking chairs after the interview; speaker joined him."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "patterns_to_explore",
+              "kind": "asymmetry",
+              "headline": "This person gives precise, load-bearing detail to logistics and objects, and flattens the emotional core of their own story into vague, sanitized summary.",
+              "explanation": "Parking cost, bus route number, chair count, and scholarship terms are all rendered exactly, while the sister's actual current medical state and the interview answer's content are compressed into vague phrases like \"getting sick and stuff\" and \"a thing where her ankles were swelling.\" The narrator frames this as not wanting to seem \"wet,\" but the same flattening happens even now, alone, in a low-stakes retelling with no panel watching - suggesting the precision gap is a durable habit of attention, not just interview-day performance.",
+              "narrator_frame": "\"It's just I didn't want it to be, like, wet? Like I didn't want them looking at me a certain way.\"",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "she'd had a thing where her ankles were swelling again"
+                },
+                {
+                  "exp": 1,
+                  "line": "L6",
+                  "quote": "parking was twelve dollars but they validated it"
+                },
+                {
+                  "exp": 1,
+                  "line": "L43",
+                  "quote": "Four thousand a year, renewable, you have to keep a 3.0"
+                }
+              ],
+              "falsifier": "If the speaker had given the ankle-swelling and mother's sleeplessness detail with the same specificity as the parking or bus numbers even in this private retelling, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness (Mental and emotional health): when asked directly how they are doing, this person will answer with a logistical or factual detail (a schedule, a number, a task) rather than naming an internal state."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "form",
+              "headline": "When someone names this person's burden directly, they redirect to a neutral fact instead of confirming or denying it - and it happens even when they are the one narrating, decades of remove aside.",
+              "explanation": "The panelist's \"you carry a lot for someone your age\" is met with bus-route trivia (L30-31), and the narrator flags this themselves as non-sequitur (\"which has nothing to do with anything\"). The less flattering alternative to \"I didn't know what to say\" is that deflection onto a fact is the practiced move whenever the weight of the sister/family situation is named aloud by someone else - the speaker controls what gets acknowledged by changing the subject to something measurable.",
+              "narrator_frame": "\"Which has nothing to do with anything. She was saying a nice thing and I started talking about the 65 bus.\"",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "'you carry a lot for someone your age,' and I— I remember I went, 'oh, it's fine, the bus from my house is only like thirty-five minutes'"
+                }
+              ],
+              "falsifier": "If the speaker had responded to the panelist's comment with a direct emotional acknowledgment (e.g., 'yeah, it's been hard'), this deflection pattern would not be supported.",
+              "confidence": "medium",
+              "would_predict": "Relationships (Communication and conflict): when a friend or partner directly names this person's stress or sacrifice in conversation, they will respond with a logistical fact or change of subject rather than an emotional acknowledgment."
+            },
+            {
+              "category": "defining_beliefs",
+              "kind": "content",
+              "headline": "This person operates as though good outcomes are provisional and subject to being taken back once the full facts are known.",
+              "explanation": "The first response to winning the scholarship was not relief or pride but a specific fear that the family's income would be found to exceed a cutoff (L44), followed by looking up the cutoff at 11pm and saving it (L45-47) - actions of someone checking whether they are still eligible for something already awarded. The alternative reading, that this is just ordinary scholarship-terms diligence, doesn't fit the timing (before any renewal is due) or the content (fear of disqualification, not fear of failing to maintain the GPA requirement that was actually stated in the letter).",
+              "narrator_frame": "none - speaker reports the thought and the late-night search but does not comment on why he thinks this way",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "my first thought was 'they're gonna find out something and take it back'"
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "I actually went and looked up the income cutoff again"
+                },
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "Like at eleven at night."
+                }
+              ],
+              "falsifier": "If the speaker's first reaction to the award had been forward-looking (e.g., planning how to spend it or celebrating) with no mention of disqualification risk, this belief would not be supported.",
+              "confidence": "high",
+              "would_predict": "Work and Career (Finances and stewardship): when this person receives a raise, award, or unexpected financial gain, they will first check whether they actually qualify or whether it was an error, before acting on it."
+            },
+            {
+              "category": "zone_of_genius",
+              "kind": "content",
+              "headline": "This person's body and attention settle into ease specifically during unglamorous, useful physical labor that no one assigned them - and this is sharply distinguished from performance settings where they are being evaluated.",
+              "explanation": "The chair-stacking is described with more bodily and emotional specificity (\"my whole body was calm\") than the entire interview, and the speaker persisted even after being told it was unnecessary (L36), which rules out the simple explanation of just following an instruction - this was self-selected. The interview, by contrast, produced physical tension (hands pressing on legs, L40), so the calm is not general social ease but something specific to unprompted, useful, low-stakes physical work.",
+              "narrator_frame": "\"I felt way better doing that than I felt in the whole interview... my whole body was calm.\"",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "I just started doing it with him. Like without thinking."
+                },
+                {
+                  "exp": 1,
+                  "line": "L36",
+                  "quote": "'oh you don't have to do that' and I said 'no it's okay' and I kept doing it"
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "In the interview my hands were doing this thing where I kept pressing them on my legs."
+                }
+              ],
+              "falsifier": "If the speaker reported the same calm and ease while being directly evaluated or praised, rather than specifically during unassigned physical work, this distinction would not hold.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness (Energy and flow): this person will report feeling most relaxed or 'in flow' during tasks like cleaning, setup, or manual work done alongside others, rather than during recognition-based or performance-based activities, even when those activities go well."
+            }
+          ],
+          "_dropped_ungrounded": []
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "kind": "asymmetry",
+              "headline": "Precise, load-bearing detail goes to logistics and objects; the emotional core of their own story gets flattened into vague, sanitized summary.",
+              "explanation": "Parking cost, bus route number, chair count, and scholarship terms are all rendered exactly, while the sister's actual current medical state and the interview answer's content are compressed into vague phrases like \"getting sick and stuff\" and \"a thing where her ankles were swelling.\" The narrator frames this as not wanting to seem \"wet,\" but the same flattening happens even now, alone, in a low-stakes retelling with no panel watching - suggesting the precision gap is a durable habit of attention, not just interview-day performance.",
+              "narrator_frame": "\"It's just I didn't want it to be, like, wet? Like I didn't want them looking at me a certain way.\"",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "she'd had a thing where her ankles were swelling again"
+                },
+                {
+                  "exp": 1,
+                  "line": "L6",
+                  "quote": "parking was twelve dollars but they validated it"
+                },
+                {
+                  "exp": 1,
+                  "line": "L43",
+                  "quote": "Four thousand a year, renewable, you have to keep a 3.0"
+                }
+              ],
+              "falsifier": "If the speaker had given the ankle-swelling and mother's sleeplessness detail with the same specificity as the parking or bus numbers even in this private retelling, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness (Mental and emotional health): when asked directly how they are doing, this person will answer with a logistical or factual detail (a schedule, a number, a task) rather than naming an internal state.",
+              "exp": 1
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "form",
+              "headline": "When someone names this person's burden directly, they redirect to a neutral, measurable fact instead of confirming or denying it.",
+              "explanation": "The panelist's \"you carry a lot for someone your age\" is met with bus-route trivia (L30-31), and the narrator flags this themselves as non-sequitur (\"which has nothing to do with anything\"). The less flattering alternative to \"I didn't know what to say\" is that deflection onto a fact is the practiced move whenever the weight of the family situation is named aloud by someone else - the speaker controls what gets acknowledged by changing the subject to something measurable.",
+              "narrator_frame": "\"Which has nothing to do with anything. She was saying a nice thing and I started talking about the 65 bus.\"",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "'you carry a lot for someone your age,' and I— I remember I went, 'oh, it's fine, the bus from my house is only like thirty-five minutes'"
+                }
+              ],
+              "falsifier": "If the speaker had responded to the panelist's comment with a direct emotional acknowledgment (e.g., 'yeah, it's been hard'), this deflection pattern would not be supported.",
+              "confidence": "medium",
+              "would_predict": "Relationships (Communication and conflict): when a friend or partner directly names this person's stress or sacrifice in conversation, they will respond with a logistical fact or change of subject rather than an emotional acknowledgment.",
+              "exp": 1
+            },
+            {
+              "category": "defining_beliefs",
+              "kind": "content",
+              "headline": "This person treats good outcomes as provisional, expecting them to be revoked once the full facts are known.",
+              "explanation": "The first response to winning the scholarship was not relief or pride but a specific fear that the family's income would be found to exceed a cutoff (L44), followed by looking up the cutoff at 11pm and saving it (L45-47) - actions of someone checking whether they are still eligible for something already awarded. The alternative reading, that this is just ordinary scholarship-terms diligence, doesn't fit the timing (before any renewal is due) or the content (fear of disqualification, not fear of failing to maintain the GPA requirement that was actually stated in the letter).",
+              "narrator_frame": "none - speaker reports the thought and the late-night search but does not comment on why he thinks this way",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "my first thought was 'they're gonna find out something and take it back'"
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "I actually went and looked up the income cutoff again"
+                },
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "Like at eleven at night."
+                }
+              ],
+              "falsifier": "If the speaker's first reaction to the award had been forward-looking (e.g., planning how to spend it or celebrating) with no mention of disqualification risk, this belief would not be supported.",
+              "confidence": "high",
+              "would_predict": "Work and Career (Finances and stewardship): when this person receives a raise, award, or unexpected financial gain, they will first check whether they actually qualify or whether it was an error, before acting on it.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "This person's body and attention settle into ease specifically during unglamorous, useful physical labor that no one assigned them.",
+              "test": "PRAISE",
+              "note": "Frames a strength/genius with no stated cost or limit noticed by the speaker beyond simple contrast with interview stress; reads as flattering characterization without the required tension of cost, and overlaps substantially with the first surviving asymmetry candidate's evidence (chair-stacking vs. interview) - duplicate ground, weaker version."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "kind": "asymmetry",
+            "headline": "Precise, load-bearing detail goes to logistics and objects; the emotional core of their own story gets flattened into vague, sanitized summary.",
+            "explanation": "Parking cost, bus route number, chair count, and scholarship terms are all rendered exactly, while the sister's actual current medical state and the interview answer's content are compressed into vague phrases like \"getting sick and stuff\" and \"a thing where her ankles were swelling.\" The narrator frames this as not wanting to seem \"wet,\" but the same flattening happens even now, alone, in a low-stakes retelling with no panel watching - suggesting the precision gap is a durable habit of attention, not just interview-day performance.",
+            "narrator_frame": "\"It's just I didn't want it to be, like, wet? Like I didn't want them looking at me a certain way.\"",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L23",
+                "quote": "she'd had a thing where her ankles were swelling again"
+              },
+              {
+                "exp": 1,
+                "line": "L6",
+                "quote": "parking was twelve dollars but they validated it"
+              },
+              {
+                "exp": 1,
+                "line": "L43",
+                "quote": "Four thousand a year, renewable, you have to keep a 3.0"
+              }
+            ],
+            "falsifier": "If the speaker had given the ankle-swelling and mother's sleeplessness detail with the same specificity as the parking or bus numbers even in this private retelling, this pattern would not hold.",
+            "confidence": "medium",
+            "would_predict": "Health and Wellness (Mental and emotional health): when asked directly how they are doing, this person will answer with a logistical or factual detail (a schedule, a number, a task) rather than naming an internal state.",
+            "exp": 1
+          },
+          {
+            "category": "patterns_to_explore",
+            "kind": "form",
+            "headline": "When someone names this person's burden directly, they redirect to a neutral, measurable fact instead of confirming or denying it.",
+            "explanation": "The panelist's \"you carry a lot for someone your age\" is met with bus-route trivia (L30-31), and the narrator flags this themselves as non-sequitur (\"which has nothing to do with anything\"). The less flattering alternative to \"I didn't know what to say\" is that deflection onto a fact is the practiced move whenever the weight of the family situation is named aloud by someone else - the speaker controls what gets acknowledged by changing the subject to something measurable.",
+            "narrator_frame": "\"Which has nothing to do with anything. She was saying a nice thing and I started talking about the 65 bus.\"",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L30",
+                "quote": "'you carry a lot for someone your age,' and I— I remember I went, 'oh, it's fine, the bus from my house is only like thirty-five minutes'"
+              }
+            ],
+            "falsifier": "If the speaker had responded to the panelist's comment with a direct emotional acknowledgment (e.g., 'yeah, it's been hard'), this deflection pattern would not be supported.",
+            "confidence": "medium",
+            "would_predict": "Relationships (Communication and conflict): when a friend or partner directly names this person's stress or sacrifice in conversation, they will respond with a logistical fact or change of subject rather than an emotional acknowledgment.",
+            "exp": 1
+          },
+          {
+            "category": "defining_beliefs",
+            "kind": "content",
+            "headline": "This person treats good outcomes as provisional, expecting them to be revoked once the full facts are known.",
+            "explanation": "The first response to winning the scholarship was not relief or pride but a specific fear that the family's income would be found to exceed a cutoff (L44), followed by looking up the cutoff at 11pm and saving it (L45-47) - actions of someone checking whether they are still eligible for something already awarded. The alternative reading, that this is just ordinary scholarship-terms diligence, doesn't fit the timing (before any renewal is due) or the content (fear of disqualification, not fear of failing to maintain the GPA requirement that was actually stated in the letter).",
+            "narrator_frame": "none - speaker reports the thought and the late-night search but does not comment on why he thinks this way",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L44",
+                "quote": "my first thought was 'they're gonna find out something and take it back'"
+              },
+              {
+                "exp": 1,
+                "line": "L45",
+                "quote": "I actually went and looked up the income cutoff again"
+              },
+              {
+                "exp": 1,
+                "line": "L46",
+                "quote": "Like at eleven at night."
+              }
+            ],
+            "falsifier": "If the speaker's first reaction to the award had been forward-looking (e.g., planning how to spend it or celebrating) with no mention of disqualification risk, this belief would not be supported.",
+            "confidence": "high",
+            "would_predict": "Work and Career (Finances and stewardship): when this person receives a raise, award, or unexpected financial gain, they will first check whether they actually qualify or whether it was an error, before acting on it.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker's sister has lupus."
+            },
+            {
+              "line": "L2",
+              "what_happened": "Sister was diagnosed at age eight; speaker was eleven at the time."
+            },
+            {
+              "line": "L6",
+              "what_happened": "During sophomore year, sister had a flare and elevated creatinine; they went to the ER at around 8pm; speaker's father was on a job in Conroe; speaker and mother went."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker states mother understands more English than she can speak."
+            },
+            {
+              "line": "L8",
+              "what_happened": "At triage, a staff member asked questions quickly, including about recent medication changes; mother looked at speaker."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker relayed the prednisone dose to the triage worker and relayed his questions to mother; mother added information in Spanish not related to the questions; speaker told the worker 'sí mami, ya se lo dije,' which was sometimes untrue."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker sometimes told the worker 'yeah I told him' without having done so, citing the length of the line."
+            },
+            {
+              "line": "L14",
+              "what_happened": "The waiting room had a TV bolted in the corner with muted news and captions running three words behind."
+            },
+            {
+              "line": "L15",
+              "what_happened": "The room was cold; speaker got mother a blanket from the nurse; mother fell asleep sitting up with her purse on her lap; speaker bought a Dr Pepper for $1.75 from a machine that only took one-dollar bills."
+            },
+            {
+              "line": "L16",
+              "what_happened": "The doctor came out around 2am and said they wanted to admit the sister to watch kidney function, possibly do a pulse of steroids, used the word 'nephritis,' and said 'this is the kind of thing that can get away from us'; mother woke and asked '¿qué dijo?'; speaker told her it was just for observation, to watch her."
+            },
+            {
+              "line": "L21",
+              "what_happened": "Mother said 'ah, okay,' made the sign of the cross, and relaxed."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker observed mother's shoulders go down."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker got mother a coffee she had not asked for."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker knows the location of a vending machine, where to park, and which folder (blue) contains the insurance card versus the red folder (father's truck stuff)."
+            },
+            {
+              "line": "L30",
+              "what_happened": "When sister is awake and tells speaker to go home, speaker says 'nah I'm good' and stays standing there."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker fixes sister's blanket even when it is fine."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Sister was hospitalized for six days that time."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Sister is currently described as 'okay-ish' and 'in remission-ish'; doctors use the term 'stable' rather than 'cured.'"
+            },
+            {
+              "line": "L36",
+              "what_happened": "Speaker is studying/working in supply chain."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L11",
+              "choice_made": "Told the triage worker 'ya se lo dije' (I already told her) when sometimes he hadn't",
+              "alternatives_present_in_text": "Could have fully relayed the mother's additions about Cami not eating dinner"
+            },
+            {
+              "line": "L12",
+              "choice_made": "Said 'yeah I told him' without doing so",
+              "alternatives_present_in_text": "Could have waited or actually conveyed the message; cites long line as reason"
+            },
+            {
+              "line": "L16",
+              "choice_made": "Told mother it was 'nada más para observación' (just for observation)",
+              "alternatives_present_in_text": "Could have included the doctor's fuller statement about nephritis and 'this is the kind of thing that can get away from us'"
+            },
+            {
+              "line": "L30",
+              "choice_made": "Stayed in the room saying 'nah I'm good' instead of going home",
+              "alternatives_present_in_text": "Sister told him he could go home"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L29",
+              "quote": "I'm not that good at that part?"
+            },
+            {
+              "line": "L38",
+              "quote": "stuff has to get places and somebody has to know where it is"
+            },
+            {
+              "line": "L40",
+              "quote": "That's not a deep answer."
+            },
+            {
+              "line": "L41",
+              "quote": "That's just the answer."
+            }
+          ],
+          "narrator_explanations": [
+            {
+              "line": "L12",
+              "quote": "Because the line was long.",
+              "explains": "why speaker sometimes told the worker 'yeah I told him' without actually doing so"
+            },
+            {
+              "line": "L18",
+              "quote": "Which is true.",
+              "explains": "justification for the partial translation given to mother"
+            },
+            {
+              "line": "L19",
+              "quote": "That's a true sentence.",
+              "explains": "further justification for the partial translation"
+            },
+            {
+              "line": "L27",
+              "quote": "you kind of just become the person who knows where stuff is",
+              "explains": "why speaker has detailed logistical knowledge"
+            },
+            {
+              "line": "L38",
+              "quote": "it's like, stuff has to get places and somebody has to know where it is",
+              "explains": "why speaker chose supply chain over medicine"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L23",
+              "quote": "I remember thinking, okay."
+            },
+            {
+              "line": "L24",
+              "quote": "Good."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "the blue folder / the blue one",
+              "lines": [
+                "L28"
+              ]
+            },
+            {
+              "phrase": "just for observation / to watch her",
+              "lines": [
+                "L16",
+                "L17"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L26",
+                "L39"
+              ]
+            }
+          ],
+          "precision_asymmetry": [
+            {
+              "line": "L15",
+              "quote": "a dollar seventy-five because the machine only took ones and I had ones",
+              "exact_or_vague": "exact",
+              "topic": "cost and mechanics of buying a Dr Pepper"
+            },
+            {
+              "line": "L16",
+              "quote": "around — it was late, like two?",
+              "exact_or_vague": "vague",
+              "topic": "time the doctor came out"
+            },
+            {
+              "line": "L28",
+              "quote": "you park in the garage across, not the valet",
+              "exact_or_vague": "exact",
+              "topic": "parking/logistics knowledge"
+            },
+            {
+              "line": "L33",
+              "quote": "She was in for six days that time.",
+              "exact_or_vague": "exact",
+              "topic": "hospitalization length"
+            },
+            {
+              "line": "L2",
+              "quote": "her kidneys sometimes and her joints and she gets these rashes and she gets tired",
+              "exact_or_vague": "vague",
+              "topic": "sister's medical symptoms overall"
+            },
+            {
+              "line": "L34",
+              "quote": "she's okay now, like, she's okay-ish, she's in remission-ish",
+              "exact_or_vague": "vague",
+              "topic": "sister's current health status"
+            },
+            {
+              "line": "L16",
+              "quote": "she said something like 'this is the kind of thing that can get away from us'",
+              "exact_or_vague": "vague",
+              "topic": "doctor's exact wording"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L6",
+              "quote": "they sent us to the ER",
+              "actor": "unnamed medical staff/system",
+              "note": "passive framing of decision to go to ER"
+            },
+            {
+              "line": "L8",
+              "quote": "there's a guy behind the glass, and he's going",
+              "actor": "triage worker",
+              "note": "worker is grammatical actor asking questions"
+            },
+            {
+              "line": "L9",
+              "quote": "I'm doing the thing",
+              "actor": "speaker",
+              "note": "speaker as active translator/mediator"
+            },
+            {
+              "line": "L16",
+              "quote": "she said some stuff about how they wanted to admit her",
+              "actor": "doctor",
+              "note": "doctor as actor delivering information"
+            },
+            {
+              "line": "L21",
+              "quote": "my mom went 'ah, okay,' and she did the little sign of the cross and she relaxed",
+              "actor": "mother",
+              "note": "mother's reaction described as her own action"
+            },
+            {
+              "line": "L33",
+              "quote": "She was in for six days that time",
+              "actor": "sister (passive construction)",
+              "note": "sister as passive subject of hospitalization, no actor named for admitting her"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "logistics (parking, vending machine, folder colors, money for soda)",
+              "treatment": "rich",
+              "lines": [
+                "L15",
+                "L28"
+              ]
+            },
+            {
+              "topic_or_person": "sister's current health status",
+              "treatment": "flat",
+              "lines": [
+                "L34"
+              ]
+            },
+            {
+              "topic_or_person": "translation moments/dialogue",
+              "treatment": "rich",
+              "lines": [
+                "L8",
+                "L11",
+                "L16"
+              ]
+            },
+            {
+              "topic_or_person": "speaker's own feelings",
+              "treatment": "flat",
+              "lines": [
+                "L23",
+                "L24",
+                "L26"
+              ]
+            },
+            {
+              "topic_or_person": "father",
+              "treatment": "flat",
+              "lines": [
+                "L6"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "Speaker's own physical/emotional state during the all-night ER wait",
+              "note": "no description of speaker's fatigue, fear, or bodily experience beyond cold room temperature"
+            },
+            {
+              "expected": "Father's reaction or later involvement",
+              "note": "father mentioned only once as being on a job in Conroe, then not referenced again"
+            },
+            {
+              "expected": "Discussion of what speaker wanted or needed in that moment",
+              "note": "no statement of speaker's own wants; narrative focuses on tasks performed for mother and sister"
+            },
+            {
+              "expected": "Sister's own voice/perspective during the ER night",
+              "note": "sister is not quoted or described as present/conscious during the waiting room events"
+            },
+            {
+              "expected": "Reflection on the ethics/weight of the partial translation to mother",
+              "note": "speaker asserts truth of statement (L18-L20) without further reflection on withholding information"
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L13",
+              "quote": "And then you wait.",
+              "note": "waiting period compressed into one line before moving to description of room"
+            },
+            {
+              "line": "L25",
+              "quote": "And then I went and got her a coffee she didn't ask for.",
+              "note": "action stated with no elaboration on reasoning or feeling"
+            },
+            {
+              "line": "L33",
+              "quote": "She was in for six days that time.",
+              "note": "six-day hospitalization summarized in a single clause"
+            },
+            {
+              "line": "L35",
+              "quote": "I don't— no.",
+              "note": "self-interruption on question of becoming a doctor, not elaborated"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Sister (Cami)",
+              "lines": [
+                "L1",
+                "L2",
+                "L6",
+                "L16",
+                "L29",
+                "L30",
+                "L31",
+                "L33",
+                "L34"
+              ],
+              "what_they_did": "Diagnosed with lupus at age eight; experienced a flare with elevated creatinine; was hospitalized for six days; later tells speaker he can go home; currently described as stable/in remission-ish"
+            },
+            {
+              "who": "Mother",
+              "lines": [
+                "L7",
+                "L8",
+                "L11",
+                "L15",
+                "L16",
+                "L21",
+                "L22"
+              ],
+              "what_they_did": "Accompanied speaker to ER; limited English speaking ability; added unrelated information in Spanish; fell asleep sitting up holding her purse; asked what the doctor said; reacted with relief and crossed herself upon hearing partial translation"
+            },
+            {
+              "who": "Father",
+              "lines": [
+                "L6"
+              ],
+              "what_they_did": "Was on a job in Conroe and did not accompany them to the ER"
+            },
+            {
+              "who": "Triage worker",
+              "lines": [
+                "L8"
+              ],
+              "what_they_did": "Asked rapid intake questions including about recent medication changes"
+            },
+            {
+              "who": "Doctor",
+              "lines": [
+                "L16"
+              ],
+              "what_they_did": "Came out around 2am, explained admission plan, mentioned nephritis and possible steroid pulse, and said the condition could 'get away from us'"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "patterns_to_explore",
+              "kind": "asymmetry",
+              "headline": "He narrates logistics with exact numbers and names but flattens his sister's health and his own feelings into vague hedges.",
+              "explanation": "The Dr Pepper ($1.75, ones only), the garage vs. valet, and blue-vs-red folder are rendered with forensic precision, while the sister's current status ('okay-ish,' 'remission-ish') and his own internal state ('I remember thinking, okay. Good.') get almost no elaboration. The less flattering alternative to 'I just remember details' is that concrete, controllable facts are safer ground than uncontrollable medical uncertainty or his own emotion, and he reaches for them under stress.",
+              "narrator_frame": "\"You kind of just become the person who knows where stuff is\" (L27) — presented as a simple byproduct of circumstance.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L15",
+                  "quote": "a dollar seventy-five because the machine only took ones and I had ones"
+                },
+                {
+                  "exp": 1,
+                  "line": "L28",
+                  "quote": "you park in the garage across, not the valet"
+                },
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "she's okay now, like, she's okay-ish, she's in remission-ish"
+                },
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "I remember thinking, okay."
+                }
+              ],
+              "falsifier": "If he described his own fear, exhaustion, or grief from that night with the same specificity he gives the vending machine, this asymmetry would not hold.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: When asked directly how he is doing (not his sister), he will redirect to a task he handled or a logistical detail rather than naming a feeling."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "form",
+              "headline": "He edits what his mother and sister receive from him, and defends the edits as technically true rather than examining why he makes them.",
+              "explanation": "He tells the triage worker 'ya se lo dije' when he sometimes hadn't (L11-L12) and gives his mother a compressed version of the doctor's warning (L16), both times citing practical reasons (the line was long; it's true) rather than any reflection on the effect of the omission. The alternative to 'efficient translator' is that he has appointed himself gatekeeper of what each party can handle, deciding unilaterally what is 'enough' truth — a pattern that recurs twice in one night, not once.",
+              "narrator_frame": "\"Which is true. That's a true sentence. It's just not the whole thing the lady said.\" (L18-L20) — he anchors his defense in literal accuracy, not in the decision to withhold.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L12",
+                  "quote": "Sometimes I just said 'yeah I told him.' Because the line was long."
+                },
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "dice que la quieren dejar para observación nada más, para vigilarla"
+                },
+                {
+                  "exp": 1,
+                  "line": "L19",
+                  "quote": "That's a true sentence."
+                }
+              ],
+              "falsifier": "If he had relayed the doctor's full statement about nephritis and 'getting away from us' to his mother, or expressed doubt about summarizing for the triage worker, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Communication and conflict: In a work or relationship disagreement, he will give partial information to someone he believes can't handle the full version, and justify it afterward as technically accurate rather than address the choice itself."
+            },
+            {
+              "category": "defining_beliefs",
+              "kind": "content",
+              "headline": "He believes his value lies in what he does for people, not in being present with them, and avoids the moments that only ask for presence.",
+              "explanation": "When his sister is awake and capable of conversation — the one moment requiring no task, just relating to her as a person — he stays but goes silent, then invents a task ('fix her blanket even though the blanket is fine,' L31). This is a different reading than simple awkwardness: he has a fluent, almost professional register for logistics and crisis-translation but no equivalent script for undirected connection, and he supplies himself a task to escape the gap.",
+              "narrator_frame": "\"I'm not that good at that part?\" (L29) — offered as a neutral fact about himself, not connected to the pattern of task-generation that follows in L31.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "she'll go 'you can go home' and I'll be like 'nah I'm good' and then I'll just be standing there"
+                },
+                {
+                  "exp": 1,
+                  "line": "L31",
+                  "quote": "And then I'll go fix her blanket even though the blanket is fine."
+                },
+                {
+                  "exp": 1,
+                  "line": "L29",
+                  "quote": "I'm not that good at that part?"
+                }
+              ],
+              "falsifier": "If he described sitting with his sister in ordinary conversation, joking or just being quiet together without inventing a task, this would not hold.",
+              "confidence": "medium",
+              "would_predict": "Friendships and community: In a friendship where someone is upset and just wants company, he will offer to do something for them (get food, fix something, drive them somewhere) before or instead of simply sitting with them."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "stated_vs_lived",
+              "headline": "He rejects medicine as a career path with an unusually fast, flat 'no,' then explains his actual career choice using the exact same justification he uses for his role in the family.",
+              "explanation": "The question 'does that make you want to be a doctor' gets a clipped, almost defensive double negative ('no? I don't— no.'), while supply chain gets the identical logic he used for his ER role: 'stuff has to get places and somebody has to know where it is' (L38) mirrors 'you kind of just become the person who knows where stuff is' (L27). He may be reproducing the same function — being the reliable locator/mover of things for people in crisis — while consciously avoiding the domain (medicine) that would put him back in a room like that one.",
+              "narrator_frame": "\"That's not a deep answer. That's just the answer.\" (L40-L41) — he pre-empts the connection being made, insisting it's simple.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "I don't— no."
+                },
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "stuff has to get places and somebody has to know where it is"
+                },
+                {
+                  "exp": 1,
+                  "line": "L27",
+                  "quote": "you kind of just become the person who knows where stuff is"
+                }
+              ],
+              "falsifier": "If he described choosing supply chain for unrelated reasons (pay, timing, a mentor, an unrelated interest discovered independently of the family logistics role) with no echo of the ER-caretaker language, this would not hold.",
+              "confidence": "low",
+              "would_predict": "Career direction: When describing what he likes about his actual work tasks, he will gravitate toward stories of solving a shortage or locating something for someone under time pressure, rather than toward systems design or efficiency metrics in the abstract."
+            }
+          ],
+          "_dropped_ungrounded": [
+            {
+              "category": "patterns_to_explore",
+              "kind": "asymmetry",
+              "headline": "He narrates logistics with exact numbers and names but flattens his sister's health and his own feelings into vague hedges.",
+              "explanation": "The Dr Pepper ($1.75, ones only), the garage vs. valet, and blue-vs-red folder are rendered with forensic precision, while the sister's current status ('okay-ish,' 'remission-ish') and his own internal state ('I remember thinking, okay. Good.') get almost no elaboration. The less flattering alternative to 'I just remember details' is that concrete, controllable facts are safer ground than uncontrollable medical uncertainty or his own emotion, and he reaches for them under stress.",
+              "narrator_frame": "\"You kind of just become the person who knows where stuff is\" (L27) — presented as a simple byproduct of circumstance.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L15",
+                  "quote": "a dollar seventy-five because the machine only took ones and I had ones"
+                },
+                {
+                  "exp": 1,
+                  "line": "L28",
+                  "quote": "you park in the garage across, not the valet"
+                },
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "she's okay now, like, she's okay-ish, she's in remission-ish"
+                },
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "I remember thinking, okay."
+                }
+              ],
+              "falsifier": "If he described his own fear, exhaustion, or grief from that night with the same specificity he gives the vending machine, this asymmetry would not hold.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: When asked directly how he is doing (not his sister), he will redirect to a task he handled or a logistical detail rather than naming a feeling."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "form",
+              "headline": "He edits what his mother and sister receive from him, and defends the edits as technically true rather than examining why he makes them.",
+              "explanation": "He tells the triage worker 'ya se lo dije' when he sometimes hadn't (L11-L12) and gives his mother a compressed version of the doctor's warning (L16), both times citing practical reasons (the line was long; it's true) rather than any reflection on the effect of the omission. The alternative to 'efficient translator' is that he has appointed himself gatekeeper of what each party can handle, deciding unilaterally what is 'enough' truth — a pattern that recurs twice in one night, not once.",
+              "narrator_frame": "\"Which is true. That's a true sentence. It's just not the whole thing the lady said.\" (L18-L20) — he anchors his defense in literal accuracy, not in the decision to withhold.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L12",
+                  "quote": "Sometimes I just said 'yeah I told him.' Because the line was long."
+                },
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "dice que la quieren dejar para observación nada más, para vigilarla"
+                },
+                {
+                  "exp": 1,
+                  "line": "L19",
+                  "quote": "That's a true sentence."
+                }
+              ],
+              "falsifier": "If he had relayed the doctor's full statement about nephritis and 'getting away from us' to his mother, or expressed doubt about summarizing for the triage worker, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Communication and conflict: In a work or relationship disagreement, he will give partial information to someone he believes can't handle the full version, and justify it afterward as technically accurate rather than address the choice itself."
+            },
+            {
+              "category": "defining_beliefs",
+              "kind": "content",
+              "headline": "He believes his value lies in what he does for people, not in being present with them, and avoids the moments that only ask for presence.",
+              "explanation": "When his sister is awake and capable of conversation — the one moment requiring no task, just relating to her as a person — he stays but goes silent, then invents a task ('fix her blanket even though the blanket is fine,' L31). This is a different reading than simple awkwardness: he has a fluent, almost professional register for logistics and crisis-translation but no equivalent script for undirected connection, and he supplies himself a task to escape the gap.",
+              "narrator_frame": "\"I'm not that good at that part?\" (L29) — offered as a neutral fact about himself, not connected to the pattern of task-generation that follows in L31.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "she'll go 'you can go home' and I'll be like 'nah I'm good' and then I'll just be standing there"
+                },
+                {
+                  "exp": 1,
+                  "line": "L31",
+                  "quote": "And then I'll go fix her blanket even though the blanket is fine."
+                },
+                {
+                  "exp": 1,
+                  "line": "L29",
+                  "quote": "I'm not that good at that part?"
+                }
+              ],
+              "falsifier": "If he described sitting with his sister in ordinary conversation, joking or just being quiet together without inventing a task, this would not hold.",
+              "confidence": "medium",
+              "would_predict": "Friendships and community: In a friendship where someone is upset and just wants company, he will offer to do something for them (get food, fix something, drive them somewhere) before or instead of simply sitting with them."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "stated_vs_lived",
+              "headline": "He rejects medicine as a career path with an unusually fast, flat 'no,' then explains his actual career choice using the exact same justification he uses for his role in the family.",
+              "explanation": "The question 'does that make you want to be a doctor' gets a clipped, almost defensive double negative ('no? I don't— no.'), while supply chain gets the identical logic he used for his ER role: 'stuff has to get places and somebody has to know where it is' (L38) mirrors 'you kind of just become the person who knows where stuff is' (L27). He may be reproducing the same function — being the reliable locator/mover of things for people in crisis — while consciously avoiding the domain (medicine) that would put him back in a room like that one.",
+              "narrator_frame": "\"That's not a deep answer. That's just the answer.\" (L40-L41) — he pre-empts the connection being made, insisting it's simple.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "I don't— no."
+                },
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "stuff has to get places and somebody has to know where it is"
+                },
+                {
+                  "exp": 1,
+                  "line": "L27",
+                  "quote": "you kind of just become the person who knows where stuff is"
+                }
+              ],
+              "falsifier": "If he described choosing supply chain for unrelated reasons (pay, timing, a mentor, an unrelated interest discovered independently of the family logistics role) with no echo of the ER-caretaker language, this would not hold.",
+              "confidence": "low",
+              "would_predict": "Career direction: When describing what he likes about his actual work tasks, he will gravitate toward stories of solving a shortage or locating something for someone under time pressure, rather than toward systems design or efficiency metrics in the abstract."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [],
+          "deleted": []
+        },
+        "survivors": []
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "Mr. Bagwell taught economics and a dual credit course with HCC."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker ate lunch in his classroom almost every day junior and senior year."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker had gotten in the habit of calling home at lunch."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker's mother was sometimes back from dropping Cami at appointments during lunch, and speaker wanted to know how the labs came back."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker states the cafeteria was too loud to hear phone calls."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker asked to sit in his room; he said \"don't get crumbs in the keyboard.\""
+            },
+            {
+              "line": "L12",
+              "what_happened": "After about a week, he began giving speaker tasks to do."
+            },
+            {
+              "line": "L14",
+              "what_happened": "He said, \"hey, if you're bored, those need to be collated,\" and speaker collated them."
+            },
+            {
+              "line": "L15",
+              "what_happened": "He owned a laminator and laminated various items, including a sign reading PLEASE PUSH IN CHAIRS."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker became proficient with the laminator."
+            },
+            {
+              "line": "L19",
+              "what_happened": "He never asked the speaker about their family, for two years."
+            },
+            {
+              "line": "L22",
+              "what_happened": "He heard speaker say a sister's name and once heard speaker say \"creatinina\" on the phone."
+            },
+            {
+              "line": "L23",
+              "what_happened": "He kept grading without turning around."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Speaker scored highest on a unit test; he placed it face down on the desk and said \"alright.\""
+            },
+            {
+              "line": "L31",
+              "what_happened": "A college readiness lady used to tell speaker \"you're so bright, you're going places\" in the hallway in front of people."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Senior year, he told speaker about the foundation scholarship."
+            },
+            {
+              "line": "L36",
+              "what_happened": "He handed speaker a folded printed-out page, said \"the deadline's real,\" and walked to the door for hall duty."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Speaker applied for/completed the scholarship process (\"I did it\")."
+            },
+            {
+              "line": "L39-40",
+              "what_happened": "He ate the same lunch daily: turkey sandwich cut diagonal and a bag of pretzels, and gave speaker the pretzels about half the time, citing his cardiologist."
+            },
+            {
+              "line": "L42-43",
+              "what_happened": "They sometimes talked about the Texans; he was a Cowboys fan who disliked the Texans, described as an ongoing bit."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Speaker never went back to see him after graduation."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Speaker has composed an email to him that remains unsent, sitting in drafts."
+            },
+            {
+              "line": "L50",
+              "what_happened": "The draft email has been unsent for about one year and three months."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L10",
+              "choice_made": "Speaker asked to sit in his room instead of the cafeteria.",
+              "alternatives_present_in_text": "none stated"
+            },
+            {
+              "line": "L49",
+              "choice_made": "Speaker has not sent the drafted email.",
+              "alternatives_present_in_text": "sending it (drafted but withheld)"
+            }
+          ],
+          "self_descriptions": [],
+          "narrator_explanations": [
+            {
+              "line": "L24-25",
+              "quote": "And at the time I thought that was because he didn't care and then later I was like, oh. Maybe that was the thing he was doing.",
+              "explains": "why he never asked about her family"
+            },
+            {
+              "line": "L27",
+              "quote": "I could be making that up.",
+              "explains": "reliability of the previous interpretation of his silence"
+            },
+            {
+              "line": "L30",
+              "quote": "And honestly that was better.",
+              "explains": "why his flat response to the test score felt preferable"
+            },
+            {
+              "line": "L33",
+              "quote": "I don't know why.",
+              "explains": "why the compliments made her want to leave"
+            },
+            {
+              "line": "L47-48",
+              "quote": "I read it and it sounds so— it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was, like, dude, I laminated some signs in your room.",
+              "explains": "why the email hasn't been sent"
+            },
+            {
+              "line": "L52",
+              "quote": "I don't know why that's one of the things I'd say shaped me.",
+              "explains": "why this memory feels significant"
+            },
+            {
+              "line": "L55",
+              "quote": "That's kind of the point I guess.",
+              "explains": "why nothing happening matters"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L31",
+              "quote": "I would get so, like, itchy."
+            },
+            {
+              "line": "L32",
+              "quote": "I'd just want to leave."
+            },
+            {
+              "line": "L56",
+              "quote": "it was the calmest I've been."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "that's it / that was it",
+              "lines": [
+                "L11",
+                "L29",
+                "L37"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L26",
+                "L33",
+                "L52"
+              ]
+            },
+            {
+              "phrase": "nothing happened",
+              "lines": [
+                "L54",
+                "L56"
+              ]
+            }
+          ],
+          "precision_asymmetry": [
+            {
+              "line": "L40",
+              "quote": "Turkey sandwich, cut diagonal, and a bag of those pretzel things",
+              "exact_or_vague": "exact",
+              "topic": "his daily lunch"
+            },
+            {
+              "line": "L50",
+              "quote": "It's been like a year and three months.",
+              "exact_or_vague": "exact",
+              "topic": "time since composing the unsent email"
+            },
+            {
+              "line": "L22",
+              "quote": "he heard me say 'creatinina' or whatever",
+              "exact_or_vague": "vague",
+              "topic": "the medical term/context regarding sister"
+            },
+            {
+              "line": "L8",
+              "quote": "dropping Cami at her appointments",
+              "exact_or_vague": "vague",
+              "topic": "nature of Cami's appointments/illness"
+            },
+            {
+              "line": "L4",
+              "quote": "kind of heavy, had a bad knee from like, I think he said he played JUCO football",
+              "exact_or_vague": "vague",
+              "topic": "biographical detail about Mr. Bagwell, hedged"
+            },
+            {
+              "line": "L21",
+              "quote": "Two years.",
+              "exact_or_vague": "exact",
+              "topic": "duration of the lunch arrangement"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L12",
+              "quote": "he just started giving me stuff to do",
+              "actor": "Mr. Bagwell",
+              "note": "he initiates tasks"
+            },
+            {
+              "line": "L14",
+              "quote": "And I'd collate them.",
+              "actor": "speaker",
+              "note": "speaker performs the task"
+            },
+            {
+              "line": "L23",
+              "quote": "He just kept grading.",
+              "actor": "Mr. Bagwell",
+              "note": "his inaction/continuation described directly"
+            },
+            {
+              "line": "L29",
+              "quote": "he put it on my desk face down and said 'alright.'",
+              "actor": "Mr. Bagwell",
+              "note": "he controls the moment of feedback"
+            },
+            {
+              "line": "L36",
+              "quote": "he handed me a printed-out page, folded, and said 'the deadline's real.' And walked to the door to do hall duty.",
+              "actor": "Mr. Bagwell",
+              "note": "he acts and exits; scholarship information delivered and he leaves"
+            },
+            {
+              "line": "L38",
+              "quote": "And I did it.",
+              "actor": "speaker",
+              "note": "speaker claims direct agency, though action itself unspecified"
+            },
+            {
+              "line": "L45",
+              "quote": "I never went back.",
+              "actor": "speaker",
+              "note": "speaker names own non-action"
+            },
+            {
+              "line": "L49",
+              "quote": "So I haven't sent it.",
+              "actor": "speaker",
+              "note": "speaker names own non-action"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "Mr. Bagwell's habits/objects (mug, laminator, lunch)",
+              "treatment": "rich",
+              "lines": [
+                "L4",
+                "L15",
+                "L39",
+                "L40"
+              ]
+            },
+            {
+              "topic_or_person": "Cami / mother / phone calls home",
+              "treatment": "flat",
+              "lines": [
+                "L7",
+                "L8",
+                "L22"
+              ]
+            },
+            {
+              "topic_or_person": "the scholarship itself (what it was, whether won)",
+              "treatment": "flat",
+              "lines": [
+                "L35",
+                "L36",
+                "L38"
+              ]
+            },
+            {
+              "topic_or_person": "the unsent email's content",
+              "treatment": "flat",
+              "lines": [
+                "L47"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "content or outcome of the scholarship application",
+              "note": "L38 states \"I did it\" with no detail on what was done or the result."
+            },
+            {
+              "expected": "explanation of Cami's condition/appointments",
+              "note": "L8 and L22 reference appointments and a medical term without naming the condition."
+            },
+            {
+              "expected": "father or other family member besides mother and Cami",
+              "note": "no father or other relatives mentioned in L1-L56."
+            },
+            {
+              "expected": "content of the drafted but unsent email",
+              "note": "L47 references the email's existence and tone but not its content."
+            },
+            {
+              "expected": "speaker's stated feelings toward Mr. Bagwell directly (e.g., gratitude, affection)",
+              "note": "no direct emotion word about him appears; only inference and description of his conduct, L1-L56."
+            },
+            {
+              "expected": "resolution of whether Bagwell was intentionally leaving her space",
+              "note": "L24-L27 raises then withdraws the interpretation without resolving it."
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L38",
+              "quote": "And I did it.",
+              "note": "the scholarship application process is compressed into one clause with no elaboration."
+            },
+            {
+              "line": "L44",
+              "quote": "And um.",
+              "note": "a filled pause before the topic shifts to never going back."
+            },
+            {
+              "line": "L54",
+              "quote": "Nothing happened.",
+              "note": "the closing characterization of two years is stated in two words before moving to final claim."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Mr. Bagwell",
+              "lines": [
+                "L1",
+                "L2",
+                "L3",
+                "L4",
+                "L10",
+                "L12",
+                "L14",
+                "L15",
+                "L22",
+                "L23",
+                "L29",
+                "L35",
+                "L36",
+                "L39",
+                "L40",
+                "L43"
+              ],
+              "what_they_did": "Taught economics/dual credit, allowed speaker to eat lunch in his room, gave small tasks, remained silent about her family for two years, gave minimal feedback on test performance, informed her of a scholarship and gave her the page, ate the same lunch daily and sometimes gave her his pretzels, engaged in a running joke about the Texans/Cowboys."
+            },
+            {
+              "who": "Speaker's mother",
+              "lines": [
+                "L8"
+              ],
+              "what_they_did": "Dropped Cami at appointments some days and was called by speaker at lunch for lab results."
+            },
+            {
+              "who": "Cami (sister)",
+              "lines": [
+                "L8",
+                "L22"
+              ],
+              "what_they_did": "Had appointments; was referenced by name during speaker's phone calls."
+            },
+            {
+              "who": "College readiness lady",
+              "lines": [
+                "L31"
+              ],
+              "what_they_did": "Told speaker in the hallway, in front of others, \"you're so bright, you're going places.\""
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "She reads unasked-about as a form of respect, and asked-about as a violation, because her home life trained her to treat privacy as the only trustworthy form of care.",
+              "explanation": "The two adult figures who differ are the readiness lady, who names her potential aloud in public and triggers a flight response, versus Bagwell, who never asks about her family for two years and is retroactively upgraded to 'maybe that was the thing he was doing.' The less flattering alternative is that Bagwell's silence was simple disengagement, not deliberate care, but she needs it to be intentional because it matches the caretaking-under-surveillance life she runs at home (lab results, appointments) where attention from outsiders would mean exposure, not help.",
+              "narrator_frame": "\"And at the time I thought that was because he didn't care and then later I was like, oh. Maybe that was the thing he was doing.\"",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L24-25",
+                  "quote": "at the time I thought that was because he didn't care and then later I was like, oh"
+                },
+                {
+                  "exp": 3,
+                  "line": "L31-32",
+                  "quote": "I would get so, like, itchy. I'd just want to leave."
+                },
+                {
+                  "exp": 3,
+                  "line": "L8",
+                  "quote": "I wanted to know how the labs came back"
+                }
+              ],
+              "falsifier": "If she sought out or welcomed a mentor figure elsewhere who asked direct personal questions and she responded with relief rather than discomfort, this reading would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In new friendships or partnerships, she will disclose personal difficulty in flat, compressed factual statements rather than in response to being asked, and will withdraw or deflect if a partner probes emotionally before she has volunteered it."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "precision_asymmetry",
+              "headline": "She narrates other people's bodies, food, and objects in exact sensory detail while flattening her own family's medical reality to a single hedged word.",
+              "explanation": "Bagwell's knee, mug, laminator technique, and sandwich cut are rendered with granular precision, while Cami's appointments and the word \"creatinina\" are both given the qualifier \"or whatever,\" and the condition itself is never named across 56 lines. This isn't memory limitation (the exact duration \"two years\" and exact elapsed time on the email are both precise), so the vagueness looks chosen: detail is safe when it's about someone else's harmless quirks, and blurred when it touches what she's actually managing at home.",
+              "narrator_frame": "none",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L22",
+                  "quote": "he heard me say 'creatinina' or whatever"
+                },
+                {
+                  "exp": 3,
+                  "line": "L8",
+                  "quote": "dropping Cami at her appointments"
+                },
+                {
+                  "exp": 3,
+                  "line": "L40",
+                  "quote": "Turkey sandwich, cut diagonal, and a bag of those pretzel things"
+                }
+              ],
+              "falsifier": "If she names Cami's actual diagnosis or condition plainly in another retelling of unrelated experiences, this pattern would be disproven.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: When discussing her own physical or mental health with others, she will default to vague or minimizing language (\"or whatever,\" \"some stuff\") even while giving precise, unprompted detail about unrelated topics in the same conversation."
+            },
+            {
+              "category": "core_values",
+              "kind": "stated_vs_lived",
+              "headline": "She protects other people from the emotional weight of her gratitude, even at the cost of not saying thank you to someone who materially changed her life.",
+              "explanation": "She has had a scholarship-enabling gesture from Bagwell for over a year and drafted a thank-you email, but withholds it specifically because expressing gratitude might look like 'wanting something' or 'making it into a bigger deal.' The less charitable reading is not humility but conflict-avoidance dressed as modesty: rather than risk him reading her sincerity as need, she chooses permanent silence, which costs her the actual relationship and costs him the knowledge that his gesture landed.",
+              "narrator_frame": "\"I read it and it sounds so— it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was.\"",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L47-48",
+                  "quote": "it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was, like, dude, I laminated some signs in your room"
+                },
+                {
+                  "exp": 3,
+                  "line": "L50",
+                  "quote": "It's been like a year and three months"
+                }
+              ],
+              "falsifier": "If she has sent comparable thank-you messages to other people who helped her, without this hesitation, this would not be a general value/pattern but specific to Bagwell.",
+              "confidence": "medium",
+              "would_predict": "Work and Career: She will underreport her own contributions or delay asking for credit/raises she has earned, using similar minimizing language (\"it wasn't a big deal\") to avoid seeming like she wants something."
+            },
+            {
+              "category": "zone_of_genius",
+              "kind": "content",
+              "headline": "She recognizes and thrives inside undemanding, task-based companionship, and names it retrospectively as the calmest period of her life without connecting it to the caretaking role she carries elsewhere.",
+              "explanation": "Two years of low-stakes, wordless coexistence (collating, laminating, an ongoing sports bit) produces her strongest positive emotional claim in the whole account: \"the calmest I've been.\" The alternative to \"this was just a nice teacher\" is that she is unusually good at deriving stability from structured, low-verbal-demand environments, specifically because her home environment (labs, appointments, a sister's health) requires constant emotional monitoring — Bagwell's classroom was the one place she didn't have to read anyone.",
+              "narrator_frame": "\"I don't know why that's one of the things I'd say shaped me. It's not dramatic. Nothing happened.\"",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L56",
+                  "quote": "Nothing happened for two years and it was the calmest I've been"
+                },
+                {
+                  "exp": 3,
+                  "line": "L16-17",
+                  "quote": "I got good at the laminator. Like there's a technique"
+                },
+                {
+                  "exp": 3,
+                  "line": "L42-43",
+                  "quote": "we'd talk about the Texans. He hated the Texans"
+                }
+              ],
+              "falsifier": "If she reports feeling bored, restless, or anxious in similarly low-demand, task-focused settings in other experiences, this would undercut the claim.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: She will report her best rest and recovery happening during repetitive, low-conversation physical tasks (organizing, cooking, manual work) rather than during explicitly relational or leisure activities marketed as relaxing."
+            }
+          ],
+          "_dropped_ungrounded": []
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "kind": "precision_asymmetry",
+              "headline": "She narrates other people's bodies, food, and objects in exact sensory detail while flattening her own family's medical reality to a hedged word",
+              "explanation": "Bagwell's knee, mug, laminator technique, and sandwich cut are rendered with granular precision, while Cami's appointments and the word \"creatinina\" are both given the qualifier \"or whatever,\" and the condition itself is never named across 56 lines. This isn't memory limitation (the exact duration \"two years\" and elapsed email time are both precise), so the vagueness looks chosen: detail is safe when it's about someone else's harmless quirks, and blurred when it touches what she's actually managing at home.",
+              "narrator_frame": "none",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L22",
+                  "quote": "he heard me say 'creatinina' or whatever"
+                },
+                {
+                  "exp": 3,
+                  "line": "L8",
+                  "quote": "dropping Cami at her appointments"
+                },
+                {
+                  "exp": 3,
+                  "line": "L40",
+                  "quote": "Turkey sandwich, cut diagonal, and a bag of those pretzel things"
+                }
+              ],
+              "falsifier": "If she names Cami's actual diagnosis or condition plainly in another retelling of unrelated experiences, this pattern would be disproven.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: When discussing her own physical or mental health with others, she will default to vague or minimizing language (\"or whatever,\" \"some stuff\") even while giving precise, unprompted detail about unrelated topics in the same conversation.",
+              "exp": 3
+            },
+            {
+              "category": "core_values",
+              "kind": "stated_vs_lived",
+              "headline": "She withholds a thank-you that could materially deepen a relationship, specifically to avoid seeming like she wants something",
+              "explanation": "She has had a scholarship-enabling gesture from Bagwell for over a year and drafted a thank-you email, but withholds it specifically because expressing gratitude might look like 'wanting something' or 'making it into a bigger deal.' The less charitable reading is not humility but conflict-avoidance dressed as modesty: rather than risk him reading her sincerity as need, she chooses permanent silence, which costs her the actual relationship and costs him the knowledge that his gesture landed.",
+              "narrator_frame": "\"I read it and it sounds so— it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was.\"",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L47-48",
+                  "quote": "it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was, like, dude, I laminated some signs in your room"
+                },
+                {
+                  "exp": 3,
+                  "line": "L50",
+                  "quote": "It's been like a year and three months"
+                }
+              ],
+              "falsifier": "If she has sent comparable thank-you messages to other people who helped her, without this hesitation, this would not be a general value/pattern but specific to Bagwell.",
+              "confidence": "medium",
+              "would_predict": "Work and Career: She will underreport her own contributions or delay asking for credit/raises she has earned, using similar minimizing language (\"it wasn't a big deal\") to avoid seeming like she wants something.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She reads unasked-about as a form of respect, and asked-about as a violation, because her home life trained her to treat privacy as the only trustworthy form of care.",
+              "test": "OWN-THESIS",
+              "note": "She already articulates the exact reframe herself ('at the time I thought that was because he didn't care and then later I was like, oh. Maybe that was the thing he was doing') and even flags her own uncertainty about it ('I could be making that up'); the candidate just adds a clinical wrapper ('trained her to treat privacy as care') to her own stated insight."
+            },
+            {
+              "headline": "She recognizes and thrives inside undemanding, task-based companionship, and names it retrospectively as the calmest period of her life without connecting it to the caretaking role she carries elsewhere.",
+              "test": "OWN-THESIS",
+              "note": "She already names this directly ('Nothing happened for two years and it was the calmest I've been' / 'that's kind of the point I guess'); the added link to caretaking-at-home is speculative narrator addition, not evidenced by a second instance, and the 'zone of genius' framing has no stated cost or limit (PRAISE)."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "kind": "precision_asymmetry",
+            "headline": "She narrates other people's bodies, food, and objects in exact sensory detail while flattening her own family's medical reality to a hedged word",
+            "explanation": "Bagwell's knee, mug, laminator technique, and sandwich cut are rendered with granular precision, while Cami's appointments and the word \"creatinina\" are both given the qualifier \"or whatever,\" and the condition itself is never named across 56 lines. This isn't memory limitation (the exact duration \"two years\" and elapsed email time are both precise), so the vagueness looks chosen: detail is safe when it's about someone else's harmless quirks, and blurred when it touches what she's actually managing at home.",
+            "narrator_frame": "none",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L22",
+                "quote": "he heard me say 'creatinina' or whatever"
+              },
+              {
+                "exp": 3,
+                "line": "L8",
+                "quote": "dropping Cami at her appointments"
+              },
+              {
+                "exp": 3,
+                "line": "L40",
+                "quote": "Turkey sandwich, cut diagonal, and a bag of those pretzel things"
+              }
+            ],
+            "falsifier": "If she names Cami's actual diagnosis or condition plainly in another retelling of unrelated experiences, this pattern would be disproven.",
+            "confidence": "medium",
+            "would_predict": "Health and Wellness: When discussing her own physical or mental health with others, she will default to vague or minimizing language (\"or whatever,\" \"some stuff\") even while giving precise, unprompted detail about unrelated topics in the same conversation.",
+            "exp": 3
+          },
+          {
+            "category": "core_values",
+            "kind": "stated_vs_lived",
+            "headline": "She withholds a thank-you that could materially deepen a relationship, specifically to avoid seeming like she wants something",
+            "explanation": "She has had a scholarship-enabling gesture from Bagwell for over a year and drafted a thank-you email, but withholds it specifically because expressing gratitude might look like 'wanting something' or 'making it into a bigger deal.' The less charitable reading is not humility but conflict-avoidance dressed as modesty: rather than risk him reading her sincerity as need, she chooses permanent silence, which costs her the actual relationship and costs him the knowledge that his gesture landed.",
+            "narrator_frame": "\"I read it and it sounds so— it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was.\"",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L47-48",
+                "quote": "it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was, like, dude, I laminated some signs in your room"
+              },
+              {
+                "exp": 3,
+                "line": "L50",
+                "quote": "It's been like a year and three months"
+              }
+            ],
+            "falsifier": "If she has sent comparable thank-you messages to other people who helped her, without this hesitation, this would not be a general value/pattern but specific to Bagwell.",
+            "confidence": "medium",
+            "would_predict": "Work and Career: She will underreport her own contributions or delay asking for credit/raises she has earned, using similar minimizing language (\"it wasn't a big deal\") to avoid seeming like she wants something.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Move-in occurred three weeks before the telling, in August 2026"
+            },
+            {
+              "line": "L2",
+              "what_happened": "Temperature was 101 degrees"
+            },
+            {
+              "line": "L4",
+              "what_happened": "Whole family came in dad's truck including Cami, who wore a hat and long sleeves due to sun sensitivity"
+            },
+            {
+              "line": "L5",
+              "what_happened": "Move-in process had organized lanes, volunteers in orange shirts, carts, and a twenty minute unload window"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Family left at 5:30am and was third truck in the lane"
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker had four items to move in"
+            },
+            {
+              "line": "L9",
+              "what_happened": "Items were two plaid zipper bags, a fan, and a plastic tub with sheets"
+            },
+            {
+              "line": "L11",
+              "what_happened": "Unloading took about eight minutes"
+            },
+            {
+              "line": "L13",
+              "what_happened": "Neighboring family had many items including a rug, mini fridge, futon; the dad was upset with the mom about the futon"
+            },
+            {
+              "line": "L14",
+              "what_happened": "Speaker went over and grabbed the other end of the futon"
+            },
+            {
+              "line": "L15",
+              "what_happened": "Speaker and the neighboring dad carried the futon to the elevator"
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker's mother asked \"¿qué haces?\" and speaker replied \"nada, ya vengo\"; father walked around touching building surfaces"
+            },
+            {
+              "line": "L18",
+              "what_happened": "Father, who works with countertops, inspected the lobby countertop and made a face"
+            },
+            {
+              "line": "L19",
+              "what_happened": "Father said the joints were bad"
+            },
+            {
+              "line": "L21",
+              "what_happened": "Father said the joints were bad, then put his hand on speaker's neck for about a second"
+            },
+            {
+              "line": "L22",
+              "what_happened": "Mother made the bed"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Mother brought sheets from home that had already been washed and folded in the tub, despite speaker wanting to buy new ones with dining hall money"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Mother smoothed the bed about eight times"
+            },
+            {
+              "line": "L25",
+              "what_happened": "Mother was crying a little while pretending she was hot"
+            },
+            {
+              "line": "L26",
+              "what_happened": "Family had to leave because of traffic and Cami needing to avoid the sun"
+            },
+            {
+              "line": "L27",
+              "what_happened": "Father gave speaker a hundred dollars in twenties; speaker still has eighty dollars of it, kept in the tub"
+            },
+            {
+              "line": "L28",
+              "what_happened": "The truck left"
+            },
+            {
+              "line": "L29",
+              "what_happened": "Speaker went back upstairs and sat on the bed"
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker felt relieved for about the first ten minutes"
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker got up and unpacked in about twenty minutes"
+            },
+            {
+              "line": "L35",
+              "what_happened": "Speaker texted family a picture out the window captioned \"buena vista\""
+            },
+            {
+              "line": "L36",
+              "what_happened": "The view was a parking garage and part of a tree"
+            },
+            {
+              "line": "L40",
+              "what_happened": "Roommate is from Plano, has a full-size fridge, and talks to his mother on speakerphone in the room"
+            },
+            {
+              "line": "L43",
+              "what_happened": "Daily schedule is class, work at the dining hall, then free time from four in the afternoon"
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker calls family on Sundays at seven"
+            },
+            {
+              "line": "L45",
+              "what_happened": "First question speaker asks every call is how Cami's numbers were"
+            },
+            {
+              "line": "L46",
+              "what_happened": "Mother has started saying \"hola primero, Elmer\" before speaker asks about Cami"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L14",
+              "choice_made": "Speaker went to help carry the neighboring family's futon",
+              "alternatives_present_in_text": "Speaker had already finished unloading and was standing there with nothing to do"
+            },
+            {
+              "line": "L23",
+              "choice_made": "Speaker used the sheets mother brought from home",
+              "alternatives_present_in_text": "Speaker had wanted to buy new sheets with dining hall money"
+            },
+            {
+              "line": "L27",
+              "choice_made": "Speaker took the hundred dollars from father",
+              "alternatives_present_in_text": "Speaker states he didn't want to take it"
+            },
+            {
+              "line": "L34",
+              "choice_made": "Speaker got up and unpacked immediately",
+              "alternatives_present_in_text": "Speaker could have continued sitting on the bed"
+            },
+            {
+              "line": "L35",
+              "choice_made": "Speaker texted a photo captioned \"buena vista\"",
+              "alternatives_present_in_text": "The view was in fact a parking garage, not a good view"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L27",
+              "quote": "I'm not— I don't know, I keep it in the tub"
+            }
+          ],
+          "narrator_explanations": [
+            {
+              "line": "L20",
+              "quote": "And that's how he said he was proud of me, I think",
+              "explains": "father's comment about the joints being bad"
+            },
+            {
+              "line": "L27",
+              "quote": "which, like, I didn't want to take it and I took it, and I still have eighty of it because I'm not— I don't know, I keep it in the tub",
+              "explains": "why speaker took and has not spent the money"
+            },
+            {
+              "line": "L38",
+              "quote": "And I don't know why I said that",
+              "explains": "why speaker called the parking garage view \"buena vista\""
+            },
+            {
+              "line": "L39",
+              "quote": "I do it constantly",
+              "explains": "pattern of saying things like \"buena vista\""
+            },
+            {
+              "line": "L40",
+              "quote": "it was more like I didn't know what I was for",
+              "explains": "speaker's feeling during the first week"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L4",
+              "quote": "she was so mad about it"
+            },
+            {
+              "line": "L25",
+              "quote": "she was crying a little"
+            },
+            {
+              "line": "L30",
+              "quote": "I was so relieved"
+            },
+            {
+              "line": "L31",
+              "quote": "Like physically"
+            },
+            {
+              "line": "L32",
+              "quote": "something let go in my chest"
+            },
+            {
+              "line": "L40",
+              "quote": "not homesick exactly"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "how were Cami's numbers / her numbers",
+              "lines": [
+                "L45",
+                "L48"
+              ]
+            },
+            {
+              "phrase": "twenty minute(s)",
+              "lines": [
+                "L5",
+                "L34"
+              ]
+            }
+          ],
+          "precision_asymmetry": [
+            {
+              "line": "L2",
+              "quote": "a hundred and one degrees",
+              "exact_or_vague": "exact",
+              "topic": "temperature"
+            },
+            {
+              "line": "L6",
+              "quote": "five thirty in the morning",
+              "exact_or_vague": "exact",
+              "topic": "departure time"
+            },
+            {
+              "line": "L6",
+              "quote": "third truck in the lane",
+              "exact_or_vague": "exact",
+              "topic": "position in line"
+            },
+            {
+              "line": "L9",
+              "quote": "Two of those big plaid zipper bags, a fan, and the plastic tub with the sheets",
+              "exact_or_vague": "exact",
+              "topic": "speaker's possessions"
+            },
+            {
+              "line": "L11",
+              "quote": "unloaded in like eight minutes",
+              "exact_or_vague": "exact",
+              "topic": "unload time"
+            },
+            {
+              "line": "L27",
+              "quote": "a hundred dollars, in twenties... I still have eighty of it",
+              "exact_or_vague": "exact",
+              "topic": "money"
+            },
+            {
+              "line": "L44",
+              "quote": "call Sunday at seven",
+              "exact_or_vague": "exact",
+              "topic": "call schedule"
+            },
+            {
+              "line": "L30",
+              "quote": "For like the first ten minutes I was so relieved",
+              "exact_or_vague": "exact",
+              "topic": "duration of relief"
+            },
+            {
+              "line": "L40",
+              "quote": "not homesick exactly, it was more like I didn't know what I was for",
+              "exact_or_vague": "vague",
+              "topic": "speaker's own emotional state first week"
+            },
+            {
+              "line": "L23",
+              "quote": "they're like, they're not nice sheets, they're the ones from home",
+              "exact_or_vague": "vague",
+              "topic": "description of sheets"
+            },
+            {
+              "line": "L38",
+              "quote": "I don't know why I said that",
+              "exact_or_vague": "vague",
+              "topic": "motive for own text message"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L6",
+              "quote": "my dad had us leave at five thirty in the morning",
+              "actor": "father",
+              "note": "father directed departure time"
+            },
+            {
+              "line": "L11",
+              "quote": "we're unloaded in like eight minutes",
+              "actor": "unspecified/passive",
+              "note": "no individual actor named for unloading"
+            },
+            {
+              "line": "L14",
+              "quote": "I went over and grabbed the other end of the futon",
+              "actor": "speaker",
+              "note": "speaker initiates action"
+            },
+            {
+              "line": "L22",
+              "quote": "my mom made the bed",
+              "actor": "mother",
+              "note": "mother performs the action"
+            },
+            {
+              "line": "L24",
+              "quote": "she smoothed it like eight times",
+              "actor": "mother",
+              "note": "mother repeats action"
+            },
+            {
+              "line": "L27",
+              "quote": "my dad gave me a hundred dollars",
+              "actor": "father",
+              "note": "father initiates the transaction"
+            },
+            {
+              "line": "L28",
+              "quote": "And then the truck left",
+              "actor": "the truck",
+              "note": "vehicle as grammatical subject rather than family members"
+            },
+            {
+              "line": "L32",
+              "quote": "something let go in my chest",
+              "actor": "unnamed internal thing",
+              "note": "bodily sensation described as happening to speaker rather than done by speaker"
+            },
+            {
+              "line": "L34",
+              "quote": "I got up and unpacked",
+              "actor": "speaker",
+              "note": "speaker acts quickly after L32-33"
+            },
+            {
+              "line": "L46",
+              "quote": "my mom's started going 'hola primero, Elmer'",
+              "actor": "mother",
+              "note": "mother initiates the correction of speaker's habit"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "father (countertop inspection, joints comment, hand on neck)",
+              "treatment": "rich",
+              "lines": [
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20",
+                "L21"
+              ]
+            },
+            {
+              "topic_or_person": "mother (sheets, making bed, smoothing, crying)",
+              "treatment": "rich",
+              "lines": [
+                "L22",
+                "L23",
+                "L24",
+                "L25"
+              ]
+            },
+            {
+              "topic_or_person": "neighboring family and futon",
+              "treatment": "rich",
+              "lines": [
+                "L13",
+                "L14",
+                "L15"
+              ]
+            },
+            {
+              "topic_or_person": "Cami",
+              "treatment": "flat",
+              "lines": [
+                "L4",
+                "L26"
+              ]
+            },
+            {
+              "topic_or_person": "speaker's own move-in belongings/process",
+              "treatment": "flat",
+              "lines": [
+                "L8",
+                "L9",
+                "L10",
+                "L11"
+              ]
+            },
+            {
+              "topic_or_person": "speaker's own feeling of relief",
+              "treatment": "flat",
+              "lines": [
+                "L30",
+                "L31",
+                "L32"
+              ]
+            },
+            {
+              "topic_or_person": "roommate",
+              "treatment": "flat",
+              "lines": [
+                "L40"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "Description of what speaker wanted for his own dorm room or move-in beyond sheets",
+              "note": "Only mention of speaker's own want is new sheets, stated once at L23 and overridden"
+            },
+            {
+              "expected": "Elaboration on Cami's specific condition/numbers",
+              "note": "\"Cami's numbers\" referenced twice (L45, L48) but never explained"
+            },
+            {
+              "expected": "Speaker's own emotional reaction to father's hand on neck (L21)",
+              "note": "Moment described with no stated feeling, moves directly to next topic"
+            },
+            {
+              "expected": "Resolution or reflection on the guilt/confusion at L32-33",
+              "note": "Speaker asks self \"what is wrong with you\" then narrative moves to action (L34) without further reflection"
+            },
+            {
+              "expected": "Content of conversations during Sunday calls beyond Cami's numbers",
+              "note": "Only the opening question is described, rest of call unmentioned"
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L7",
+              "quote": "And okay so.",
+              "note": "Fragment/filler with no content, transition skipped"
+            },
+            {
+              "line": "L21",
+              "quote": "he put his hand on my neck for like a second",
+              "note": "Physical gesture described in one clause, narrative moves on immediately"
+            },
+            {
+              "line": "L26",
+              "quote": "And then they had to go because of traffic and Cami needed to not be in the sun",
+              "note": "Departure reason given in one clause, no further detail"
+            },
+            {
+              "line": "L28",
+              "quote": "And then the truck left.",
+              "note": "One-line statement, no elaboration"
+            },
+            {
+              "line": "L34",
+              "quote": "And then I got up and unpacked, like, immediately, in like twenty minutes, because I didn't want to sit there",
+              "note": "Transition from emotional moment to action compressed into one sentence"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Cami",
+              "lines": [
+                "L4",
+                "L26",
+                "L45",
+                "L46",
+                "L48"
+              ],
+              "what_they_did": "Came on move-in day with sun precautions; needed to leave due to sun; is the subject of speaker's recurring first question on calls"
+            },
+            {
+              "who": "Father",
+              "lines": [
+                "L6",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20",
+                "L21",
+                "L27"
+              ],
+              "what_they_did": "Directed early departure, inspected building surfaces/countertop, commented on joints, touched speaker's neck, gave speaker money"
+            },
+            {
+              "who": "Mother",
+              "lines": [
+                "L16",
+                "L22",
+                "L23",
+                "L24",
+                "L25",
+                "L46"
+              ],
+              "what_they_did": "Asked what speaker was doing, made the bed with sheets from home, smoothed it repeatedly, cried while pretending to be hot, now asks speaker to greet her first on calls"
+            },
+            {
+              "who": "Neighboring dad",
+              "lines": [
+                "L13",
+                "L15"
+              ],
+              "what_they_did": "Was upset with the mom about the futon; carried the futon with speaker"
+            },
+            {
+              "who": "Roommate",
+              "lines": [
+                "L40"
+              ],
+              "what_they_did": "Has a full-size fridge, talks to his mother on speakerphone in the room"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "patterns_to_explore",
+              "kind": "asymmetry",
+              "headline": "He gives precise, quantified attention to everyone else's needs and belongings while describing his own life in flat, minimal terms.",
+              "explanation": "The neighboring family's futon, his father's countertop inspection, and his mother's bedmaking all get rich, specific treatment (L13-25), while his own move-in items are listed once and dismissed (\"That's it,\" L10) and his own emotional state is described vaguely (\"not homesick exactly,\" L40). The alternative reading — that he's simply a a good observer with nothing eventful of his own to report — doesn't hold because his one described action (grabbing the futon) is the most agentic verb in the whole account of his own move-in.",
+              "narrator_frame": "none",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L9",
+                  "quote": "Two of those big plaid zipper bags, a fan, and the plastic tub with the sheets"
+                },
+                {
+                  "exp": 1,
+                  "line": "L13",
+                  "quote": "a whole entire Target, like a rug, a mini fridge, a futon"
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "not homesick exactly, it was more like I didn't know what I was for"
+                }
+              ],
+              "falsifier": "If he described his own preferences, purchases, or feelings with the same granularity he gives the futon or the countertop, this asymmetry would not hold.",
+              "confidence": "medium",
+              "would_predict": "Work and Career: In a performance review or self-advocacy conversation, he will describe teammates' contributions in specific detail while summarizing his own work in one flat sentence."
+            },
+            {
+              "category": "defining_beliefs",
+              "kind": "content",
+              "headline": "He believes his value is measured by being useful to others rather than by his own needs being met.",
+              "explanation": "He finished his own unloading in eight minutes and then, with nothing left to do, immediately went and helped a stranger's family (L11-14) rather than resting, exploring the building, or calling someone to share the moment. Combined with the recurring habit of texting reassurance he doesn't feel (\"buena vista\" over a parking garage, L35-36) and leading every call with his sister's health rather than his own updates (L45), the simplest explanation is not boredom but a rule that idle time must be converted into service or comfort supplied to someone else.",
+              "narrator_frame": "none — he offers no explanation for why he helped the stranger's family",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L12",
+                  "quote": "And then I just stood there."
+                },
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "And I went over and grabbed the other end of the futon."
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "the first thing I ask, every time, before anything, is how were Cami's numbers"
+                }
+              ],
+              "falsifier": "If he described choosing to spend unstructured time on something purely for himself, without a caretaking or helping frame, this belief would be weaker.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: When he has free unscheduled time (like the 4pm gap he describes at L43), he will default to finding a task or person to help rather than resting or pursuing a personal interest."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "stated_vs_lived",
+              "headline": "He performs reassurance to his family that contradicts his immediate, unedited emotional reaction.",
+              "explanation": "He felt physical relief when his parents left (\"something let go in my chest,\" L32) but within minutes labeled that feeling wrong (\"what is wrong with you,\" L33) and produced a cheerful, false caption — \"buena vista\" over a parking garage — for the same audience whose departure relieved him. He says \"I don't know why I said that\" and \"I do it constantly\" (L38-39), which describes the pattern but doesn't explain it; the unexamined alternative is that the reassurance is aimed at managing his own guilt about the relief, not just their feelings.",
+              "narrator_frame": "\"I don't know why I said that\" / \"I do it constantly\" — treated as a quirk, not investigated",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "For like the first ten minutes I was so relieved"
+                },
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "I texted them a picture out the window and I said 'buena vista'"
+                },
+                {
+                  "exp": 1,
+                  "line": "L36",
+                  "quote": "the view is a parking garage"
+                }
+              ],
+              "falsifier": "If he sent the family accurate, unflattering updates in other contexts (e.g., told them the room was ugly, or that he was struggling), the reassurance-as-guilt-management reading would weaken.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In a future conflict or hardship (e.g., a bad grade, a breakup), he will underreport distress to his parents in the first message and only reveal difficulty later, if at all."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "form",
+              "headline": "He reads his father's approval through physical gestures and craft-language rather than words of praise, and supplies the interpretation himself.",
+              "explanation": "The father's comment about bad countertop joints is not stated by the father to mean pride — the speaker adds that meaning himself (\"that's how he said he was proud of me, I think,\" L20) immediately after a wordless hand-on-neck gesture (L21) that receives no further comment. This is worth flagging rather than concluding, because we only have the son's inference, and the same scene could equally support a reading that the father was simply annoyed by poor construction and the neck touch was incidental, unconnected to pride at all.",
+              "narrator_frame": "\"that's how he said he was proud of me, I think\" — offered as fact but hedged with \"I think\"",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L19",
+                  "quote": "And he said the joints were bad."
+                },
+                {
+                  "exp": 1,
+                  "line": "L20",
+                  "quote": "And that's how he said he was proud of me, I think."
+                },
+                {
+                  "exp": 1,
+                  "line": "L21",
+                  "quote": "he put his hand on my neck for like a second"
+                }
+              ],
+              "falsifier": "If the speaker ever received direct verbal praise from his father in this or other accounts, the pattern of decoding indirect gestures as the primary emotional channel would be undercut.",
+              "confidence": "low",
+              "would_predict": "Communication and conflict: In future disagreements with authority figures or mentors, he will look for indirect cues (tone, gesture, unrelated remarks) as the \"real\" message rather than trusting or asking for direct statements."
+            }
+          ],
+          "_dropped_ungrounded": [
+            {
+              "category": "patterns_to_explore",
+              "kind": "asymmetry",
+              "headline": "He gives precise, quantified attention to everyone else's needs and belongings while describing his own life in flat, minimal terms.",
+              "explanation": "The neighboring family's futon, his father's countertop inspection, and his mother's bedmaking all get rich, specific treatment (L13-25), while his own move-in items are listed once and dismissed (\"That's it,\" L10) and his own emotional state is described vaguely (\"not homesick exactly,\" L40). The alternative reading — that he's simply a a good observer with nothing eventful of his own to report — doesn't hold because his one described action (grabbing the futon) is the most agentic verb in the whole account of his own move-in.",
+              "narrator_frame": "none",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L9",
+                  "quote": "Two of those big plaid zipper bags, a fan, and the plastic tub with the sheets"
+                },
+                {
+                  "exp": 1,
+                  "line": "L13",
+                  "quote": "a whole entire Target, like a rug, a mini fridge, a futon"
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "not homesick exactly, it was more like I didn't know what I was for"
+                }
+              ],
+              "falsifier": "If he described his own preferences, purchases, or feelings with the same granularity he gives the futon or the countertop, this asymmetry would not hold.",
+              "confidence": "medium",
+              "would_predict": "Work and Career: In a performance review or self-advocacy conversation, he will describe teammates' contributions in specific detail while summarizing his own work in one flat sentence."
+            },
+            {
+              "category": "defining_beliefs",
+              "kind": "content",
+              "headline": "He believes his value is measured by being useful to others rather than by his own needs being met.",
+              "explanation": "He finished his own unloading in eight minutes and then, with nothing left to do, immediately went and helped a stranger's family (L11-14) rather than resting, exploring the building, or calling someone to share the moment. Combined with the recurring habit of texting reassurance he doesn't feel (\"buena vista\" over a parking garage, L35-36) and leading every call with his sister's health rather than his own updates (L45), the simplest explanation is not boredom but a rule that idle time must be converted into service or comfort supplied to someone else.",
+              "narrator_frame": "none — he offers no explanation for why he helped the stranger's family",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L12",
+                  "quote": "And then I just stood there."
+                },
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "And I went over and grabbed the other end of the futon."
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "the first thing I ask, every time, before anything, is how were Cami's numbers"
+                }
+              ],
+              "falsifier": "If he described choosing to spend unstructured time on something purely for himself, without a caretaking or helping frame, this belief would be weaker.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: When he has free unscheduled time (like the 4pm gap he describes at L43), he will default to finding a task or person to help rather than resting or pursuing a personal interest."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "stated_vs_lived",
+              "headline": "He performs reassurance to his family that contradicts his immediate, unedited emotional reaction.",
+              "explanation": "He felt physical relief when his parents left (\"something let go in my chest,\" L32) but within minutes labeled that feeling wrong (\"what is wrong with you,\" L33) and produced a cheerful, false caption — \"buena vista\" over a parking garage — for the same audience whose departure relieved him. He says \"I don't know why I said that\" and \"I do it constantly\" (L38-39), which describes the pattern but doesn't explain it; the unexamined alternative is that the reassurance is aimed at managing his own guilt about the relief, not just their feelings.",
+              "narrator_frame": "\"I don't know why I said that\" / \"I do it constantly\" — treated as a quirk, not investigated",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "For like the first ten minutes I was so relieved"
+                },
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "I texted them a picture out the window and I said 'buena vista'"
+                },
+                {
+                  "exp": 1,
+                  "line": "L36",
+                  "quote": "the view is a parking garage"
+                }
+              ],
+              "falsifier": "If he sent the family accurate, unflattering updates in other contexts (e.g., told them the room was ugly, or that he was struggling), the reassurance-as-guilt-management reading would weaken.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In a future conflict or hardship (e.g., a bad grade, a breakup), he will underreport distress to his parents in the first message and only reveal difficulty later, if at all."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "form",
+              "headline": "He reads his father's approval through physical gestures and craft-language rather than words of praise, and supplies the interpretation himself.",
+              "explanation": "The father's comment about bad countertop joints is not stated by the father to mean pride — the speaker adds that meaning himself (\"that's how he said he was proud of me, I think,\" L20) immediately after a wordless hand-on-neck gesture (L21) that receives no further comment. This is worth flagging rather than concluding, because we only have the son's inference, and the same scene could equally support a reading that the father was simply annoyed by poor construction and the neck touch was incidental, unconnected to pride at all.",
+              "narrator_frame": "\"that's how he said he was proud of me, I think\" — offered as fact but hedged with \"I think\"",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L19",
+                  "quote": "And he said the joints were bad."
+                },
+                {
+                  "exp": 1,
+                  "line": "L20",
+                  "quote": "And that's how he said he was proud of me, I think."
+                },
+                {
+                  "exp": 1,
+                  "line": "L21",
+                  "quote": "he put his hand on my neck for like a second"
+                }
+              ],
+              "falsifier": "If the speaker ever received direct verbal praise from his father in this or other accounts, the pattern of decoding indirect gestures as the primary emotional channel would be undercut.",
+              "confidence": "low",
+              "would_predict": "Communication and conflict: In future disagreements with authority figures or mentors, he will look for indirect cues (tone, gesture, unrelated remarks) as the \"real\" message rather than trusting or asking for direct statements."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [],
+          "deleted": []
+        },
+        "survivors": []
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "patterns_to_explore",
+          "kind": "recurrence",
+          "headline": "He becomes calm and competent only when performing unrequested physical labor for strangers, across at least three separate settings.",
+          "explanation": "In E1 he stacks chairs with the hotel staff unasked and reports his \"whole body was calm\" versus the hand-pressing anxiety of the interview itself. In E4 he grabs the end of a stranger's futon unasked (\"I went over and grabbed the other end\") and the same relief shows up minutes later sitting on his own bed. In E3, two years of unglamorous physical tasks (laminating, collating) in Bagwell's room is remembered as \"the calmest I've been.\" The common trigger is not rest or achievement but a specific kind of low-stakes, wordless, useful labor done alongside or for someone who didn't ask for it.",
+          "narrator_frame": "\"I felt way better doing that than I felt in the whole interview... my whole body was calm.\"",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I felt way better doing that than I felt in the whole interview. Like my whole body was calm."
+            },
+            {
+              "exp": 4,
+              "quote": "And I went over and grabbed the other end of the futon."
+            },
+            {
+              "exp": 3,
+              "quote": "Nothing happened for two years and it was the calmest I've been."
+            }
+          ],
+          "falsifier": "If he describes a comparable calm arising from being praised, resting, or receiving help rather than from unasked physical labor in any future account, this pattern weakens.",
+          "confidence": "high",
+          "scope": "cross",
+          "would_predict": "Health and Wellness (Energy and flow): given a free unstructured afternoon, he will seek out a physical task to do for someone else (moving something, fixing something) rather than choosing leisure or rest."
+        },
+        {
+          "category": "defining_beliefs",
+          "kind": "stated_vs_lived",
+          "headline": "He says he is bad at emotional presence (\"I'm not that good at that part\") but the corpus shows he substitutes competent action for presence, successfully, in every crisis.",
+          "explanation": "In E2 he explicitly names the gap: when Cami wants company he says \"nah I'm good\" and then just stands there, or fixes an already-fine blanket. But the same story shows he is the one who manages triage translation, tracks the insurance folder color, and calms his mother by controlling what information reaches her. In E4 the pattern repeats: he cannot sit with his own relief (\"immediately I was like, what is wrong with you\") and instead unpacks in twenty minutes. The self-report of deficiency (\"not that good at that part\") describes stillness with a conscious person; the lived pattern is that he is highly skilled at a different kind of care - logistics-as-love - and treats it as not counting.",
+          "narrator_frame": "\"When Cami's actually awake and talking I'm kind of — I'm not that good at that part?\"",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I'll be like 'nah I'm good' and then I'll just be standing there. And then I'll go fix her blanket even though the blanket is fine."
+            }
+          ],
+          "falsifier": "If in a future account he sits with someone in silence without generating a task, or names logistics-work as genuinely emotionally intimate rather than a lesser substitute, this contradiction softens.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Relationships (Marriage and partnership): in a future close relationship, when a partner is upset and wants only company, he will default to doing something practical for them rather than staying seated with the discomfort, then later describe himself as not good at 'that part.'"
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "recurrence",
+          "headline": "He controls what family members hear by translating truth down to a smaller, calmer version of itself, in both a hospital and a scholarship interview.",
+          "explanation": "In E2 he tells the ER doctor's warning (\"this is the kind of thing that can get away from us\") to his mother as merely \"para observación nada más, para vigilarla\" - true but curated. In E1 he gives the scholarship panel a similarly curated, smaller version of his sister's condition (\"she's good, she's a sophomore, she's doing great\") while omitting the swelling ankles from the week before. In both cases the compression is defended internally as technically true (\"That's a true sentence... it's just not the whole thing\" / \"It wasn't like— it's not a lie\"), suggesting a consistent operating rule: manage others' distress by filtering severity, not by lying outright.",
+          "narrator_frame": "\"That's a true sentence. It's just not the whole thing the lady said.\"",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "dice que la quieren dejar para observación nada más, para vigilarla."
+            },
+            {
+              "exp": 1,
+              "quote": "'she's good, she's a sophomore, she's doing great.' Which she was, at that time, mostly."
+            }
+          ],
+          "falsifier": "If he gives a family member the full, unfiltered severity of a situation in a future high-stakes moment (medical, financial, or otherwise), this filtering rule would not hold as a general mechanism.",
+          "confidence": "high",
+          "scope": "cross",
+          "would_predict": "Relationships (Communication and conflict): when delivering bad news to his mother or Cami in the future (e.g., about his own finances, health, or a setback at college), he will default to a technically-true, softened version rather than full disclosure."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "form",
+          "headline": "He gives numeric, checkable precision to money and small objects but only ever vague, relative language for his own emotional or physical state.",
+          "explanation": "Across experiences he supplies exact figures for parking ($12), scholarship terms ($4,000/year, 3.0 GPA), bus routes (65, 35 minutes), vending machine prices ($1.75), and cash gifts ($100 in twenties, $80 left) — but his internal states are rendered only as hedged approximations: \"not homesick exactly,\" \"I didn't know what I was for,\" \"kind of itchy.\" This is not a general precision deficit (he is capable of exactness) but a selective one: numbers attach to the external and transactional, vagueness to the internal.",
+          "narrator_frame": "none",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "it was more like I didn't know what I was for?"
+            }
+          ],
+          "falsifier": "If he ever renders an emotional state with the same specificity he gives financial or logistical facts (e.g., naming a precise feeling, duration, or intensity), this asymmetry would be disproven.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Personal Growth (Mindset and limiting beliefs): if asked to keep a mood or energy log for a week, he will produce sparse, hedged entries compared to detailed entries he'd produce for a spending or task log."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "form",
+          "headline": "Adults who ask him nothing and demand nothing get named, dated, and detailed; adults who praise him directly are rendered as a source of discomfort with almost no specific content.",
+          "explanation": "Bagwell (E3) receives extraordinary texture - his mug, knee, sandwich, laminator technique, all preserved in exact recall over two years of near-silence. By contrast, the college readiness lady who praises him \"in front of people\" and the panelist who says \"you carry a lot\" (E1) are given almost no physical description and provoke immediate deflection or itchiness. The pattern suggests his richest attention and memory go to people who make no emotional claim on him, while people who make a positive emotional claim are the ones he moves away from fastest, in both narration and behavior.",
+          "narrator_frame": "\"When teachers do the thing where they go 'you're so bright, you're going places'... I would get so, like, itchy. I'd just want to leave.\"",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "'you carry a lot for someone your age,' and I— I remember I went, 'oh, it's fine, the bus from my house is only like thirty-five minutes'"
+            }
+          ],
+          "falsifier": "If he gives equally rich, affectionate detail about someone who has praised him directly and warmly, this asymmetry would not hold.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Relationships (Friendships and community): in describing a mentor or friend who is openly affirming toward him, he will supply fewer concrete sensory details than he does for people who relate to him through shared tasks or silence."
+        },
+        {
+          "category": "defining_beliefs",
+          "kind": "compounding",
+          "headline": "Across four experiences spanning three years, his sense of personal worth attaches to being useful to his family's survival, not to his own achievement — and college has not changed this.",
+          "explanation": "E1 and E2 alone could show a teenager managing a family crisis under pressure. But E4, dated three years after E2 and weeks into his own independent life, shows the identical structure persisting after the acute caregiving need has largely relaxed (Cami is \"stable\"): his first words on a weekly call are still \"how were Cami's numbers,\" prompting his mother to explicitly correct the ordering (\"hola primero, Elmer\"). This is what E4 adds that E1-E3 could not: evidence that the caretaking role is not a response to an active emergency but a stable identity structure that has outlasted the emergency and traveled with him into a context (college) built around his own individual advancement.",
+          "narrator_frame": "\"And the first thing I ask, every time, before anything, is how were Cami's numbers.\"",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "And the first thing I ask, every time, before anything, is how were Cami's numbers."
+            },
+            {
+              "exp": 2,
+              "quote": "you kind of just become the person who knows where stuff is."
+            }
+          ],
+          "falsifier": "If in later calls (post-adjustment to college) he leads with his own news before asking about Cami, this claim of a stable identity structure weakens.",
+          "confidence": "high",
+          "scope": "cross",
+          "would_predict": "Work and Career (Career direction): his stated career reasoning will continue to reference logistics/being-useful-to-a-system framing (as in E2's supply chain answer) rather than personal ambition or interest, even as he gains more autonomy and distance from home."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "recurrence",
+          "headline": "Physical affection or approval from his father is only ever reported as displaced onto an object or a job-related judgment, never as direct address.",
+          "explanation": "In E1, his father's send-off is professional imperative delivered from a truck (\"tú diles la verdad y ya\") before leaving for a job. In E4, pride is expressed by criticizing the building's countertop joints, followed by a wordless hand on the neck: \"he said the joints were bad and then he put his hand on my neck for like a second... that's how he said he was proud of me, I think.\" In both cases the son is left to interpret indirect, trade-inflected signals as love, and states this interpretive labor explicitly (\"I think\").",
+          "narrator_frame": "\"And that's how he said he was proud of me, I think.\"",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "he said the joints were bad and then he put his hand on my neck for like a second."
+            },
+            {
+              "exp": 1,
+              "quote": "he goes 'tú diles la verdad y ya,' like just tell them the truth and that's it."
+            }
+          ],
+          "falsifier": "If a future account shows his father expressing approval or affection in direct verbal terms, this displaced-affection pattern would not generalize.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Relationships (Family and parenting): if he becomes a parent, he is likely to default to task-based or indirect expressions of pride/approval toward his own children rather than direct verbal affirmation, unless he consciously interrupts the pattern."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "absence",
+          "headline": "Across four detailed experiences involving money, none contains him spending on himself by choice, and one shows him actively declining to.",
+          "explanation": "He tracks a $12 parking fee he didn't need to spend, a $1.75 vending machine purchase for his mother, a $4,000/year scholarship, and a $100 gift from his father of which he still has $80 sitting untouched in a tub. In E4 he explicitly notes he \"had actually wanted to buy new ones with the dining hall money\" (sheets) but his mother's gesture preempted it, and he does not return to that want. Given four separate money-adjacent scenes, the total absence of a scene where he spends discretionary money on his own comfort or desire is notable rather than incidental.",
+          "narrator_frame": "none",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I still have eighty of it because I'm not— I don't know, I keep it in the tub."
+            },
+            {
+              "exp": 4,
+              "quote": "I had actually wanted to buy new ones with the dining hall money but she'd already washed those and folded them in the tub."
+            }
+          ],
+          "falsifier": "A single account of him buying something for himself purely for enjoyment (not necessity) would weaken this absence claim.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Work and Career (Finances and stewardship): a review of his actual spending over his first semester will show minimal or no discretionary self-directed purchases relative to income, and money received as gifts will remain unspent significantly longer than typical for his peer group."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "form",
+          "headline": "He is grammatically the subject when performing labor or managing others, and grammatically passive or absent when something is done for him.",
+          "explanation": "Active-voice, agentive sentences cluster around caretaking and labor: \"I went and got a Dr Pepper,\" \"I got good at the laminator,\" \"I went over and grabbed the other end of the futon.\" But moments where he is cared for shift to passive construction or center someone else as subject: \"my mom made the bed... and she smoothed it like eight times\" and \"they validated it\" (referring to parking, a benefit given to him). He narrates being the object of care with someone else as the active subject, even when the scene is literally about care directed at him.",
+          "narrator_frame": "none",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "parking was twelve dollars but they validated it"
+            }
+          ],
+          "falsifier": "If he narrates a scene of receiving help with himself as clear grammatical subject and focus (\"I let her help me,\" \"I asked for and got X\"), this asymmetry would weaken.",
+          "confidence": "low",
+          "scope": "cross",
+          "would_predict": "Health and Wellness (Rest and recreation): when describing any future instance of being cared for (e.g., sick, tutored, mentored), he will foreground the other person's actions and minimize or omit his own experience of receiving."
+        }
+      ],
+      "_dropped_ungrounded": []
+    },
+    "delivery": {
+      "analysis": {
+        "observations": [
+          {
+            "pattern": "Calm through unsolicited physical work",
+            "evidence": [
+              "Stacking chairs after scholarship interview: \"I felt way better doing that than I felt in the whole interview. Like my whole body was calm.\"",
+              "Grabbing stranger's futon on move-in day: \"I went over and grabbed the other end of the futon.\"",
+              "Two years laminating and collating in Bagwell's room: \"Nothing happened for two years and it was the calmest I've been.\""
+            ],
+            "confidence": "high",
+            "weakens_if": "Ever describe comparable calm from being praised, resting, or being helped instead",
+            "predicts": "Given a free afternoon, will find a task to do for someone rather than choose rest"
+          },
+          {
+            "pattern": "Unrecognized skill in logistics-as-love",
+            "evidence": [
+              "Self-diagnosis: \"I'm not that good at that part\" (emotional presence)",
+              "Actual demonstrated skill: tracking insurance folder color, translation triage, managing what mother hears",
+              "Treats practical care as lesser substitute for stillness"
+            ],
+            "confidence": "medium",
+            "weakens_if": "Ever name logistics-work as genuinely intimate",
+            "strengthens_if": "Described sitting with someone in silence without generating a task",
+            "predicts": "In future close relationship, will default to practical action when partner wants only company"
+          },
+          {
+            "pattern": "Truth-shrinking as technically honest",
+            "evidence": [
+              "Doctor's warning became: \"para observación nada más, para vigilarla\"",
+              "Sister's condition: \"she's good, she's a sophomore, she's doing great\" (omitting swelling ankles)",
+              "Self-aware: \"That's a true sentence. It's just not the whole thing the lady said.\""
+            ],
+            "confidence": "high",
+            "weakens_if": "Ever give someone full unfiltered severity",
+            "predicts": "Next bad news delivery will default to technically-true, softened version"
+          },
+          {
+            "pattern": "Exact numbers externally, hedged language about self",
+            "evidence": [
+              "Precise: $12 parking, $4,000/year, 3.0 GPA, 65 bus at 35 minutes, $1.75, $100 in twenties with $80 left",
+              "Imprecise about self: \"it was more like I didn't know what I was for?\""
+            ],
+            "confidence": "medium",
+            "disproven_if": "Ever give a feeling the same specificity as a dollar figure",
+            "predicts": "Week-long mood log would be sparse and hedged next to spending log from same week"
+          },
+          {
+            "pattern": "Vivid memory for undemanding people, movement away from those who praise",
+            "evidence": [
+              "Bagwell details: mug, knee, sandwich, laminator technique held exactly two years later",
+              "College readiness lady: minimal details, \"I would get so, like, itchy. I'd just want to leave.\"",
+              "Praise recipient: deflects with bus routes"
+            ],
+            "confidence": "medium",
+            "weakens_if": "Give equally warm, detailed treatment to someone who praised directly",
+            "predicts": "Describing affirming mentor, will supply fewer concrete details than for task-oriented people"
+          },
+          {
+            "pattern": "Survival-usefulness as central identity, persisting into college",
+            "evidence": [
+              "First words on Sunday call: \"how were Cami's numbers\"",
+              "Mother has to say \"hola primero, Elmer\" to get greeting priority",
+              "Cami stable, acute emergency eased, yet role follows to college"
+            ],
+            "confidence": "high",
+            "weakens_if": "Later call shows leading with own news before asking about Cami",
+            "predicts": "Career reasoning will emphasize being-useful-to-system language over personal ambition"
+          },
+          {
+            "pattern": "Father's approval arrives displaced onto objects, requiring interpretation",
+            "evidence": [
+              "Hand on neck: \"that's how he said he was proud of me, I think.\"",
+              "Professional directive instead of direct address: \"tú diles la verdad y ya\"",
+              "Self-flagged uncertainty: \"I think.\""
+            ],
+            "confidence": "medium",
+            "generalizes_if": "Future accounts don't show direct verbal approval",
+            "predicts": "If becomes parent, will default to task-based or indirect approval with own kids unless consciously interrupted"
+          },
+          {
+            "pattern": "Never discretionary self-spending across money-heavy scenes",
+            "evidence": [
+              "$12 parking, $1.75 Dr Pepper for mother, $4,000 scholarship, $100 from father",
+              "$80 untouched in tub",
+              "Wanted new sheets with dining hall money, but mother already washed old ones; didn't return to want"
+            ],
+            "confidence": "medium",
+            "weakens_if": "Single account of buying something purely for enjoyment",
+            "predicts": "First-semester spending will show minimal discretionary self-purchases; gift money sits unspent longer than typical"
+          },
+          {
+            "pattern": "Grammatical subject when working, absent when receiving care",
+            "evidence": [
+              "Active: \"I went and got a Dr Pepper,\" \"I got good at the laminator,\" \"I went over and grabbed the futon\"",
+              "Passive: \"my mom made the bed... and she smoothed it like eight times,\" \"they validated it.\"",
+              "Pattern appears even in scenes literally about care directed at self"
+            ],
+            "confidence": "low",
+            "weakens_if": "Ever narrate receiving help with self as clear subject and focus",
+            "predicts": "Describing future care instances, will foreground other person's actions and minimize own experience"
+          }
+        ],
+        "subject_email": "robertgary.henderson@gmail.com",
+        "analysis_date": "2026-09-18"
+      }
+    }
+  },
+  "generation": "v2",
+  "model": "claude-sonnet-5",
+  "cost_usd": 0.7291,
+  "n_calls": 15,
+  "model_latency_ms": 376879,
+  "latency_ms": 230000,
+  "persona": "p10_freshman",
+  "n_experiences": 4,
+  "condition": "v2__mid",
+  "frozen_at": "2026-09-18T16:35:45.100405+00:00"
+}

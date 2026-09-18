@@ -26,4 +26,4 @@ form (what gets exact numbers vs vagueness, who is the grammatical subject, what
 - Critic: the catalogue's 12-test checklist (own-thesis, swap, strip-the-label, falsifier, two-instances, detail-check, praise, narrator-motive, hedge, tension, dedupe, no-prescription).
 - Synthesis: five lenses (recurrence, stated-vs-lived, form across stories, absences, compounding); 8-12 insights to recover some of v0's volume-driven recall; no uncovered absolutes.
 - Delivery: names the narrator's framing where it differs; states falsifier and prediction.
-Score effect: pending.
+Score effect (pooled re-score, set 5b4b1cb0, v0=24% / v1=75%): depth≥3 **79%** (+4 vs v1, within judge noise), mean depth 2.87 (+0.11), depth-4 count 12 vs 3, grounded **100%** (+32), hit recall 52% (−6), hit share 38% (−14), FP 4% (+4), $0.185/exp (+28%). Read: the form layer earns depth-4s and full grounding but its standalone form/absence claims match the planted truths less often and let a few unsupported claims through; synthesis has no critic after it.

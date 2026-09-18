@@ -1,0 +1,3679 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "patterns_to_explore",
+      "headline": "He completes the paid job before he completes the human moment, across three decades, and frames each instance as simple necessity.",
+      "explanation": "In 1991 he leaves the hospital to finish eleven parts before his son is an hour old; in 2016 he manages a stent the way he manages a fleet vehicle, closing the shop out with vacation days instead of telling anyone; in 2026 he leaves his own retirement cake to avoid the room. Each time the stated justification is different (a traveler with his name on it, privacy, not wanting a fuss) but the shape is identical: task or exit takes precedence over the social/emotional beat available to him.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "And then I went back in and ran the eleven. Got 'em on the truck.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "There was a card going around and a cake for two o'clock. I left at eleven-forty.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Rest and recreation: offered unstructured free time (a planned trip, a day with no task), he will invent or accept a task to fill it rather than remain in open, unscheduled time.",
+      "source_exp": null
+    },
+    {
+      "id": "i2",
+      "category": "core_values",
+      "headline": "He repeatedly transfers precision tools to younger men at the exact moment of loss, treating the tool itself as the eulogy.",
+      "explanation": "Walt Zimmer's mic passes to him at Walt's death (via the wife's box); decades later he buys Devon a Mitutoyo set and lies about its origin at his own retirement. Both transfers happen at an ending, both involve deliberately obscuring the emotional weight (Walt \"didn't say it mean, he just set it down\"; Devon \"don't know\" it came from him), and both are the only acts of mentorship-as-love visible in the corpus.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "So I took the mic.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I got him a used Mitutoyo set off a guy in Girard, hundred and ninety, and I put it in his drawer and told him the company had 'em sitting in the crib from the layoff.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Legacy and impact: asked directly what he wants remembered about him, he will name an object or a skill passed on rather than a relationship or a feeling.",
+      "source_exp": null
+    },
+    {
+      "id": "i3",
+      "category": "patterns_to_explore",
+      "headline": "Every object he keeps has a precise resting place he can name instantly; every relationship's current state is vague or dated.",
+      "explanation": "He knows the mic is \"in the second drawer of the top box\" (E1), the tractor is \"on the shelf by the breaker panel\" (E2), the rod is \"in the closet in the spare room in the tube\" (E5) — but Deb's medical history is \"I think, uh, four or five years ago\" (E3) and Nick's job is \"does something with logistics software, I can't explain it right\" (E4). The asymmetry holds across five separate experiences and is not explained by simple forgetting, since object locations from forty years ago outlast facts about people alive and present in his life now.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "It's in the second drawer of the top box.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "Does something with logistics software, I can't explain it right.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Friendships and community: asked to describe a close friend's current life situation, he will give fewer verifiable specifics than he gives about a tool or vehicle he owns.",
+      "source_exp": null
+    },
+    {
+      "id": "i4",
+      "category": "defining_beliefs",
+      "headline": "He claims fairness and non-blame (\"I want to be fair on that\") while his own retirement and departures show he preempts being judged or chosen against.",
+      "explanation": "In E3 he insists Deb \"never said the word\" and takes pains to frame the divorce as mutual and fair. Yet in E5 he takes the buyout before the layoff list comes out specifically so he won't \"find out\" if he was on it — the same instinct to leave before being told something unwanted, rather than to stay and learn the outcome. The stated self-image is someone who waits for the facts and stays fair; the lived pattern is someone who exits pre-emptively to control the narrative of his own departure.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "She didn't ask me to go. I want to be fair on that.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I don't know if I was on it. Wasn't gonna find out.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Mindset and limiting beliefs: facing an upcoming evaluation or decision about him (a medical diagnosis, a will, a performance review), he will act to resolve or exit the uncertainty himself rather than wait for the outcome to be delivered.",
+      "source_exp": null
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "Every experience ends with a small, deliberately minimizing sign-off that undercuts what he just described.",
+      "explanation": "\"Anyway. That's the shop\" (E1); \"Anyway that's the twelfth\" (E2); \"Anyway. Duke lived till oh-nine\" (E3); \"Anyway that's the — that's it, that's the story. Not much of one\" (E5). The pattern spans four of five experiences and always deflates the preceding content immediately after he's shown unusual specificity or feeling, suggesting a reflexive move to close down significance right after it surfaces.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "Anyway. That's the shop.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "Anyway that's the — that's it, that's the story. Not much of one.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Personal growth: asked to reflect on an accomplishment (41 years worked, a marriage, raising a son), he will conclude with a minimizing phrase (\"not much,\" \"that's it\") rather than an evaluative or proud statement.",
+      "source_exp": null
+    },
+    {
+      "id": "i6",
+      "category": "patterns_to_explore",
+      "headline": "Across five stories spanning a heart attack, a divorce, and a death, he never once names what he wanted for himself.",
+      "explanation": "He states what tasks needed doing (parts, trucks, furnaces, tools) and what others needed (Deb's furnace, Nick's rod, Devon's mics) in granular detail, but there is no instance across the corpus where he articulates a personal want or preference independent of a task — not about the divorce, not about retirement, not about the stent recovery, not even about the fishing rod's purpose beyond Nick's hockey colors. The corpus gives ample room for this (a whole account of quitting the second cardiac medication, a whole account of retiring) and it never surfaces.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "The other one made my legs hurt so I quit that, I didn't — I mean I meant to call about it.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "Then I don't know.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Passions and interests: asked directly \"what do you want to do now that you're retired,\" he will answer with a routine (Denny's, same wake time) rather than a goal or desire.",
+      "source_exp": null
+    },
+    {
+      "id": "i7",
+      "category": "patterns_to_explore",
+      "headline": "No story contains a moment where he receives help; every account shows him giving, fixing, or providing, never being on the receiving end.",
+      "explanation": "He drives himself to the hospital for a 90%-blocked artery (E4), fixes Deb's furnace and tires alone (E3), builds tools and toys for others (E2, E5), moves his own furniture with one coworker rather than a crew (E3) — but at no point does anyone fix, drive, build, or care for him, even in the moment of his own cardiac event, where a spouse's or partner's care would ordinarily appear. Given a heart attack, a divorce, and a retirement are exactly the events where being helped is common, this is a meaningful gap rather than an artifact of topic choice.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "So I drove myself to Hamot.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "So me and a guy from work, Timmy Pahl, we had it on a furniture dolly and a ramp.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Friendships and community: he will not have a person he names as someone he calls first in a crisis; asked \"who would you call,\" he will hesitate or name a task-based contact (a mechanic, a doctor) rather than a person.",
+      "source_exp": null
+    },
+    {
+      "id": "i8",
+      "category": "patterns_to_explore",
+      "headline": "The retirement account reveals that his entire style of care — quiet transfer of tools, minimized exits — is a closed system he learned from Walt and never revised.",
+      "explanation": "E1 alone shows a moving anecdote about receiving a mic in silence. Only with E5 present can we see it was not a singular memory but a template he actively re-enacted on Devon forty years later, down to the concealment of the gift's source and the flat closing line. This means the Walt story is not nostalgia but evidence of an operating procedure still running the day he left the workforce for good.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "He didn't say it mean. He just set it down.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I put it in his drawer and told him the company had 'em sitting in the crib from the layoff. He don't know.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Leadership and collaboration: in any future mentoring relationship he enters, he will transfer knowledge or resources indirectly/anonymously rather than through direct praise or acknowledgment.",
+      "source_exp": null
+    },
+    {
+      "id": "i9",
+      "category": "patterns_to_explore",
+      "headline": "He names coworkers and their competence with more evaluative detail than he gives any family member.",
+      "explanation": "Rigo \"couldn't hold a tenth to save his life\" (E2), Devon has \"good hands, terrible with a print\" (E5), Timmy Pahl is named in a single functional mention (E3) — these are specific, opinionated character assessments. By contrast, Deb and Nick receive almost no adjectival description of their character anywhere in the corpus; Nick is described only by inherited trait (\"his mother's way of going quiet\") and Deb almost not at all except logistically.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "the second shift guy, Rigo, he couldn't hold a tenth to save his life",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "There's a kid there, Devon, twenty-three, twenty-four. Good hands, terrible with a print.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "would_predict": "Family and parenting: asked to describe Nick's strengths and weaknesses the way he describes a coworker's skill, he will default to biography (job, location, visit frequency) rather than character assessment.",
+      "source_exp": null
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "First shop was off East 12th, near where the tracks cross"
+            },
+            {
+              "line": "L5",
+              "what_happened": "The building is gone now; it is a gravel lot used for trailers"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Year was eighty-three"
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker was eighteen"
+            },
+            {
+              "line": "L8",
+              "what_happened": "Shop ran hydraulic fittings mostly, some valve bodies for a Cleveland outfit"
+            },
+            {
+              "line": "L9",
+              "what_happened": "An old man named Walt Zimmer worked there"
+            },
+            {
+              "line": "L11",
+              "what_happened": "Walt had two Monarch machines at the end that nobody else touched"
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker was sweeping"
+            },
+            {
+              "line": "L15",
+              "what_happened": "Walt did not speak to speaker for about four months"
+            },
+            {
+              "line": "L16",
+              "what_happened": "Walt took the part out of speaker's hand, set it down, and said he was holding the mic wrong and would feel it wrong his whole life"
+            },
+            {
+              "line": "L17",
+              "what_happened": "Walt showed him"
+            },
+            {
+              "line": "L18",
+              "what_happened": "Walt explained to let the ratchet do it, three clicks, don't muscle it"
+            },
+            {
+              "line": "L21",
+              "what_happened": "Walt had a lung condition"
+            },
+            {
+              "line": "L22",
+              "what_happened": "Everybody had it from the mist/coolant; nobody wore protective gear back then"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Walt went out around September and was dead by Thanksgiving"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Walt's wife brought a box in and said take what you want; everybody stood there"
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker took the mic"
+            },
+            {
+              "line": "L26",
+              "what_happened": "The mic is a Starrett 436, one inch, carbide faces, with W.E.Z. scratched into the frame with a vibro pen"
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker still has it"
+            },
+            {
+              "line": "L28",
+              "what_happened": "It is in the second drawer of the top box"
+            },
+            {
+              "line": "L29",
+              "what_happened": "Speaker checked it against gage blocks about two years ago; it was still accurate with no detectable anvil wear"
+            },
+            {
+              "line": "L31",
+              "what_happened": "The lettering on the stone at Trinity was taken care of"
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker attributes this to \"the local, I guess, or somebody\""
+            },
+            {
+              "line": "L41",
+              "what_happened": "The shop closed in eighty-seven"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L25",
+              "choice_made": "Speaker took the mic from the box",
+              "alternatives_present_in_text": "everybody stood there; implies others could have taken something or nothing"
+            }
+          ],
+          "self_descriptions": [],
+          "narrator_explanations": [
+            {
+              "line": "L13",
+              "quote": "That's what you did.",
+              "explains": "sweeping/deferring as new worker"
+            },
+            {
+              "line": "L14",
+              "quote": "You swept and you deburred and you kept your mouth shut.",
+              "explains": "expected junior behavior in the shop"
+            },
+            {
+              "line": "L33",
+              "quote": "That's how it went then.",
+              "explains": "general norms of the era"
+            },
+            {
+              "line": "L37",
+              "quote": "He didn't say it mean.",
+              "explains": "Walt's tone when correcting speaker"
+            }
+          ],
+          "emotion_words": [],
+          "repetitions": [
+            {
+              "phrase": "he set it down",
+              "lines": [
+                "L16",
+                "L35",
+                "L38"
+              ]
+            },
+            {
+              "phrase": "three clicks",
+              "lines": [
+                "L18",
+                "L19"
+              ]
+            }
+          ],
+          "precision_asymmetry": [
+            {
+              "line": "L6",
+              "quote": "Eighty-three.",
+              "exact_or_vague": "exact",
+              "topic": "year started at shop"
+            },
+            {
+              "line": "L7",
+              "quote": "I was eighteen.",
+              "exact_or_vague": "exact",
+              "topic": "speaker's age"
+            },
+            {
+              "line": "L26",
+              "quote": "Starrett 436, one inch, it's carbide faces, it's got his initials scratched in the frame with a vibro pen, W.E.Z.",
+              "exact_or_vague": "exact",
+              "topic": "the micrometer"
+            },
+            {
+              "line": "L29",
+              "quote": "I checked it against the gage blocks maybe two years ago, still dead on, no wear on the anvil that I can find.",
+              "exact_or_vague": "exact",
+              "topic": "condition of the mic"
+            },
+            {
+              "line": "L41",
+              "quote": "They closed in eighty-seven.",
+              "exact_or_vague": "exact",
+              "topic": "shop closing"
+            },
+            {
+              "line": "L23",
+              "quote": "he went out in, I wanna say September, and he was gone by Thanksgiving",
+              "exact_or_vague": "vague",
+              "topic": "timing of Walt's decline and death"
+            },
+            {
+              "line": "L31",
+              "quote": "The stone at Trinity there, the lettering on it, the — that got taken care of.",
+              "exact_or_vague": "vague",
+              "topic": "who paid for/arranged the headstone lettering"
+            },
+            {
+              "line": "L32",
+              "quote": "The local, I guess, or somebody.",
+              "exact_or_vague": "vague",
+              "topic": "who took care of the stone"
+            },
+            {
+              "line": "L21",
+              "quote": "He had the lung thing.",
+              "exact_or_vague": "vague",
+              "topic": "Walt's illness/diagnosis"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L16",
+              "quote": "he come over and he took the part outta my hand and he set it down and he says",
+              "actor": "Walt",
+              "note": "Walt is the actor; speaker is recipient"
+            },
+            {
+              "line": "L21",
+              "quote": "He had the lung thing.",
+              "actor": "illness/lung thing",
+              "note": "condition presented as something Walt had, not caused by named actor"
+            },
+            {
+              "line": "L22",
+              "quote": "everybody had it, the mist, the coolant, nobody wore nothin' back then",
+              "actor": "mist/coolant, nobody (collective inaction)",
+              "note": "cause attributed to environmental conditions and collective non-action, no named responsible party"
+            },
+            {
+              "line": "L23",
+              "quote": "he went out in, I wanna say September, and he was gone by Thanksgiving",
+              "actor": "Walt (as subject of \"went out\" and \"was gone\")",
+              "note": "death described with euphemistic intransitive phrasing, no explicit cause stated"
+            },
+            {
+              "line": "L24",
+              "quote": "His wife brought a box in and said take what you want",
+              "actor": "Walt's wife",
+              "note": "wife is the actor distributing Walt's belongings"
+            },
+            {
+              "line": "L31",
+              "quote": "that got taken care of",
+              "actor": "unspecified/passive",
+              "note": "passive construction, actor unnamed"
+            },
+            {
+              "line": "L25",
+              "quote": "So I took the mic.",
+              "actor": "speaker (I)",
+              "note": "one of few first-person active statements"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "the Starrett mic",
+              "treatment": "rich",
+              "lines": [
+                "L26",
+                "L28",
+                "L29"
+              ]
+            },
+            {
+              "topic_or_person": "Walt Zimmer's teaching moment",
+              "treatment": "rich",
+              "lines": [
+                "L16",
+                "L17",
+                "L18",
+                "L19"
+              ]
+            },
+            {
+              "topic_or_person": "Walt's illness and death",
+              "treatment": "flat",
+              "lines": [
+                "L21",
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "topic_or_person": "Walt's wife",
+              "treatment": "flat",
+              "lines": [
+                "L24"
+              ]
+            },
+            {
+              "topic_or_person": "the four months of silence/sweeping",
+              "treatment": "flat",
+              "lines": [
+                "L12",
+                "L13",
+                "L14",
+                "L15"
+              ]
+            },
+            {
+              "topic_or_person": "the headstone/Trinity",
+              "treatment": "flat",
+              "lines": [
+                "L31",
+                "L32"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "speaker's own feelings at the time of receiving the mic or at Walt's death",
+              "note": "no emotion words appear anywhere in the transcript"
+            },
+            {
+              "expected": "speaker's body or physical sensation (learning to hold the mic correctly)",
+              "note": "the physical correction is described only through Walt's actions and words, not speaker's sensation"
+            },
+            {
+              "expected": "a named cause of death or diagnosis",
+              "note": "L21-L23 describe illness and death without a named disease or medical detail"
+            },
+            {
+              "expected": "other coworkers' reactions or identities at the box scene",
+              "note": "L24 says \"everybody stood there\" with no individuals named or described"
+            },
+            {
+              "expected": "speaker's spouse, family, or personal life outside the shop",
+              "note": "no spouse, children, or home life mentioned"
+            },
+            {
+              "expected": "what speaker wanted or hoped for at the time",
+              "note": "no statement of desire or aspiration appears in the account"
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L23",
+              "quote": "And he went out in, I wanna say September, and he was gone by Thanksgiving.",
+              "note": "Walt's decline and death compressed into one sentence"
+            },
+            {
+              "line": "L31",
+              "quote": "The stone at Trinity there, the lettering on it, the — that got taken care of.",
+              "note": "unfinished sentence, trails off, detail not completed"
+            },
+            {
+              "line": "L39",
+              "quote": "Anyway.",
+              "note": "single-word line closing off the reflective moment"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Walt Zimmer",
+              "lines": [
+                "L9",
+                "L10",
+                "L11",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L21",
+                "L23",
+                "L37",
+                "L38"
+              ],
+              "what_they_did": "worked the two Monarchs, ignored speaker for four months, then corrected his grip on the mic and taught him the ratchet technique, became ill and died"
+            },
+            {
+              "who": "Walt's wife",
+              "lines": [
+                "L24"
+              ],
+              "what_they_did": "brought in a box of Walt's belongings and told the shop workers to take what they wanted"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "The speaker treats objects as the legitimate vessel for grief and precision as the legitimate register for feeling.",
+              "explanation": "Every fact about the mic is exact (model number, material, initials, drawer location, a calibration check \"two years ago\") while every fact about Walt's death is vague (\"the lung thing,\" \"I wanna say September\") and no emotion word appears anywhere in the account. The competing reading — that he simply forgot the medical details — fails because he remembers the vibro-pen initials on a tool but not what killed the man who gave it to him; the asymmetry is selective, not general memory decay.",
+              "narrator_frame": "none — he never comments on this asymmetry himself",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L26",
+                  "quote": "Starrett 436, one inch, it's carbide faces, it's got his initials scratched in the frame with a vibro pen"
+                },
+                {
+                  "exp": 1,
+                  "line": "L21",
+                  "quote": "He had the lung thing."
+                },
+                {
+                  "exp": 1,
+                  "line": "L29",
+                  "quote": "I checked it against the gage blocks maybe two years ago, still dead on"
+                }
+              ],
+              "falsifier": "If he could recall Walt's actual diagnosis, hospital, or last conversation with comparable precision, this asymmetry would not hold.",
+              "confidence": "high",
+              "would_predict": "Relationships: when asked about a family member's illness or death, he will give exact dates/objects associated with them but struggle to name the cause of death or describe how he felt at the time."
+            },
+            {
+              "category": "core_values",
+              "kind": "content",
+              "headline": "He measures respect by whether something still meets its original tolerance, not by whether it was praised or explained.",
+              "explanation": "The single unprompted verification act in the whole account is checking the mic against gage blocks decades later — an act of testing fidelity to a standard, not sentiment. This is a choice that cost him something (effort, and risking finding it had failed) and it mirrors the exact lesson Walt gave him: don't muscle it, let the ratchet stop at three clicks. The alternative explanation — nostalgic tinkering — doesn't fit, because nostalgia doesn't require a gage block; verification against a standard is a specific, costly form of care distinct from sentimentality.",
+              "narrator_frame": "none — he reports the check as a simple fact, not as meaningful",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L29",
+                  "quote": "I checked it against the gage blocks maybe two years ago, still dead on, no wear on the anvil that I can find"
+                },
+                {
+                  "exp": 1,
+                  "line": "L18",
+                  "quote": "you let the ratchet do it, three clicks, you don't muscle it"
+                }
+              ],
+              "falsifier": "If he had simply displayed the mic as a keepsake without ever testing its accuracy, this value claim would not hold.",
+              "confidence": "medium",
+              "would_predict": "Work and Career: in performance reviews or handoffs, he will judge whether work was done right by re-checking it against a standard himself rather than accepting a colleague's or manager's account of it."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "form",
+              "headline": "He narrates people's deaths and disappearances in the passive voice, with no one held responsible.",
+              "explanation": "Walt's death is described through intransitive euphemism (\"he went out,\" \"he was gone\") with the cause given only as ambient (\"the mist, the coolant, nobody wore nothin'\"), and even the stone's upkeep is passive (\"that got taken care of... the local, I guess, or somebody\"). Two separate moments — the death and the grave — share this pattern of dissolving agency exactly where blame or credit could be assigned, which could be simple regional idiom or could be a habit of not naming who is at fault or who deserves credit; worth checking against how he narrates other losses.",
+              "narrator_frame": "none",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "he went out in, I wanna say September, and he was gone by Thanksgiving"
+                },
+                {
+                  "exp": 1,
+                  "line": "L22",
+                  "quote": "everybody had it, the mist, the coolant, nobody wore nothin' back then"
+                },
+                {
+                  "exp": 1,
+                  "line": "L32",
+                  "quote": "The local, I guess, or somebody."
+                }
+              ],
+              "falsifier": "If in another account he assigns direct blame or credit for a death, injury, or workplace failure by name, this pattern would weaken.",
+              "confidence": "medium",
+              "would_predict": "Work and Career: describing a layoff, injury, or company failure he witnessed, he will use passive or collective phrasing (\"it happened,\" \"nobody caught it\") rather than naming a decision-maker."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "stated_vs_lived",
+              "headline": "He frames four months of silent apprenticeship as simply \"how it went,\" but the memory he keeps returning to is the one moment someone finally spoke to him.",
+              "explanation": "He twice normalizes the silence (\"that's what you did,\" \"that's how it went then\") yet the entire narrative structure builds toward and repeats the single sentence where Walt breaks silence (\"he set it down\" appears three times, L16/35/38). If the silence were truly unremarkable, it wouldn't require narrative justification twice, nor would the moment it ended still be the thing he says he \"thinks about.\" This suggests the norm cost him something he's reluctant to name as a cost.",
+              "narrator_frame": "\"That's what you did... That's how it went then.\"",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "You swept and you deburred and you kept your mouth shut."
+                },
+                {
+                  "exp": 1,
+                  "line": "L36",
+                  "quote": "I think about that."
+                },
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "he come over and he took the part outta my hand and he set it down and he says"
+                }
+              ],
+              "falsifier": "If he described the four months of silence as genuinely comfortable or preferred, with no repeated return to the moment it broke, this pattern would not hold.",
+              "confidence": "low",
+              "would_predict": "Relationships: he will describe long stretches of being ignored or unacknowledged by an authority figure (boss, parent) as normal/expected, while singling out one small moment of recognition from that same person as unusually significant."
+            }
+          ],
+          "_dropped_ungrounded": []
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He treats objects as the vessel for grief and precision as the register for feeling.",
+              "explanation": "Every fact about the mic is exact (model number, material, initials, drawer location, a calibration check \"two years ago\") while every fact about Walt's death is vague (\"the lung thing,\" \"I wanna say September\") and no emotion word appears anywhere in the account. The competing reading — that he simply forgot the medical details — fails because he remembers the vibro-pen initials on a tool but not what killed the man who gave it to him; the asymmetry is selective, not general memory decay.",
+              "narrator_frame": "none — he never comments on this asymmetry himself",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L26",
+                  "quote": "Starrett 436, one inch, it's carbide faces, it's got his initials scratched in the frame with a vibro pen"
+                },
+                {
+                  "exp": 1,
+                  "line": "L21",
+                  "quote": "He had the lung thing."
+                },
+                {
+                  "exp": 1,
+                  "line": "L29",
+                  "quote": "I checked it against the gage blocks maybe two years ago, still dead on"
+                }
+              ],
+              "falsifier": "If he could recall Walt's actual diagnosis, hospital, or last conversation with comparable precision, this asymmetry would not hold.",
+              "confidence": "high",
+              "would_predict": "Relationships: when asked about a family member's illness or death, he will give exact dates/objects associated with them but struggle to name the cause of death or describe how he felt at the time.",
+              "exp": 1
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "form",
+              "headline": "He narrates deaths and losses in the passive voice, with no one held responsible.",
+              "explanation": "Walt's death is described through intransitive euphemism (\"he went out,\" \"he was gone\") with the cause given only as ambient (\"the mist, the coolant, nobody wore nothin'\"), and even the stone's upkeep is passive (\"that got taken care of... the local, I guess, or somebody\"). Two separate moments — the death and the grave — share this pattern of dissolving agency exactly where blame or credit could be assigned, which could be simple regional idiom or could be a habit of not naming who is at fault or who deserves credit; worth checking against how he narrates other losses.",
+              "narrator_frame": "none",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "he went out in, I wanna say September, and he was gone by Thanksgiving"
+                },
+                {
+                  "exp": 1,
+                  "line": "L22",
+                  "quote": "everybody had it, the mist, the coolant, nobody wore nothin' back then"
+                },
+                {
+                  "exp": 1,
+                  "line": "L32",
+                  "quote": "The local, I guess, or somebody."
+                }
+              ],
+              "falsifier": "If in another account he assigns direct blame or credit for a death, injury, or workplace failure by name, this pattern would weaken.",
+              "confidence": "medium",
+              "would_predict": "Work and Career: describing a layoff, injury, or company failure he witnessed, he will use passive or collective phrasing (\"it happened,\" \"nobody caught it\") rather than naming a decision-maker.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He measures respect by whether something still meets its original tolerance, not by whether it was praised or explained.",
+              "test": "NARRATOR-MOTIVE",
+              "note": "Reframes a single fact-check (gage blocks) as a value about 'respect' without testing simpler motives like habit-of-trade curiosity or idle tinkering; only one instance, no cost shown."
+            },
+            {
+              "headline": "He frames four months of silent apprenticeship as simply \"how it went,\" but the memory he keeps returning to is the one moment someone finally spoke to him.",
+              "test": "SWAP",
+              "note": "An old-timer normalizing a hazing-style silent apprenticeship and remembering the one time the mentor spoke is a generic shop-trade story beat, not a specific finding about this speaker; confidence already marked low and adds nothing the asymmetry candidate doesn't cover better."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "kind": "asymmetry",
+            "headline": "He treats objects as the vessel for grief and precision as the register for feeling.",
+            "explanation": "Every fact about the mic is exact (model number, material, initials, drawer location, a calibration check \"two years ago\") while every fact about Walt's death is vague (\"the lung thing,\" \"I wanna say September\") and no emotion word appears anywhere in the account. The competing reading — that he simply forgot the medical details — fails because he remembers the vibro-pen initials on a tool but not what killed the man who gave it to him; the asymmetry is selective, not general memory decay.",
+            "narrator_frame": "none — he never comments on this asymmetry himself",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L26",
+                "quote": "Starrett 436, one inch, it's carbide faces, it's got his initials scratched in the frame with a vibro pen"
+              },
+              {
+                "exp": 1,
+                "line": "L21",
+                "quote": "He had the lung thing."
+              },
+              {
+                "exp": 1,
+                "line": "L29",
+                "quote": "I checked it against the gage blocks maybe two years ago, still dead on"
+              }
+            ],
+            "falsifier": "If he could recall Walt's actual diagnosis, hospital, or last conversation with comparable precision, this asymmetry would not hold.",
+            "confidence": "high",
+            "would_predict": "Relationships: when asked about a family member's illness or death, he will give exact dates/objects associated with them but struggle to name the cause of death or describe how he felt at the time.",
+            "exp": 1
+          },
+          {
+            "category": "patterns_to_explore",
+            "kind": "form",
+            "headline": "He narrates deaths and losses in the passive voice, with no one held responsible.",
+            "explanation": "Walt's death is described through intransitive euphemism (\"he went out,\" \"he was gone\") with the cause given only as ambient (\"the mist, the coolant, nobody wore nothin'\"), and even the stone's upkeep is passive (\"that got taken care of... the local, I guess, or somebody\"). Two separate moments — the death and the grave — share this pattern of dissolving agency exactly where blame or credit could be assigned, which could be simple regional idiom or could be a habit of not naming who is at fault or who deserves credit; worth checking against how he narrates other losses.",
+            "narrator_frame": "none",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L23",
+                "quote": "he went out in, I wanna say September, and he was gone by Thanksgiving"
+              },
+              {
+                "exp": 1,
+                "line": "L22",
+                "quote": "everybody had it, the mist, the coolant, nobody wore nothin' back then"
+              },
+              {
+                "exp": 1,
+                "line": "L32",
+                "quote": "The local, I guess, or somebody."
+              }
+            ],
+            "falsifier": "If in another account he assigns direct blame or credit for a death, injury, or workplace failure by name, this pattern would weaken.",
+            "confidence": "medium",
+            "would_predict": "Work and Career: describing a layoff, injury, or company failure he witnessed, he will use passive or collective phrasing (\"it happened,\" \"nobody caught it\") rather than naming a decision-maker.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Nick was born in November 1991, on the twelfth"
+            },
+            {
+              "line": "L3",
+              "what_happened": "Birth occurred at Hamot"
+            },
+            {
+              "line": "L4",
+              "what_happened": "Speaker worked second shift, three to eleven-thirty, on a job of forty-six aluminum housing parts that had to ship by Wednesday morning or incur expedite freight charges"
+            },
+            {
+              "line": "L5",
+              "what_happened": "Speaker had eleven parts left when Deb's sister called the guard shack"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker went (to the hospital)"
+            },
+            {
+              "line": "L7",
+              "what_happened": "Drive from plant to Hamot is nine minutes if State is caught right"
+            },
+            {
+              "line": "L9",
+              "what_happened": "She (Deb) was in there a long time"
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker waited in a long hallway with chairs bolted together"
+            },
+            {
+              "line": "L13",
+              "what_happened": "Nick was born at roughly quarter after four in the morning"
+            },
+            {
+              "line": "L14",
+              "what_happened": "Nick weighed seven pounds one ounce"
+            },
+            {
+              "line": "L15",
+              "what_happened": "Nick was placed in a plastic bin with a light; speaker stood there"
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker went back to the plant and ran the remaining eleven parts"
+            },
+            {
+              "line": "L17",
+              "what_happened": "Speaker got the parts on the truck"
+            },
+            {
+              "line": "L21",
+              "what_happened": "Speaker made a tractor for Nick"
+            },
+            {
+              "line": "L22",
+              "what_happened": "Tractor was made out of scrap"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Tractor had turning wheels, a broached keyway in the axle, and took three weeks of lunches to build"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Tractor was painted green like a Deere"
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker put the tractor on a shelf in the basement"
+            },
+            {
+              "line": "L27",
+              "what_happened": "The tractor is still in the basement"
+            },
+            {
+              "line": "L29",
+              "what_happened": "Tractor is on the shelf by the breaker panel"
+            },
+            {
+              "line": "L32",
+              "what_happened": "Forecast that night was six inches of snow; none fell, it went east of them"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L16",
+              "choice_made": "Speaker went back to the plant and ran the eleven remaining parts after the birth",
+              "alternatives_present_in_text": "Could have stayed at the hospital"
+            },
+            {
+              "line": "L18",
+              "choice_made": "Speaker ran the parts himself rather than leave them for Rigo",
+              "alternatives_present_in_text": "Leaving the job for second shift guy Rigo to finish"
+            },
+            {
+              "line": "L25-26",
+              "choice_made": "Speaker put the tractor on the shelf instead of giving it to the baby",
+              "alternatives_present_in_text": "Giving the nine-pound steel tractor to the baby"
+            }
+          ],
+          "self_descriptions": [],
+          "narrator_explanations": [
+            {
+              "line": "L18",
+              "quote": "Because if you're gonna do it you do it, and the second shift guy, Rigo, he couldn't hold a tenth to save his life, he'd have scrapped 'em and then it's your name on the traveler anyway.",
+              "explains": "why he went back and finished the eleven parts instead of staying at the hospital"
+            },
+            {
+              "line": "L25",
+              "quote": "he was a baby, so, you know, you don't give a baby a nine-pound piece of steel",
+              "explains": "why the tractor was put on a shelf instead of given to Nick"
+            }
+          ],
+          "emotion_words": [],
+          "repetitions": [
+            {
+              "phrase": "shelf",
+              "lines": [
+                "L26",
+                "L28",
+                "L29"
+              ]
+            }
+          ],
+          "precision_asymmetry": [
+            {
+              "line": "L1",
+              "quote": "November, uh, twelfth.",
+              "exact_or_vague": "exact",
+              "topic": "birth date"
+            },
+            {
+              "line": "L4",
+              "quote": "three to eleven-thirty, and we had a job — forty-six parts, aluminum housings",
+              "exact_or_vague": "exact",
+              "topic": "shift hours and job specs"
+            },
+            {
+              "line": "L5",
+              "quote": "I had eleven left",
+              "exact_or_vague": "exact",
+              "topic": "parts remaining"
+            },
+            {
+              "line": "L7",
+              "quote": "It's what, nine minutes from the plant to Hamot if you catch State right.",
+              "exact_or_vague": "exact",
+              "topic": "drive time"
+            },
+            {
+              "line": "L13",
+              "quote": "Quarter after four in the morning, roughly.",
+              "exact_or_vague": "exact (hedged)",
+              "topic": "time of birth"
+            },
+            {
+              "line": "L14",
+              "quote": "Seven pounds one.",
+              "exact_or_vague": "exact",
+              "topic": "birth weight"
+            },
+            {
+              "line": "L23",
+              "quote": "took me three weeks of lunches",
+              "exact_or_vague": "exact",
+              "topic": "time spent making tractor"
+            },
+            {
+              "line": "L9",
+              "quote": "She was in there a long time.",
+              "exact_or_vague": "vague",
+              "topic": "duration of labor"
+            },
+            {
+              "line": "L10",
+              "quote": "They didn't let you in the same as they do now, or, I don't know, maybe they did and I was out in the hall.",
+              "exact_or_vague": "vague",
+              "topic": "hospital access/his own location during labor"
+            },
+            {
+              "line": "L32",
+              "quote": "The forecast that night was six inches and we got nothing",
+              "exact_or_vague": "exact",
+              "topic": "snow forecast"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L5",
+              "quote": "Deb's sister called the guard shack",
+              "actor": "Deb's sister",
+              "note": "another person initiates the summons, not the speaker"
+            },
+            {
+              "line": "L6",
+              "quote": "So I went.",
+              "actor": "I",
+              "note": "speaker as actor, minimal clause"
+            },
+            {
+              "line": "L12-13",
+              "quote": "He come at, uh. Quarter after four",
+              "actor": "he (the baby)",
+              "note": "birth described as something the baby does, not something Deb does or speaker witnesses her doing"
+            },
+            {
+              "line": "L15",
+              "quote": "they had him in the plastic bin thing with the light and I stood there",
+              "actor": "they / I",
+              "note": "unspecified medical staff act on the baby; speaker's own action reduced to standing"
+            },
+            {
+              "line": "L16",
+              "quote": "I went back in and ran the eleven",
+              "actor": "I",
+              "note": "speaker as actor"
+            },
+            {
+              "line": "L32",
+              "quote": "it went east of us",
+              "actor": "the storm/weather",
+              "note": "weather as actor, snow that didn't come"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "the aluminum parts job",
+              "treatment": "rich",
+              "lines": [
+                "L4",
+                "L5",
+                "L16",
+                "L17",
+                "L18"
+              ]
+            },
+            {
+              "topic_or_person": "the tractor",
+              "treatment": "rich",
+              "lines": [
+                "L21",
+                "L22",
+                "L23",
+                "L24"
+              ]
+            },
+            {
+              "topic_or_person": "Deb (labor/delivery)",
+              "treatment": "flat",
+              "lines": [
+                "L9",
+                "L10"
+              ]
+            },
+            {
+              "topic_or_person": "Nick at birth",
+              "treatment": "flat",
+              "lines": [
+                "L14",
+                "L15"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "Speaker's own emotional reaction to the birth",
+              "note": "no emotion words appear anywhere in the account of L12-L17"
+            },
+            {
+              "expected": "Deb's experience or words during/after labor",
+              "note": "Deb is referenced only via her sister's phone call (L5) and \"she\" in L9; no direct quote or described action from her"
+            },
+            {
+              "expected": "Description of holding or touching the baby",
+              "note": "speaker states only \"I stood there\" (L15); no mention of holding Nick"
+            },
+            {
+              "expected": "Reaction to leaving the hospital to return to work",
+              "note": "transition from hospital to plant (L16) given with no stated feeling or hesitation"
+            },
+            {
+              "expected": "Nick's reaction to or knowledge of the tractor",
+              "note": "no mention of Nick ever seeing, playing with, or being told about the tractor"
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L9",
+              "quote": "She was in there a long time.",
+              "note": "entire labor period covered in one clause"
+            },
+            {
+              "line": "L15",
+              "quote": "and I stood there",
+              "note": "the moment of seeing the newborn given one clause before shifting to L16 return-to-work"
+            },
+            {
+              "line": "L16",
+              "quote": "And then I went back in and ran the eleven.",
+              "note": "decision to leave the hospital given in one clause with no elaboration"
+            },
+            {
+              "line": "L20",
+              "quote": "What else.",
+              "note": "speaker moves on abruptly, searching for next topic"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Deb's sister",
+              "lines": [
+                "L5"
+              ],
+              "what_they_did": "called the guard shack to summon the speaker"
+            },
+            {
+              "who": "Deb",
+              "lines": [
+                "L9"
+              ],
+              "what_they_did": "was in labor a long time (no other action described)"
+            },
+            {
+              "who": "Rigo",
+              "lines": [
+                "L18"
+              ],
+              "what_they_did": "described as the second shift guy who \"couldn't hold a tenth\" and would have scrapped the parts"
+            },
+            {
+              "who": "unspecified hospital staff (\"they\")",
+              "lines": [
+                "L10",
+                "L15"
+              ],
+              "what_they_did": "controlled access to the room; put the baby in the plastic bin with the light"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He measures the night his son was born in parts, minutes, and pounds because those are the units he trusts to hold meaning.",
+              "explanation": "Every number in the account is exact — forty-six parts, nine minutes, quarter after four, seven pounds one, three weeks of lunches — while the only two human-relational moments (Deb's labor, holding Nick) are covered in a single vague clause each (\"she was in there a long time,\" \"I stood there\"). The alternative reading — that he's simply a literal, factual storyteller — doesn't hold, because the precision is selective: it clusters on job/production facts and physical measurements, not on the birth itself.",
+              "narrator_frame": "none",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L4",
+                  "quote": "forty-six parts, aluminum housings"
+                },
+                {
+                  "exp": 2,
+                  "line": "L14",
+                  "quote": "Seven pounds one."
+                },
+                {
+                  "exp": 2,
+                  "line": "L9",
+                  "quote": "She was in there a long time."
+                },
+                {
+                  "exp": 2,
+                  "line": "L15",
+                  "quote": "and I stood there"
+                }
+              ],
+              "falsifier": "If he had described Deb's labor or the moment of first holding Nick with comparable specificity (times, words she said, what it felt like), this asymmetry would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In discussing his marriage, he will default to logistics and dates (anniversaries, houses, jobs) rather than describe emotional exchanges with Deb in any specific detail."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "stated_vs_lived",
+              "headline": "He frames leaving the hospital to finish the parts run as professional obligation, but the justification leans on comparing himself favorably to Rigo, not on the deadline itself.",
+              "explanation": "His stated reason is procedural: \"if you're gonna do it you do it\" and the freight penalty (L4, L18). But over half of that justification (L18) is spent discrediting Rigo's competence (\"couldn't hold a tenth to save his life\") and protecting his own name on the traveler — suggesting the return to work was as much about reputation and control as about the shipment. This doesn't resolve on its own; it recurs with the tractor choice, where a similarly practical-sounding reason (\"you don't give a baby a nine-pound piece of steel\") also conceals a resistance to letting go of something he made.",
+              "narrator_frame": "\"Because if you're gonna do it you do it, and the second shift guy, Rigo, he couldn't hold a tenth to save his life, he'd have scrapped 'em and then it's your name on the traveler anyway.\"",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L18",
+                  "quote": "he'd have scrapped 'em and then it's your name on the traveler anyway"
+                },
+                {
+                  "exp": 2,
+                  "line": "L25",
+                  "quote": "he was a baby, so, you know, you don't give a baby a nine-pound piece of steel"
+                },
+                {
+                  "exp": 2,
+                  "line": "L26",
+                  "quote": "So I put it up on the shelf in the basement."
+                }
+              ],
+              "falsifier": "If he mentioned handing the parts problem to someone else without comment, or gave the tractor to Nick once he was old enough to hold it, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Work and Career: When delegating tasks to less-trusted colleagues, he will redo or personally check their work afterward even when it costs him personal time, citing quality control rather than trust."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "absence",
+              "headline": "He built something by hand for his newborn son and then kept it from him, and has never revisited why.",
+              "explanation": "The tractor took three weeks of lunches, has a broached keyway, is painted like a real machine — clearly not a casual effort — yet it went straight to a shelf and stayed there for over three decades, un-gifted, un-played-with. His stated reason (baby, steel, unsafe) explains the initial delay but not the permanence; he never mentions revisiting it once Nick was older. The correction in L28-30 (can vs. shelf) suggests this is a detail he hasn't actually looked at in a long time, despite how carefully he built the object itself.",
+              "narrator_frame": "\"he was a baby, so, you know, you don't give a baby a nine-pound piece of steel\"",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L26",
+                  "quote": "So I put it up on the shelf in the basement."
+                },
+                {
+                  "exp": 2,
+                  "line": "L27",
+                  "quote": "It's still down there."
+                },
+                {
+                  "exp": 2,
+                  "line": "L30",
+                  "quote": "I don't know why I said the can."
+                }
+              ],
+              "falsifier": "If he mentioned giving Nick the tractor later, or Nick knowing about/playing with it as an older child, this would not hold.",
+              "confidence": "low",
+              "would_predict": "Relationships: Family and parenting — he will have made or kept other gifts/objects intended for Nick that were never actually given or explained to him."
+            },
+            {
+              "category": "core_values",
+              "kind": "content",
+              "headline": "He protects his own name and standing on a job even at the cost of time with his newborn son, treating that trade as unremarkable.",
+              "explanation": "He chose to leave the hospital hours after the birth to finish eleven parts rather than delegate to Rigo, framed as routine (\"if you're gonna do it you do it\") with no hesitation or regret expressed anywhere in the account. This is a value demonstrated under real cost — missing time with a newborn — not merely a belief about work ethic, and the flat, unremarked-upon delivery (no absences, no reflection) suggests this trade-off was made instinctively rather than agonized over.",
+              "narrator_frame": "\"Because if you're gonna do it you do it\"",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L16",
+                  "quote": "And then I went back in and ran the eleven."
+                },
+                {
+                  "exp": 2,
+                  "line": "L17",
+                  "quote": "Got 'em on the truck."
+                },
+                {
+                  "exp": 2,
+                  "line": "L18",
+                  "quote": "it's your name on the traveler anyway"
+                }
+              ],
+              "falsifier": "If he expressed regret, conflict, or described Deb objecting to his leaving, this would complicate the claim that the trade-off was unremarkable to him.",
+              "confidence": "high",
+              "would_predict": "Health and Wellness: He will report skipping rest, medical appointments, or recovery time to finish work commitments, describing the choice matter-of-factly rather than as a sacrifice."
+            }
+          ],
+          "_dropped_ungrounded": []
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He measures the night his son was born in parts, minutes, and pounds — not in what was said or felt.",
+              "explanation": "Every number in the account is exact — forty-six parts, nine minutes, quarter after four, seven pounds one, three weeks of lunches — while the only two human-relational moments (Deb's labor, holding Nick) are covered in a single vague clause each (\"she was in there a long time,\" \"I stood there\"). The alternative reading — that he's simply a literal, factual storyteller — doesn't hold, because the precision is selective: it clusters on job/production facts and physical measurements, not on the birth itself.",
+              "narrator_frame": "none",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L4",
+                  "quote": "forty-six parts, aluminum housings"
+                },
+                {
+                  "exp": 2,
+                  "line": "L14",
+                  "quote": "Seven pounds one."
+                },
+                {
+                  "exp": 2,
+                  "line": "L9",
+                  "quote": "She was in there a long time."
+                },
+                {
+                  "exp": 2,
+                  "line": "L15",
+                  "quote": "and I stood there"
+                }
+              ],
+              "falsifier": "If he had described Deb's labor or the moment of first holding Nick with comparable specificity (times, words she said, what it felt like), this asymmetry would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In discussing his marriage, he will default to logistics and dates (anniversaries, houses, jobs) rather than describe emotional exchanges with Deb in any specific detail.",
+              "exp": 2
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "absence",
+              "headline": "He built something by hand for his newborn son and then kept it from him for over three decades, without revisiting why.",
+              "explanation": "The tractor took three weeks of lunches, has a broached keyway, is painted like a real machine — clearly not a casual effort — yet it went straight to a shelf and stayed there. His stated reason (baby, steel, unsafe) explains the initial delay but not the permanence; he never mentions revisiting it once Nick was older, or giving it to him at all. The correction in L28-30 (can vs. shelf) suggests this is a detail he hasn't actually looked at in a long time, despite how carefully he built the object itself.",
+              "narrator_frame": "\"he was a baby, so, you know, you don't give a baby a nine-pound piece of steel\"",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L26",
+                  "quote": "So I put it up on the shelf in the basement."
+                },
+                {
+                  "exp": 2,
+                  "line": "L27",
+                  "quote": "It's still down there."
+                },
+                {
+                  "exp": 2,
+                  "line": "L30",
+                  "quote": "I don't know why I said the can."
+                }
+              ],
+              "falsifier": "If he mentioned giving Nick the tractor later, or Nick knowing about/playing with it as an older child, this would not hold.",
+              "confidence": "low",
+              "would_predict": "Relationships: Family and parenting — he will have made or kept other gifts/objects intended for Nick that were never actually given or explained to him.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He frames leaving the hospital to finish the parts run as professional obligation, but the justification leans on comparing himself favorably to Rigo, not on the deadline itself.",
+              "test": "OWN-THESIS",
+              "note": "He already states the self-serving stakes directly (\"it's your name on the traveler anyway\") — the candidate just restates his own explanation as if it were a hidden discovery."
+            },
+            {
+              "headline": "He protects his own name and standing on a job even at the cost of time with his newborn son, treating that trade as unremarkable.",
+              "test": "DEDUPE",
+              "note": "Same evidence and mechanism as the Rigo/traveler pattern candidate and overlaps with the asymmetry survivor; weaker and narrower, delete the twin."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "kind": "asymmetry",
+            "headline": "He measures the night his son was born in parts, minutes, and pounds — not in what was said or felt.",
+            "explanation": "Every number in the account is exact — forty-six parts, nine minutes, quarter after four, seven pounds one, three weeks of lunches — while the only two human-relational moments (Deb's labor, holding Nick) are covered in a single vague clause each (\"she was in there a long time,\" \"I stood there\"). The alternative reading — that he's simply a literal, factual storyteller — doesn't hold, because the precision is selective: it clusters on job/production facts and physical measurements, not on the birth itself.",
+            "narrator_frame": "none",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L4",
+                "quote": "forty-six parts, aluminum housings"
+              },
+              {
+                "exp": 2,
+                "line": "L14",
+                "quote": "Seven pounds one."
+              },
+              {
+                "exp": 2,
+                "line": "L9",
+                "quote": "She was in there a long time."
+              },
+              {
+                "exp": 2,
+                "line": "L15",
+                "quote": "and I stood there"
+              }
+            ],
+            "falsifier": "If he had described Deb's labor or the moment of first holding Nick with comparable specificity (times, words she said, what it felt like), this asymmetry would not hold.",
+            "confidence": "medium",
+            "would_predict": "Relationships: In discussing his marriage, he will default to logistics and dates (anniversaries, houses, jobs) rather than describe emotional exchanges with Deb in any specific detail.",
+            "exp": 2
+          },
+          {
+            "category": "patterns_to_explore",
+            "kind": "absence",
+            "headline": "He built something by hand for his newborn son and then kept it from him for over three decades, without revisiting why.",
+            "explanation": "The tractor took three weeks of lunches, has a broached keyway, is painted like a real machine — clearly not a casual effort — yet it went straight to a shelf and stayed there. His stated reason (baby, steel, unsafe) explains the initial delay but not the permanence; he never mentions revisiting it once Nick was older, or giving it to him at all. The correction in L28-30 (can vs. shelf) suggests this is a detail he hasn't actually looked at in a long time, despite how carefully he built the object itself.",
+            "narrator_frame": "\"he was a baby, so, you know, you don't give a baby a nine-pound piece of steel\"",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L26",
+                "quote": "So I put it up on the shelf in the basement."
+              },
+              {
+                "exp": 2,
+                "line": "L27",
+                "quote": "It's still down there."
+              },
+              {
+                "exp": 2,
+                "line": "L30",
+                "quote": "I don't know why I said the can."
+              }
+            ],
+            "falsifier": "If he mentioned giving Nick the tractor later, or Nick knowing about/playing with it as an older child, this would not hold.",
+            "confidence": "low",
+            "would_predict": "Relationships: Family and parenting — he will have made or kept other gifts/objects intended for Nick that were never actually given or explained to him.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "The divorce occurred in 2003."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Deb never said the word (asked him to go)."
+            },
+            {
+              "line": "L7",
+              "what_happened": "He got a place on Zuck Road, the brick ones behind the Wendy's, four ninety-five a month plus electric."
+            },
+            {
+              "line": "L8",
+              "what_happened": "He signed the lease on a Tuesday and moved Saturday."
+            },
+            {
+              "line": "L9",
+              "what_happened": "He took the toolbox, the chest freezer he bought, and the dog."
+            },
+            {
+              "line": "L10",
+              "what_happened": "The dog's name was Duke."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Deb didn't want the dog because the dog barked."
+            },
+            {
+              "line": "L12",
+              "what_happened": "It took two loads with the truck."
+            },
+            {
+              "line": "L13",
+              "what_happened": "He and a coworker, Timmy Pahl, moved a box (described as needing drawers removed, weighing four hundred and some pounds) using a furniture dolly and a ramp."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Nick was twelve years old at the time."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Nick was at a sleepover or similar event."
+            },
+            {
+              "line": "L16",
+              "what_happened": "The lawyer's office was on Peach, up by the courthouse."
+            },
+            {
+              "line": "L17",
+              "what_happened": "They split things and finalized it."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Deb kept the house; her father had put the roof on it."
+            },
+            {
+              "line": "L19",
+              "what_happened": "The furnace went out at Deb's house the following January."
+            },
+            {
+              "line": "L20",
+              "what_happened": "He describes the furnace issue as typically a flame sensor needing cleaning with a Scotch-Brite pad."
+            },
+            {
+              "line": "L21",
+              "what_happened": "He went to Deb's house on a Sunday and fixed the furnace."
+            },
+            {
+              "line": "L22",
+              "what_happened": "The furnace repair took twenty minutes."
+            },
+            {
+              "line": "L23",
+              "what_happened": "He left before Deb returned from church."
+            },
+            {
+              "line": "L24",
+              "what_happened": "He put snow tires on Deb's Lumina the following year, starting around five-thirty."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Deb had a knee surgery, he believes four or five years ago."
+            },
+            {
+              "line": "L26",
+              "what_happened": "The surgery was on her left knee."
+            },
+            {
+              "line": "L28",
+              "what_happened": "On Christmas Eve of the first year, he sat in the truck out front of the house before going in to get Nick."
+            },
+            {
+              "line": "L30",
+              "what_happened": "The radio was on while he sat in the truck."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Duke lived until 2009."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L7",
+              "choice_made": "Got a place on Zuck Road after perceiving the direction things were headed",
+              "alternatives_present_in_text": "None stated; no other housing options mentioned"
+            },
+            {
+              "line": "L9",
+              "choice_made": "Took the toolbox, chest freezer, and dog",
+              "alternatives_present_in_text": "Implied other items were left behind (unspecified)"
+            },
+            {
+              "line": "L23",
+              "choice_made": "Left before Deb got back from church",
+              "alternatives_present_in_text": "Could have stayed until she returned"
+            },
+            {
+              "line": "L24",
+              "choice_made": "Did the snow tires early, around five-thirty",
+              "alternatives_present_in_text": "Could have done it later; reasoning cut off (\"I didn't want to —\")"
+            }
+          ],
+          "self_descriptions": [],
+          "narrator_explanations": [
+            {
+              "line": "L5",
+              "quote": "I want to be fair on that.",
+              "explains": "why he emphasizes Deb didn't ask him to leave"
+            },
+            {
+              "line": "L24",
+              "quote": "'cause I didn't want to — well, it's better to do it before the salt trucks are out.",
+              "explains": "why he did the snow tires early in the morning"
+            }
+          ],
+          "emotion_words": [],
+          "repetitions": [
+            {
+              "phrase": "she didn't",
+              "lines": [
+                "L4",
+                "L11"
+              ]
+            }
+          ],
+          "precision_asymmetry": [
+            {
+              "line": "L7",
+              "quote": "four ninety-five a month plus the electric",
+              "exact_or_vague": "exact",
+              "topic": "rent amount"
+            },
+            {
+              "line": "L8",
+              "quote": "Signed the lease on a Tuesday, moved Saturday.",
+              "exact_or_vague": "exact",
+              "topic": "moving timeline (days of week)"
+            },
+            {
+              "line": "L13",
+              "quote": "it's still — with the drawers out it's four hundred and some pounds",
+              "exact_or_vague": "exact",
+              "topic": "weight of furniture"
+            },
+            {
+              "line": "L13",
+              "quote": "Timmy Pahl",
+              "exact_or_vague": "exact",
+              "topic": "coworker's full name"
+            },
+            {
+              "line": "L20",
+              "quote": "nine times out of ten... hit 'em with a Scotch-Brite pad and they're good another five years",
+              "exact_or_vague": "exact",
+              "topic": "furnace repair mechanics"
+            },
+            {
+              "line": "L22",
+              "quote": "Twenty minutes.",
+              "exact_or_vague": "exact",
+              "topic": "duration of furnace repair"
+            },
+            {
+              "line": "L24",
+              "quote": "like five-thirty",
+              "exact_or_vague": "exact",
+              "topic": "time of snow tire task"
+            },
+            {
+              "line": "L32",
+              "quote": "Duke lived till oh-nine.",
+              "exact_or_vague": "exact",
+              "topic": "dog's death year"
+            },
+            {
+              "line": "L4",
+              "quote": "She didn't ask me to go.",
+              "exact_or_vague": "vague",
+              "topic": "reason for leaving/separation"
+            },
+            {
+              "line": "L6",
+              "quote": "She never said the word.",
+              "exact_or_vague": "vague",
+              "topic": "what precipitated the move"
+            },
+            {
+              "line": "L15",
+              "quote": "He was at a thing, a sleepover or a — yeah.",
+              "exact_or_vague": "vague",
+              "topic": "son's whereabouts"
+            },
+            {
+              "line": "L16",
+              "quote": "it was, uh, it was not a fight.",
+              "exact_or_vague": "vague",
+              "topic": "the divorce proceedings/emotional tenor"
+            },
+            {
+              "line": "L25",
+              "quote": "I think, uh, four or five years ago.",
+              "exact_or_vague": "vague",
+              "topic": "timing of Deb's knee surgery"
+            },
+            {
+              "line": "L27",
+              "quote": "She's alright.",
+              "exact_or_vague": "vague",
+              "topic": "Deb's current wellbeing"
+            },
+            {
+              "line": "L28",
+              "quote": "I sat out front of the house for a while",
+              "exact_or_vague": "vague",
+              "topic": "duration of sitting in the truck on Christmas Eve"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L7",
+              "quote": "I could see which way it was pointed, so I got a place",
+              "actor": "I (self)",
+              "note": "self as actor in decision, framed as response to an unstated external direction"
+            },
+            {
+              "line": "L18",
+              "quote": "She kept the house, which, fine, the house was hers",
+              "actor": "she / the house (passive ownership)",
+              "note": "outcome attributed to prior ownership fact, not negotiation"
+            },
+            {
+              "line": "L19",
+              "quote": "The furnace went out on her that January.",
+              "actor": "the furnace",
+              "note": "mechanical failure as actor, not a person"
+            },
+            {
+              "line": "L21",
+              "quote": "So I went over on a Sunday and did it.",
+              "actor": "I (self)",
+              "note": "direct self-agency"
+            },
+            {
+              "line": "L23",
+              "quote": "Left before she got back from church.",
+              "actor": "I (self, implied)",
+              "note": "self as actor, subject dropped"
+            },
+            {
+              "line": "L29",
+              "quote": "I don't know why I brought that up.",
+              "actor": "I (self)",
+              "note": "self-observation of own speech act"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "furnace repair mechanics",
+              "treatment": "rich",
+              "lines": [
+                "L19",
+                "L20",
+                "L21",
+                "L22"
+              ]
+            },
+            {
+              "topic_or_person": "furniture/moving logistics",
+              "treatment": "rich",
+              "lines": [
+                "L7",
+                "L8",
+                "L9",
+                "L12",
+                "L13"
+              ]
+            },
+            {
+              "topic_or_person": "the divorce/legal process",
+              "treatment": "flat",
+              "lines": [
+                "L16",
+                "L17"
+              ]
+            },
+            {
+              "topic_or_person": "Nick (son)",
+              "treatment": "flat",
+              "lines": [
+                "L14",
+                "L15"
+              ]
+            },
+            {
+              "topic_or_person": "Christmas Eve moment in truck",
+              "treatment": "flat",
+              "lines": [
+                "L28",
+                "L29",
+                "L30"
+              ]
+            },
+            {
+              "topic_or_person": "Deb's knee surgery",
+              "treatment": "flat",
+              "lines": [
+                "L25",
+                "L26",
+                "L27"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "Speaker's own feelings about the divorce",
+              "note": "No emotion words used regarding the separation itself (L1-L18)"
+            },
+            {
+              "expected": "Description of what it felt like to leave the house or family",
+              "note": "Moving is described only through logistics (L7-L13)"
+            },
+            {
+              "expected": "Reaction or feelings from Nick about the divorce",
+              "note": "Nick is mentioned only as being at a sleepover, no further detail (L14-L15)"
+            },
+            {
+              "expected": "Content/reason of the Christmas Eve moment sitting in the truck",
+              "note": "Moment is raised then explicitly abandoned: \"I don't know why I brought that up\" (L29)"
+            },
+            {
+              "expected": "Any statement of what the speaker wanted from the marriage or divorce",
+              "note": "No line expresses a want or desire regarding the relationship"
+            },
+            {
+              "expected": "Speaker's own body or health",
+              "note": "Only Deb's knee surgery is mentioned; no reference to speaker's own physical state"
+            },
+            {
+              "expected": "Any discussion of money beyond rent figure",
+              "note": "No mention of alimony, child support, or financial settlement beyond L7 rent and L17 'we split it'"
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L15",
+              "quote": "He was at a thing, a sleepover or a — yeah.",
+              "note": "Detail about son's location trails off without completion"
+            },
+            {
+              "line": "L17",
+              "quote": "We split it and that was it.",
+              "note": "Division of assets/divorce settlement covered in one clause"
+            },
+            {
+              "line": "L24",
+              "quote": "'cause I didn't want to —",
+              "note": "Reason cut off mid-sentence, replaced with different justification"
+            },
+            {
+              "line": "L28-L31",
+              "quote": "I sat out front of the house for a while in the truck before I went in to get him... I don't know why I brought that up... Anyway.",
+              "note": "Moment introduced then explicitly dismissed and closed off"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Deb",
+              "lines": [
+                "L2",
+                "L4",
+                "L6",
+                "L7",
+                "L11",
+                "L17",
+                "L18",
+                "L19",
+                "L21",
+                "L23",
+                "L24",
+                "L25",
+                "L26",
+                "L27"
+              ],
+              "what_they_did": "Was at her mother's often before the split; did not ask him to leave or say the word; didn't want the dog; kept the house; furnace went out on her; had knee surgery; went to church"
+            },
+            {
+              "who": "Nick",
+              "lines": [
+                "L14",
+                "L15",
+                "L28"
+              ],
+              "what_they_did": "Was twelve years old; was at a sleepover; was picked up by speaker on Christmas Eve"
+            },
+            {
+              "who": "Timmy Pahl",
+              "lines": [
+                "L13"
+              ],
+              "what_they_did": "Helped move the heavy box using a furniture dolly and ramp"
+            },
+            {
+              "who": "Duke (dog)",
+              "lines": [
+                "L9",
+                "L10",
+                "L11",
+                "L32"
+              ],
+              "what_they_did": "Was taken by speaker when he moved; barked; lived until 2009"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He believes love is proven through unwitnessed maintenance, not through presence or conversation.",
+              "explanation": "Every act of continued care for Deb — the furnace, the snow tires — is executed with precision and then followed by deliberate departure before she returns (L21-L23, L24). He rejects being asked, rejects being thanked, rejects being seen; the caretaking has to happen in her absence to count. The alternative reading, that he's just being considerate of her time or avoiding awkwardness, doesn't explain why he times the tire job for 5:30am or leaves before church lets out rather than simply calling ahead — the effort to not be seen is itself deliberate and repeated.",
+              "narrator_frame": "He frames the early tire timing as practical: \"it's better to do it before the salt trucks are out\" (L24), and doesn't comment on leaving before church at all.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L23",
+                  "quote": "Left before she got back from church."
+                },
+                {
+                  "exp": 3,
+                  "line": "L24",
+                  "quote": "that was early, like five-thirty, 'cause I didn't want to — well, it's better to do it before the salt trucks are out"
+                }
+              ],
+              "falsifier": "If he had described calling Deb, waiting for her, or discussing the repairs with her afterward, this belief would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In current friendships or family, he does favors or fixes things for people without telling them or being present when they discover it, rather than offering help directly and staying to be thanked."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "asymmetry",
+              "headline": "He recalls mechanical and logistical facts about the divorce with total precision, and emotional facts about the same period only in vague fragments.",
+              "explanation": "Rent, lease days, furniture weight, coworker's full name, repair duration are all exact (L7, L8, L13, L20, L22); but the divorce's tenor, his son's location, and his own feelings are all rendered in trailing, unfinished phrases (L15, L16, L25). This isn't just a storytelling style — the precision consistently attaches to objects and tasks he controlled, while vagueness attaches to people and emotional stakes, suggesting where his attention and memory actually went during that period.",
+              "narrator_frame": "None — he offers no theory about why some details are sharp and others aren't.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L13",
+                  "quote": "it's still — with the drawers out it's four hundred and some pounds"
+                },
+                {
+                  "exp": 3,
+                  "line": "L16",
+                  "quote": "it was, uh, it was not a fight"
+                }
+              ],
+              "falsifier": "If he gave equally specific detail about Nick's reaction, Deb's emotional state, or his own feelings during the same period, this asymmetry would not hold.",
+              "confidence": "medium",
+              "would_predict": "Mental and emotional health: When asked to describe a recent emotionally difficult event, he will default to reciting logistics (dates, costs, tasks completed) rather than internal state, even when directly prompted for feelings."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "absence",
+              "headline": "He raises the one moment of visible emotional weight in the whole account and immediately disowns it.",
+              "explanation": "Sitting alone in the truck on Christmas Eve before going in to get his son is the only scene with no task attached to it, and it's the one moment he interrupts himself to retreat from: \"I don't know why I brought that up\" (L29), followed by \"Anyway\" (L31). Compared to how he handles every other topic — over-explaining logistics until they're fully resolved — this is the single thread he cuts short rather than finishes, which is conspicuous given his pattern of finishing things.",
+              "narrator_frame": "He explicitly denies knowing why he mentioned it: \"I don't know why I brought that up.\"",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L28",
+                  "quote": "I sat out front of the house for a while in the truck before I went in to get him."
+                },
+                {
+                  "exp": 3,
+                  "line": "L29",
+                  "quote": "That's — I don't know why I brought that up."
+                }
+              ],
+              "falsifier": "If he had gone on to explain what he was thinking or feeling in the truck, or returned to the memory later in the same telling, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Mental and emotional health: In conversations about other difficult periods, he will introduce a specific unresolved memory unprompted and then cut it off before its emotional content, rather than being asked and declining."
+            },
+            {
+              "category": "core_values",
+              "kind": "content",
+              "headline": "He protects fairness to Deb even in a telling where he has full narrative control and no one to contradict him.",
+              "explanation": "He opens by correcting a story no one told: \"She didn't ask me to go... I want to be fair on that\" (L4-L5), then again stresses \"she was hers, her dad put the roof on it\" (L18) rather than claiming any grievance about losing the house. This costs him the more sympathetic version of events (wronged party) in favor of accuracy about who did what — a choice made purely for the record, since there's no one present to hold him to it.",
+              "narrator_frame": "He states outright that he wants to be fair to Deb.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L5",
+                  "quote": "I want to be fair on that."
+                },
+                {
+                  "exp": 3,
+                  "line": "L18",
+                  "quote": "which, fine, the house was hers, her dad put the roof on it"
+                }
+              ],
+              "falsifier": "If he had blamed Deb for the divorce or claimed the house should have been his, this would not hold.",
+              "confidence": "medium",
+              "would_predict": "Communication and conflict: In recounting other conflicts (work disputes, disagreements with Nick as an adult), he will volunteer facts that complicate his own position rather than only the facts that support it."
+            }
+          ],
+          "_dropped_ungrounded": []
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He believes care for Deb only counts if he's gone before she notices him.",
+              "explanation": "Every act of continued care for Deb — the furnace, the snow tires — is executed with precision and then followed by deliberate departure before she returns (L21-L23, L24). The alternative reading, that he's just being considerate of her time, doesn't explain why he times the tire job for 5:30am or leaves before church lets out rather than simply calling ahead — the effort to not be seen is itself deliberate and repeated.",
+              "narrator_frame": "He frames the early tire timing as practical: \"it's better to do it before the salt trucks are out\" (L24), and doesn't comment on leaving before church at all.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L23",
+                  "quote": "Left before she got back from church."
+                },
+                {
+                  "exp": 3,
+                  "line": "L24",
+                  "quote": "that was early, like five-thirty, 'cause I didn't want to — well, it's better to do it before the salt trucks are out"
+                }
+              ],
+              "falsifier": "If he had described calling Deb, waiting for her, or discussing the repairs with her afterward, this belief would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In current friendships or family, he does favors or fixes things for people without telling them or being present when they discover it, rather than offering help directly and staying to be thanked.",
+              "exp": 3
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "asymmetry",
+              "headline": "His precision is reserved for objects and tasks; people and feelings get only fragments.",
+              "explanation": "Rent, lease days, furniture weight, coworker's full name, repair duration are all exact (L7, L8, L13, L20, L22); the divorce's tenor, his son's location, and his own feelings are rendered in trailing, unfinished phrases (L15, L16, L25). The precision consistently attaches to objects and tasks he controlled, while vagueness attaches to people and emotional stakes, suggesting where his attention and memory actually went during that period.",
+              "narrator_frame": "None — he offers no theory about why some details are sharp and others aren't.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L13",
+                  "quote": "it's still — with the drawers out it's four hundred and some pounds"
+                },
+                {
+                  "exp": 3,
+                  "line": "L16",
+                  "quote": "it was, uh, it was not a fight"
+                }
+              ],
+              "falsifier": "If he gave equally specific detail about Nick's reaction, Deb's emotional state, or his own feelings during the same period, this asymmetry would not hold.",
+              "confidence": "medium",
+              "would_predict": "Mental and emotional health: When asked to describe a recent emotionally difficult event, he will default to reciting logistics (dates, costs, tasks completed) rather than internal state, even when directly prompted for feelings.",
+              "exp": 3
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "absence",
+              "headline": "The one task-free scene in his account is the one he immediately retreats from.",
+              "explanation": "Sitting alone in the truck on Christmas Eve before going in to get his son is the only scene with no task attached to it, and it's the one moment he interrupts himself to retreat from: \"I don't know why I brought that up\" (L29), followed by \"Anyway\" (L31). Compared to how he handles every other topic — over-explaining logistics until they're fully resolved — this is the single thread he cuts short rather than finishes, conspicuous given his pattern of finishing things.",
+              "narrator_frame": "He explicitly denies knowing why he mentioned it: \"I don't know why I brought that up.\"",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L28",
+                  "quote": "I sat out front of the house for a while in the truck before I went in to get him."
+                },
+                {
+                  "exp": 3,
+                  "line": "L29",
+                  "quote": "That's — I don't know why I brought that up."
+                }
+              ],
+              "falsifier": "If he had gone on to explain what he was thinking or feeling in the truck, or returned to the memory later in the same telling, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Mental and emotional health: In conversations about other difficult periods, he will introduce a specific unresolved memory unprompted and then cut it off before its emotional content, rather than being asked and declining.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He protects fairness to Deb even in a telling where he has full narrative control and no one to contradict him.",
+              "test": "OWN-THESIS",
+              "note": "He says it himself: \"I want to be fair on that\" — the candidate restates his own stated intent rather than surfacing something unstated."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "kind": "asymmetry",
+            "headline": "He believes care for Deb only counts if he's gone before she notices him.",
+            "explanation": "Every act of continued care for Deb — the furnace, the snow tires — is executed with precision and then followed by deliberate departure before she returns (L21-L23, L24). The alternative reading, that he's just being considerate of her time, doesn't explain why he times the tire job for 5:30am or leaves before church lets out rather than simply calling ahead — the effort to not be seen is itself deliberate and repeated.",
+            "narrator_frame": "He frames the early tire timing as practical: \"it's better to do it before the salt trucks are out\" (L24), and doesn't comment on leaving before church at all.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L23",
+                "quote": "Left before she got back from church."
+              },
+              {
+                "exp": 3,
+                "line": "L24",
+                "quote": "that was early, like five-thirty, 'cause I didn't want to — well, it's better to do it before the salt trucks are out"
+              }
+            ],
+            "falsifier": "If he had described calling Deb, waiting for her, or discussing the repairs with her afterward, this belief would not hold.",
+            "confidence": "medium",
+            "would_predict": "Relationships: In current friendships or family, he does favors or fixes things for people without telling them or being present when they discover it, rather than offering help directly and staying to be thanked.",
+            "exp": 3
+          },
+          {
+            "category": "patterns_to_explore",
+            "kind": "asymmetry",
+            "headline": "His precision is reserved for objects and tasks; people and feelings get only fragments.",
+            "explanation": "Rent, lease days, furniture weight, coworker's full name, repair duration are all exact (L7, L8, L13, L20, L22); the divorce's tenor, his son's location, and his own feelings are rendered in trailing, unfinished phrases (L15, L16, L25). The precision consistently attaches to objects and tasks he controlled, while vagueness attaches to people and emotional stakes, suggesting where his attention and memory actually went during that period.",
+            "narrator_frame": "None — he offers no theory about why some details are sharp and others aren't.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L13",
+                "quote": "it's still — with the drawers out it's four hundred and some pounds"
+              },
+              {
+                "exp": 3,
+                "line": "L16",
+                "quote": "it was, uh, it was not a fight"
+              }
+            ],
+            "falsifier": "If he gave equally specific detail about Nick's reaction, Deb's emotional state, or his own feelings during the same period, this asymmetry would not hold.",
+            "confidence": "medium",
+            "would_predict": "Mental and emotional health: When asked to describe a recent emotionally difficult event, he will default to reciting logistics (dates, costs, tasks completed) rather than internal state, even when directly prompted for feelings.",
+            "exp": 3
+          },
+          {
+            "category": "patterns_to_explore",
+            "kind": "absence",
+            "headline": "The one task-free scene in his account is the one he immediately retreats from.",
+            "explanation": "Sitting alone in the truck on Christmas Eve before going in to get his son is the only scene with no task attached to it, and it's the one moment he interrupts himself to retreat from: \"I don't know why I brought that up\" (L29), followed by \"Anyway\" (L31). Compared to how he handles every other topic — over-explaining logistics until they're fully resolved — this is the single thread he cuts short rather than finishes, conspicuous given his pattern of finishing things.",
+            "narrator_frame": "He explicitly denies knowing why he mentioned it: \"I don't know why I brought that up.\"",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L28",
+                "quote": "I sat out front of the house for a while in the truck before I went in to get him."
+              },
+              {
+                "exp": 3,
+                "line": "L29",
+                "quote": "That's — I don't know why I brought that up."
+              }
+            ],
+            "falsifier": "If he had gone on to explain what he was thinking or feeling in the truck, or returned to the memory later in the same telling, this pattern would not hold.",
+            "confidence": "medium",
+            "would_predict": "Mental and emotional health: In conversations about other difficult periods, he will introduce a specific unresolved memory unprompted and then cut it off before its emotional content, rather than being asked and declining.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Event occurred in January 2016"
+            },
+            {
+              "line": "L3",
+              "what_happened": "Speaker was shoveling the end of the driveway where the plow packs it and felt a pressure"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker went into the house and sat down about twenty minutes and the pressure did not go away"
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker drove himself to Hamot"
+            },
+            {
+              "line": "L8",
+              "what_happened": "Truck was an '04 Silverado with 181,000 miles on it, cold weather made battery crank slow"
+            },
+            {
+              "line": "L9",
+              "what_happened": "They took him right back"
+            },
+            {
+              "line": "L10",
+              "what_happened": "He had ninety percent blockage in the artery called the widowmaker"
+            },
+            {
+              "line": "L11",
+              "what_happened": "A stent was put in that afternoon"
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker was awake during the procedure and could watch it on the monitor by turning his head"
+            },
+            {
+              "line": "L13",
+              "what_happened": "Hospital staff wanted him to stay three nights"
+            },
+            {
+              "line": "L14",
+              "what_happened": "He stayed two nights"
+            },
+            {
+              "line": "L15",
+              "what_happened": "He signed a discharge paper described as saying it's his own lookout"
+            },
+            {
+              "line": "L17",
+              "what_happened": "He was sitting up eating a turkey sandwich"
+            },
+            {
+              "line": "L18",
+              "what_happened": "He didn't tell anybody at the shop"
+            },
+            {
+              "line": "L19",
+              "what_happened": "He had vacation time on the books already"
+            },
+            {
+              "line": "L20",
+              "what_happened": "He told Nick in August"
+            },
+            {
+              "line": "L22",
+              "what_happened": "Nick was in for the weekend, they were at Sara's, Nick mentioned his blood pressure from his physical, and speaker told him about the stent"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Nick got a little hot about it"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Nick said something the speaker doesn't remember exactly, something like the speaker should have [done something]"
+            },
+            {
+              "line": "L26",
+              "what_happened": "Nick lives in Columbus"
+            },
+            {
+              "line": "L27",
+              "what_happened": "Nick does something with logistics software"
+            },
+            {
+              "line": "L28",
+              "what_happened": "Nick visits roughly two times a year"
+            },
+            {
+              "line": "L29",
+              "what_happened": "Visits are usually around Fourth of July and around Christmas, depending on weather"
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker takes one pill"
+            },
+            {
+              "line": "L31",
+              "what_happened": "The other medication made his legs hurt so he quit taking it and meant to call about it"
+            },
+            {
+              "line": "L32",
+              "what_happened": "He did get a new battery"
+            },
+            {
+              "line": "L33",
+              "what_happened": "The battery is an Interstate brand"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L7",
+              "choice_made": "Drove himself to the hospital",
+              "alternatives_present_in_text": "None mentioned (e.g., calling ambulance)"
+            },
+            {
+              "line": "L14",
+              "choice_made": "Left after two nights instead of three",
+              "alternatives_present_in_text": "They wanted him three nights (L13)"
+            },
+            {
+              "line": "L15",
+              "choice_made": "Signed the discharge paper",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L18",
+              "choice_made": "Did not tell anybody at the shop",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L20",
+              "choice_made": "Told Nick in August rather than earlier",
+              "alternatives_present_in_text": "Event happened in January; telling delayed to August"
+            },
+            {
+              "line": "L31",
+              "choice_made": "Quit the other pill without calling the doctor",
+              "alternatives_present_in_text": "He says he meant to call about it"
+            }
+          ],
+          "self_descriptions": [],
+          "narrator_explanations": [
+            {
+              "line": "L16",
+              "quote": "Because I was fine.",
+              "explains": "why he signed out early / left after two nights"
+            },
+            {
+              "line": "L17",
+              "quote": "there's no reason to lay in a bed at four thousand a night when you're eating a turkey sandwich",
+              "explains": "why he left the hospital early"
+            },
+            {
+              "line": "L19",
+              "quote": "I had the vacation on the books anyway.",
+              "explains": "why he didn't tell anybody at the shop"
+            },
+            {
+              "line": "L31",
+              "quote": "I didn't — I mean I meant to call about it.",
+              "explains": "why he stopped taking the second medication without medical follow-up"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L23",
+              "quote": "He got a little hot about it."
+            }
+          ],
+          "repetitions": [],
+          "precision_asymmetry": [
+            {
+              "line": "L1",
+              "quote": "Uh, in, uh — sixteen.",
+              "exact_or_vague": "vague",
+              "topic": "initial recollection of the year"
+            },
+            {
+              "line": "L2",
+              "quote": "January.",
+              "exact_or_vague": "exact",
+              "topic": "month of event"
+            },
+            {
+              "line": "L8",
+              "quote": "Truck had a hundred and eighty-one thousand on it, it was the '04 Silverado",
+              "exact_or_vague": "exact",
+              "topic": "truck mileage and model"
+            },
+            {
+              "line": "L10",
+              "quote": "Ninety percent in the one they call the widowmaker",
+              "exact_or_vague": "exact",
+              "topic": "blockage percentage"
+            },
+            {
+              "line": "L17",
+              "quote": "four thousand a night",
+              "exact_or_vague": "exact",
+              "topic": "hospital cost"
+            },
+            {
+              "line": "L20",
+              "quote": "Nick I told in, uh, August.",
+              "exact_or_vague": "exact",
+              "topic": "when he told Nick"
+            },
+            {
+              "line": "L24",
+              "quote": "I don't know what he said exactly.",
+              "exact_or_vague": "vague",
+              "topic": "what Nick said in response"
+            },
+            {
+              "line": "L28",
+              "quote": "Two times a year, roughly",
+              "exact_or_vague": "vague",
+              "topic": "frequency of Nick's visits"
+            },
+            {
+              "line": "L33",
+              "quote": "Interstate.",
+              "exact_or_vague": "exact",
+              "topic": "battery brand"
+            },
+            {
+              "line": "L15",
+              "quote": "the paper, whatever it is, the — you sign the thing",
+              "exact_or_vague": "vague",
+              "topic": "discharge document name"
+            },
+            {
+              "line": "L30",
+              "quote": "I take the one pill.",
+              "exact_or_vague": "vague",
+              "topic": "medication name"
+            },
+            {
+              "line": "L31",
+              "quote": "The other one made my legs hurt",
+              "exact_or_vague": "vague",
+              "topic": "medication name"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L3",
+              "quote": "I got a pressure.",
+              "actor": "pressure (happening to him)",
+              "note": "symptom described as something received, not an act"
+            },
+            {
+              "line": "L7",
+              "quote": "I drove myself to Hamot.",
+              "actor": "I",
+              "note": "explicit self-agency"
+            },
+            {
+              "line": "L9",
+              "quote": "They took me right back.",
+              "actor": "hospital staff",
+              "note": "passive recipient of hospital action"
+            },
+            {
+              "line": "L11",
+              "quote": "Put a stent in that afternoon.",
+              "actor": "unstated (medical staff, implied)",
+              "note": "no explicit subject named for who performed the procedure"
+            },
+            {
+              "line": "L15",
+              "quote": "I signed the paper",
+              "actor": "I",
+              "note": "explicit self-agency"
+            },
+            {
+              "line": "L21",
+              "quote": "It come up.",
+              "actor": "it (the topic)",
+              "note": "topic arising described as happening on its own rather than being raised by speaker"
+            },
+            {
+              "line": "L23",
+              "quote": "He got a little hot about it.",
+              "actor": "Nick",
+              "note": "Nick as actor of emotional reaction"
+            },
+            {
+              "line": "L32",
+              "quote": "Battery I did get.",
+              "actor": "I",
+              "note": "explicit self-agency, object fronted"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "truck/battery",
+              "treatment": "rich",
+              "lines": [
+                "L8",
+                "L32",
+                "L33"
+              ]
+            },
+            {
+              "topic_or_person": "the medical event itself (post-stent details)",
+              "treatment": "flat",
+              "lines": [
+                "L11",
+                "L12"
+              ]
+            },
+            {
+              "topic_or_person": "Nick's job",
+              "treatment": "flat",
+              "lines": [
+                "L27"
+              ]
+            },
+            {
+              "topic_or_person": "Nick's reaction/conversation",
+              "treatment": "flat",
+              "lines": [
+                "L23",
+                "L24",
+                "L25"
+              ]
+            },
+            {
+              "topic_or_person": "hospital cost",
+              "treatment": "rich",
+              "lines": [
+                "L17"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "A spouse or partner",
+              "note": "No spouse or partner is mentioned in connection with the hospitalization or aftermath"
+            },
+            {
+              "expected": "Description of fear or emotional state during the cardiac event",
+              "note": "No emotion words describe the speaker's own feelings during L3-L14"
+            },
+            {
+              "expected": "Who told the rest of the family, or whether anyone else was told before Nick",
+              "note": "Only Nick's telling in August is addressed; no mention of other family members being informed"
+            },
+            {
+              "expected": "Reason for not telling the shop or family sooner",
+              "note": "Only vacation-days logistics given (L19); no stated reason for keeping it from people for months"
+            },
+            {
+              "expected": "Follow-up on leg pain / medication issue",
+              "note": "L31 states he meant to call about it but no resolution given"
+            },
+            {
+              "expected": "Speaker's own emotional reaction to Nick getting upset",
+              "note": "Only Nick's reaction is described (L23-L25); speaker's response to it is absent"
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L11",
+              "quote": "Put a stent in that afternoon.",
+              "note": "The stent procedure itself given one clause with no elaboration"
+            },
+            {
+              "line": "L24",
+              "quote": "Said I should've — I don't know what he said exactly.",
+              "note": "Nick's statement cut off and not reconstructed"
+            },
+            {
+              "line": "L21",
+              "quote": "It come up.",
+              "note": "How the topic of the stent arose with Nick given only three words before moving to context"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Hospital staff (Hamot)",
+              "lines": [
+                "L9",
+                "L11",
+                "L13"
+              ],
+              "what_they_did": "Took him back quickly, put in stent, wanted him to stay three nights"
+            },
+            {
+              "who": "Nick",
+              "lines": [
+                "L20",
+                "L22",
+                "L23",
+                "L24",
+                "L25",
+                "L26",
+                "L27",
+                "L28",
+                "L29"
+              ],
+              "what_they_did": "Was told about the stent in August, mentioned his own blood pressure at his physical, got upset, said something the speaker doesn't recall exactly, goes quiet in a way attributed to his mother, lives in Columbus, works in logistics software, visits about twice a year"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He treats his own cardiac event as a logistics problem to close out quietly, not a crisis to be shared.",
+              "explanation": "The precision he gives to the truck, the battery brand, and the hospital's nightly rate outstrips the precision he gives to the stent procedure itself or to why he kept it from his coworkers and family for months. The stated reason (\"I had the vacation on the books anyway,\" L19) explains the shop but not the silence toward everyone else until Nick heard it by accident in August. A less flattering reading: he manages the heart attack the way he manages a vehicle repair — replace the part, don't make it a story, don't invite anyone in.",
+              "narrator_frame": "\"I had the vacation on the books anyway\" (L19) — frames the non-disclosure as a scheduling convenience.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L8",
+                  "quote": "Truck had a hundred and eighty-one thousand on it, it was the '04 Silverado"
+                },
+                {
+                  "exp": 4,
+                  "line": "L11",
+                  "quote": "Put a stent in that afternoon."
+                },
+                {
+                  "exp": 4,
+                  "line": "L20",
+                  "quote": "Nick I told in, uh, August."
+                }
+              ],
+              "falsifier": "If he had called Nick, his other family, or coworkers within days of the stent to tell them directly, this reading would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In a future health or financial setback, he will delay telling his family until someone else raises the topic first, rather than initiating the disclosure himself."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "stated_vs_lived",
+              "headline": "He states a rule of self-sufficiency (\"I was fine\") but the facts show he was told otherwise twice — by the hospital and by Nick — and overrode both.",
+              "explanation": "He left one night early against the hospital's recommendation (L13-14) and, per L23-25, Nick reacted with anger implying he should have handled things differently — yet the speaker offers no account of reconsidering either judgment, only a flat, unreconstructed \"I don't know what he said exactly.\" This is not simple forgetting: he supplies exact figures elsewhere (mileage, blockage percentage, nightly cost) but goes vague exactly where someone else's judgment of him is at stake.",
+              "narrator_frame": "\"Because I was fine\" (L16) and \"there's no reason to lay in a bed... when you're eating a turkey sandwich\" (L17) — self-assessment used to override others' assessment.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L13",
+                  "quote": "They wanted me three nights."
+                },
+                {
+                  "exp": 4,
+                  "line": "L16",
+                  "quote": "Because I was fine."
+                },
+                {
+                  "exp": 4,
+                  "line": "L24",
+                  "quote": "Said I should've — I don't know what he said exactly."
+                }
+              ],
+              "falsifier": "If he had described Nick's criticism in detail and engaged with whether Nick had a point, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: When a doctor or family member pushes back on a health decision (e.g., resuming the medication he quit), he will state his own judgment as settled fact rather than revisit it, without directly refuting their concern."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "absence",
+              "headline": "He tracks maintenance on the truck's battery to completion but leaves his own medication problem unresolved and unmentioned to a doctor.",
+              "explanation": "The battery arc is closed with brand-name precision (\"Interstate... they're the ones with the good warranty,\" L32-34), while the second medication is dropped with \"I meant to call about it\" (L31) and no resolution given anywhere in the account. Both are maintenance-type follow-ups from the same event; only the mechanical one gets finished. The charitable reading — he simply forgot to mention the medical follow-up — is undercut by the fact he remembered to circle back and report the battery purchase unprompted.",
+              "narrator_frame": "\"I didn't — I mean I meant to call about it\" (L31) — frames it as an oversight, not a choice.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L31",
+                  "quote": "I didn't — I mean I meant to call about it."
+                },
+                {
+                  "exp": 4,
+                  "line": "L32",
+                  "quote": "Battery I did get."
+                }
+              ],
+              "falsifier": "If he later reports he did call about the medication and switched to an alternative, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: He will have at least one other standing medical to-do (a referral, a follow-up scan, a prescription renewal) that has lapsed for months without him initiating contact, discovered only when someone else asks."
+            }
+          ],
+          "_dropped_ungrounded": []
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He treats his own cardiac event as a logistics problem to close out quietly, not a crisis to share.",
+              "explanation": "The precision he gives to the truck, the battery brand, and the hospital's nightly rate outstrips the precision he gives to the stent procedure itself or to why he kept it from his coworkers and family for months. The stated reason (\"I had the vacation on the books anyway,\" L19) explains the shop but not the silence toward everyone else until Nick heard it by accident in August. A less flattering reading: he manages the heart attack the way he manages a vehicle repair — replace the part, don't make it a story, don't invite anyone in.",
+              "narrator_frame": "\"I had the vacation on the books anyway\" (L19) — frames the non-disclosure as a scheduling convenience.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L8",
+                  "quote": "Truck had a hundred and eighty-one thousand on it, it was the '04 Silverado"
+                },
+                {
+                  "exp": 4,
+                  "line": "L11",
+                  "quote": "Put a stent in that afternoon."
+                },
+                {
+                  "exp": 4,
+                  "line": "L20",
+                  "quote": "Nick I told in, uh, August."
+                }
+              ],
+              "falsifier": "If he had called Nick, his other family, or coworkers within days of the stent to tell them directly, this reading would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In a future health or financial setback, he will delay telling his family until someone else raises the topic first, rather than initiating the disclosure himself.",
+              "exp": 4
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "absence",
+              "headline": "He tracks the truck battery to completion but leaves his own medication problem unresolved and unmentioned to a doctor.",
+              "explanation": "The battery arc is closed with brand-name precision (\"Interstate... they're the ones with the good warranty,\" L32-34), while the second medication is dropped with \"I meant to call about it\" (L31) and no resolution given anywhere in the account. Both are maintenance-type follow-ups from the same event; only the mechanical one gets finished. The charitable reading — he simply forgot to mention the medical follow-up — is undercut by the fact he remembered to circle back and report the battery purchase unprompted.",
+              "narrator_frame": "\"I didn't — I mean I meant to call about it\" (L31) — frames it as an oversight, not a choice.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L31",
+                  "quote": "I didn't — I mean I meant to call about it."
+                },
+                {
+                  "exp": 4,
+                  "line": "L32",
+                  "quote": "Battery I did get."
+                }
+              ],
+              "falsifier": "If he later reports he did call about the medication and switched to an alternative, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Health and Wellness: He will have at least one other standing medical to-do (a referral, a follow-up scan, a prescription renewal) that has lapsed for months without him initiating contact, discovered only when someone else asks.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He states a rule of self-sufficiency (\"I was fine\") but the facts show he was told otherwise twice — by the hospital and by Nick — and overrode both.",
+              "test": "DEDUPE",
+              "note": "Same selective-precision/avoidance mechanism as the logistics-problem candidate, narrower evidence (one event plus one vague recollection, not two independent instances); subsumed by the surviving disclosure-asymmetry candidate."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "kind": "asymmetry",
+            "headline": "He treats his own cardiac event as a logistics problem to close out quietly, not a crisis to share.",
+            "explanation": "The precision he gives to the truck, the battery brand, and the hospital's nightly rate outstrips the precision he gives to the stent procedure itself or to why he kept it from his coworkers and family for months. The stated reason (\"I had the vacation on the books anyway,\" L19) explains the shop but not the silence toward everyone else until Nick heard it by accident in August. A less flattering reading: he manages the heart attack the way he manages a vehicle repair — replace the part, don't make it a story, don't invite anyone in.",
+            "narrator_frame": "\"I had the vacation on the books anyway\" (L19) — frames the non-disclosure as a scheduling convenience.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L8",
+                "quote": "Truck had a hundred and eighty-one thousand on it, it was the '04 Silverado"
+              },
+              {
+                "exp": 4,
+                "line": "L11",
+                "quote": "Put a stent in that afternoon."
+              },
+              {
+                "exp": 4,
+                "line": "L20",
+                "quote": "Nick I told in, uh, August."
+              }
+            ],
+            "falsifier": "If he had called Nick, his other family, or coworkers within days of the stent to tell them directly, this reading would not hold.",
+            "confidence": "medium",
+            "would_predict": "Relationships: In a future health or financial setback, he will delay telling his family until someone else raises the topic first, rather than initiating the disclosure himself.",
+            "exp": 4
+          },
+          {
+            "category": "patterns_to_explore",
+            "kind": "absence",
+            "headline": "He tracks the truck battery to completion but leaves his own medication problem unresolved and unmentioned to a doctor.",
+            "explanation": "The battery arc is closed with brand-name precision (\"Interstate... they're the ones with the good warranty,\" L32-34), while the second medication is dropped with \"I meant to call about it\" (L31) and no resolution given anywhere in the account. Both are maintenance-type follow-ups from the same event; only the mechanical one gets finished. The charitable reading — he simply forgot to mention the medical follow-up — is undercut by the fact he remembered to circle back and report the battery purchase unprompted.",
+            "narrator_frame": "\"I didn't — I mean I meant to call about it\" (L31) — frames it as an oversight, not a choice.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L31",
+                "quote": "I didn't — I mean I meant to call about it."
+              },
+              {
+                "exp": 4,
+                "line": "L32",
+                "quote": "Battery I did get."
+              }
+            ],
+            "falsifier": "If he later reports he did call about the medication and switched to an alternative, this pattern would not hold.",
+            "confidence": "medium",
+            "would_predict": "Health and Wellness: He will have at least one other standing medical to-do (a referral, a follow-up scan, a prescription renewal) that has lapsed for months without him initiating contact, discovered only when someone else asks.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker states he has been retired since March."
+            },
+            {
+              "line": "L2",
+              "what_happened": "Specifies the year as twenty-six (2026)."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker went to HR on a Monday and took the retirement package before a layoff list was posted."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Two weeks later a layoff list came out with fourteen names on it."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Last day of work was a Thursday."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker arrived at 6am, cleaned out his toolbox, wiped the drawers with a rag."
+            },
+            {
+              "line": "L12",
+              "what_happened": "He took specific tools: a Starrett, a dial indicator, a 0-1 test indicator with swivel, and tap wrenches that were his."
+            },
+            {
+              "line": "L13",
+              "what_happened": "He left the rest of his tooling in the shop."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Approximately three hundred dollars of his own tooling remains in the shop."
+            },
+            {
+              "line": "L15",
+              "what_happened": "A card was circulating and a cake was planned for 2pm."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker left at 11:40am."
+            },
+            {
+              "line": "L18",
+              "what_happened": "He exited via the side door by the compressor room and put his box in the truck."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Total of 41 years working (including a fittings place), 34 years at this particular shop."
+            },
+            {
+              "line": "L20",
+              "what_happened": "There is a coworker named Devon, age 23 or 24."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Devon's mic set was low-quality; the ratchet on the two-inch mic did not give repeatable readings."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker bought a used Mitutoyo mic set from a person in Girard for $190, put it in Devon's drawer, and told him the company had them in the crib from the layoff."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Devon does not know the truth about where the tools came from."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker still gets up at the same time as before."
+            },
+            {
+              "line": "L28",
+              "what_happened": "He goes to the Denny's on Peach or the one by 90."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker built a fly rod for Nick."
+            },
+            {
+              "line": "L31",
+              "what_happened": "The rod is a six weight with a cork grip he turned himself, wrapped in green because Cascade green was Nick's hockey colors as a child."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Rod was finished in June."
+            },
+            {
+              "line": "L33",
+              "what_happened": "The rod is currently in a tube in the closet of the spare room."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Nick is coming in at Christmas."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L6",
+              "choice_made": "Took the retirement package before the layoff list was posted",
+              "alternatives_present_in_text": "Could have waited to see if his name was on the list"
+            },
+            {
+              "line": "L12",
+              "choice_made": "Took specific named tools (Starrett, dial indicator, tap wrenches)",
+              "alternatives_present_in_text": "Could have taken all his tooling"
+            },
+            {
+              "line": "L13",
+              "choice_made": "Left the rest of his tooling behind",
+              "alternatives_present_in_text": "Could have taken the remaining ~$300 of tooling"
+            },
+            {
+              "line": "L16",
+              "choice_made": "Left at 11:40am, before the card and cake",
+              "alternatives_present_in_text": "Card going around and cake scheduled for 2pm (L15)"
+            },
+            {
+              "line": "L23",
+              "choice_made": "Bought Devon a used mic set and lied about its source",
+              "alternatives_present_in_text": "Could have told Devon he bought it himself, or said nothing"
+            }
+          ],
+          "self_descriptions": [],
+          "narrator_explanations": [
+            {
+              "line": "L11",
+              "quote": "'cause you leave a box dirty and that's what they remember",
+              "explains": "why he cleaned the toolbox drawers"
+            },
+            {
+              "line": "L14",
+              "quote": "which, fine",
+              "explains": "his reaction to leaving $300 of tooling behind"
+            },
+            {
+              "line": "L23",
+              "quote": "told him the company had 'em sitting in the crib from the layoff",
+              "explains": "why he lied to Devon about the source of the mic set"
+            },
+            {
+              "line": "L25",
+              "quote": "It's fine, he uses 'em, that's the point",
+              "explains": "why the lie to Devon doesn't matter"
+            },
+            {
+              "line": "L31",
+              "quote": "wraps in green 'cause Cascade green was his hockey colors when he was little",
+              "explains": "why he chose green wraps for the rod"
+            }
+          ],
+          "emotion_words": [],
+          "repetitions": [
+            {
+              "phrase": "that's it",
+              "lines": [
+                "L18",
+                "L36"
+              ]
+            },
+            {
+              "phrase": "It's fine / which, fine",
+              "lines": [
+                "L14",
+                "L25"
+              ]
+            }
+          ],
+          "precision_asymmetry": [
+            {
+              "line": "L2",
+              "quote": "Twenty-six.",
+              "exact_or_vague": "exact",
+              "topic": "year of retirement"
+            },
+            {
+              "line": "L7",
+              "quote": "there was fourteen on it",
+              "exact_or_vague": "exact",
+              "topic": "number of names on layoff list"
+            },
+            {
+              "line": "L12",
+              "quote": "Took the Starrett, took my dial indicator, the 0-1 test indicator with the swivel, took the tap wrenches that were mine",
+              "exact_or_vague": "exact",
+              "topic": "tools taken"
+            },
+            {
+              "line": "L14",
+              "quote": "There's probably three hundred dollars of my own tooling in that shop still",
+              "exact_or_vague": "exact",
+              "topic": "value of tooling left behind"
+            },
+            {
+              "line": "L16",
+              "quote": "I left at eleven-forty",
+              "exact_or_vague": "exact",
+              "topic": "time of departure"
+            },
+            {
+              "line": "L19",
+              "quote": "Forty-one years, if you count the fittings place, thirty-four at this one",
+              "exact_or_vague": "exact",
+              "topic": "years of employment"
+            },
+            {
+              "line": "L23",
+              "quote": "hundred and ninety",
+              "exact_or_vague": "exact",
+              "topic": "price paid for Devon's mic set"
+            },
+            {
+              "line": "L8",
+              "quote": "I don't know if I was on it",
+              "exact_or_vague": "vague",
+              "topic": "whether he was on the layoff list"
+            },
+            {
+              "line": "L26",
+              "quote": "What I do now is, uh.",
+              "exact_or_vague": "vague",
+              "topic": "daily life in retirement"
+            },
+            {
+              "line": "L29",
+              "quote": "Then I don't know.",
+              "exact_or_vague": "vague",
+              "topic": "what he does after Denny's"
+            },
+            {
+              "line": "L35",
+              "quote": "I'll see.",
+              "exact_or_vague": "vague",
+              "topic": "whether he'll give Nick the rod"
+            }
+          ],
+          "agency_grammar": [
+            {
+              "line": "L5",
+              "quote": "the plant manager's walking around with a guy nobody knows and the guy's got a tablet",
+              "actor": "plant manager and unknown man",
+              "note": "others act; speaker is observer"
+            },
+            {
+              "line": "L6",
+              "quote": "I went down to HR",
+              "actor": "I (speaker)",
+              "note": "speaker as direct actor"
+            },
+            {
+              "line": "L7",
+              "quote": "the list come out",
+              "actor": "the list",
+              "note": "list is grammatical subject, no human actor named"
+            },
+            {
+              "line": "L11",
+              "quote": "I got in at six like always, cleaned the box out, ran the drawers with a rag",
+              "actor": "I (speaker)",
+              "note": "speaker as direct actor"
+            },
+            {
+              "line": "L18",
+              "quote": "Went out the side by the compressor room and put the box in the truck and that was it",
+              "actor": "I (speaker)",
+              "note": "speaker as actor; final clause 'that was it' has no actor"
+            },
+            {
+              "line": "L23",
+              "quote": "I got him a used Mitutoyo set off a guy in Girard... and I put it in his drawer and told him",
+              "actor": "I (speaker)",
+              "note": "speaker as direct actor"
+            },
+            {
+              "line": "L24",
+              "quote": "He don't know.",
+              "actor": "He (Devon)",
+              "note": "Devon as subject, but passive state of not-knowing"
+            }
+          ],
+          "specificity_shift": [
+            {
+              "topic_or_person": "tools/tooling",
+              "treatment": "rich",
+              "lines": [
+                "L12",
+                "L13",
+                "L14",
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "topic_or_person": "Devon's mic set purchase",
+              "treatment": "rich",
+              "lines": [
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "topic_or_person": "the fly rod for Nick",
+              "treatment": "rich",
+              "lines": [
+                "L30",
+                "L31",
+                "L32",
+                "L33"
+              ]
+            },
+            {
+              "topic_or_person": "the layoff/list itself",
+              "treatment": "flat",
+              "lines": [
+                "L4",
+                "L5",
+                "L7",
+                "L8",
+                "L9"
+              ]
+            },
+            {
+              "topic_or_person": "current daily retirement life",
+              "treatment": "flat",
+              "lines": [
+                "L26",
+                "L27",
+                "L28",
+                "L29"
+              ]
+            },
+            {
+              "topic_or_person": "the card and cake event",
+              "treatment": "flat",
+              "lines": [
+                "L15"
+              ]
+            }
+          ],
+          "absences": [
+            {
+              "expected": "Any statement of feeling about retiring after 41 years",
+              "note": "No emotion words appear anywhere in the transcript."
+            },
+            {
+              "expected": "A spouse, partner, or family member other than Nick",
+              "note": "No spouse or partner is mentioned; only Nick and Devon appear."
+            },
+            {
+              "expected": "Reaction to missing his own retirement cake/card",
+              "note": "L15-L16 state the card/cake existed and that he left before it, with no stated reason or reaction."
+            },
+            {
+              "expected": "Whether he wanted to retire or was pushed out",
+              "note": "L4-L9 describe the layoff threat and his decision to take the package, but no statement of his own wish or preference is given."
+            },
+            {
+              "expected": "Physical state or body (hands, back, eyes after 41 years of shop work)",
+              "note": "No mention of his body appears anywhere in the transcript."
+            },
+            {
+              "expected": "Whether Nick knows about or will receive the rod",
+              "note": "L33-L35 state the rod is in the closet and Nick is coming at Christmas, but no plan to give it is confirmed."
+            }
+          ],
+          "rushed_or_skipped": [
+            {
+              "line": "L8",
+              "quote": "I don't know if I was on it.",
+              "note": "Whether he was on the layoff list is stated in one clause and not returned to."
+            },
+            {
+              "line": "L9",
+              "quote": "Wasn't gonna find out.",
+              "note": "Decision not to find out is stated in one short clause with no elaboration."
+            },
+            {
+              "line": "L17",
+              "quote": "At lunch.",
+              "note": "One-word/fragment clarification of leaving time, not elaborated."
+            },
+            {
+              "line": "L26",
+              "quote": "What I do now is, uh.",
+              "note": "Sentence trails off before describing retirement activities."
+            },
+            {
+              "line": "L29",
+              "quote": "Then I don't know.",
+              "note": "Description of post-Denny's activity cut short."
+            },
+            {
+              "line": "L35",
+              "quote": "I'll see.",
+              "note": "Statement about Nick's visit at Christmas cut short with no elaboration."
+            },
+            {
+              "line": "L37",
+              "quote": "Not much of one.",
+              "note": "Final self-assessment of the story given in one clause with no elaboration."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Plant manager and unknown man with tablet",
+              "lines": [
+                "L5"
+              ],
+              "what_they_did": "Walked around the shop, prompting layoff speculation."
+            },
+            {
+              "who": "Devon",
+              "lines": [
+                "L20",
+                "L21",
+                "L22",
+                "L23",
+                "L24",
+                "L25"
+              ],
+              "what_they_did": "Young coworker with poor print-reading skills and a low-quality mic set; received a secretly-purchased replacement mic set from speaker and was told a cover story."
+            },
+            {
+              "who": "Nick",
+              "lines": [
+                "L30",
+                "L31",
+                "L34",
+                "L35"
+              ],
+              "what_they_did": "Recipient of a handmade fly rod; is coming in at Christmas."
+            },
+            {
+              "who": "Guy in Girard",
+              "lines": [
+                "L23"
+              ],
+              "what_they_did": "Sold speaker a used Mitutoyo mic set for $190."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He believes his worth is measured in what he leaves behind clean and functioning, not in being acknowledged for it.",
+              "explanation": "He wiped out drawers for a workplace he was leaving forever, but skipped his own goodbye party; he engineered a gift for Devon that requires Devon never know it came from him. The common thread is not generosity but an aversion to being seen as the giver — he acts to leave things in good order and then removes himself before anyone can respond to it. The alternative reading, that he's simply humble, doesn't explain why the lie to Devon was necessary rather than incidental: a true gift doesn't need a cover story unless being thanked is the thing being avoided.",
+              "narrator_frame": "\"you leave a box dirty and that's what they remember\" (L11) — frames it as professional pride, not about avoiding recognition.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L11",
+                  "quote": "cleaned the box out, ran the drawers with a rag"
+                },
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "I left at eleven-forty"
+                },
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "told him the company had 'em sitting in the crib from the layoff"
+                },
+                {
+                  "exp": 1,
+                  "line": "L24",
+                  "quote": "He don't know."
+                }
+              ],
+              "falsifier": "If he had stayed for the cake and card, or told Devon directly the mic set was from him, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In his marriage or close friendships, he underreports or deflects credit for practical help he provides (e.g. fixing something, paying for something) rather than let it be acknowledged."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "absence",
+              "headline": "He narrates decisions about people (leaving, giving, gifting) with exact figures and mechanics but goes vague exactly when the question turns to his own state or intention.",
+              "explanation": "Precision is total for tools, dollars, times, and years (L2, L7, L12, L14, L16, L19, L23) but collapses into trailing fragments the moment the topic is his own wanting, feeling, or planning — \"I don't know if I was on it\" (L8), \"What I do now is, uh\" (L26), \"I'll see\" (L35). This isn't simply reticence about emotion; the same evasiveness appears for the practical question of whether he'll actually give Nick the rod, suggesting a broader habit of not committing to statements about his own future or interior state even when no emotion is involved.",
+              "narrator_frame": "\"Not much of one\" (L37) — he frames the whole account as not much of a story, implicitly explaining the flatness as the story having nothing in it, rather than as his own telling withholding something.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L8",
+                  "quote": "I don't know if I was on it"
+                },
+                {
+                  "exp": 1,
+                  "line": "L26",
+                  "quote": "What I do now is, uh."
+                },
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "I'll see."
+                }
+              ],
+              "falsifier": "If he elaborated at similar length and specificity about his own daily routine or intentions as he does about tools and dates, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Personal Growth: When asked directly about a goal or decision he is currently facing, he will give a concrete plan for the mechanics but answer vaguely or trail off when asked what he wants or how he feels about the outcome."
+            },
+            {
+              "category": "core_values",
+              "kind": "content",
+              "headline": "He protects the competence of the person he's handing his trade to, at a direct personal cost he has already priced and accepted.",
+              "explanation": "The choice to spend $190 of his own money on a tool for a coworker, on his way out the door of a 34-year job, while simultaneously leaving $300 of his own gear behind unclaimed, shows the tooling isn't really about money — he'll absorb a loss either way. What he won't leave unresolved is Devon working with instruments that don't give repeatable readings; that's the one gap he closes before he goes. This reads less as generosity in general and more as a specific value: a tradesman should not be handicapped by bad tools, which he acts on even though it costs him and even though he'll never work alongside Devon again to see the payoff.",
+              "narrator_frame": "\"It's fine, he uses 'em, that's the point\" (L25) — frames it purely as pragmatic and closed, no larger claim about mentorship or values.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L22",
+                  "quote": "it wasn't repeatable, you'd get four different readings"
+                },
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "I got him a used Mitutoyo set off a guy in Girard, hundred and ninety"
+                },
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "There's probably three hundred dollars of my own tooling in that shop still, which, fine"
+                }
+              ],
+              "falsifier": "If he had complained about the cost, or waited to see if the company would replace Devon's tools rather than paying himself, this would not hold.",
+              "confidence": "high",
+              "would_predict": "Work and Career: In any past leadership or mentoring role, he is remembered for quietly fixing a colleague's working conditions or tools rather than for giving instruction or praise."
+            }
+          ],
+          "_dropped_ungrounded": [
+            {
+              "category": "defining_beliefs",
+              "kind": "asymmetry",
+              "headline": "He believes his worth is measured in what he leaves behind clean and functioning, not in being acknowledged for it.",
+              "explanation": "He wiped out drawers for a workplace he was leaving forever, but skipped his own goodbye party; he engineered a gift for Devon that requires Devon never know it came from him. The common thread is not generosity but an aversion to being seen as the giver — he acts to leave things in good order and then removes himself before anyone can respond to it. The alternative reading, that he's simply humble, doesn't explain why the lie to Devon was necessary rather than incidental: a true gift doesn't need a cover story unless being thanked is the thing being avoided.",
+              "narrator_frame": "\"you leave a box dirty and that's what they remember\" (L11) — frames it as professional pride, not about avoiding recognition.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L11",
+                  "quote": "cleaned the box out, ran the drawers with a rag"
+                },
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "I left at eleven-forty"
+                },
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "told him the company had 'em sitting in the crib from the layoff"
+                },
+                {
+                  "exp": 1,
+                  "line": "L24",
+                  "quote": "He don't know."
+                }
+              ],
+              "falsifier": "If he had stayed for the cake and card, or told Devon directly the mic set was from him, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Relationships: In his marriage or close friendships, he underreports or deflects credit for practical help he provides (e.g. fixing something, paying for something) rather than let it be acknowledged."
+            },
+            {
+              "category": "patterns_to_explore",
+              "kind": "absence",
+              "headline": "He narrates decisions about people (leaving, giving, gifting) with exact figures and mechanics but goes vague exactly when the question turns to his own state or intention.",
+              "explanation": "Precision is total for tools, dollars, times, and years (L2, L7, L12, L14, L16, L19, L23) but collapses into trailing fragments the moment the topic is his own wanting, feeling, or planning — \"I don't know if I was on it\" (L8), \"What I do now is, uh\" (L26), \"I'll see\" (L35). This isn't simply reticence about emotion; the same evasiveness appears for the practical question of whether he'll actually give Nick the rod, suggesting a broader habit of not committing to statements about his own future or interior state even when no emotion is involved.",
+              "narrator_frame": "\"Not much of one\" (L37) — he frames the whole account as not much of a story, implicitly explaining the flatness as the story having nothing in it, rather than as his own telling withholding something.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L8",
+                  "quote": "I don't know if I was on it"
+                },
+                {
+                  "exp": 1,
+                  "line": "L26",
+                  "quote": "What I do now is, uh."
+                },
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "I'll see."
+                }
+              ],
+              "falsifier": "If he elaborated at similar length and specificity about his own daily routine or intentions as he does about tools and dates, this pattern would not hold.",
+              "confidence": "medium",
+              "would_predict": "Personal Growth: When asked directly about a goal or decision he is currently facing, he will give a concrete plan for the mechanics but answer vaguely or trail off when asked what he wants or how he feels about the outcome."
+            },
+            {
+              "category": "core_values",
+              "kind": "content",
+              "headline": "He protects the competence of the person he's handing his trade to, at a direct personal cost he has already priced and accepted.",
+              "explanation": "The choice to spend $190 of his own money on a tool for a coworker, on his way out the door of a 34-year job, while simultaneously leaving $300 of his own gear behind unclaimed, shows the tooling isn't really about money — he'll absorb a loss either way. What he won't leave unresolved is Devon working with instruments that don't give repeatable readings; that's the one gap he closes before he goes. This reads less as generosity in general and more as a specific value: a tradesman should not be handicapped by bad tools, which he acts on even though it costs him and even though he'll never work alongside Devon again to see the payoff.",
+              "narrator_frame": "\"It's fine, he uses 'em, that's the point\" (L25) — frames it purely as pragmatic and closed, no larger claim about mentorship or values.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L22",
+                  "quote": "it wasn't repeatable, you'd get four different readings"
+                },
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "I got him a used Mitutoyo set off a guy in Girard, hundred and ninety"
+                },
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "There's probably three hundred dollars of my own tooling in that shop still, which, fine"
+                }
+              ],
+              "falsifier": "If he had complained about the cost, or waited to see if the company would replace Devon's tools rather than paying himself, this would not hold.",
+              "confidence": "high",
+              "would_predict": "Work and Career: In any past leadership or mentoring role, he is remembered for quietly fixing a colleague's working conditions or tools rather than for giving instruction or praise."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [],
+          "deleted": []
+        },
+        "survivors": []
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "patterns_to_explore",
+          "kind": "recurrence",
+          "headline": "He completes the paid job before he completes the human moment, across three decades, and frames each instance as simple necessity.",
+          "explanation": "In 1991 he leaves the hospital to finish eleven parts before his son is an hour old; in 2016 he manages a stent the way he manages a fleet vehicle, closing the shop out with vacation days instead of telling anyone; in 2026 he leaves his own retirement cake to avoid the room. Each time the stated justification is different (a traveler with his name on it, privacy, not wanting a fuss) but the shape is identical: task or exit takes precedence over the social/emotional beat available to him.",
+          "narrator_frame": "\"Because if you're gonna do it you do it\" (E2); \"I had the vacation on the books anyway\" (E4)",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "And then I went back in and ran the eleven. Got 'em on the truck."
+            },
+            {
+              "exp": 5,
+              "quote": "There was a card going around and a cake for two o'clock. I left at eleven-forty."
+            }
+          ],
+          "falsifier": "If in any account he stays for the human moment when a task is still open and unfinished, or delegates the task to be present instead, this recurrence weakens.",
+          "confidence": "high",
+          "scope": "cross",
+          "would_predict": "Rest and recreation: offered unstructured free time (a planned trip, a day with no task), he will invent or accept a task to fill it rather than remain in open, unscheduled time."
+        },
+        {
+          "category": "core_values",
+          "kind": "recurrence",
+          "headline": "He repeatedly transfers precision tools to younger men at the exact moment of loss, treating the tool itself as the eulogy.",
+          "explanation": "Walt Zimmer's mic passes to him at Walt's death (via the wife's box); decades later he buys Devon a Mitutoyo set and lies about its origin at his own retirement. Both transfers happen at an ending, both involve deliberately obscuring the emotional weight (Walt \"didn't say it mean, he just set it down\"; Devon \"don't know\" it came from him), and both are the only acts of mentorship-as-love visible in the corpus.",
+          "narrator_frame": "\"He don't know. It's fine, he uses 'em, that's the point.\"",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "So I took the mic."
+            },
+            {
+              "exp": 5,
+              "quote": "I got him a used Mitutoyo set off a guy in Girard, hundred and ninety, and I put it in his drawer and told him the company had 'em sitting in the crib from the layoff."
+            }
+          ],
+          "falsifier": "If he ever tells a recipient directly that a tool or gift came from him and explains why, this value (transmission without acknowledgment) would not hold.",
+          "confidence": "high",
+          "scope": "cross",
+          "would_predict": "Legacy and impact: asked directly what he wants remembered about him, he will name an object or a skill passed on rather than a relationship or a feeling."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "recurrence",
+          "headline": "Every object he keeps has a precise resting place he can name instantly; every relationship's current state is vague or dated.",
+          "explanation": "He knows the mic is \"in the second drawer of the top box\" (E1), the tractor is \"on the shelf by the breaker panel\" (E2), the rod is \"in the closet in the spare room in the tube\" (E5) — but Deb's medical history is \"I think, uh, four or five years ago\" (E3) and Nick's job is \"does something with logistics software, I can't explain it right\" (E4). The asymmetry holds across five separate experiences and is not explained by simple forgetting, since object locations from forty years ago outlast facts about people alive and present in his life now.",
+          "narrator_frame": "none",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "It's in the second drawer of the top box."
+            },
+            {
+              "exp": 4,
+              "quote": "Does something with logistics software, I can't explain it right."
+            }
+          ],
+          "falsifier": "If he demonstrates equal precision about Nick's or Deb's current life circumstances (address, job details, health specifics) in an unprompted way, this pattern weakens.",
+          "confidence": "high",
+          "scope": "cross",
+          "would_predict": "Friendships and community: asked to describe a close friend's current life situation, he will give fewer verifiable specifics than he gives about a tool or vehicle he owns."
+        },
+        {
+          "category": "defining_beliefs",
+          "kind": "stated_vs_lived",
+          "headline": "He claims fairness and non-blame (\"I want to be fair on that\") while his own retirement and departures show he preempts being judged or chosen against.",
+          "explanation": "In E3 he insists Deb \"never said the word\" and takes pains to frame the divorce as mutual and fair. Yet in E5 he takes the buyout before the layoff list comes out specifically so he won't \"find out\" if he was on it — the same instinct to leave before being told something unwanted, rather than to stay and learn the outcome. The stated self-image is someone who waits for the facts and stays fair; the lived pattern is someone who exits pre-emptively to control the narrative of his own departure.",
+          "narrator_frame": "\"She didn't ask me to go. I want to be fair on that.\"",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "She didn't ask me to go. I want to be fair on that."
+            },
+            {
+              "exp": 5,
+              "quote": "I don't know if I was on it. Wasn't gonna find out."
+            }
+          ],
+          "falsifier": "If he ever waits to be told a decision (rather than acting to preempt it) in a comparably charged situation, this contradiction would not hold.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Mindset and limiting beliefs: facing an upcoming evaluation or decision about him (a medical diagnosis, a will, a performance review), he will act to resolve or exit the uncertainty himself rather than wait for the outcome to be delivered."
+        },
+        {
+          "category": "form",
+          "kind": "recurrence",
+          "headline": "Every experience ends with a small, deliberately minimizing sign-off that undercuts what he just described.",
+          "explanation": "\"Anyway. That's the shop\" (E1); \"Anyway that's the twelfth\" (E2); \"Anyway. Duke lived till oh-nine\" (E3); \"Anyway that's the — that's it, that's the story. Not much of one\" (E5). The pattern spans four of five experiences and always deflates the preceding content immediately after he's shown unusual specificity or feeling, suggesting a reflexive move to close down significance right after it surfaces.",
+          "narrator_frame": "\"Not much of one\" (E5) — explicit self-deprecation about the value of his own account",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "Anyway. That's the shop."
+            },
+            {
+              "exp": 5,
+              "quote": "Anyway that's the — that's it, that's the story. Not much of one."
+            }
+          ],
+          "falsifier": "If he ends an account on the emotional or significant beat itself, without a deflecting closer, this form pattern weakens.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Personal growth: asked to reflect on an accomplishment (41 years worked, a marriage, raising a son), he will conclude with a minimizing phrase (\"not much,\" \"that's it\") rather than an evaluative or proud statement."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "absence",
+          "headline": "Across five stories spanning a heart attack, a divorce, and a death, he never once names what he wanted for himself.",
+          "explanation": "He states what tasks needed doing (parts, trucks, furnaces, tools) and what others needed (Deb's furnace, Nick's rod, Devon's mics) in granular detail, but there is no instance across the corpus where he articulates a personal want or preference independent of a task — not about the divorce, not about retirement, not about the stent recovery, not even about the fishing rod's purpose beyond Nick's hockey colors. The corpus gives ample room for this (a whole account of quitting the second cardiac medication, a whole account of retiring) and it never surfaces.",
+          "narrator_frame": "none",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "The other one made my legs hurt so I quit that, I didn't — I mean I meant to call about it."
+            },
+            {
+              "exp": 5,
+              "quote": "Then I don't know."
+            }
+          ],
+          "falsifier": "If in any account he states a preference or want framed around himself (\"I wanted X\") rather than a task or another person, this absence claim fails.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Passions and interests: asked directly \"what do you want to do now that you're retired,\" he will answer with a routine (Denny's, same wake time) rather than a goal or desire."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "absence",
+          "headline": "No story contains a moment where he receives help; every account shows him giving, fixing, or providing, never being on the receiving end.",
+          "explanation": "He drives himself to the hospital for a 90%-blocked artery (E4), fixes Deb's furnace and tires alone (E3), builds tools and toys for others (E2, E5), moves his own furniture with one coworker rather than a crew (E3) — but at no point does anyone fix, drive, build, or care for him, even in the moment of his own cardiac event, where a spouse's or partner's care would ordinarily appear. Given a heart attack, a divorce, and a retirement are exactly the events where being helped is common, this is a meaningful gap rather than an artifact of topic choice.",
+          "narrator_frame": "\"So I drove myself to Hamot.\"",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "So I drove myself to Hamot."
+            },
+            {
+              "exp": 3,
+              "quote": "So me and a guy from work, Timmy Pahl, we had it on a furniture dolly and a ramp."
+            }
+          ],
+          "falsifier": "If any account describes someone else initiating care toward him that he accepts, this absence claim fails.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Friendships and community: he will not have a person he names as someone he calls first in a crisis; asked \"who would you call,\" he will hesitate or name a task-based contact (a mechanic, a doctor) rather than a person."
+        },
+        {
+          "category": "compounding",
+          "kind": "compounding",
+          "headline": "The retirement account reveals that his entire style of care — quiet transfer of tools, minimized exits — is a closed system he learned from Walt and never revised.",
+          "explanation": "E1 alone shows a moving anecdote about receiving a mic in silence. Only with E5 present can we see it was not a singular memory but a template he actively re-enacted on Devon forty years later, down to the concealment of the gift's source and the flat closing line. This means the Walt story is not nostalgia but evidence of an operating procedure still running the day he left the workforce for good.",
+          "narrator_frame": "none — he never connects Walt to Devon explicitly",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "He didn't say it mean. He just set it down."
+            },
+            {
+              "exp": 5,
+              "quote": "I put it in his drawer and told him the company had 'em sitting in the crib from the layoff. He don't know."
+            }
+          ],
+          "falsifier": "If Devon's gift is a one-off unrelated to Walt's influence (e.g., he explicitly says he got the idea elsewhere), the compounding link weakens.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Leadership and collaboration: in any future mentoring relationship he enters, he will transfer knowledge or resources indirectly/anonymously rather than through direct praise or acknowledgment."
+        },
+        {
+          "category": "patterns_to_explore",
+          "kind": "form",
+          "headline": "He names coworkers and their competence with more evaluative detail than he gives any family member.",
+          "explanation": "Rigo \"couldn't hold a tenth to save his life\" (E2), Devon has \"good hands, terrible with a print\" (E5), Timmy Pahl is named in a single functional mention (E3) — these are specific, opinionated character assessments. By contrast, Deb and Nick receive almost no adjectival description of their character anywhere in the corpus; Nick is described only by inherited trait (\"his mother's way of going quiet\") and Deb almost not at all except logistically.",
+          "narrator_frame": "none",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "the second shift guy, Rigo, he couldn't hold a tenth to save his life"
+            },
+            {
+              "exp": 5,
+              "quote": "There's a kid there, Devon, twenty-three, twenty-four. Good hands, terrible with a print."
+            }
+          ],
+          "falsifier": "If he offers a comparably specific character judgment about Deb or Nick anywhere in the corpus, this form pattern weakens.",
+          "confidence": "medium",
+          "scope": "cross",
+          "would_predict": "Family and parenting: asked to describe Nick's strengths and weaknesses the way he describes a coworker's skill, he will default to biography (job, location, visit frequency) rather than character assessment."
+        }
+      ],
+      "_dropped_ungrounded": []
+    },
+    "delivery": {
+      "analysis_title": "Five-Account Pattern Analysis",
+      "date_analyzed": "2026-09-18",
+      "subject_email": "robertgary.henderson@gmail.com",
+      "patterns": [
+        {
+          "pattern_number": 1,
+          "title": "Task completion prioritized over human moments",
+          "description": "Finishes the task before taking the human moment — consistently across thirty-five years",
+          "examples": [
+            "Left hospital one hour after Nick's birth to run eleven parts",
+            "Left retirement party before cake was cut at 11:40 AM"
+          ],
+          "confidence": "high",
+          "weakening_condition": "Any account showing staying for the moment while a task sat unfinished",
+          "prediction": "Offered unstructured free time, will invent or accept a task rather than stay in it"
+        },
+        {
+          "pattern_number": 2,
+          "title": "Tools passed down at moment of loss with signature scratched off",
+          "description": "Passes down tools at the exact moment of loss, ensures receiver doesn't know what it cost",
+          "examples": [
+            "Took Walt Zimmer's mic after his death, knows exact location decades later",
+            "Gave Devon used Mitutoyo set, claimed it came from company layoff crib"
+          ],
+          "confidence": "high",
+          "weakening_condition": "Ever telling a recipient directly that a gift came from you and why",
+          "prediction": "Asked what you want remembered about you, will name an object or skill, not a relationship"
+        },
+        {
+          "pattern_number": 3,
+          "title": "Precise tool memory versus vague people memory",
+          "description": "Can locate every tool instantly with four-decade precision; can't locate current facts about closest people",
+          "examples": [
+            "Mic location: second drawer of top box",
+            "Nick's job: does something with logistics software, can't explain it",
+            "Deb's knee surgery: four or five years ago"
+          ],
+          "confidence": "high",
+          "weakening_condition": "Giving equally precise, unprompted detail about Nick's or Deb's current life",
+          "prediction": "Asked to describe a close friend's situation, will give fewer verifiable specifics than about a vehicle or tool owned"
+        },
+        {
+          "pattern_number": 4,
+          "title": "Exits before receiving unwanted information",
+          "description": "Says waits to be treated fairly, but acts to leave before being told something doesn't want to hear",
+          "examples": [
+            "On divorce: wife didn't ask him to go",
+            "On retirement: took buyout before layoff list came out to avoid finding out if was on it"
+          ],
+          "confidence": "medium",
+          "weakening_condition": "Waiting to be told a comparably charged outcome instead of acting first",
+          "prediction": "Facing an evaluation or decision about self, will move to resolve or exit the uncertainty rather than wait for result"
+        },
+        {
+          "pattern_number": 5,
+          "title": "Minimizing closure lines after specificity or feeling",
+          "description": "Ends almost every account by shrinking what was just described",
+          "examples": [
+            "Anyway. That's the shop.",
+            "Anyway that's the twelfth.",
+            "Anyway. Duke lived till oh-nine.",
+            "Anyway that's the — that's it, that's the story. Not much of one."
+          ],
+          "confidence": "medium",
+          "weakening_condition": "Ending any account on the emotional beat itself, without deflecting",
+          "prediction": "Asked to reflect on accomplishment, will close with a minimizing phrase rather than an evaluative one"
+        },
+        {
+          "pattern_number": 6,
+          "title": "Never stating personal wants independent of tasks",
+          "description": "Across heart attack, divorce, and death, never says what wanted for self",
+          "examples": [
+            "States what needed doing and what others needed in detail",
+            "On quitting heart medication: no framing around personal want",
+            "Names tasks and provisions, not personal goals"
+          ],
+          "confidence": "medium",
+          "weakening_condition": "Any account stating a want framed around self rather than task or another person",
+          "prediction": "Asked what you want to do now that you're retired, will answer with a routine, not a goal"
+        },
+        {
+          "pattern_number": 7,
+          "title": "Gives, fixes, provides — never receives care",
+          "description": "In every story, gives, fixes, or provides; in none does anyone do that for self — including during heart attack",
+          "examples": [
+            "Drove self to Hamot with 90%-blocked artery",
+            "Fixed Deb's furnace solo after divorce",
+            "Moved own furniture with one coworker instead of crew"
+          ],
+          "confidence": "medium",
+          "weakening_condition": "Any account showing someone else initiating care that was accepted",
+          "prediction": "Asked who would call in a crisis, will hesitate or name a task-based contact rather than a person"
+        },
+        {
+          "pattern_number": 8,
+          "title": "Care style is closed loop from Walt Zimmer template",
+          "description": "Retirement story shows whole style of care is closed loop, learned once from Walt and never revised",
+          "examples": [
+            "Walt handed mic in silence at death",
+            "Forty years later did same thing to Devon — concealed source, minimized moment, closed with flat line",
+            "Same procedure still running at workforce exit"
+          ],
+          "confidence": "medium",
+          "weakening_condition": "Saying Devon's gift came from somewhere else, unrelated to Walt",
+          "prediction": "In any future mentoring relationship, will transfer resources indirectly rather than through direct praise"
+        },
+        {
+          "pattern_number": 9,
+          "title": "Sharper character judgments for coworkers than family",
+          "description": "Gives coworkers sharper character judgments than own family",
+          "examples": [
+            "Rigo couldn't hold a tenth to save his life",
+            "Devon has good hands, terrible with a print",
+            "Nick described by inherited trait; Deb mostly by logistics"
+          ],
+          "confidence": "medium",
+          "weakening_condition": "Giving a comparably specific character judgment about Deb or Nick anywhere in record",
+          "prediction": "Asked to describe Nick's strengths and weaknesses like a coworker, will default to biography instead"
+        }
+      ]
+    }
+  },
+  "generation": "v2",
+  "model": "claude-sonnet-5",
+  "cost_usd": 0.8242,
+  "n_calls": 19,
+  "model_latency_ms": 469364,
+  "latency_ms": 274773,
+  "persona": "p04_withholder",
+  "n_experiences": 5,
+  "condition": "v2__mid",
+  "frozen_at": "2026-09-18T16:27:36.318609+00:00"
+}
