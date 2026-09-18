@@ -2,6 +2,20 @@
 
 Life design platform that helps you become more through self-knowledge, character development, and action. Chat-first mobile app + API + local Postgres.
 
+## Defining Experiences insight engine (research run, 2026-09-18)
+
+An unattended run built and evaluated the insight engine behind the Defining Experiences flow. Start with
+[FINDINGS.md](FINDINGS.md) (the answer and the disconfirming evidence), then [DECISION.md](DECISION.md) (what to build next),
+then [INSIGHTS.md](INSIGHTS.md) (the ten best insights it produced, verbatim). The prototype runs in one command:
+
+```bash
+python3 prototype/run.py path/to/my_experiences/
+```
+
+See [prototype/README.md](prototype/README.md), [prompts/CHANGELOG.md](prompts/CHANGELOG.md), [eval/README.md](eval/README.md),
+[OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) and [PROGRESS.md](PROGRESS.md). Robert's own transcripts and sealed files were not
+available to the run; see FINDINGS.md for what that means.
+
 ---
 
 ## First-time setup (do this once)
