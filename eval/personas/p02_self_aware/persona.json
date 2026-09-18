@@ -1,0 +1,12 @@
+{
+  "name": "Alyssa Kovach",
+  "age": 38,
+  "sex": "female",
+  "occupation": "Finishing an MA in Clinical Mental Health Counseling; previously ten years in HR (people ops / employee relations)",
+  "culture_context": "White, middle-class Front Range Colorado. Grew up in Aurora, lives in Denver (Sloan's Lake area). Therapy-literate professional-class vocabulary — attachment styles, nervous systems, parts work, Brené Brown, 'capacity,' 'holding space.' Divorced parents, one sister in Phoenix. Long-term partner, Nic. Talks about I-70, rec center lap swim, King Soopers, Golden, Estes.",
+  "id": "p02_self_aware",
+  "archetype": "self_aware",
+  "spec": "A 38-year-old woman finishing a master's in counseling after ten years in HR in Denver. Highly self-aware: she has done years of therapy and names her own patterns as she tells each story ('classic me, over-functioning', 'that's my abandonment stuff'). The challenge for any analyst: the interesting patterns are the ones she does NOT name, which sit underneath or contradict the labels she applies to herself.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.35658100000000004
+}

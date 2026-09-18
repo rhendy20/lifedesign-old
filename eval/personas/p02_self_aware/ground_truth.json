@@ -1,0 +1,98 @@
+{
+  "known_self": [
+    "She was a parentified child whose mother used her as an emotional confidant after the 1998 divorce.",
+    "She over-functions: takes on everything, doesn't delegate, then resents that no one helped.",
+    "She describes herself as having 'abandonment stuff' and says she leaves before she can be left.",
+    "She has done ten-plus years of therapy, including EMDR, and can produce a clinical formulation of herself on demand.",
+    "She is hypervigilant and 'unflappable' under pressure — she got shingles at 29 rather than say she was struggling.",
+    "She has trouble asking directly for what she needs; it's literally on the self-treatment plan she wrote for herself.",
+    "She left HR for counseling and frames it as a matter of integrity after running a layoff.",
+    "She thinks she is the healthiest and most self-aware she has ever been, and considers that clarity her main asset as a future clinician."
+  ],
+  "latent_self": [
+    {
+      "claim": "Her sense of worth and safety comes from asymmetric knowledge — covertly possessing information about people who don't know she has it. She frames every instance as burden, duty, or grief, never as the thing she seeks out and repeats.",
+      "planted_in": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "how_it_shows": "Two years of reading her mother's journal (and the tactile pleasure of gauging new pages); reading Jeremy's email and feeling 'calm, footing back' when nothing was wrong; volunteering that she *built* the layoff spreadsheet and holding the list eleven weeks; keeping her mother's passwords and still reading emails to Roseanne; the 'click' in her chest when a client says he's never told anyone."
+    },
+    {
+      "claim": "She deploys therapy language as armor — a preemptive self-diagnosis that closes inquiry before anyone can finish looking at her. The more accurate the label, the more completely it functions as an exit.",
+      "planted_in": [
+        2,
+        3,
+        5
+      ],
+      "how_it_shows": "The 'closing argument' breakup speech Jeremy couldn't argue with; instant four-second formulation to Denise that earned applause and ended the confrontation; she never follows up with Denise and leaves the group chat; she calls naming-it-while-it-happens 'everything,' though nothing changes."
+    },
+    {
+      "claim": "She withdraws at the moment of being *described* or made ordinary by someone who loves her — not at the moment of threatened loss. Her trigger is being seen benignly, not being abandoned; she misfiles this as abandonment fear every time.",
+      "planted_in": [
+        2,
+        5
+      ],
+      "how_it_shows": "The breaker flips in Jeremy's driveway when his sister says 'we feel like we already know you' — after a weekend of nothing wrong; the spiral starts when Nic is happily building a spreadsheet about a shared sunroom; both times she calls it abandonment activation."
+    },
+    {
+      "claim": "Her actual self-regulation is solitary, repetitive, nocturnal physical activity — night driving, closet reorganizing at 2 a.m., mile-plus lap swims at 9 p.m., grout with a toothbrush — and she never once counts it as coping, crediting therapy/EMDR/nervous-system work instead.",
+      "planted_in": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "how_it_shows": "Midnight kitchen at eleven years old ('the kitchen fairy'); I-70 to Idaho Springs and back with the radio off; closet by sleeve length then the 2:45 a.m. King Soopers; eighteen months of lap swim and sitting in the parking lot with wet hair; four hours of sleep, pool at nine, grout at midnight — each mentioned as an aside."
+    },
+    {
+      "claim": "What she calls over-functioning is actually a covert bid: she engineers a position where the other person *should* offer, refuses help when offered so the debt stays intact, and then experiences the unmet bid as proof she is alone.",
+      "planted_in": [
+        3,
+        4,
+        5
+      ],
+      "how_it_shows": "Sitting at her desk after the RIF 'waiting' without knowing for what; long Sunday updates to Kelsey while telling her not to waste the flight, then rage at the heart emoji; telling Nic the appointments are 'so boring' and then the aquarium waiting room; not telling Nic anything now because 'he's so happy.'"
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "She's a classic people-pleaser who can't say no and stays too long in things.",
+      "why_false": "She says no crisply and exits fast and completely — the Ogden lease, the job four months after a promotion, the cohort group chat, Danielle. Her problem is amputation, not endurance."
+    },
+    {
+      "claim": "Unresolved grief over her father's death and his leaving is the engine of her attachment style.",
+      "why_false": "She mentions his death in one flat aside and genuinely felt little; the live, ongoing, still-secret relationship is with her mother."
+    },
+    {
+      "claim": "She has an anxious-preoccupied attachment style, as she herself says.",
+      "why_false": "Her behavior is fearful-avoidant with a strong avoidant limb — she goes cold, goes silent, withholds distress from partners, and does the leaving, every time."
+    },
+    {
+      "claim": "She's moving into counseling out of altruism and guilt about the layoffs she executed.",
+      "why_false": "Guilt is the cover story; the pull is the structurally asymmetric intimacy of the therapy room — total access to another person with zero reciprocal disclosure required."
+    },
+    {
+      "claim": "Years of therapy have made her genuinely more open and relationally available.",
+      "why_false": "They've made her more fluent. Disclosure volume went up; actual exposure went down — no one in her life knows her bad news in real time."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Money",
+      "claim": "She keeps her finances fully separate and partially concealed from Nic while knowing his numbers in detail; she maintains a private cash cushion she'd describe as 'just how I was raised' but which functions as a leave fund, and she has never asked anyone to cover her for anything."
+    },
+    {
+      "domain": "Friendships",
+      "claim": "She has many close-feeling friendships that are structurally one-directional — she's the person everyone calls in a crisis, and almost none of them learned about her mother's diagnosis, her breakups, or her hard months until after they were resolved. She announces things retroactively and has quietly dropped several friends without a rupture conversation."
+    },
+    {
+      "domain": "Health / body",
+      "claim": "She presents as a self-care person (swims, hikes, therapy, knows the vagus nerve literature) but chronically sleeps five hours or less, has stress-somatic flares she treats as unrelated medical events, and will schedule and attend everyone else's appointments while deferring her own by months."
+    }
+  ]
+}

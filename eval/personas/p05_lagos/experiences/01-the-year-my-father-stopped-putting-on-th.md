@@ -1,0 +1,21 @@
+# The year my father stopped putting on the television
+
+_2016, age 14, SS1_
+
+Is it recording? Ehn, okay, the small red light is doing. Okay. So... em. The thing I keep going back to is 2016. I was fourteen. SS1. My daddy was bringing in generators, the small ones, Tiger, Elepaq, that kind, and sometimes tyres, and he had two containers at Apapa when the whole naira thing happened, the dollar just — you know how it did that year. And the clearing, ah. The demurrage alone. I didn't know the word demurrage before that year, now I can spell it backwards. That was the year I learnt that word and the word restructuring. My mummy used restructuring like it was a prayer point. We are restructuring. Ehn, okay ma. 
+
+What I remember is not the shouting, because honestly there wasn't much shouting. My daddy is a quiet man. He would come back from Apapa and sit in the parlour in that his cane chair with the remote in his hand and the television will not be on. Like, he's holding the remote. Pressing it small small. And no light anyway, because we had stopped buying diesel for the gen by like June. So he's sitting in the dark holding a remote. I would come and greet him, e kaale sir, and he would say, Temi, how was school, and I would say fine sir, and that's it. That's the whole conversation for like four months. 
+
+So what I did — and I don't even know why I did it, nobody sent me — I went into the store where my mummy keeps the rice and the garri and the tin tomatoes, and I counted everything. I had an exercise book, one Olympic 40-leaves, and I ruled it. Item. Quantity. How many days it can carry us. Seven of us at that time, well six because my last born was still... no, she had come, she was a baby. Okay seven. And I calculated, if we eat rice three times a week, this bag will finish on such-and-such date. I even wrote the date. I don't know if the calculation was correct sef, I was fourteen, but writing it made something in my chest go down. Like when you finally find where the mosquito is hiding. 
+
+And then my younger ones, Tayo and Bisola especially, they kept asking, are we going to move house, are we changing school, because they heard something. So I told them we were doing a competition. I called it Operation Manage. Whoever wastes the least food in a week gets to choose what we watch on Sunday. There was no prize sha, because there was no light, but they didn't notice that immediately. And Bisola asked me straight, she said Sister Temi is Daddy's business finished, and I said no, Daddy is changing business. Which, you know. He was changing business. He was going to sell his 504, that's changing business. Ehn. 
+
+The Peugeot, that one is another story. This man came from Ikorodu to buy it and haggled for one hour twenty minutes, I was watching from the window, and at the end he brought out the money in a black nylon and my daddy counted it standing up in the sun. I still don't like that man's face and I don't know his name. 
+
+And, em, what else. That was the year our neighbour's daughter, the one that was in SS3, she got pregnant and they moved her to the village, and my mummy used it as a sermon for about two years. Irrelevant, sorry. 
+
+The thing is — I am not a person that keeps record of what people did, you know, I'm not. Family is family. But I can tell you that my daddy has three brothers and the only one that came to the house that whole time was Uncle Segun, and he came twice, September and then just before Christmas, and the second time he brought a bag of rice and a crate of egg and he didn't even come inside, he dropped it at the gate because he was going somewhere. The other two, I'm not saying anything. I greet them well. When Uncle Kunle's daughter was doing her wedding introduction last year I was the one that did the small chops arrangement, I didn't even collect money. So it's not that I'm holding anything. 
+
+But I know the dates. That's just how my head is. I know it was the 14th of September because it was after my birthday. 
+
+Anyway. That year taught me to look at a situation and ask, what is the actual quantity remaining, and how many days. Not how do I feel about it. Nobody can eat how you feel about it.

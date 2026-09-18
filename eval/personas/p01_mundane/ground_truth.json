@@ -1,0 +1,93 @@
+{
+  "known_self": [
+    "Believes his life is uneventful and that this is a blessing, not a loss; apologizes for not being interesting.",
+    "Extremely detail-oriented; proud that he reads the parts of a document nobody else reads.",
+    "Has worked 27 years at the same county water office and has no desire to leave.",
+    "Turned down the chance to apply for supervisor and says flatly that he doesn't regret it.",
+    "Keeps everything — receipts, manuals, old paperwork — and knows where all of it is.",
+    "Good with tools and mechanical problems; the guy who shows up with the right implement.",
+    "Considers his wife Tammy smarter than him and defers to her read on people.",
+    "Thinks of himself as a good neighbor and an easy person to get along with."
+  ],
+  "latent_self": [
+    {
+      "claim": "He engineers situations where he is quietly indispensable but formally invisible, then feels the lack of recognition acutely while insisting he doesn't want any.",
+      "planted_in": [
+        1,
+        3,
+        5
+      ],
+      "how_it_shows": "Builds a spreadsheet only he can run and mentions the vacation phone calls twice; hands off his leak-forgiveness proposal unsigned and then recites the plaque, the board date, and the exact adjustment count for 2019."
+    },
+    {
+      "claim": "He withdraws from wanting things before anyone can decline him — he abandons the ask at the last possible moment and then retroactively supplies practical reasons.",
+      "planted_in": [
+        2,
+        3,
+        5
+      ],
+      "how_it_shows": "Drives past the admin building on deadline day and goes to Arby's after listing PERS math and travel ball; never calls Denny in 22 years; explains the unsigned proposal as strategy ('it goes in the drawer')."
+    },
+    {
+      "claim": "The instant a story approaches emotion, he switches into technical specification — measurements, part numbers, dollar amounts — and the specificity itself is the feeling.",
+      "planted_in": [
+        2,
+        4,
+        5
+      ],
+      "how_it_shows": "The unspoken conversation on the boat becomes a 45-minute debate about snap weights and a drift sock; the property encroachment becomes frost depth and dry-pack concrete; Ardith's near-ruin becomes $1.99 plus $2.40."
+    },
+    {
+      "claim": "He assigns himself the private duty of protecting people who can't argue for themselves, does it by quietly breaking procedure, and refuses to experience it as generosity.",
+      "planted_in": [
+        1,
+        5
+      ],
+      "how_it_shows": "Silently zeroes penalties on single-occupancy elderly accounts 'because that's how it's supposed to work'; falsifies a read as a meter-fail and installs the flapper himself, framing it as no big deal."
+    },
+    {
+      "claim": "Every close male relationship he has is conducted entirely through shared physical tasks; he has never had a personal conversation with a male friend and does not register this as a gap.",
+      "planted_in": [
+        2,
+        4
+      ],
+      "how_it_shows": "Nine and a half hours with a laid-off brother-in-law spent on trolling technique; names Hoefler as the one man he'd call, immediately adds he has never called him, and describes the friendship entirely as borrowed equipment."
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "He secretly regrets not taking the supervisor promotion and feels passed over.",
+      "why_false": "He genuinely sleeps fine about it; what he avoided was having to sit in judgment on coworkers, and the Cheryl Vandersteen memory confirms the decision to him rather than haunting him."
+    },
+    {
+      "claim": "He is passive and conflict-avoidant to the point of having no agency.",
+      "why_false": "He takes decisive, effortful, expensive unilateral action all the time — the $385 survey, weeks of hand-figuring to prove the billing error, rewriting a read against policy; he just never performs the action publicly."
+    },
+    {
+      "claim": "He is bored by his job and stayed only out of inertia and pension math.",
+      "why_false": "The billing system is his primary source of absorption and pleasure; he took exception registers home voluntarily for years with a newborn in the house."
+    },
+    {
+      "claim": "He resents his neighbor and is stewing over the fence encroachment.",
+      "why_false": "He converted the grievance into a bond by helping build the fence; the repeated measurement is a ritual of noticing, not a grudge — he even maintains the disputed strip."
+    },
+    {
+      "claim": "He's a stoic Midwestern man who doesn't need praise or remember slights.",
+      "why_false": "He has replayed one offhand sentence from 1999 weekly for 27 years and can recite who got credit for what and when."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Money",
+      "claim": "He tracks household finances in a spreadsheet of his own construction that nobody else can operate, carries almost no debt, and will spend freely on tools and equipment while treating restaurants, travel and anything 'for himself' as waste — and he quietly covers small costs for others (a neighbor's part, a coworker's lunch) without ever mentioning it."
+    },
+    {
+      "domain": "Health",
+      "claim": "He will not see a doctor over a vague symptom but will comply immediately and precisely with anything measurable — blood pressure logs, step counts, a med schedule — and he minimized or hid a nagging problem (back, knee, hearing) for years by working around it with equipment rather than reporting it."
+    },
+    {
+      "domain": "Friendships and family contact",
+      "claim": "He never initiates contact without a practical pretext — returning a tool, a question about a part, dropping something off — and if his adult children stop needing help with cars, taxes or home repairs, he will slowly lose regular contact with them while insisting nothing is wrong."
+    }
+  ]
+}

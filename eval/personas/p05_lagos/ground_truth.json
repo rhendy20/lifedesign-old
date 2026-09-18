@@ -1,0 +1,94 @@
+{
+  "known_self": [
+    "Eldest of five and carries the family; her siblings' school fees are the organising fact of her life",
+    "Her aunt Funmi funds her nursing education and this is both a rescue and a weight she never openly resents",
+    "She wanted medicine and did not get it, and settled on nursing without regret she will admit to",
+    "She is practical and unsentimental under pressure; she says she does not cry at deaths on the ward",
+    "She remembers dates, numbers and figures obsessively and thinks in quantities and timelines",
+    "She is quietly planning a UK NMC route and has already sat IELTS in secret",
+    "She grew up churchgoing and still goes, and family respectability matters to her",
+    "She says she is analytical and dislikes deep introspective conversation"
+  ],
+  "latent_self": [
+    {
+      "claim": "She systematically withholds bad or uncertain news from the people closest to her until she has already solved it, so that she delivers a finished fact rather than a shared problem; she experiences this as protection, not secrecy.",
+      "planted_in": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "how_it_shows": "Operation Manage and telling Bisola 'Daddy is changing business'; handling her father's BP crisis and only telling Aunty Funmi after discharge; changing her JAMB course at the cyber cafe and showing her father the admission letter after the fact; IELTS taken under cover of a fake workshop."
+    },
+    {
+      "claim": "She is soothed by codified procedure and external authority structures far more than by people; ambiguity and 'connections' culture frighten her, and following an ordered sequence is how she regulates her own emotion.",
+      "planted_in": [
+        3,
+        4,
+        5
+      ],
+      "how_it_shows": "Reading the nursing handbook 'like a novel' and loving the NMCN licence number; her hands being steady through the ordered steps of last offices and being 'fine' afterwards; writing the NMC pathway out in a book in three costed columns."
+    },
+    {
+      "claim": "She keeps an exact private ledger of what people have given and withheld from her family, while explicitly denying that she keeps score, and she never cashes any of it in.",
+      "planted_in": [
+        1,
+        2,
+        4
+      ],
+      "how_it_shows": "Insisting she keeps no record then citing the 14th of September and which uncles never came; the brown envelope of receipts and running total of Aunty Funmi's spend; counting nineteen days that Mama Ronke's son did not come and saying she is not judging."
+    },
+    {
+      "claim": "Her largest life decisions arrive as sudden bodily certainties in transit or in public, and she constructs the rational justification only afterwards, though she presents herself as analytical.",
+      "planted_in": [
+        3,
+        5
+      ],
+      "how_it_shows": "Choosing nursing under the rain shelter at Ojota with 'no reasoning', then building reasons; predicting the UK decision will happen 'at a bus stop or somewhere stupid' while calling herself analytical."
+    },
+    {
+      "claim": "She seeks out the abandoned and the unclaimed and makes herself indispensable to them, and her real grief surfaces only as physical irritation or in objects she keeps rather than as feeling she can name.",
+      "planted_in": [
+        1,
+        4
+      ],
+      "how_it_shows": "Being the one who counts the store and manufactures a game for the younger ones when the adults go silent; plaiting Mama Ronke's hair because the matting 'was disturbing me, not for her, for me', keeping the comb in her bag for a year, and swallowing what she wanted to say to the son."
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "She is driven by religious conviction and makes decisions through prayer and a sense of calling.",
+      "why_false": "Church is family and social infrastructure for her; her decisions arrive somatically at bus stops and are then rationalised, and God is never cited as a decision input in any account."
+    },
+    {
+      "claim": "She resents her father for losing the business and failing the family.",
+      "why_false": "She is protective of him to the point of shielding him; her withheld anger is directed at the uncles who stayed away and at the dependency on her aunt, never at him."
+    },
+    {
+      "claim": "She wants to emigrate for her own freedom and a better life abroad.",
+      "why_false": "She explicitly likes Lagos and dislikes cold; the UK plan is costed entirely around Tayo's and Bisola's fees, and her hesitation is about who will be present at home."
+    },
+    {
+      "claim": "She is a warm natural carer who bonds emotionally with patients.",
+      "why_false": "Her caregiving is procedural and duty-driven; she reports feeling nothing after a death, and her attachment appears only in withheld speech and kept objects."
+    },
+    {
+      "claim": "She is a compliant eldest daughter who cannot say no to family demands.",
+      "why_false": "She refuses constantly, but by omission and pre-emption rather than confrontation, blocking Aunty Funmi from the crisis and changing her course without consultation."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Money",
+      "claim": "She maintains a private cash reserve nobody in the family knows about, in a separate account or physical form, and will let people believe she is broke rather than reveal it; she can state her own and her family's balances from memory and has never asked anyone to repay her."
+    },
+    {
+      "domain": "Romance and friendships",
+      "claim": "She has very few close friends and one designated confidante (Kemi-type) who is told operational facts but not feelings; in a relationship she will present resolved situations rather than share worries in real time, and a partner will experience this as being kept at arm's length long before she notices anything is wrong."
+    },
+    {
+      "domain": "Her own health",
+      "claim": "She defers her own symptoms and dental or gynae checks indefinitely while managing everyone else's, self-prescribes from ward knowledge, and would only disclose a serious personal diagnosis to her family after treatment was already arranged."
+    }
+  ]
+}

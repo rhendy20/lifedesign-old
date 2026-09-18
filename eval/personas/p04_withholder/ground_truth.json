@@ -1,0 +1,94 @@
+{
+  "known_self": [
+    "He was a machinist for over forty years and can still hold a tenth; the trade is the thing he knows he's good at.",
+    "He doesn't talk much and says so implicitly — 'that's it, not much of one.'",
+    "He's divorced since 2003 and says plainly that it wasn't a fight and that he won't blame his ex-wife.",
+    "He sees his son Nick about twice a year and describes it as a fact, not a grievance.",
+    "He believes in doing a job right and finishing what's on the traveler even at personal cost.",
+    "He knows he minimizes medical stuff — he'd say 'I'm fine' is his default and he left the hospital early.",
+    "He's an Erie lifer: knows the streets, the plants that closed, the weather forecast that always goes east.",
+    "He knows he took the retirement package himself rather than waiting for the list."
+  ],
+  "latent_self": [
+    {
+      "claim": "Making or repairing a physical object is his only channel for love, and the gift is almost always undelivered, anonymous, or done while the person is absent — so it never obliges anyone to respond.",
+      "planted_in": [
+        2,
+        3,
+        5
+      ],
+      "how_it_shows": "Three weeks of lunches on a steel tractor that goes on a basement shelf; fixing the ex-wife's furnace and mounting her snow tires when she's out or it's 5:30am; buying Devon's mics and lying that the company supplied them; a finished fly rod for his son sitting in a tube in the closet."
+    },
+    {
+      "claim": "He exits any situation a step before he can be discharged from it — he is structurally incapable of waiting to be left, and frames each preemptive exit as practicality.",
+      "planted_in": [
+        3,
+        4,
+        5
+      ],
+      "how_it_shows": "Signs a lease before Deb ever says the word; signs himself out of the hospital a night early against advice; takes the buyout before the list is posted and explicitly says 'wasn't gonna find out'; walks out at 11:40 to miss the two o'clock cake."
+    },
+    {
+      "claim": "At the exact points where feeling would enter, his language swaps in a specification, a dimension, a dollar figure or an odometer reading — the numbers get sharper as the emotion gets closer, and then he changes subject.",
+      "planted_in": [
+        1,
+        2,
+        4
+      ],
+      "how_it_shows": "Walt's death gets one clause, then four sentences on the 436's carbide anvils; the birth is 'he come at quarter after four, seven pounds one' then straight to the eleven parts; the widowmaker artery is followed immediately by battery cranking speed and the Interstate warranty."
+    },
+    {
+      "claim": "He maintains quiet one-way proximity to people he's separated from — he keeps current on their lives and shows up at the edges of them without ever initiating contact or letting them know he was there.",
+      "planted_in": [
+        3,
+        5
+      ],
+      "how_it_shows": "He knows Deb had her left knee replaced with no account of how; he sat outside the marital house on Christmas Eve before going in; he leaves the furnace fixed before she's home; he leaves the shop tooling and the kid's mics behind rather than be present for thanks."
+    },
+    {
+      "claim": "He erases himself as the grammatical subject of his own life events — the machine, the weather, the other man, or the passive voice does the acting, and his skill is always credited to someone else or to the tool.",
+      "planted_in": [
+        1,
+        2,
+        4
+      ],
+      "how_it_shows": "'That got taken care of' about Walt's headstone lettering he almost certainly paid for; 'he come at quarter after four' rather than anything about himself; 'they took me right back,' 'it come up,' 'that's how it went then'; the mic holds tolerance, Walt taught the hands, Rigo is the one who'd scrap it."
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "He's bitter toward his ex-wife and blames her for the divorce.",
+      "why_false": "He volunteers that she never asked him to leave, insists on being fair to her, gives her the house without argument, and keeps quietly maintaining her car and furnace."
+    },
+    {
+      "claim": "He's a natural loner who prefers his own company and doesn't want closeness.",
+      "why_false": "He builds gifts nobody receives, goes to Denny's daily for the presence of people, and sits outside a house he can't enter — he wants contact and cannot initiate it."
+    },
+    {
+      "claim": "Retirement was a chosen, welcome end to a long career.",
+      "why_false": "He jumped ahead of a layoff list, still wakes at the same hour, and trails off with 'then I don't know' — it's a preemptive exit, not a plan."
+    },
+    {
+      "claim": "He drinks heavily in the classic rust-belt-divorced-man way.",
+      "why_false": "Alcohol appears nowhere in five accounts; his vices are coffee, a diner counter, and not filling a prescription."
+    },
+    {
+      "claim": "His identity is built on pride in craftsmanship.",
+      "why_false": "He credits the mic, Walt, and the tooling for everything and calls his own life 'not much of one'; the skill is a refuge, not a source of self-regard."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Money",
+      "claim": "He has substantially more saved than anyone who sees his truck and apartment would guess, buys almost nothing for himself, pays cash, and quietly moves money toward his son or others in ways they never learn about — he would rather overpay for a tool for someone else than replace his own recliner."
+    },
+    {
+      "domain": "Health",
+      "claim": "He underreports symptoms, has stopped at least one prescribed medication without telling a doctor, will drive himself to the ER rather than call anyone, and will decline follow-up appointments while keeping meticulous track of numbers like blood pressure readings he never shows anybody."
+    },
+    {
+      "domain": "Friendships",
+      "claim": "He has several long-standing relationships conducted entirely through errands and equipment — he'll drive forty minutes to lend a guy a press or plow a neighbor's apron before dawn — but he has never once telephoned any of them just to talk, and would go months without contact if nothing broke."
+    }
+  ]
+}

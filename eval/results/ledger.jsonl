@@ -1,0 +1,10 @@
+{"ts": 1789745771.2539573, "tag": "persona:p04_withholder", "model": "claude-opus-5", "backend": "cli", "input_tokens": 1458, "output_tokens": 9234, "cost_usd": 0.24649999999999997, "latency_ms": 158619}
+{"ts": 1789745825.0515478, "tag": "persona:p03_cliche", "model": "claude-opus-5", "backend": "cli", "input_tokens": 1471, "output_tokens": 11956, "cost_usd": 0.31468799999999997, "latency_ms": 212385}
+{"ts": 1789745828.4378934, "tag": "persona:p01_mundane", "model": "claude-opus-5", "backend": "cli", "input_tokens": 1509, "output_tokens": 12049, "cost_usd": 0.31741600000000003, "latency_ms": 215866}
+{"ts": 1789745834.087891, "tag": "persona:p05_lagos", "model": "claude-opus-5", "backend": "cli", "input_tokens": 1496, "output_tokens": 12155, "cost_usd": 0.319931, "latency_ms": 222751}
+{"ts": 1789745847.8082998, "tag": "persona:p02_self_aware", "model": "claude-opus-5", "backend": "cli", "input_tokens": 1481, "output_tokens": 13627, "cost_usd": 0.35658100000000004, "latency_ms": 235020}
+{"ts": 1789745889.36037, "tag": "v0:claude-haiku-4-5-20251001:baseline:E1", "model": "claude-haiku-4-5-20251001", "backend": "cli", "input_tokens": 1021, "output_tokens": 1806, "cost_usd": 0.011564999999999999, "latency_ms": 23047}
+{"ts": 1789745895.9363537, "tag": "v0:claude-haiku-4-5-20251001:baseline:E3", "model": "claude-haiku-4-5-20251001", "backend": "cli", "input_tokens": 1022, "output_tokens": 2844, "cost_usd": 0.016732, "latency_ms": 29342}
+{"ts": 1789745915.9164221, "tag": "v0:claude-haiku-4-5-20251001:baseline:E2", "model": "claude-haiku-4-5-20251001", "backend": "cli", "input_tokens": 974, "output_tokens": 4631, "cost_usd": 0.025585999999999998, "latency_ms": 49621}
+{"ts": 1789745925.3846192, "tag": "v0:claude-haiku-4-5-20251001:baseline:E4", "model": "claude-haiku-4-5-20251001", "backend": "cli", "input_tokens": 984, "output_tokens": 2989, "cost_usd": 0.017376, "latency_ms": 35360}
+{"ts": 1789745963.7129354, "tag": "v0:claude-haiku-4-5-20251001:baseline:E5", "model": "claude-haiku-4-5-20251001", "backend": "cli", "input_tokens": 1061, "output_tokens": 8644, "cost_usd": 0.045810000000000003, "latency_ms": 67520}

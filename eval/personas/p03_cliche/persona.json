@@ -1,0 +1,12 @@
+{
+  "name": "Tyler Ochoa",
+  "age": 29,
+  "sex": "male",
+  "occupation": "Door-to-door residential solar sales rep (independent dealer), Phoenix AZ; posts motivational short-form content on the side",
+  "culture_context": "Mesa/East Valley Arizona, working-class Mexican-American and white mixed family hit hard by the 2008 crash; suburban Phoenix door-knocking sales culture — podcasts, sales retreats, 'President's Club', group chats, gym at 4am, heavy borrowed self-improvement vocabulary layered over a fairly traditional family-provider role",
+  "id": "p03_cliche",
+  "archetype": "cliche",
+  "spec": "A 29-year-old man who sells solar panels door-to-door in Phoenix and posts motivational content. He narrates entirely in cliché and borrowed language: 'everything happens for a reason', 'trust the process', 'grind', 'level up', 'God's plan', podcast phrases. Real specific events are buried under the phrasing. The analyst must find the person under the vocabulary.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.31468799999999997
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Dale Kovarik",
+  "age": 52,
+  "sex": "male",
+  "occupation": "Senior Billing Specialist, Hanniman County Water & Sewer District",
+  "culture_context": "Mid-sized northwest-Ohio town (pop. ~28,000), former manufacturing base, Catholic/Slovak family background, union-adjacent county job, Tuesday night bowling league, deer camp and Lake Erie walleye culture. Understated, concrete, self-deprecating Midwestern register.",
+  "id": "p01_mundane",
+  "archetype": "mundane",
+  "spec": "A 52-year-old man who has worked at the same county water utility billing office for 27 years in a mid-sized Ohio town. Married, two adult kids, bowls on Tuesdays. His experiences are genuinely mundane: no deaths, divorces, illnesses, career changes or dramatic turning points. The 'defining' moments are small: a supervisor's offhand comment, a fishing trip, a decision not to apply for a promotion, a neighbor's fence. He does not think of himself as interesting.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.31741600000000003
+}

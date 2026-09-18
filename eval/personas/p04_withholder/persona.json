@@ -1,0 +1,12 @@
+{
+  "name": "Robert \"Bob\" Kwiatkowski",
+  "age": 61,
+  "sex": "male",
+  "occupation": "Retired machinist (CNC/manual toolroom, 40 yrs)",
+  "culture_context": "Erie, Pennsylvania rust-belt; second-generation Polish-American East Side family; union shop floor culture, lake-effect winters, deer camp in Wattsburg, Friday perch fry; men who talk about equipment instead of themselves",
+  "id": "p04_withholder",
+  "archetype": "withholder",
+  "spec": "A 61-year-old recently retired machinist from Erie, Pennsylvania. Divorced, one son he sees twice a year. He withholds: accounts are short, flat, factual, and the emotional weight is left out or mentioned in a single clause and moved past. Transcripts for him are 250-450 words, not longer. What matters is what he skips.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.24649999999999997
+}

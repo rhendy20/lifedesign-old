@@ -1,0 +1,96 @@
+{
+  "known_self": [
+    "Says he 'opted out' of college and bet on himself; proud of out-earning classmates",
+    "Believes hardship is fuel — 'pressure makes diamonds', the 2009 foreclosure was 'the best thing that ever happened' to him",
+    "Identifies as a grinder: 3:40am wakeups, 100 doors a day, tracks his numbers obsessively",
+    "Says he's a 'get-it-done family' guy, not a 'talk-about-it' guy, and is proud of 'moving in silence'",
+    "Frames everything through God's plan / seasons / alignment and says he's genuinely grateful and blessed",
+    "Knows he's not actually trying to be an influencer and that his following is small",
+    "Says he'd rather lose someone standing up than beg; doesn't fight endings",
+    "Openly loyal to mentors and quotes them constantly, even ones who turned out to be crooked"
+  ],
+  "latent_self": [
+    {
+      "claim": "He metabolizes emotional crises by converting them into logistics and payments, and is reliably absent from the ritual/presence part — the funeral, the visit, the room.",
+      "planted_in": [
+        1,
+        4,
+        5
+      ],
+      "how_it_shows": "At 11 he numbers 41 boxes and makes an inventory while the family collapses; he books his girlfriend's sister's flight, fights the florist and pays for the funeral luncheon from Cabo but never attends; he autopays $4,800/month for his brother's rehab and has never driven the 100 minutes to see him."
+    },
+    {
+      "claim": "He is the hidden financial spine of his whole family and deliberately conceals it, reframing every act of support as personal ambition or 'just what you do' — he gets visibly uncomfortable and changes the subject whenever the money-for-others comes up.",
+      "planted_in": [
+        2,
+        4,
+        5
+      ],
+      "how_it_shows": "The $312 car payment for 26 months he 'doesn't count'; 'I never told anybody that, I'm not saying it for whatever'; the rehab bill he 'doesn't even look at'; the four-bedroom house bought for a mother who won't move in."
+    },
+    {
+      "claim": "His real gift and his real tenderness is with isolated old people, and he'll do unpaid, unglamorous domestic tasks for them for hours — the opposite of the aggressive closer identity he sells.",
+      "planted_in": [
+        1,
+        3,
+        5
+      ],
+      "how_it_shows": "Grandma Elva's swamp cooler and bigger food portions remembered with love; six hours with Mrs. Delgado, buying AC filters and moving her box fan; Sunday crosswords and glass-bottle Cokes at memory care; driving out to 91-year-old Ray whose inverter is fine."
+    },
+    {
+      "claim": "He will not confront or expose a person in authority or a person he loves — he silently repairs the damage downstream and hands the judgment off to 'God' or fate instead of ever naming the wrong.",
+      "planted_in": [
+        2,
+        3,
+        4
+      ],
+      "how_it_shows": "Lets his parents believe he's enrolled for a year rather than 'bring the energy in the house'; fixes Mrs. Delgado's forged contract over 11 weeks but never reports the fraud and still calls Big Mike a genius; never tells Kayla he's choosing Cabo over her father's funeral and leans on 'she never asked me to come'."
+    },
+    {
+      "claim": "Lifelong insomnia that he has rebranded as discipline, paired with compulsive precise counting (doors, dollars, boxes, views, months) as a self-soothing ritual — the numbers are always exact even when the feelings are vague.",
+      "planted_in": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "how_it_shows": "Forty-one boxes and twelve skinny-Sharpie ones; $312 for 26 months; 94-110 doors logged in Notes he's never deleted; 'awake at 2:15 anyway, never have slept great, since I was a kid'; 284,000 views, 11,200 followers, 112 accounts."
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "He's a money-obsessed narcissist chasing status and toys.",
+      "why_false": "Nearly all the money leaves him — car payments, a funeral luncheon, a dog's dental work, a $4,800/month rehab bill, a house bought for a mother who won't live in it; he lives in three empty rooms."
+    },
+    {
+      "claim": "He's a devout Christian and faith is central to his life.",
+      "why_false": "'God's plan' is pure syntax and a way to outsource judgment; there is no church, no prayer, no congregation anywhere in his life — the only Sunday ritual is a nursing home crossword."
+    },
+    {
+      "claim": "He's an ex-athlete whose identity was built in sports and whose competitiveness comes from the field.",
+      "why_false": "The only sports content is watching the 2009 Cardinals on his grandmother's carpet; his competitiveness was learned on a call-center floor from a four-foot-eleven manager named Renee."
+    },
+    {
+      "claim": "He dropped out of ASU because he's anti-intellectual and hates school.",
+      "why_false": "He was failing because he worked 5pm-1am to cover his mother's car note, and he still lights up talking about a geology lecture on the Superstition caldera."
+    },
+    {
+      "claim": "He wants to be an influencer and the content is a monetization play.",
+      "why_false": "11k followers, no course, never earned a dollar from it; the posting is what he does at 4am because he can't sleep."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Personal money management",
+      "claim": "Despite high income he has almost no savings or retirement of his own and no clear picture of his net worth; his accounts are structured as a pass-through of autopays for other people, he'll drive an aging truck while spending freely on gifts and other people's emergencies, and he avoids opening statements or talking to a financial advisor."
+    },
+    {
+      "domain": "Health and body",
+      "claim": "He treats his body as a machine to be logged rather than cared for — meticulous macro/step/workout tracking, energy drinks and skipped meals, chronic 4-5 hours of broken sleep he's proud of, and years of avoiding doctors and dentists; he will only see a physician when a symptom becomes a logistics problem he can schedule."
+    },
+    {
+      "domain": "Friendship",
+      "claim": "Essentially all his current friends are downline, teammates or people from the industry, organized around group chats and shared goals; he has let every pre-22 friendship lapse without any rupture, and he's the friend who shows up with a truck, a loan or a ride to the airport but not the one who sits with you in a hospital waiting room."
+    }
+  ]
+}

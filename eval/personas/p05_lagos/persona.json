@@ -1,0 +1,12 @@
+{
+  "name": "Temitope Adebayo-Ogunyemi",
+  "age": 24,
+  "sex": "female",
+  "occupation": "Final-year nursing student (BNSc), Lagos; part-time clinical placements at a general hospital",
+  "culture_context": "Yoruba family in Lagos, Nigeria. Eldest of five. Anglican/Pentecostal-leaning churchgoing household. Father's generator-and-tyre import business collapsed in 2016; mother sells frozen foods. Maternal aunt in Magodo funds her school fees. Speaks Nigerian English with Yoruba and light pidgin code-switching. Facing the CGE/final exams and the question of the UK NMC route.",
+  "id": "p05_lagos",
+  "archetype": "different_life_shape",
+  "spec": "A 24-year-old woman, eldest of five, in her final year of nursing school in Lagos, Nigeria. Yoruba family, church-going, father lost his import business in 2016. She speaks Nigerian English with some Yoruba expressions. Her life shape, pressures and assumptions differ sharply from a 30s American founder: extended-family obligation, remittances, exam culture, an aunt who funds her fees, the question of leaving for the UK.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.319931
+}

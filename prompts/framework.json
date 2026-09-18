@@ -1,0 +1,105 @@
+{
+  "_note": "Six pillars / 26 subsections reconstructed from Robert's Drive documents and repo context because the real framework was not supplied. Every pillar and subsection carries provenance. Replace this file with the real framework before Robert's run; the engine reads it at start-up. The four insight categories are exactly as the brief names them and were not changed.",
+  "pillars": [
+    {
+      "id": "identity",
+      "name": "Identity",
+      "definition": "Who the person fundamentally is: the foundation everything else is built on.",
+      "provenance": "GUESSED — Drive 'Vision Requirements' (Foundation: Design yourself); 'Welcome to Life Design' deck (Identity = Foundation); repo context.md life design data list.",
+      "subsections": [
+        {"id": "core_values", "name": "Core values and principles", "definition": "What the person will and will not trade away; principles they actually act on.", "provenance": "GUESSED — context.md; Personal Vision doc 'Core Values'"},
+        {"id": "personality", "name": "Personality and character traits", "definition": "Stable dispositions in how they think, feel and respond.", "provenance": "GUESSED — context.md; Personal Vision doc 'Personality'"},
+        {"id": "strengths", "name": "Strengths and superpowers", "definition": "What they do better than most people around them, often without noticing.", "provenance": "GUESSED — Personal Genius chapter 'Superpowers'"},
+        {"id": "passions", "name": "Passions and interests", "definition": "What lights them up and pulls their attention when nothing requires it.", "provenance": "GUESSED — Personal Genius chapter 'Passions'"},
+        {"id": "learning_style", "name": "Learning style and preferences", "definition": "How they best take in, process and act on new things; pace, feedback, environment.", "provenance": "GUESSED — Journey Flow doc 'Learning/growth style'; context.md"},
+        {"id": "defining_experiences", "name": "Defining experiences and influences", "definition": "Experiences and early influences that shaped who they are.", "provenance": "GUESSED — Personal Vision doc 'Life-changing experiences/Defining moments', 'Childhood influences'"}
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "Purpose",
+      "definition": "Why the person is here as they understand it: mission, motivation, legacy, faith.",
+      "provenance": "GUESSED — Drive 'Vision Requirements' (Foundation: Design your purpose); Personal Vision doc 'Purpose' section.",
+      "subsections": [
+        {"id": "mission", "name": "Personal mission", "definition": "The contribution they are organising their life around.", "provenance": "GUESSED — Personal Vision doc 'Personal Mission Statement'"},
+        {"id": "motivations", "name": "Life motivations", "definition": "What actually drives them, as distinct from what they say should.", "provenance": "GUESSED — Personal Vision doc 'Life Motivations'"},
+        {"id": "legacy", "name": "Legacy and impact", "definition": "What they want to be remembered for and how they want to give back.", "provenance": "GUESSED — Personal Vision doc 'Legacy'"},
+        {"id": "spirituality", "name": "Faith and spirituality", "definition": "Their relationship with God, meaning, and the transcendent.", "provenance": "GUESSED — context.md domain 'Spirituality'; Personal Vision doc 'Spiritual'"}
+      ]
+    },
+    {
+      "id": "work",
+      "name": "Work and Career",
+      "definition": "Professional life: direction, genius applied to work, competence, leadership, money.",
+      "provenance": "GUESSED — Drive 'Vision Requirements' pillar 'Design your work'; context.md 'Career and professional development', 'Finances'.",
+      "subsections": [
+        {"id": "career_direction", "name": "Career direction", "definition": "Where their working life is heading and why.", "provenance": "GUESSED — Personal Vision doc 'Career'"},
+        {"id": "genius_at_work", "name": "Zone of genius at work", "definition": "The work they are exceptional at and energised by, versus merely competent at.", "provenance": "GUESSED — Personal Genius chapter; Personal Vision doc 'Superpowers'"},
+        {"id": "skills", "name": "Skills and competence", "definition": "Hard and soft skills built through practice.", "provenance": "GUESSED — Personal Genius chapter 'Skills'"},
+        {"id": "leadership", "name": "Leadership and collaboration", "definition": "How they operate with and through other people at work.", "provenance": "GUESSED — inferred from Robert's career history (Divvy promotions, sales/CS) in Drive decks"},
+        {"id": "finances", "name": "Finances and stewardship", "definition": "How they relate to money: earning, spending, risk, security.", "provenance": "GUESSED — context.md domain 'Finances'; Personal Vision doc 'Financial'"}
+      ]
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships",
+      "definition": "The people in their life and how they show up for them.",
+      "provenance": "GUESSED — Drive 'Vision Requirements' pillar 'Design your relationships'; context.md.",
+      "subsections": [
+        {"id": "partner", "name": "Marriage and partnership", "definition": "Their closest relationship.", "provenance": "GUESSED — context.md 'romantic'"},
+        {"id": "family", "name": "Family and parenting", "definition": "Family of origin and the family they are raising.", "provenance": "GUESSED — context.md 'family'"},
+        {"id": "friends_community", "name": "Friendships and community", "definition": "Friends, mentors, faith community, civic life.", "provenance": "GUESSED — context.md 'Civic engagement'; 'personal' relationships"},
+        {"id": "communication", "name": "Communication and conflict", "definition": "How they handle honesty, disagreement and repair.", "provenance": "GUESSED — inferred; no direct source"}
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Health and Wellness",
+      "definition": "Body, mind, energy and rest.",
+      "provenance": "GUESSED — Drive 'Vision Requirements' pillar 'Design your health and wellness'; context.md.",
+      "subsections": [
+        {"id": "physical", "name": "Physical health", "definition": "Fitness, nutrition, sleep, medical.", "provenance": "GUESSED"},
+        {"id": "mental", "name": "Mental and emotional health", "definition": "Stress, mood, resilience, emotional regulation.", "provenance": "GUESSED"},
+        {"id": "energy_flow", "name": "Energy and flow", "definition": "What drains and restores them; when they are absorbed.", "provenance": "GUESSED — Personal Vision doc 'Energy zones', 'Flow state'"},
+        {"id": "recreation", "name": "Rest and recreation", "definition": "Play, hobbies, renewal.", "provenance": "GUESSED — context.md 'Recreation and hobbies'"}
+      ]
+    },
+    {
+      "id": "growth",
+      "name": "Personal Growth",
+      "definition": "How they become more: mindset, habits, learning.",
+      "provenance": "GUESSED — Drive 'Vision Requirements' pillar 'Design your personal growth'; 'Master your Mindset' course.",
+      "subsections": [
+        {"id": "mindset_beliefs", "name": "Mindset and limiting beliefs", "definition": "Beliefs about self and world that expand or cap what they attempt.", "provenance": "GUESSED — Personal Genius chapter 'Limiting Beliefs'; Master your Mindset deck"},
+        {"id": "habits", "name": "Habits and discipline", "definition": "What they reliably do, and where follow-through breaks.", "provenance": "GUESSED — context.md 'follow-through'"},
+        {"id": "obstacles", "name": "Obstacles and growth areas", "definition": "Specific weaknesses and blockers that keep them from operating at their best.", "provenance": "GUESSED — Personal Genius chapter 'Obstacles and Weaknesses'; context.md 'Areas for growth'"}
+      ]
+    }
+  ],
+  "insight_categories": [
+    {
+      "id": "core_values",
+      "name": "Core values",
+      "definition": "A principle the person demonstrably acts on when it costs them something. Evidence is a choice made under pressure, not a statement of what they care about.",
+      "disambiguation": "Nearest neighbour: defining beliefs. A value is what they protect or choose; a belief is what they take to be true about self or world. 'Loyalty over advancement' is a value. 'People leave when I need them' is a belief. If the claim is about what is TRUE, it is a belief. If it is about what MATTERS, it is a value."
+    },
+    {
+      "id": "zone_of_genius",
+      "name": "Zone of genius",
+      "definition": "A capability the person is exceptional at AND energised by, visible in what they reach for and what others come to them for. Not a skill they merely have.",
+      "disambiguation": "Nearest neighbour: core values. Genius is what they are unusually GOOD at and lit up by; a value is what they CARE about. Caring about people is a value; reading a room and naming what everyone is avoiding is a genius. Also distinct from a pattern: a pattern is a tendency (good or bad); a genius is a strength with impact."
+    },
+    {
+      "id": "defining_beliefs",
+      "name": "Defining beliefs",
+      "definition": "An operating assumption about self, others or the world that shapes behaviour across contexts, whether the person would endorse it or not. Includes limiting beliefs.",
+      "disambiguation": "Nearest neighbour: patterns to explore. A belief is the inferred rule ('I have to earn my place'); a pattern is the observed behaviour ('takes the hardest job in every group'). State the belief only when the behaviour recurs and the belief is the simplest explanation. If you only have the behaviour, it is a pattern."
+    },
+    {
+      "id": "patterns_to_explore",
+      "name": "Patterns to explore",
+      "definition": "A recurring behaviour, reaction or shape across experiences that the person has not named, offered as a question worth their attention rather than a conclusion. May include contradictions between what they say and do.",
+      "disambiguation": "Nearest neighbour: defining beliefs. Use this category when the recurrence is clear but the explanation is not. Pattern claims must cite at least two experiences (or two distinct moments in one) and must end in something the person could go and check."
+    }
+  ]
+}
