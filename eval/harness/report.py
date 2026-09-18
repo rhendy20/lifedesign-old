@@ -26,6 +26,18 @@ def archetype(pid):
     return json.loads(f.read_text()).get("archetype", "?") if f.exists() else "?"
 
 
+OVERRIDES = json.loads((ROOT / "eval/results/cost_overrides.json").read_text()) if (ROOT / "eval/results/cost_overrides.json").exists() else {}
+
+
+def cost_latency(cond, ms):
+    """$/experience and model-seconds/experience. New-format outputs carry exact per-persona cost (n_calls present);
+    older conditions use ledger-derived overrides."""
+    if cond in OVERRIDES:
+        return OVERRIDES[cond]["usd_per_exp"], OVERRIDES[cond]["model_s_per_exp"]
+    n = max(1, sum(m["n_exp"] for m in ms))
+    return sum(m["cost"] for m in ms) / n, sum(m.get("model_latency", m["latency"]) for m in ms) / 1000 / n
+
+
 def collect(tag=None):
     rows = []  # one per scored insight
     latent_total = {}
@@ -48,6 +60,7 @@ def collect(tag=None):
             d = json.loads(pf.read_text())
             g = {i["id"]: i["grounded"] for i in d["insights"]}
             meta[(cdir.name, pf.stem)] = {"grounded": g, "cost": d["cost_usd"], "latency": d["latency_ms"],
+                                          "model_latency": d.get("model_latency_ms", d["latency_ms"]),
                                           "n_exp": d["n_experiences"], "n_ins": len(d["insights"])}
     return rows, latent_total, meta
 
@@ -57,7 +70,7 @@ def summarise(rows, latent_total, meta, group_key="condition"):
     for r in rows:
         by[(r[group_key], r["set"])].append(r)
     lines = []
-    header = "| condition | set | insights | depth≥3 | mean depth | hit recall | hit share | FP rate | grounded | $/exp | s/exp |"
+    header = "| condition | set | insights | depth≥3 | mean depth | hit recall | hit share | FP rate | grounded | $/exp | model-s/exp |"
     lines += [header, "|" + "---|" * 11]
     for (cond, sset), rs in sorted(by.items()):
         n = len(rs)
@@ -74,8 +87,7 @@ def summarise(rows, latent_total, meta, group_key="condition"):
         gr = [meta.get((cond, r["persona"]), {}).get("grounded", {}).get(r["insight_id"], False) for r in rs]
         grounded = sum(gr) / n
         ms = [meta[(cond, p)] for p in personas if (cond, p) in meta]
-        cost = sum(m["cost"] for m in ms) / max(1, sum(m["n_exp"] for m in ms))
-        lat = sum(m["latency"] for m in ms) / 1000 / max(1, sum(m["n_exp"] for m in ms))
+        cost, lat = cost_latency(cond, ms)
         lines.append(f"| {cond} | {sset} | {n} | {depth:.0%} | {mean_d:.2f} | {recall:.0%} | {hit_share:.0%} | {fp:.0%} | {grounded:.0%} | {cost:.3f} | {lat:.0f} |")
     return "\n".join(lines)
 

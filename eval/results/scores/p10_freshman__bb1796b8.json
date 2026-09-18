@@ -1,0 +1,298 @@
+{
+  "persona": "p10_freshman",
+  "conditions": [
+    "v0__mid",
+    "v1__mid"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.3180765,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Self-minimizing is real and evidenced, but it's the version of himself he already narrates ('not dramatic'); the $80 detail is used for the wrong pattern (it's provisionality, not selflessness).",
+      "condition": "v0__mid",
+      "insight_id": "i19"
+    },
+    {
+      "id": "x002",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Generic 'attuned helper' praise; overstates emotional room-reading when he is explicitly bad at unstructured emotional moments with his sister.",
+      "condition": "v0__mid",
+      "insight_id": "i17"
+    },
+    {
+      "id": "x003",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the core of the 'care that doesn't name itself' pattern via Bagwell, and avoids the inspiring-mentor decoy.",
+      "condition": "v0__mid",
+      "insight_id": "i12"
+    },
+    {
+      "id": "x004",
+      "depth": 2,
+      "hit": null,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Standard parentified-child framing; gestures at his discomfort being cared for without naming the mechanism.",
+      "condition": "v0__mid",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x005",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly refuses the medicine decoy, but essentially restates his own stated reason for choosing supply chain.",
+      "condition": "v0__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Clean hit on the provisionality/audit-for-revocation pattern with the 11pm income-cutoff evidence.",
+      "condition": "v0__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x007",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Circles the task-as-regulation pattern but converts it into a relational 'gift'; misses the stillness-distress half.",
+      "condition": "v0__mid",
+      "insight_id": "i15"
+    },
+    {
+      "id": "x008",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Names the technically-true downward edit and correctly generalizes it beyond the ER.",
+      "condition": "v0__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x009",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Well-evidenced but mostly assembles things he says about himself; 'invisible while indispensable' is the only added inch.",
+      "condition": "v1__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Direct hit: idle time or attention immediately converted into labor, with the chairs/futon/unpacking chain correctly assembled.",
+      "condition": "v1__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x011",
+      "depth": 2,
+      "hit": 3,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The praise-allergy is something he already knows; the composure-vs-being-seen contrast adds a little but stays inside known territory.",
+      "condition": "v1__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x012",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Right evidence (chairs vs interview) but reframed as a 'genius' claim rather than the regulation pattern underneath.",
+      "condition": "v0__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Strong articulation of the deliberate filtering rule across panel and mother; the Sunday-call evidence is a weak third leg.",
+      "condition": "v1__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x014",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Largely restates his own self-rebuke; doesn't reach the stillness/being-cared-for mechanism that produces the guilt.",
+      "condition": "v0__mid",
+      "insight_id": "i18"
+    },
+    {
+      "id": "x015",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Deflect-with-facts is close to the inventory-under-feeling pattern but stops at the version he already knows about himself.",
+      "condition": "v0__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x016",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "He says this almost verbatim ('I'm not that good at that part'); little added beyond renaming it.",
+      "condition": "v0__mid",
+      "insight_id": "i10"
+    },
+    {
+      "id": "x017",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Uses his own 'wet' explanation; reads the editing as self-protection from pity rather than as service, so it only half-lands.",
+      "condition": "v0__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x018",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Accurate and well-anchored in the unsent email, but it's the self-deprecation he already names.",
+      "condition": "v0__mid",
+      "insight_id": "i14"
+    },
+    {
+      "id": "x019",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Best statement of the indirect-warmth pattern: links father's countertop joints and Bagwell's 'alright' as the same legible channel.",
+      "condition": "v1__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x020",
+      "depth": 3,
+      "hit": 4,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Catches the substitution of small gesture for feeling ('buena vista', unrequested coffee); 'joke' is a slightly wrong label for the coffee.",
+      "condition": "v1__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x021",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly avoids the mentor decoy, but mostly paraphrases his own account of why the room mattered.",
+      "condition": "v0__mid",
+      "insight_id": "i11"
+    },
+    {
+      "id": "x022",
+      "depth": 1,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Near-verbatim restatement of the 'itchy' passage with a hedged maybe attached.",
+      "condition": "v0__mid",
+      "insight_id": "i13"
+    },
+    {
+      "id": "x023",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Built from his own 'I didn't know what I was for'; true, known, and avoids the resentment decoy.",
+      "condition": "v0__mid",
+      "insight_id": "i16"
+    },
+    {
+      "id": "x024",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Solid cross-episode weave, but misattributes the panel edit to protecting the panel's comfort when he says it was about how they'd look at him.",
+      "condition": "v1__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x025",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The already-fine blanket is the right detail, but the conclusion is close to what he states about preferring tasks.",
+      "condition": "v0__mid",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x026",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Reasonable read of the father's 'tell the truth' line lingering; the confident 'guilt about family dignity' framing is thinner than the confidence rating implies.",
+      "condition": "v0__mid",
+      "insight_id": "i1"
+    }
+  ]
+}

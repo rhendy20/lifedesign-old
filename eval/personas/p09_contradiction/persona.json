@@ -1,0 +1,12 @@
+{
+  "name": "Yolanda \"Yoli\" Pryor",
+  "age": 47,
+  "sex": "female",
+  "occupation": "Emergency department charge nurse",
+  "culture_context": "Black Southern woman, raised in Macon, Georgia, nursing career built at Grady Memorial in downtown Atlanta and now at a busy community hospital on the south side of metro Atlanta. Divorced at 31, remarried at 36. Three children. Church-adjacent through her husband's family. Speaks in warm, fast, Southern Black vernacular with heavy clinical shorthand.",
+  "id": "p09_contradiction",
+  "archetype": "stated_vs_lived_contradiction",
+  "spec": "A 47-year-old woman, an emergency-room charge nurse in Atlanta, divorced and remarried, three kids. She says repeatedly that family is her first priority and that she is 'not a work person', yet every story she picks is a work story, and the family appears only as backdrop or as something she was rushing back from. She does not notice this. Do not make her notice it.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.2612365000000001
+}

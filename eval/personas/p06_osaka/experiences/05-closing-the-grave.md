@@ -1,0 +1,19 @@
+# Closing the grave
+
+_2022–now, widowhood_
+
+My husband died in the June of two thousand twenty-two. Pancreas. It was four months from the diagnosis to the end, which people say is a mercy and which is, I think, actually a mercy, so let us say it.
+
+And then there is the machinery. I don't know how it is in other countries. There is the wake and the funeral and the seventh day and the forty-ninth day, and the kōden — the condolence money — which must be recorded, every envelope, the name and the amount, and then the return gifts at half value, and the list of who is to receive which catalogue, and the notifications, the pension office, the ward office, the water, the telephone, the bank, the seal registration. I made a spreadsheet. Two hundred and six households. I did it in eleven days. My sister-in-law said, Sumie-san, you should rest, and I said thank you, and I did not rest, because — well, because the work was there. An open line, as I say. And it was, I'll be honest with you, it was almost pleasant. Is that a shocking thing. It was work with a clear edge to it and I was extremely good at it.
+
+I don't think I have cried about Hiroshi. I've waited. Four years. There was a morning about eight months in when I opened the cupboard and the thermos he used for fishing fell out and hit the floor and I sat down on the kitchen floor, and I thought, here it comes, finally. And then it didn't. I sat there about twenty minutes and then I got up and made the tea. I gave the rods to the men from the bureau. His chair went to the recycling shop within two months and I have never missed it.
+
+Now. The grave. His family's grave is in Tottori, in the mountains, four hours each way, and the last time I went, at the third anniversary, the stones behind were falling over and there is nobody. His brother is seventy-nine and in Kobe and cannot climb the steps. And we have no children, so after me there is no one at all, there is no one to pour water on that stone in the year two thousand fifty. So I did hakajimai. I closed it. You have the priest come, the spirit is withdrawn, the stone is removed, and the remains come away with you, and I placed them in a columbarium in Abeno, eleven minutes from my house by bicycle.
+
+I arranged the whole of it before I told anybody. The temple, the stonemason, the permits from the village office, the new place, all of it, and then I telephoned his brother and said, it is arranged for the twelfth of October, please come if you are able. He was very upset. He said, you might have consulted. And I said, I am consulting you now. Which — ha. Which was not true, but he came, and at the meal afterward he took my hand and said thank you for doing what I could not do, and I think he meant it.
+
+The chōnaikai wanted me for chair. Three times now. I have written their rules — I rewrote the kairanban circulation order because it was going the wrong way around the block and had been for nineteen years, and I built the disaster drill roster, and I do the accounts for the summer festival. Ueda-san is chair. He is a good man and he cannot operate a spreadsheet and he telephones me on Sunday evenings. I tell everyone I'm not suited to standing in front of people. They all agree very readily. It's restful.
+
+What else. I go to Kyoto on Tuesdays, usually. I've started swimming on Thursdays at the ward pool, which at seventy-one, in a swimming cap, is — well. There is a standing soba place near Tennōji where I eat by myself at the counter and the master knows I take extra spring onion. Last autumn I went to Hagi alone for three nights and told nobody I was going, and on the second evening I ate a whole grilled fish and drank a small bottle of beer looking at the water and I thought, ah.
+
+Ah, I should say, of course — of course the house is very quiet. Of course it is. People are always saying, you must be lonely, Yoshida-san, and I say yes, thank you, and then I go home and open all the windows.

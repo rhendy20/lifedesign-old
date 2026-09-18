@@ -1,0 +1,2958 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "patterns_to_explore",
+      "headline": "You mark every major loss with a permanent rerouting of your physical path, and never call it grief.",
+      "explanation": "After your brother's death you stopped walking through the square where he was stabbed, and you frame it as errand-efficiency — you resolve everything in one trip. After Simone left you stopped using the faster terminal because it's where you put her on the bus, and you frame that one as a pastel preference. Same substitution, two decades apart, two different losses: logistics language standing in for something you don't name.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I don't go through that little square.",
+          "verbatim": true
+        },
+        {
+          "exp": 2,
+          "quote": "I don't use Terminal Capelinha... So I go the other way. It's twenty-five minutes more. Doesn't bother me.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "If asked directly about a place tied to a painful memory, you'll describe the avoidance in practical terms — traffic, convenience, a better food stall — before, if ever, naming what actually happened there."
+    },
+    {
+      "id": "i2",
+      "category": "defining_beliefs",
+      "headline": "You believe being visibly needy invites disaster, so you perform self-sufficiency even while under real strain.",
+      "explanation": "You told your supervisor 'everything's resolved' minutes after being held up at knifepoint, you give your pastor the same line whenever he asks if you need anything, and you close your account of exhaustion, grief, and financial strain with the identical phrase — even Bete mocks it now. The phrase repeats verbatim across three decades as a reflex, not a considered answer, while the surrounding facts (shaking hands, skipped meals, a decade of loss) say something else.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "I never asked him for anything. Not once.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I said no, no, everything's resolved, I'm on at four-fifty.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "people say, Edilson, you're wrecked, you're exhausted, and I say no, no, everything's resolved, praise God.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a health or mental-health check-in, you'll minimize symptoms verbally even while describing behaviors that show real depletion — the words and the body will disagree."
+    },
+    {
+      "id": "i3",
+      "category": "core_values",
+      "headline": "You repeatedly cut your own money and food to cover someone else's unspoken need, and hide that you did it.",
+      "explanation": "You funded Simone secretly for eighteen months by letting the sofa be repossessed and letting your family think you sold it. You gave your whole paycheck to a stroke victim's family and ate cream crackers while telling Bete you'd already eaten. You kept adding to Bete's envelope through a tight month rather than opening it, and ate badly for three weeks instead. Three decades, three beneficiaries, one move: your own hunger is the first thing you cut, and you conceal it from the person it would most implicate you to tell.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "there wasn't any money, the answer was I stopped paying the installments on the sofa",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "I put in all of it. All of it. It was a Wednesday and I got paid on the Tuesday",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I should have opened that envelope and I ate badly instead for three weeks. Which is stupid. Which I know is stupid.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a budgeting conversation, you'll underreport your own basic expenses before you underreport money set aside for someone else's future."
+    },
+    {
+      "id": "i4",
+      "category": "patterns_to_explore",
+      "headline": "You put yourself between danger and the most vulnerable person present, but you've never let anyone do that for you.",
+      "explanation": "On the bus you engineered the standoff so that if it went bad, it went bad at the front, specifically because three passengers were elderly. With Bete you walked her commute three times at different hours to route her around an eighty-meter unlit wall. In both cases you absorbed the risk calculation alone and told almost no one — you never told Bete about the robbery, and she still doesn't know about the commute-timing. Worth exploring whether you can receive this kind of protection from anyone, or only give it.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "if this goes bad it has to go bad at the front. Not back there.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "on my rest day I did the route. I did it as her.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "When you're in danger, sick, or overwhelmed yourself, you won't tell the people closest to you until well after the fact, if at all."
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "You say you want the people you love to move toward freedom, then quietly act to keep them close, without naming the contradiction as it happens.",
+      "explanation": "You say you want Bete in Campinas where nobody spits at her, but when a funded exchange program appeared, you found a lot of reasons, and she never raised it again — you flag this yourself: 'I know exactly what I did and I did it anyway.' A similar shape appears earlier: at seventeen you obsessively recalculated the ambulance route that could have saved Wellington even though you had no way to act on it. In both cases your planning impulse activates hardest exactly where the outcome is one you cannot control and may want and not want at once.",
+      "evidence": [
+        {
+          "exp": 5,
+          "quote": "I found reasons. I found a lot of reasons... And I know exactly what I did and I did it anyway.",
+          "verbatim": false
+        },
+        {
+          "exp": 1,
+          "quote": "I knew all of that at seventeen and I didn't have a car, I didn't even have a bicycle, what was I going to do with it, run?",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "When Bete announces a move away for university or work, you'll voice support publicly but privately raise practical-sounding concerns that function to delay or complicate the departure."
+    },
+    {
+      "id": "i6",
+      "category": "zone_of_genius",
+      "headline": "Your core skill is staying functionally present inside acute danger or grief, and people specifically recruit you for this rather than you offering it.",
+      "explanation": "Brother Bené didn't ask about Simone — he showed up at 4am and put coffee in front of you. Your supervisor, after the knife incident, physically marked the moment with a hand on your neck and an order to rest, which you refused. In both cases someone else recognized you were in crisis and intervened on your behalf; you didn't ask for help yourself, but you're legible enough in your competence-under-strain that others feel compelled to step in.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "he says, come, there's coffee at the church, the prayer group, come",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "he put his hand on the back of my neck, and he said, you can take tomorrow.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I said no, no, everything's resolved, I'm on at four-fifty.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In future crises, people close to you will proactively offer relief before you ask, and you'll decline or downplay it in the moment, then accept a smaller, disguised version later."
+    },
+    {
+      "id": "i7",
+      "category": "defining_beliefs",
+      "headline": "You believe a concrete, completable task is what stands between you and collapse, and you reach for one the moment feeling becomes unbearable.",
+      "explanation": "Frozen in the kitchen after Simone's note, your mind fixed on buying a fluorescent tube, and you name the mechanism directly: when there's a task you can do, you do it, and then you're not standing in a kitchen looking at a light. The same mechanism shows up without being named after the robbery — you finished the whole line, dropped the eleven people, filled the paper, and only let your hands shake once you were a passenger on someone else's bus.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "When there's a task you can do you do it and then you're not standing in a kitchen looking at a light.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I finished the whole line. I dropped the eleven people at the end and did the return and put the bus in the garage at ten to one. Filled the paper.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "After any future acute stressor, you'll complete an unrelated procedural obligation before allowing yourself any emotional reaction, and the reaction will surface later, physically, once the task is done."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "Speaker's brother's name was Wellington."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Full name given as Wellington Ramos da Silva."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Wellington was nineteen years old."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker was seventeen, turning eighteen in September."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker worked at a bakery on Rua Décio; bread came out at 4am; he slept from about 8pm."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Speaker's mother, Dona Marlene, woke him; he initially thought he had overslept for the oven."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker looked at the clock before looking at his mother's face."
+            },
+            {
+              "line": "L21",
+              "what_happened": "The time was twenty past ten."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Wellington was at the corner of a small square where people sat by a public phone booth."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Wellington was involved in some undisclosed activity ('in something')."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Wellington was carrying something for a guy, which speaker believed Wellington thought was a two-week job; Wellington planned to buy a van, white with a blue stripe, to do school runs."
+            },
+            {
+              "line": "L32",
+              "what_happened": "The ambulance took fifty-one minutes to arrive."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Speaker timed the wait using a pharmacy sign with green numbers showing the time."
+            },
+            {
+              "line": "L34",
+              "what_happened": "The fifty-one minutes was counted from when a neighbor called for the ambulance."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Travel time from the square to Hospital Campo Limpo is eleven minutes in traffic, seven minutes when empty."
+            },
+            {
+              "line": "L39",
+              "what_happened": "A doctor said afterward that faster arrival would not have changed the outcome."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker states he did not have a car or a bicycle at seventeen."
+            },
+            {
+              "line": "L45",
+              "what_happened": "The family received Wellington's belongings in a bag from the Extra supermarket, including his shoes."
+            },
+            {
+              "line": "L46",
+              "what_happened": "Wellington cleaned his shoes' white part every night with a toothbrush and his mother's toothpaste."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Speaker sat with the bag on the step."
+            },
+            {
+              "line": "L49",
+              "what_happened": "A neighbor repeatedly put her hand on speaker's head while he sat on the step."
+            },
+            {
+              "line": "L56",
+              "what_happened": "Speaker's mother said he got old in one week."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker started writing down times, money, and what needed paying."
+            },
+            {
+              "line": "L58",
+              "what_happened": "Speaker took a full-time job at the bakery, then a job washing buses at a bus garage."
+            },
+            {
+              "line": "L60",
+              "what_happened": "Speaker does not go through the square where Wellington was found."
+            },
+            {
+              "line": "L64",
+              "what_happened": "A ramp was put in at the square, which speaker describes as ugly."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L58",
+              "choice_made": "Speaker took the bakery job to full-time and then took a job washing buses at the bus garage.",
+              "alternatives_present_in_text": "None stated."
+            },
+            {
+              "line": "L60",
+              "choice_made": "Speaker goes around rather than through the square.",
+              "alternatives_present_in_text": "Going through the square is shorter and combines the bakery/pharmacy errands in one trip (L61-62); going around adds about ten minutes (L62)."
+            },
+            {
+              "line": "L50-L52",
+              "choice_made": "Speaker states he did not seek revenge.",
+              "alternatives_present_in_text": "Being asked if he wanted revenge implies revenge was a presented possibility."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L9",
+              "quote": "Me, I was the quiet one."
+            },
+            {
+              "line": "L10",
+              "quote": "Still am."
+            },
+            {
+              "line": "L53",
+              "quote": "I'm not a brave man in that way."
+            },
+            {
+              "line": "L54",
+              "quote": "I became very organized."
+            },
+            {
+              "line": "L55",
+              "quote": "Very."
+            }
+          ],
+          "emotion_words": [],
+          "repetitions": [
+            {
+              "phrase": "van",
+              "lines": [
+                "L27",
+                "L27",
+                "L28"
+              ]
+            },
+            {
+              "phrase": "seven minutes",
+              "lines": [
+                "L36",
+                "L35"
+              ]
+            },
+            {
+              "phrase": "the bag",
+              "lines": [
+                "L47",
+                "L47",
+                "L49",
+                "L58"
+              ]
+            },
+            {
+              "phrase": "I go around / go around",
+              "lines": [
+                "L63",
+                "L64"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L37",
+              "quote": "I could have — anyway.",
+              "note": "Sentence left incomplete, speaker stops and moves on."
+            },
+            {
+              "line": "L38",
+              "quote": "It wouldn't have.",
+              "note": "Short, truncated statement following the interrupted L37."
+            },
+            {
+              "line": "L48",
+              "quote": "That's, um.",
+              "note": "Speaker pauses/hesitates before continuing."
+            },
+            {
+              "line": "L59",
+              "quote": "One thing, silly thing.",
+              "note": "Speaker labels the upcoming detail as 'silly' before stating it, moving quickly into it."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Wellington Ramos da Silva (brother)",
+              "lines": [
+                "L4",
+                "L5",
+                "L6",
+                "L8",
+                "L23",
+                "L25",
+                "L27",
+                "L46"
+              ],
+              "what_they_did": "Was 19, talked to everyone and knew names within minutes, was carrying something for a guy at the square, planned to buy a van for school runs, cleaned his shoes nightly with a toothbrush and his mother's toothpaste, died."
+            },
+            {
+              "who": "Dona Marlene (speaker's mother)",
+              "lines": [
+                "L18",
+                "L46",
+                "L56"
+              ],
+              "what_they_did": "Woke speaker with a particular expression on her face; her toothpaste was used by Wellington, which annoyed her; later said speaker got old in one week."
+            },
+            {
+              "who": "Speaker's wife",
+              "lines": [
+                "L11"
+              ],
+              "what_they_did": "Said talking to speaker was like waiting at a bank for a receipt."
+            },
+            {
+              "who": "Neighbor (unnamed)",
+              "lines": [
+                "L34",
+                "L49"
+              ],
+              "what_they_did": "Called for the ambulance; put her hand on speaker's head repeatedly while he sat on the step."
+            },
+            {
+              "who": "Doctor",
+              "lines": [
+                "L39"
+              ],
+              "what_they_did": "Said afterward that faster arrival would not have changed the outcome."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes that control over logistics — times, routes, money — is what stands between a person and disaster, even when he knows intellectually it wouldn't have changed anything.",
+              "explanation": "He timed the ambulance in minutes, calculated exact route times to the hospital, and did this math 'a lot of times' even after the doctor told him it wouldn't have mattered. This is not a one-off grief reaction; it produced a lasting behavioral shift (L54-58) toward obsessive organization, suggesting the belief that precision/preparedness could have averted the loss, or must avert future ones.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "If you go from that square to the Hospital Campo Limpo, it's eleven minutes in traffic, seven if it's empty."
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "But I did the math a lot of times, in that period."
+                },
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "The doctor said after, no, it wouldn't have."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In his career or finances, he over-prepares and builds redundant contingency plans even in situations where the outcome is largely outside his control."
+            },
+            {
+              "category": "core_values",
+              "headline": "He values steady, unglamorous provision over any form of retribution or recognition.",
+              "explanation": "When directly asked if he wanted revenge, he refused it outright, and instead of pursuing anything dramatic, he took on more work — full-time bakery plus washing buses — to hold the family together. The choice to escalate labor rather than seek any other outlet, immediately after trauma, is a costly and concrete demonstration of what he prioritizes.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L51",
+                  "quote": "No, I promise you no."
+                },
+                {
+                  "exp": 1,
+                  "line": "L58",
+                  "quote": "I got the job at the bakery to full time and then I got a helper job at the bus garage washing them out"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his marriage or parenting, he responds to crisis by quietly taking on more practical responsibility rather than expressing anger or seeking confrontation."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He reroutes around the site of the loss while minimizing the cost of doing so, and does the same rhetorical move when describing his own reaction to the trauma.",
+              "explanation": "He avoids the square where his brother died, adding ten minutes to his errands, but immediately downplays this as a matter of convenience rather than grief ('so it makes more sense'). He does something similar at L37-38, starting to say what he could have done and then cutting himself off with a flat, minimizing statement. Worth exploring whether he habitually converts emotional facts into logistical ones to avoid sitting with them.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L60",
+                  "quote": "I don't go through that little square."
+                },
+                {
+                  "exp": 1,
+                  "line": "L62",
+                  "quote": "It's maybe ten minutes longer but you resolve everything in one trip, you understand?"
+                },
+                {
+                  "exp": 1,
+                  "line": "L37",
+                  "quote": "I could have — anyway."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In therapy or close relationships, he reframes emotionally loaded topics in practical terms and changes subject quickly when asked to sit with feeling rather than explain reasoning."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes he is fundamentally the quiet, unremarkable one, in contrast to a brother who had an effortless gift for people — and has carried that self-comparison forward.",
+              "explanation": "He introduces himself in direct opposition to Wellington's social gift, and reinforces the identity with 'still am,' plus his wife's joke about how little he talks. Framing his life story by first establishing what his brother had and he lacked suggests an enduring self-concept built around being the lesser, quieter counterpart.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L8",
+                  "quote": "he'd walk into a place and inside of three minutes he knew everybody's mother's name"
+                },
+                {
+                  "exp": 1,
+                  "line": "L9",
+                  "quote": "Me, I was the quiet one."
+                },
+                {
+                  "exp": 1,
+                  "line": "L11",
+                  "quote": "talking to me was like paying a bill at the bank, you stand there and wait and eventually a little paper comes out"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he defers the relationship-building or persuasive tasks to others and undersells his own influence even when he has earned trust through reliability."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He reroutes around the site of the loss while minimizing the cost of doing so, and does the same rhetorical move when describing his own reaction to the trauma.",
+              "explanation": "He avoids the square where his brother died, adding ten minutes to his errands, but immediately downplays this as a matter of convenience rather than grief ('so it makes more sense'). He does something similar at L37-38, starting to say what he could have done and then cutting himself off with a flat, minimizing statement. Worth exploring whether he habitually converts emotional facts into logistical ones to avoid sitting with them.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L60",
+                  "quote": "I don't go through that little square."
+                },
+                {
+                  "exp": 1,
+                  "line": "L62",
+                  "quote": "It's maybe ten minutes longer but you resolve everything in one trip, you understand?"
+                },
+                {
+                  "exp": 1,
+                  "line": "L37",
+                  "quote": "I could have — anyway."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In therapy or close relationships, he reframes emotionally loaded topics in practical terms and changes subject quickly when asked to sit with feeling rather than explain reasoning.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes that control over logistics — times, routes, money — is what stands between a person and disaster, even when he knows intellectually it wouldn't have changed anything.",
+              "reason": "unfalsifiable",
+              "note": "The obsessive route-timing is a one-time acute grief response he explicitly frames as past ('in that period'); the leap to a permanent belief about control/logistics generalizes beyond what's shown, and there's no way for him to disconfirm it."
+            },
+            {
+              "headline": "He values steady, unglamorous provision over any form of retribution or recognition.",
+              "reason": "generic",
+              "note": "Taking on more work to support family after a death and not seeking revenge is close to the modal response for people in his situation; not distinctive enough to count as insight, and partly restates his own 'no, I promise you no' and the bakery/bus-garage facts he already stated plainly."
+            },
+            {
+              "headline": "He believes he is fundamentally the quiet, unremarkable one, in contrast to a brother who had an effortless gift for people — and has carried that self-comparison forward.",
+              "reason": "restated",
+              "note": "He directly says 'Me, I was the quiet one. Still am' — the candidate just repeats his own explicit self-description back as if it were an inferred belief."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "He reroutes around the site of the loss while minimizing the cost of doing so, and does the same rhetorical move when describing his own reaction to the trauma.",
+            "explanation": "He avoids the square where his brother died, adding ten minutes to his errands, but immediately downplays this as a matter of convenience rather than grief ('so it makes more sense'). He does something similar at L37-38, starting to say what he could have done and then cutting himself off with a flat, minimizing statement. Worth exploring whether he habitually converts emotional facts into logistical ones to avoid sitting with them.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L60",
+                "quote": "I don't go through that little square."
+              },
+              {
+                "exp": 1,
+                "line": "L62",
+                "quote": "It's maybe ten minutes longer but you resolve everything in one trip, you understand?"
+              },
+              {
+                "exp": 1,
+                "line": "L37",
+                "quote": "I could have — anyway."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In therapy or close relationships, he reframes emotionally loaded topics in practical terms and changes subject quickly when asked to sit with feeling rather than explain reasoning.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "Simone left when Beatriz was three years and four months old (per L3-L4)."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Simone was twenty-four years old."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker states that at twenty-four he was washing buses and sleeping in the back of a '6040' with a rag over his face."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Simone had a baby at twenty-one with a man who worked shifts, was rarely home, and came home smelling of diesel, ate, slept, and left."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Simone did her nails every night at eleven o'clock."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker came off shift; Beatriz was with the neighbor Dona Cida; Simone left a note stating the pediatrician appointment was Tuesday, that 'she likes the blue cup,' 'I'm sorry' written twice, then her name."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker noticed the hallway fluorescent tube was going black at one end and thought about needing to buy a replacement tube."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker recalled the tube costs eight reais and there's a place by the market that sells them."
+            },
+            {
+              "line": "L32",
+              "what_happened": "The neighbor knocked after speaker had been standing in the kitchen for an unspecified amount of time."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Simone went to Osasco, to a cousin."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Simone later went to Curitiba."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Speaker sent Simone money for about a year and a half."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Amounts sent were a hundred or hundred and fifty (currency unspecified), sent when there was overtime."
+            },
+            {
+              "line": "L39",
+              "what_happened": "Speaker stopped paying installments on a sofa; the store repossessed the sofa."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Speaker's family believes he sold a sofa in 2015."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker states he did not sell a sofa."
+            },
+            {
+              "line": "L53",
+              "what_happened": "Simone currently calls Beatriz; they talk; she sent a jacket at Christmas that was the wrong size; Beatriz wore it anyway for a week in December heat in São Paulo."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker does not use Terminal Capelinha."
+            },
+            {
+              "line": "L58",
+              "what_happened": "Speaker put Simone on the bus at Terminal Capelinha on the Sunday she came back for her things."
+            },
+            {
+              "line": "L59",
+              "what_happened": "Speaker's supervisor told him 'Edilson you're insane' regarding his terminal choice."
+            },
+            {
+              "line": "L62",
+              "what_happened": "The alternate route (Guarapiranga side) takes twenty-five minutes more."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L14",
+              "choice_made": "Speaker responded to Simone's statement about the walls closing in with a joke ('they're bricks, they don't move, ha')",
+              "alternatives_present_in_text": "Line 16: 'Instead of hearing what she said' — implies alternative of listening/taking her seriously"
+            },
+            {
+              "line": "L37",
+              "choice_made": "Speaker let his mother say Simone 'doesn't even send a diaper' without correcting her",
+              "alternatives_present_in_text": "L39: could have said 'Mother, actually I'm the one sending'"
+            },
+            {
+              "line": "L40",
+              "choice_made": "Speaker told everyone he sold the sofa",
+              "alternatives_present_in_text": "Could have disclosed the money was going to Simone instead"
+            },
+            {
+              "line": "L54",
+              "choice_made": "Speaker said nothing about the wrong-sized jacket",
+              "alternatives_present_in_text": "Implied alternative: could have commented or objected"
+            },
+            {
+              "line": "L61",
+              "choice_made": "Speaker goes the longer route via Guarapiranga terminal",
+              "alternatives_present_in_text": "L59: faster terminal (Capelinha) is available and recommended by supervisor"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L14",
+              "quote": "because I'm a genius, right?"
+            },
+            {
+              "line": "L15",
+              "quote": "I'm a comedian."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L21",
+              "quote": "God forgive me."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "the walls come closer / walls were closer",
+              "lines": [
+                "L11",
+                "L13"
+              ]
+            },
+            {
+              "phrase": "sofa",
+              "lines": [
+                "L39",
+                "L40",
+                "L41",
+                "L42"
+              ]
+            },
+            {
+              "phrase": "I have to buy a tube",
+              "lines": [
+                "L28",
+                "L29",
+                "L30"
+              ]
+            },
+            {
+              "phrase": "I'm sorry",
+              "lines": [
+                "L26"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L23",
+              "quote": "The day itself was very undramatic.",
+              "note": "Speaker labels the day as undramatic before describing it, framing expectations ahead of the account."
+            },
+            {
+              "line": "L31",
+              "quote": "I stood there thinking about the tube for I don't know how long.",
+              "note": "Speaker does not specify duration of time standing in kitchen."
+            },
+            {
+              "line": "L48",
+              "quote": "I don't know.",
+              "note": "Speaker gives short, unelaborated answer when asked why he sent money."
+            },
+            {
+              "line": "L56",
+              "quote": "One detail, and then I'll stop.",
+              "note": "Speaker signals closure/limits before giving final anecdote about the bus terminal."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Simone",
+              "lines": [
+                "L2",
+                "L3",
+                "L5",
+                "L6",
+                "L9",
+                "L11",
+                "L17",
+                "L26",
+                "L33",
+                "L34",
+                "L53"
+              ],
+              "what_they_did": "Left when Beatriz was three years four months old; wrote a note; went to Osasco then Curitiba; did nails nightly at eleven; said 'the walls come closer' in the afternoon; now calls Beatriz and sent a Christmas jacket."
+            },
+            {
+              "who": "Speaker's mother",
+              "lines": [
+                "L5",
+                "L37",
+                "L38"
+              ],
+              "what_they_did": "Said negative things about Simone (L5); stated Simone 'doesn't even send a diaper' (L37); speaker sat and ate rice while she said this (L38)."
+            },
+            {
+              "who": "Beatriz (Bete)",
+              "lines": [
+                "L3",
+                "L26",
+                "L47",
+                "L53"
+              ],
+              "what_they_did": "Was three years four months old when Simone left; was with neighbor Dona Cida; likes the blue cup; now talks to Simone by phone; wore an ill-fitting jacket for a week in December heat."
+            },
+            {
+              "who": "Dona Cida (neighbor)",
+              "lines": [
+                "L26",
+                "L32"
+              ],
+              "what_they_did": "Had Beatriz with her; knocked on the door/came to the kitchen."
+            },
+            {
+              "who": "Speaker's supervisor",
+              "lines": [
+                "L59"
+              ],
+              "what_they_did": "Told speaker 'Edilson you're insane' regarding his choice of bus terminal."
+            },
+            {
+              "who": "A guy at Guarapiranga terminal",
+              "lines": [
+                "L60"
+              ],
+              "what_they_did": "Makes salgados/pastel that speaker describes favorably."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "Edilson protects Beatriz's mother's dignity even at real financial cost to himself.",
+              "explanation": "He secretly sent Simone money for eighteen months, let his mother insult him rather than expose Simone, and lost his sofa to keep the secret. This is a value paid for in cash and reputation, not just a stated belief.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "for about a year and a half I sent her money"
+                },
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "the answer was there wasn't any money, the answer was I stopped paying the installments on the sofa"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In financial stewardship, he will quietly absorb costs or sacrifice his own comfort to support family members without disclosing it, even when it damages his own reputation."
+            },
+            {
+              "category": "core_values",
+              "headline": "He chooses a longer, harder path rather than pass through the site of Simone's departure.",
+              "explanation": "He takes twenty-five extra minutes and defies his supervisor's advice to avoid Terminal Capelinha. This is a small but repeated, costly choice that protects something private rather than convenient.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L57",
+                  "quote": "I don't use Terminal Capelinha."
+                },
+                {
+                  "exp": 1,
+                  "line": "L62",
+                  "quote": "It's twenty-five minutes more."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In rest and recreation or daily routines, he will maintain private rituals or avoidances that others find irrational, and defend them without much explanation."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Edilson believes love/care is best expressed through undramatic, practical tasks rather than words.",
+              "explanation": "He explicitly reframes his year-and-a-half of secret payments as 'a task' he could do, not nobility, and contrasts this with the emotional listening he failed to give Simone. He seems to believe doing is safer and more real than speaking or feeling.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L50",
+                  "quote": "It was more like — it was something I could do."
+                },
+                {
+                  "exp": 1,
+                  "line": "L52",
+                  "quote": "When there's a task you can do you do it and then you're not standing in a kitchen looking at a light."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In moments of conflict or emotional overwhelm in his marriage or parenting now, he will retreat into fixing a concrete problem (errands, repairs, logistics) rather than naming or sitting with the feeling."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Edilson may deflect or joke past emotional disclosures instead of engaging them.",
+              "explanation": "When Simone told him the walls were closing in, he made a joke instead of hearing her; decades later he still narrates himself as 'a comedian' at that exact moment. Worth checking whether this joking reflex still surfaces when people close to him signal distress.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "I would say, Simone, they're bricks, they don't move, ha, because I'm a genius, right?"
+                },
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "Instead of hearing what she said."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In communication and conflict with a current partner or with Beatriz as she grows older, he may use humor to deflect when they raise something emotionally serious, then later regret not taking it seriously in the moment."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Edilson tends to absorb others' harsh judgments of him silently rather than correct the record.",
+              "explanation": "He let his mother believe he sold the sofa and say Simone 'doesn't even send a diaper' without defending himself, and he said nothing about the ill-fitting Christmas jacket. This recurs across at least two moments and raises the question of whether he generally prefers silent endurance over correcting misperceptions, even when it costs him standing.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L37",
+                  "quote": "my mother would say that woman doesn't even send a diaper, and I'd let her say it"
+                },
+                {
+                  "exp": 1,
+                  "line": "L54",
+                  "quote": "Not one word. I made juice and I said nothing."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he may let a supervisor or coworker misjudge his motives or actions without correcting them, especially when the truth would require revealing something private or vulnerable."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "Edilson protected Simone's dignity and finances at real cost to his own reputation and comfort.",
+              "explanation": "He secretly sent Simone money for eighteen months, let his mother believe he'd sold the sofa and insult his own character rather than expose Simone's need, and absorbed real financial loss (losing the sofa) to sustain the secret. This is a value paid for in cash and standing, not a stated belief.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L35",
+                  "quote": "for about a year and a half I sent her money"
+                },
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "the answer was there wasn't any money, the answer was I stopped paying the installments on the sofa"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In financial stewardship, he will quietly absorb costs or sacrifice his own comfort to support family members without disclosing it, even when it damages his own reputation.",
+              "exp": 2
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Edilson treats doing a concrete task as the way to escape an unbearable feeling, not just as care for others.",
+              "explanation": "Standing frozen in the kitchen after Simone left, his mind fixated on buying a replacement fluorescent tube; he later names this pattern directly, saying a task lets you stop 'standing in a kitchen looking at a light.' This links his emotional avoidance mechanism specifically to task-focus, not merely to caring for people.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L28",
+                  "quote": "I thought, I have to buy a tube."
+                },
+                {
+                  "exp": 1,
+                  "line": "L52",
+                  "quote": "When there's a task you can do you do it and then you're not standing in a kitchen looking at a light."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In moments of emotional overwhelm now, he will retreat into fixing a concrete, unrelated problem (errands, repairs, logistics) rather than naming or sitting with the feeling.",
+              "exp": 2
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Edilson lets false, unflattering narratives about himself stand rather than reveal the private truth beneath them.",
+              "explanation": "He let his mother believe he sold the sofa out of carelessness and call him worse by extension, and separately let the family believe he simply gave away or lost money, when in both cases the real story (secretly supporting Simone) would have redeemed him. This recurs across the sofa story and the ongoing money secret, raising the question of whether he generally chooses to be misjudged rather than expose something private.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "I stopped paying the installments on the sofa and the store came and took the sofa and I told everyone I sold it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "Everybody in my family thinks I sold a sofa in 2015."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other relationships, he may let people misjudge his motives or actions without correcting them, especially when the truth would require revealing something private or vulnerable.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He chooses a longer, harder path rather than pass through the site of Simone's departure.",
+              "reason": "restated",
+              "note": "Edilson already fully explains the terminal avoidance himself (L57-L62, including the salgados reason); there's no inference added beyond what he stated."
+            },
+            {
+              "headline": "Edilson may deflect or joke past emotional disclosures instead of engaging them.",
+              "reason": "restated",
+              "note": "He explicitly narrates and names this himself ('I'm a comedian... Instead of hearing what she said'), so it's not an insight beyond his own account, and only one incident is cited despite the pattern framing requiring two."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "Edilson protected Simone's dignity and finances at real cost to his own reputation and comfort.",
+            "explanation": "He secretly sent Simone money for eighteen months, let his mother believe he'd sold the sofa and insult his own character rather than expose Simone's need, and absorbed real financial loss (losing the sofa) to sustain the secret. This is a value paid for in cash and standing, not a stated belief.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L35",
+                "quote": "for about a year and a half I sent her money"
+              },
+              {
+                "exp": 1,
+                "line": "L39",
+                "quote": "the answer was there wasn't any money, the answer was I stopped paying the installments on the sofa"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In financial stewardship, he will quietly absorb costs or sacrifice his own comfort to support family members without disclosing it, even when it damages his own reputation.",
+            "exp": 2
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "Edilson treats doing a concrete task as the way to escape an unbearable feeling, not just as care for others.",
+            "explanation": "Standing frozen in the kitchen after Simone left, his mind fixated on buying a replacement fluorescent tube; he later names this pattern directly, saying a task lets you stop 'standing in a kitchen looking at a light.' This links his emotional avoidance mechanism specifically to task-focus, not merely to caring for people.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L28",
+                "quote": "I thought, I have to buy a tube."
+              },
+              {
+                "exp": 1,
+                "line": "L52",
+                "quote": "When there's a task you can do you do it and then you're not standing in a kitchen looking at a light."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In moments of emotional overwhelm now, he will retreat into fixing a concrete, unrelated problem (errands, repairs, logistics) rather than naming or sitting with the feeling.",
+            "exp": 2
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Edilson lets false, unflattering narratives about himself stand rather than reveal the private truth beneath them.",
+            "explanation": "He let his mother believe he sold the sofa out of carelessness and call him worse by extension, and separately let the family believe he simply gave away or lost money, when in both cases the real story (secretly supporting Simone) would have redeemed him. This recurs across the sofa story and the ongoing money secret, raising the question of whether he generally chooses to be misjudged rather than expose something private.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L39",
+                "quote": "I stopped paying the installments on the sofa and the store came and took the sofa and I told everyone I sold it."
+              },
+              {
+                "exp": 1,
+                "line": "L41",
+                "quote": "Everybody in my family thinks I sold a sofa in 2015."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In other relationships, he may let people misjudge his motives or actions without correcting them, especially when the truth would require revealing something private or vulnerable.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker states the timeframe (2015–2016) and their age (33) for this account."
+            },
+            {
+              "line": "L3",
+              "what_happened": "Speaker states mother was Catholic in a nominal way: 'the saint on the shelf and mass at a funeral.'"
+            },
+            {
+              "line": "L4",
+              "what_happened": "Speaker states they went to church because of a man named Bené."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Bené drove buses for thirty-one years, was retired, his wife had passed, and he lived two streets up from speaker."
+            },
+            {
+              "line": "L7",
+              "what_happened": "About eight or nine months after 'Simone went,' speaker states they were tired."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker worked a shift plus five extra hours at a warehouse overnight (madrugada), slept about three hours; Bete, age four, would wake at night and stand silently by the bed."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker states they would lie awake with eyes open and declines to say what they felt."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker states 'I was in a bad spot.'"
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker states there were 'some thoughts' they don't think came from the Lord."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Bené knocked on speaker's door at four in the morning."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Speaker opened the door; Bené said there was coffee at the church prayer group and told him to come."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker told Bené he had to be at the garage at five-forty."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Bené replied 'so?'"
+            },
+            {
+              "line": "L18",
+              "what_happened": "Bené said the church was on the way."
+            },
+            {
+              "line": "L19-L20",
+              "what_happened": "Speaker states the church was not on the way; it was in the opposite direction."
+            },
+            {
+              "line": "L21",
+              "what_happened": "Speaker went with Bené."
+            },
+            {
+              "line": "L24-L25",
+              "what_happened": "Speaker states Bené never asked about Simone, not once in five years."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Bené would tell speaker (calling him Edilson) to sit and would put a coffee in front of him."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Prayer group met at that hour, still dark and cold; about ten to twelve people, mostly old women, praying aloud simultaneously."
+            },
+            {
+              "line": "L28-L30",
+              "what_happened": "Speaker states that for the first six months they mostly slept sitting up with eyes half open during the sessions."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker states that hour in the plastic chair was the most rest they got during that period."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Pastor at the time was Pastor Almir, described as a man of few words and former military police."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Pastor Almir said speaker's name, Edilson, in a particular way."
+            },
+            {
+              "line": "L39",
+              "what_happened": "Speaker states 'I never asked him for anything. Not once.'"
+            },
+            {
+              "line": "L40",
+              "what_happened": "When Pastor Almir asked if he needed something, speaker replied 'no, pastor, everything's resolved, praise God.'"
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker states the phrase 'everything's resolved' became a joke in his house, and Bete now says it to mock him when she breaks a plate."
+            },
+            {
+              "line": "L44",
+              "what_happened": "A church family's husband, age thirty-eight, had a stroke; a collection was taken up on a Wednesday."
+            },
+            {
+              "line": "L45-L46",
+              "what_happened": "Speaker put all of his money into the collection envelope."
+            },
+            {
+              "line": "L47",
+              "what_happened": "It was a Wednesday and speaker had been paid the prior Tuesday."
+            },
+            {
+              "line": "L50",
+              "what_happened": "That month speaker ate rice and egg, told Bete he'd eaten at the garage, but instead ate cream crackers and coffee; there was a marmita seller at the garage but he did not buy from her."
+            },
+            {
+              "line": "L51",
+              "what_happened": "Bete believed speaker's statement that he had already eaten."
+            },
+            {
+              "line": "L56",
+              "what_happened": "Speaker states he has attended for eleven years and could not locate a book of the Bible if asked."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L21",
+              "choice_made": "Speaker went with Bené to the church at 4am despite having to work at 5:40.",
+              "alternatives_present_in_text": "Speaker could have stayed home/slept given the early work shift, as implied by L16 ('I have to be at the garage at five-forty')."
+            },
+            {
+              "line": "L40",
+              "choice_made": "Speaker told Pastor Almir he needed nothing ('everything's resolved') when asked.",
+              "alternatives_present_in_text": "Pastor directly asked 'brother, do you need something,' presenting an opening to disclose need."
+            },
+            {
+              "line": "L45-L46",
+              "choice_made": "Speaker put all of his money into the collection for the stroke victim's family.",
+              "alternatives_present_in_text": "Text implies a partial donation was possible ('I put in all of it. All of it.' emphasized as notable)."
+            },
+            {
+              "line": "L50",
+              "choice_made": "Speaker told Bete he had already eaten at the garage rather than telling her he was skipping meals.",
+              "alternatives_present_in_text": "The presence of a marmita seller at the garage is noted as an available (unused) alternative for food."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L7",
+              "quote": "I was very— I'm going to say I was tired."
+            },
+            {
+              "line": "L10",
+              "quote": "I was in a bad spot."
+            },
+            {
+              "line": "L15",
+              "quote": "I open the door with a face like a dog"
+            },
+            {
+              "line": "L22",
+              "quote": "I don't know why I went."
+            },
+            {
+              "line": "L31",
+              "quote": "I slept in the house of God for six months and I think God knew I needed it more than He needed my attention."
+            },
+            {
+              "line": "L37",
+              "quote": "I would have walked into traffic if that man asked me to."
+            },
+            {
+              "line": "L39",
+              "quote": "I never asked him for anything. Not once."
+            },
+            {
+              "line": "L48-L49",
+              "quote": "Stupid. Not stupid — I don't regret it."
+            },
+            {
+              "line": "L56",
+              "quote": "half the doctrine I couldn't explain to you"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L7",
+              "quote": "tired"
+            },
+            {
+              "line": "L9",
+              "quote": "I would lie there with my eyes open and feel — I'm not going to say what I felt"
+            },
+            {
+              "line": "L52-L53",
+              "quote": "That's the worst part of children. They believe you completely."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "everything's resolved",
+              "lines": [
+                "L40",
+                "L41",
+                "L42"
+              ]
+            },
+            {
+              "phrase": "all of it",
+              "lines": [
+                "L45",
+                "L46"
+              ]
+            },
+            {
+              "phrase": "not once / not one time",
+              "lines": [
+                "L25",
+                "L39"
+              ]
+            },
+            {
+              "phrase": "four in the morning / four",
+              "lines": [
+                "L12",
+                "L13"
+              ]
+            },
+            {
+              "phrase": "stupid",
+              "lines": [
+                "L48",
+                "L49"
+              ]
+            },
+            {
+              "phrase": "believe(d) you / children believe you",
+              "lines": [
+                "L51",
+                "L53"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L9",
+              "quote": "I'm not going to say what I felt, it's not useful.",
+              "note": "Speaker explicitly declines to state the feeling and gives a reason for withholding it."
+            },
+            {
+              "line": "L11",
+              "quote": "Let's say there were some thoughts that I don't think came from the Lord.",
+              "note": "Speaker refers to specific thoughts without naming their content."
+            },
+            {
+              "line": "L43",
+              "quote": "There was one time.",
+              "note": "Introduces an anecdote with a short, truncated lead-in before elaborating."
+            },
+            {
+              "line": "L54-L55",
+              "quote": "Anyway. That's the church.",
+              "note": "Speaker closes the marmita/cracker/Bete anecdote abruptly and moves to summarize."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Bené (Brother Bené)",
+              "lines": [
+                "L4",
+                "L5",
+                "L6",
+                "L12",
+                "L15",
+                "L17",
+                "L18",
+                "L20",
+                "L23",
+                "L24",
+                "L26",
+                "L57"
+              ],
+              "what_they_did": "Retired bus driver, widower, lived two streets from speaker; knocked on speaker's door at 4am, invited him to church coffee/prayer group, told him the church was 'on the way' (which it was not), never asked about Simone, called speaker by name (Edilson) and gave him coffee."
+            },
+            {
+              "who": "Simone",
+              "lines": [
+                "L7",
+                "L24"
+              ],
+              "what_they_did": "Referenced as having 'gone' approximately eight-nine months before the 4am incident; no further action described."
+            },
+            {
+              "who": "Bete",
+              "lines": [
+                "L8",
+                "L42",
+                "L50",
+                "L51"
+              ],
+              "what_they_did": "At age four, woke at night and stood silently by speaker's bed; later (in the present) jokes by saying 'everything's resolved, praise God' when she breaks a plate; as a six-year-old, believed speaker's claim that he'd already eaten."
+            },
+            {
+              "who": "Pastor Almir",
+              "lines": [
+                "L35",
+                "L36",
+                "L40"
+              ],
+              "what_they_did": "Former military police, man of few words, pastor at the time; said speaker's name in a particular way; asked speaker if he needed anything."
+            },
+            {
+              "who": "The family with the stroke",
+              "lines": [
+                "L44"
+              ],
+              "what_they_did": "Husband, age 38, had a stroke; church took up a collection for them on a Wednesday."
+            },
+            {
+              "who": "The marmita seller",
+              "lines": [
+                "L50"
+              ],
+              "what_they_did": "Sold marmitas (meal boxes) at the garage; speaker did not buy from her during that month."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Edilson believes needing help is something to hide rather than disclose.",
+              "explanation": "When directly asked by Pastor Almir if he needed anything, he denied it every time, turning the denial into a recurring family joke. The same pattern shows in hiding his hunger from Bete rather than naming the real cost of his giving.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L40",
+                  "quote": "no, pastor, everything's resolved, praise God"
+                },
+                {
+                  "exp": 3,
+                  "line": "L39",
+                  "quote": "I never asked him for anything. Not once."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a health or wellness context, he would downplay physical or emotional struggle to a doctor or partner rather than ask for support."
+            },
+            {
+              "category": "core_values",
+              "headline": "He gives everything he has to someone else's crisis even when it costs his own child a real meal.",
+              "explanation": "He put his entire paycheck into the collection for a stroke victim's family, then lied to his six-year-old about eating so she wouldn't know he'd gone without. The choice under real financial pressure, and the fact he says he doesn't regret it, marks this as a protected value, not just a nice gesture.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L45-L46",
+                  "quote": "I put in all of it. All of it."
+                },
+                {
+                  "exp": 3,
+                  "line": "L50",
+                  "quote": "I told Bete I'd eaten at the garage"
+                },
+                {
+                  "exp": 3,
+                  "line": "L48-L49",
+                  "quote": "Stupid. Not stupid — I don't regret it."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In financial stewardship discussions, he would prioritize a community or family emergency over his own household's buffer, even when it's not sustainable."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He is unusually capable of showing up for someone without demanding they explain themselves.",
+              "explanation": "Bené never once asked about Simone across five years, and it was precisely that absence of interrogation that let Edilson keep coming back. This suggests Edilson recognizes and is drawn to presence-without-pressure as a mode of care, likely one he now offers others.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L24-L25",
+                  "quote": "He never once asked me about Simone. Not one time in five years."
+                },
+                {
+                  "exp": 3,
+                  "line": "L23",
+                  "quote": "I think because he didn't ask me anything."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In friendships or community settings, others would seek him out during hard times specifically because he doesn't press them to talk about it."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Edilson may substitute silent endurance for direct communication with the people who love him.",
+              "explanation": "He declines to say what he felt lying awake at night, refuses help when offered by the pastor, and lies to his daughter about eating -- three separate moments of withholding rather than voicing need. Worth checking whether this is a stable strategy or one that has cost him closeness in relationships.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L9",
+                  "quote": "I would lie there with my eyes open and feel — I'm not going to say what I felt, it's not useful"
+                },
+                {
+                  "exp": 3,
+                  "line": "L40",
+                  "quote": "no, pastor, everything's resolved, praise God"
+                },
+                {
+                  "exp": 3,
+                  "line": "L50",
+                  "quote": "I told Bete I'd eaten at the garage"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In marriage or close partnership, he would likely underreport stress or exhaustion to his partner until it surfaces as a joke or an offhand remark rather than a direct conversation."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "He gives everything he has to someone else's crisis even when it costs his own child a real meal.",
+              "explanation": "He put his entire paycheck into the collection for a stroke victim's family, then lied to his six-year-old about eating so she wouldn't know he'd gone without. The choice under real financial pressure, and the fact he says he doesn't regret it, marks this as a protected value, not just a nice gesture.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L45-L46",
+                  "quote": "I put in all of it. All of it."
+                },
+                {
+                  "exp": 3,
+                  "line": "L50",
+                  "quote": "I told Bete I'd eaten at the garage"
+                },
+                {
+                  "exp": 3,
+                  "line": "L48-L49",
+                  "quote": "Stupid. Not stupid — I don't regret it."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In financial stewardship discussions, he would prioritize a community or family emergency over his own household's buffer, even when it's not sustainable.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Edilson believes needing help is something to hide rather than disclose.",
+              "reason": "restated",
+              "note": "Edilson already narrates this directly ('everything's resolved, praise God' as a running family joke, and explicitly frames hiding his eating from Bete) — the claim adds no inference beyond what he already said about himself."
+            },
+            {
+              "headline": "He is unusually capable of showing up for someone without demanding they explain themselves.",
+              "reason": "ungrounded",
+              "note": "The quotes describe Bené's behavior toward Edilson, not anything Edilson does for others — there's no evidence in the transcript that Edilson has ever offered this kind of presence himself, so the 'zone of genius' claim about Edilson is unsupported."
+            },
+            {
+              "headline": "Edilson may substitute silent endurance for direct communication with the people who love him.",
+              "reason": "restated",
+              "note": "This is just a repackaging of the two candidates above using therapy-adjacent framing ('silent endurance,' 'withholding') for something Edilson already stated plainly about himself in the transcript (the 'everything's resolved' joke, lying about eating)."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "He gives everything he has to someone else's crisis even when it costs his own child a real meal.",
+            "explanation": "He put his entire paycheck into the collection for a stroke victim's family, then lied to his six-year-old about eating so she wouldn't know he'd gone without. The choice under real financial pressure, and the fact he says he doesn't regret it, marks this as a protected value, not just a nice gesture.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L45-L46",
+                "quote": "I put in all of it. All of it."
+              },
+              {
+                "exp": 3,
+                "line": "L50",
+                "quote": "I told Bete I'd eaten at the garage"
+              },
+              {
+                "exp": 3,
+                "line": "L48-L49",
+                "quote": "Stupid. Not stupid — I don't regret it."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In financial stewardship discussions, he would prioritize a community or family emergency over his own household's buffer, even when it's not sustainable.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "In 2021, during the pandemic, speaker drove the night 5119 bus route, with the last departure at 8:20pm from the terminal."
+            },
+            {
+              "line": "L8",
+              "what_happened": "A young man got on the bus after the viaduct."
+            },
+            {
+              "line": "L9",
+              "what_happened": "The young man appeared to be about nineteen, had big ears, wore a thin jacket."
+            },
+            {
+              "line": "L12",
+              "what_happened": "The young man paid the fare."
+            },
+            {
+              "line": "L15",
+              "what_happened": "He paid four reais forty centavos."
+            },
+            {
+              "line": "L16",
+              "what_happened": "He approached the glass/partition, showed a knife held low by his leg, and said 'keep driving, don't stop, don't open the doors.'"
+            },
+            {
+              "line": "L17",
+              "what_happened": "His hand was shaking."
+            },
+            {
+              "line": "L18",
+              "what_happened": "The shaking was visible in the mirror light."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker kept driving."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker talked to him."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker asked him where he was going."
+            },
+            {
+              "line": "L27",
+              "what_happened": "The young man said Grajaú."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker told him his cousin had lived in Grajaú, near the station."
+            },
+            {
+              "line": "L29",
+              "what_happened": "The young man kept the knife in place but began answering questions."
+            },
+            {
+              "line": "L30",
+              "what_happened": "There were eleven people on the bus."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker counted passengers, describing it as a habit done at each stop."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Three of the eleven passengers were elderly."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Speaker kept the young man at the front of the bus talking, drove without stopping at the scheduled stops."
+            },
+            {
+              "line": "L36",
+              "what_happened": "After about fifteen minutes, the young man took roughly thirty reais (money given to the speaker earlier as a favor, since there was no actual change bag), asked to be let off at an unscheduled spot on a bend, and the speaker opened the door."
+            },
+            {
+              "line": "L36-37",
+              "what_happened": "The young man got off and said 'thank you, brother.'"
+            },
+            {
+              "line": "L41-42",
+              "what_happened": "Speaker finished the entire bus line, dropped off the eleven passengers at the end, completed the return trip, and put the bus in the garage at ten to one."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker filled out the paperwork."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Supervisor Seu Aparecido came out, having heard about the incident on the radio, looked at the bus and at the speaker, said his name, put a hand on the back of his neck, and told him to take tomorrow off."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Speaker said no, that everything was resolved, and that he was scheduled to work at four-fifty."
+            },
+            {
+              "line": "L46",
+              "what_happened": "Seu Aparecido repeated that he should take tomorrow off."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Seu Aparecido laughed and let him go."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Speaker's hands started shaking at the bus stop."
+            },
+            {
+              "line": "L50",
+              "what_happened": "On the way home as a passenger on another bus, his hands were shaking; he sat on them until his stop."
+            },
+            {
+              "line": "L51",
+              "what_happened": "Speaker never told Bete about the incident."
+            },
+            {
+              "line": "L52",
+              "what_happened": "Bete was ten years old at the time."
+            },
+            {
+              "line": "L54",
+              "what_happened": "Speaker never told his mother."
+            },
+            {
+              "line": "L55",
+              "what_happened": "A few months later, speaker requested to move from night lines to morning lines."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L22",
+              "choice_made": "Kept driving after being shown the knife",
+              "alternatives_present_in_text": "None stated explicitly by speaker as considered"
+            },
+            {
+              "line": "L23-25",
+              "choice_made": "Talked to the young man and asked where he was going",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L33-34",
+              "choice_made": "Decided that if something went wrong, it should happen at the front of the bus, not the back",
+              "alternatives_present_in_text": "Implicit alternative: allowing confrontation near the back where more/older passengers were seated"
+            },
+            {
+              "line": "L35",
+              "choice_made": "Did not stop at scheduled stops while driving",
+              "alternatives_present_in_text": "Company disciplinary policy requiring stops, described as 'a whole disciplinary form'"
+            },
+            {
+              "line": "L36",
+              "choice_made": "Opened the door at an unscheduled location on the bend",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L40-42",
+              "choice_made": "Finished the entire bus line and completed the return trip after the incident",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L45",
+              "choice_made": "Declined the offer to take the next day off",
+              "alternatives_present_in_text": "Seu Aparecido's offer to take tomorrow off"
+            },
+            {
+              "line": "L51",
+              "choice_made": "Did not tell Bete about the incident",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L54",
+              "choice_made": "Did not tell his mother",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L55",
+              "choice_made": "Requested to move off night lines to morning lines a few months later",
+              "alternatives_present_in_text": "Speaker states this was framed as being 'because of Bete's school hours'"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L6",
+              "quote": "A lighthouse."
+            },
+            {
+              "line": "L31",
+              "quote": "I always count, that's a habit"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L14",
+              "quote": "I laughed about that for a week"
+            },
+            {
+              "line": "L38-39",
+              "quote": "I think about that. I think about that more than the knife."
+            },
+            {
+              "line": "L48",
+              "quote": "he laughed and let me go"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "I think about that",
+              "lines": [
+                "L38",
+                "L39"
+              ]
+            },
+            {
+              "phrase": "take tomorrow",
+              "lines": [
+                "L44",
+                "L46"
+              ]
+            },
+            {
+              "phrase": "He paid",
+              "lines": [
+                "L12",
+                "L13"
+              ]
+            },
+            {
+              "phrase": "his hand",
+              "lines": [
+                "L17",
+                "L18"
+              ]
+            },
+            {
+              "phrase": "I never told",
+              "lines": [
+                "L51",
+                "L54"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L24",
+              "quote": "I don't even remember what about, honestly.",
+              "note": "Speaker states he does not recall the content of the conversation with the young man"
+            },
+            {
+              "line": "L55",
+              "quote": "that was a schedule thing, it was because of Bete's school hours, that's all that was",
+              "note": "Speaker quickly attributes the shift change to a scheduling reason and states 'that's all that was' immediately after describing the request to move off night lines"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "The young man with the knife",
+              "lines": [
+                "L8",
+                "L9",
+                "L12",
+                "L16",
+                "L17",
+                "L27",
+                "L29",
+                "L36",
+                "L37"
+              ],
+              "what_they_did": "Boarded the bus, paid the fare, displayed a knife and instructed the driver not to stop, hand shaking, said he was going to Grajaú, kept talking, eventually took approximately thirty reais, asked to be let off at an unscheduled stop, got off, and said 'thank you, brother.'"
+            },
+            {
+              "who": "Eleven passengers",
+              "lines": [
+                "L30",
+                "L32"
+              ],
+              "what_they_did": "Were present on the bus; three were described as old."
+            },
+            {
+              "who": "Seu Aparecido (supervisor)",
+              "lines": [
+                "L44",
+                "L46",
+                "L48"
+              ],
+              "what_they_did": "Heard about the incident on the radio, came out to the bus, said the speaker's name, put a hand on his neck, told him twice to take tomorrow off, then laughed and let him go."
+            },
+            {
+              "who": "Bete",
+              "lines": [
+                "L51",
+                "L52",
+                "L55"
+              ],
+              "what_they_did": "Was ten years old at the time; was not told about the incident; her school hours were cited as the reason for the speaker's later shift change."
+            },
+            {
+              "who": "Speaker's mother",
+              "lines": [
+                "L54"
+              ],
+              "what_they_did": "Was not told about the incident; speaker states she 'would have sold her stove to buy me a helicopter.'"
+            },
+            {
+              "who": "A guy who gave speaker money for a favor",
+              "lines": [
+                "L36"
+              ],
+              "what_they_did": "Had given the speaker approximately thirty reais earlier, which was in the bus at the time and was taken by the young man."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "Edilson protects the most vulnerable people in a crisis even when it costs him personally.",
+              "explanation": "Under threat of a knife, his single organizing thought was to keep the danger away from the three elderly passengers by keeping the young man at the front, not to protect himself or resolve the situation fastest. This was a deliberate positioning choice made under real risk.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L33-34",
+                  "quote": "if this goes bad it has to go bad at the front. Not back there."
+                },
+                {
+                  "exp": 4,
+                  "line": "L32",
+                  "quote": "three of them were old"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In family or community settings, he instinctively positions himself between danger/conflict and the most vulnerable person present, even at personal cost."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Edilson de-escalates danger by treating a threatening person as a human being with a destination and a story.",
+              "explanation": "Rather than staying silent or complying mechanically, he engaged the armed young man conversationally, asking about his destination and offering a personal connection (his cousin in Grajaú), which visibly changed the young man's posture and led to a peaceful resolution. This is a distinct, high-stakes social skill, not just calmness.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L25",
+                  "quote": "I think I asked him where he was going."
+                },
+                {
+                  "exp": 4,
+                  "line": "L28",
+                  "quote": "I said, ah, my cousin lived in Grajaú, by the station."
+                },
+                {
+                  "exp": 4,
+                  "line": "L29",
+                  "quote": "he kept the knife there but he started answering me"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In workplace conflicts or tense negotiations, he is the person others turn to for defusing hostility by finding common ground rather than asserting authority."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Edilson believes showing up and completing his responsibilities is what restores order after trauma.",
+              "explanation": "Immediately after a life-threatening robbery, he finished the entire route, did the return trip, and filled out paperwork, then refused a day off insisting everything was 'resolved.' The instinct to complete duty rather than process the event suggests he equates functioning/working with being okay.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L41-42",
+                  "quote": "I finished the whole line. I dropped the eleven people at the end and did the return"
+                },
+                {
+                  "exp": 4,
+                  "line": "L45",
+                  "quote": "no, no, everything's resolved, I'm on at four-fifty"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "After a personal setback or health scare, he will minimize the disruption and return to normal obligations faster than the situation warrants."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Edilson may protect the people he loves most by withholding the truth from them, then reframing the withholding as practical.",
+              "explanation": "He never told his ten-year-old daughter or his mother about the robbery, and later explained a shift change away from night routes purely as a scheduling matter tied to Bete's school hours, immediately insisting 'that's all that was.' The quick, defensive framing right after describing a fear-driven choice is worth him examining.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L51",
+                  "quote": "I never told Bete."
+                },
+                {
+                  "exp": 4,
+                  "line": "L54",
+                  "quote": "And I never told my mother, obviously"
+                },
+                {
+                  "exp": 4,
+                  "line": "L55",
+                  "quote": "that was a schedule thing, it was because of Bete's school hours, that's all that was"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other relationships, he likely downplays or omits frightening experiences to loved ones and offers a tidy alternate explanation rather than naming his own fear or protective instinct directly."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "Edilson protects the most vulnerable people in a crisis even when it costs him personally.",
+              "explanation": "Under threat of a knife, his single organizing thought was to keep the danger away from the three elderly passengers by keeping the young man at the front, not to protect himself or resolve the situation fastest. This was a deliberate positioning choice made under real risk.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L33-34",
+                  "quote": "if this goes bad it has to go bad at the front. Not back there."
+                },
+                {
+                  "exp": 4,
+                  "line": "L32",
+                  "quote": "three of them were old"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In family or community settings, he instinctively positions himself between danger/conflict and the most vulnerable person present, even at personal cost.",
+              "exp": 4
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Edilson de-escalates danger by treating a threatening person as a human being with a destination and a story.",
+              "explanation": "Rather than staying silent or complying mechanically, he engaged the armed young man conversationally, asking about his destination and offering a personal connection (his cousin in Grajaú), which visibly changed the young man's posture and led to a peaceful resolution. This is a distinct, high-stakes social skill, not just calmness.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L25",
+                  "quote": "I think I asked him where he was going."
+                },
+                {
+                  "exp": 4,
+                  "line": "L28",
+                  "quote": "I said, ah, my cousin lived in Grajaú, by the station."
+                },
+                {
+                  "exp": 4,
+                  "line": "L29",
+                  "quote": "he kept the knife there but he started answering me"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In workplace conflicts or tense negotiations, he is the person others turn to for defusing hostility by finding common ground rather than asserting authority.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Edilson believes showing up and completing his responsibilities is what restores order after trauma.",
+              "reason": "restated",
+              "note": "The transcript already directly states he finished the line and refused the day off saying 'everything's resolved' — the claim just paraphrases what he explicitly said and did, adding a therapy-flavored label ('restores order after trauma') rather than new insight."
+            },
+            {
+              "headline": "Edilson may protect the people he loves most by withholding the truth from them, then reframing the withholding as practical.",
+              "reason": "ungrounded",
+              "note": "Not telling a 10-year-old about an armed robbery is not withholding 'the truth' in a meaningful pattern sense — it's ordinary parental discretion (he even asks rhetorically 'what do you tell a ten-year-old?'), and the schedule change is plausibly just that; the leap to a defensive-reframing pattern isn't well supported by two genuinely comparable instances."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "Edilson protects the most vulnerable people in a crisis even when it costs him personally.",
+            "explanation": "Under threat of a knife, his single organizing thought was to keep the danger away from the three elderly passengers by keeping the young man at the front, not to protect himself or resolve the situation fastest. This was a deliberate positioning choice made under real risk.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L33-34",
+                "quote": "if this goes bad it has to go bad at the front. Not back there."
+              },
+              {
+                "exp": 4,
+                "line": "L32",
+                "quote": "three of them were old"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In family or community settings, he instinctively positions himself between danger/conflict and the most vulnerable person present, even at personal cost.",
+            "exp": 4
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "Edilson de-escalates danger by treating a threatening person as a human being with a destination and a story.",
+            "explanation": "Rather than staying silent or complying mechanically, he engaged the armed young man conversationally, asking about his destination and offering a personal connection (his cousin in Grajaú), which visibly changed the young man's posture and led to a peaceful resolution. This is a distinct, high-stakes social skill, not just calmness.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L25",
+                "quote": "I think I asked him where he was going."
+              },
+              {
+                "exp": 4,
+                "line": "L28",
+                "quote": "I said, ah, my cousin lived in Grajaú, by the station."
+              },
+              {
+                "exp": 4,
+                "line": "L29",
+                "quote": "he kept the knife there but he started answering me"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In workplace conflicts or tense negotiations, he is the person others turn to for defusing hostility by finding common ground rather than asserting authority.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L6",
+              "what_happened": "She passed the exam for the ETEC (technical school)."
+            },
+            {
+              "line": "L8",
+              "what_happened": "She completed the exam registration process herself on her phone, without telling him, and presented the paper to him on a Saturday."
+            },
+            {
+              "line": "L9",
+              "what_happened": "The course/field is Informatics."
+            },
+            {
+              "line": "L14",
+              "what_happened": "The school is in Santo Amaro; commute involves two bus connections, a walk from the terminal, and a stretch by an overpass with nobody around at 6:40am."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Some of her classes end at 6:10pm."
+            },
+            {
+              "line": "L16",
+              "what_happened": "In June it is already dark at 6:10pm."
+            },
+            {
+              "line": "L17",
+              "what_happened": "On his rest day, he walked the route himself."
+            },
+            {
+              "line": "L18-19",
+              "what_happened": "He left the house at the time she would leave, walked at a guessed speed for a 15-year-old, walked slowly."
+            },
+            {
+              "line": "L20",
+              "what_happened": "He took the same bus."
+            },
+            {
+              "line": "L21",
+              "what_happened": "He did the route again on a Thursday because traffic differs that day."
+            },
+            {
+              "line": "L22",
+              "what_happened": "He did the route a third time at night, the return version, in the dark."
+            },
+            {
+              "line": "L23-24",
+              "what_happened": "He timed the route: 7 minutes from terminal exit to gate via the avenue, 9 minutes via the back route by the shops; the avenue has a wall for about 80 meters, the back route has lights and people."
+            },
+            {
+              "line": "L26",
+              "what_happened": "He told her to take the long way; she said it's two more minutes; he told her to take the two minutes from him."
+            },
+            {
+              "line": "L27",
+              "what_happened": "She sends him her location."
+            },
+            {
+              "line": "L31",
+              "what_happened": "He states he says at church that his daughter is going to university, will leave, wants her in Campinas doing something with computers in air conditioning."
+            },
+            {
+              "line": "L33",
+              "what_happened": "In March there was a subsidized/largely paid six-month exchange program in another state (he thinks Santa Catarina)."
+            },
+            {
+              "line": "L33-34",
+              "what_happened": "He found reasons against it: the food would be different, the cold, who she would be with."
+            },
+            {
+              "line": "L35",
+              "what_happened": "She looked at him for a long time, said 'okay, Dad, fine,' and went into her room."
+            },
+            {
+              "line": "L36-37",
+              "what_happened": "She has never mentioned the exchange program again, not once."
+            },
+            {
+              "line": "L43-44",
+              "what_happened": "She said she didn't want the fifteen-years party, calling it tacky and 'for people on the internet.'"
+            },
+            {
+              "line": "L46",
+              "what_happened": "They did a lunch instead of a party, twenty people, his mother made the meat."
+            },
+            {
+              "line": "L47-48",
+              "what_happened": "He has kept an envelope, putting money into it since she was about eleven years old, and continued after she said no to the party."
+            },
+            {
+              "line": "L52",
+              "what_happened": "During months involving tire repair and his mother's medicine costs, he ate poorly for three weeks instead of opening the envelope."
+            },
+            {
+              "line": "L55",
+              "what_happened": "He states his brother Bené is deceased and would have reacted by slapping the back of his head."
+            },
+            {
+              "line": "L56",
+              "what_happened": "He gets home around 12:40 or 1:00am."
+            },
+            {
+              "line": "L57",
+              "what_happened": "She leaves the hall light on for him; he has told her about it a hundred times because of the electric bill."
+            },
+            {
+              "line": "L58-59",
+              "what_happened": "He stands in her doorway for about a minute."
+            },
+            {
+              "line": "L61",
+              "what_happened": "He eats standing up by the sink and goes to bed, gets up at 4:10am."
+            },
+            {
+              "line": "L62",
+              "what_happened": "People tell him he's wrecked/exhausted; he responds that everything's resolved, praise God."
+            },
+            {
+              "line": "L65",
+              "what_happened": "He states: he has a job with a signed card, a daughter who passed an exam he didn't know about, and a brother who didn't get to be twenty."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L26",
+              "choice_made": "Told her to take the long way (by the avenue's alternative, past the shops) despite the extra two minutes.",
+              "alternatives_present_in_text": "The shorter route by the avenue (7 minutes) with an 80-meter unlit wall stretch."
+            },
+            {
+              "line": "L33-35",
+              "choice_made": "He found reasons against the exchange program (food, cold, companions) rather than supporting it.",
+              "alternatives_present_in_text": "The program was subsidized/paid; no stated alternative plan offered to her."
+            },
+            {
+              "line": "L46",
+              "choice_made": "Held a twenty-person lunch instead of a fifteen-years party.",
+              "alternatives_present_in_text": "A traditional fifteen-years party, which she rejected as 'tacky.'"
+            },
+            {
+              "line": "L48",
+              "choice_made": "Continued putting money into the envelope after she said she didn't want a party.",
+              "alternatives_present_in_text": "Stopping the contributions since she declined the party."
+            },
+            {
+              "line": "L52",
+              "choice_made": "Ate badly for three weeks rather than opening the envelope during a financially tight period.",
+              "alternatives_present_in_text": "Opening the envelope to cover tire repair and his mother's medicine."
+            },
+            {
+              "line": "L62",
+              "choice_made": "Tells people 'everything's resolved, praise God' when asked about being exhausted.",
+              "alternatives_present_in_text": "None explicitly stated as an alternative response in the text."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L5",
+              "quote": "I'm the man who takes four minutes to order a coffee"
+            },
+            {
+              "line": "L19",
+              "quote": "I'm sure I looked like a lunatic"
+            },
+            {
+              "line": "L40",
+              "quote": "Man of God, fifteen years, still an idiot on a Tuesday"
+            },
+            {
+              "line": "L53-54",
+              "quote": "Which is stupid. Which I know is stupid."
+            },
+            {
+              "line": "L62",
+              "quote": "everything's resolved, praise God"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L10",
+              "quote": "my first feeling was not pride"
+            },
+            {
+              "line": "L42",
+              "quote": "it's embarrassing"
+            },
+            {
+              "line": "L57",
+              "quote": "which drives me crazy because of the bill"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "I found reasons / I found a lot of reasons",
+              "lines": [
+                "L33",
+                "L34"
+              ]
+            },
+            {
+              "phrase": "Nothing",
+              "lines": [
+                "L67",
+                "L68"
+              ]
+            },
+            {
+              "phrase": "I mean it is / And it is",
+              "lines": [
+                "L63",
+                "L64"
+              ]
+            },
+            {
+              "phrase": "Which is stupid",
+              "lines": [
+                "L53",
+                "L54"
+              ]
+            },
+            {
+              "phrase": "I did it",
+              "lines": [
+                "L17",
+                "L18",
+                "L21",
+                "L22"
+              ]
+            },
+            {
+              "phrase": "ten past six",
+              "lines": [
+                "L14",
+                "L15",
+                "L16"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L41-42",
+              "quote": "The money. I'll say the money thing quick because it's embarrassing.",
+              "note": "Speaker explicitly names the topic as one he will move through quickly, then continues."
+            },
+            {
+              "line": "L45",
+              "quote": "Fine.",
+              "note": "Single-word transition immediately after recounting her rejection of the party, moving directly to the next point without elaboration."
+            },
+            {
+              "line": "L66-68",
+              "quote": "So what am I going to complain about? Nothing. Nothing at all.",
+              "note": "Ends the account with a rapid, repeated dismissal immediately following a list of hardships (exhaustion schedule, brother's death) without further comment on them."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Beatriz (Bete), daughter, 15",
+              "lines": [
+                "L3",
+                "L4",
+                "L8",
+                "L26",
+                "L27",
+                "L28",
+                "L35",
+                "L43",
+                "L44",
+                "L57"
+              ],
+              "what_they_did": "Completed technical school exam registration independently; presented acceptance paper to him; agreed to take the longer route while noting the extra two minutes; sends her location; told him he's going to have a stroke before she's twenty; said okay to dropping the exchange program and went to her room; said she didn't want a fifteen-years party, calling it tacky; leaves the hall light on for him."
+            },
+            {
+              "who": "His mother",
+              "lines": [
+                "L46",
+                "L52"
+              ],
+              "what_they_did": "Made the meat for the lunch; her medicine was a financial expense this year."
+            },
+            {
+              "who": "Bené, his brother (deceased)",
+              "lines": [
+                "L55",
+                "L65"
+              ],
+              "what_they_did": "Referenced as someone who would have reacted to his behavior by slapping the back of his head; stated to have died before turning twenty."
+            },
+            {
+              "who": "People (unspecified)",
+              "lines": [
+                "L62"
+              ],
+              "what_they_did": "Tell him, 'Edilson, you're wrecked, you're exhausted.'"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "Edilson protects his daughter's physical safety even when it costs him sleep, money, or her mild resistance.",
+              "explanation": "He gave up a rest day to walk her commute three separate times at different hours to time exact risks, then enforced a two-minute-longer route over an unlit wall stretch despite her pushback. This is a costly, repeated choice, not a stated value.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L21-22",
+                  "quote": "Then I did it again on a Thursday because Thursday the traffic is different. Then I did it a third time at night"
+                },
+                {
+                  "exp": 5,
+                  "line": "L26",
+                  "quote": "take the two minutes, I'll give you the two minutes, take them from me"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In health/wellness decisions, he will sacrifice his own rest or comfort before accepting any avoidable risk to a family member."
+            },
+            {
+              "category": "core_values",
+              "headline": "He keeps building his daughter's financial safety net even after she explicitly rejects the occasion it was meant for.",
+              "explanation": "She turned down the fifteen-years party as 'tacky,' yet he did not stop or redirect the envelope savings, and even prioritized it over his own nutrition during a tight month. The choice to keep funding an unnamed future need over his own wellbeing shows what he actually protects.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L48",
+                  "quote": "I've been putting into it since she was about eleven, and I didn't stop when she said no, I just — I kept putting"
+                },
+                {
+                  "exp": 5,
+                  "line": "L52",
+                  "quote": "I should have opened that envelope and I ate badly instead for three weeks"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In financial planning conversations, he will underreport his own needs while insisting a fund earmarked for his daughter stays untouched."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Edilson believes he must personally verify and control risk before he can trust a situation, rather than trusting his daughter's judgment or the system around her.",
+              "explanation": "He didn't ask about the route or discuss it with her — he walked it himself three times, at different conditions, to generate his own data. That's a belief that safety only becomes real once he has personally measured it.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L17-18",
+                  "quote": "on my rest day I did the route. I did it as her."
+                },
+                {
+                  "exp": 5,
+                  "line": "L23-24",
+                  "quote": "Seven minutes from the terminal exit to the gate if you go by the avenue. Nine if you go by the back"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he will redo or personally re-verify tasks others report as done rather than accepting their word, even when it costs him extra time."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes acknowledging his own exhaustion or hardship would be ungrateful given his brother's early death, so he suppresses it with gratitude language.",
+              "explanation": "He answers 'you're wrecked' with 'everything's resolved, praise God,' then immediately lists his job, daughter's success, and his brother not reaching twenty as the reason he has nothing to complain about — using comparison to a death to shut down his own need.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L62",
+                  "quote": "everything's resolved, praise God"
+                },
+                {
+                  "exp": 5,
+                  "line": "L65-68",
+                  "quote": "my brother didn't get to be twenty. So what am I going to complain about? Nothing. Nothing at all."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a health check-in, he will minimize symptoms of burnout or physical strain and redirect to what he's grateful for instead of answering directly."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Edilson says he wants his daughter to go far, but when a concrete opportunity to leave arrives, he finds reasons to keep her close.",
+              "explanation": "He publicly frames leaving as the goal ('I want her to go far... I want her in Campinas'), yet when the subsidized exchange program appeared, he generated multiple objections and she dropped it and never raised it again. The gap between his stated aspiration and his in-the-moment resistance is worth him examining, especially since he names it himself as something he 'did anyway.'",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L31",
+                  "quote": "I want her in Campinas, I want her doing something with computers where she sits in air conditioning and nobody spits at her"
+                },
+                {
+                  "exp": 5,
+                  "line": "L33-38",
+                  "quote": "I found reasons. I found a lot of reasons... And I know exactly what I did and I did it anyway."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future decisions about her independence (choosing a distant job, moving out, a partner), he will likely raise practical-sounding objections that mask reluctance to let her go."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Edilson turns anxiety into methodical, almost forensic risk-mapping — timing routes to the minute under varied conditions rather than acting on vague worry.",
+              "explanation": "Instead of a general warning, he produced precise comparative data (7 vs 9 minutes, day vs night, Thursday traffic) from three separate reconnaissance trips. This is a distinct capability — converting fear into structured, actionable analysis — not just a value of caring.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L23-25",
+                  "quote": "Seven minutes from the terminal exit to the gate if you go by the avenue. Nine if you go by the back where the shops are"
+                },
+                {
+                  "exp": 5,
+                  "line": "L21",
+                  "quote": "Then I did it again on a Thursday because Thursday the traffic is different"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, when facing an uncertain or risky decision, he will instinctively gather granular first-hand data before deciding, rather than relying on secondhand reports."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "Edilson protects his daughter's physical safety even when it costs him sleep, money, or her mild resistance.",
+              "explanation": "He gave up a rest day to walk her commute three separate times at different hours to time exact risks, then enforced a two-minute-longer route over an unlit wall stretch despite her pushback. This is a costly, repeated choice, not a stated value.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L21-22",
+                  "quote": "Then I did it again on a Thursday because Thursday the traffic is different. Then I did it a third time at night"
+                },
+                {
+                  "exp": 5,
+                  "line": "L26",
+                  "quote": "take the two minutes, I'll give you the two minutes, take them from me"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In health/wellness decisions, he will sacrifice his own rest or comfort before accepting any avoidable risk to a family member.",
+              "exp": 5
+            },
+            {
+              "category": "core_values",
+              "headline": "He keeps building his daughter's financial safety net even after she explicitly rejects the occasion it was meant for.",
+              "explanation": "She turned down the fifteen-years party as 'tacky,' yet he did not stop or redirect the envelope savings, and even prioritized it over his own nutrition during a tight month. The choice to keep funding an unnamed future need over his own wellbeing shows what he actually protects.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L48",
+                  "quote": "I've been putting into it since she was about eleven, and I didn't stop when she said no, I just — I kept putting"
+                },
+                {
+                  "exp": 5,
+                  "line": "L52",
+                  "quote": "I should have opened that envelope and I ate badly instead for three weeks"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In financial planning conversations, he will underreport his own needs while insisting a fund earmarked for his daughter stays untouched.",
+              "exp": 5
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Edilson says he wants his daughter to go far, but when a concrete opportunity to leave arrives, he finds reasons to keep her close.",
+              "explanation": "He publicly frames leaving as the goal ('I want her to go far... I want her in Campinas'), yet when the subsidized exchange program appeared, he generated multiple objections and she dropped it and never raised it again. The gap between his stated aspiration and his in-the-moment resistance is worth him examining, especially since he names it himself as something he 'did anyway.'",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L31",
+                  "quote": "I want her in Campinas, I want her doing something with computers where she sits in air conditioning and nobody spits at her"
+                },
+                {
+                  "exp": 5,
+                  "line": "L33-38",
+                  "quote": "I found reasons. I found a lot of reasons... And I know exactly what I did and I did it anyway."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future decisions about her independence (choosing a distant job, moving out, a partner), he will likely raise practical-sounding objections that mask reluctance to let her go.",
+              "exp": 5
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Edilson believes he must personally verify and control risk before he can trust a situation, rather than trusting his daughter's judgment or the system around her.",
+              "reason": "restated",
+              "note": "This is just a redescription of the route-walking behavior already fully covered by the core_values survivor; no separate belief is established beyond the act itself."
+            },
+            {
+              "headline": "He believes acknowledging his own exhaustion or hardship would be ungrateful given his brother's early death, so he suppresses it with gratitude language.",
+              "reason": "unfalsifiable",
+              "note": "Single anecdote of a stock response ('praise God') to being told he looks tired; no second instance, and the causal claim about his brother's death driving suppression can't be checked against anything he'd observe."
+            },
+            {
+              "headline": "Edilson turns anxiety into methodical, almost forensic risk-mapping — timing routes to the minute under varied conditions rather than acting on vague worry.",
+              "reason": "restated",
+              "note": "Same single episode as the core_values survivor, relabeled as a 'genius' rather than a value; no second domain or instance shown, so it's not established as a transferable capability distinct from this one act of parental protectiveness."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "Edilson protects his daughter's physical safety even when it costs him sleep, money, or her mild resistance.",
+            "explanation": "He gave up a rest day to walk her commute three separate times at different hours to time exact risks, then enforced a two-minute-longer route over an unlit wall stretch despite her pushback. This is a costly, repeated choice, not a stated value.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L21-22",
+                "quote": "Then I did it again on a Thursday because Thursday the traffic is different. Then I did it a third time at night"
+              },
+              {
+                "exp": 5,
+                "line": "L26",
+                "quote": "take the two minutes, I'll give you the two minutes, take them from me"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In health/wellness decisions, he will sacrifice his own rest or comfort before accepting any avoidable risk to a family member.",
+            "exp": 5
+          },
+          {
+            "category": "core_values",
+            "headline": "He keeps building his daughter's financial safety net even after she explicitly rejects the occasion it was meant for.",
+            "explanation": "She turned down the fifteen-years party as 'tacky,' yet he did not stop or redirect the envelope savings, and even prioritized it over his own nutrition during a tight month. The choice to keep funding an unnamed future need over his own wellbeing shows what he actually protects.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L48",
+                "quote": "I've been putting into it since she was about eleven, and I didn't stop when she said no, I just — I kept putting"
+              },
+              {
+                "exp": 5,
+                "line": "L52",
+                "quote": "I should have opened that envelope and I ate badly instead for three weeks"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In financial planning conversations, he will underreport his own needs while insisting a fund earmarked for his daughter stays untouched.",
+            "exp": 5
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Edilson says he wants his daughter to go far, but when a concrete opportunity to leave arrives, he finds reasons to keep her close.",
+            "explanation": "He publicly frames leaving as the goal ('I want her to go far... I want her in Campinas'), yet when the subsidized exchange program appeared, he generated multiple objections and she dropped it and never raised it again. The gap between his stated aspiration and his in-the-moment resistance is worth him examining, especially since he names it himself as something he 'did anyway.'",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L31",
+                "quote": "I want her in Campinas, I want her doing something with computers where she sits in air conditioning and nobody spits at her"
+              },
+              {
+                "exp": 5,
+                "line": "L33-38",
+                "quote": "I found reasons. I found a lot of reasons... And I know exactly what I did and I did it anyway."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In future decisions about her independence (choosing a distant job, moving out, a partner), he will likely raise practical-sounding objections that mask reluctance to let her go.",
+            "exp": 5
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "patterns_to_explore",
+          "headline": "Edilson marks every major loss or trauma with a permanent rerouting of his physical path, and never names the rerouting as grief.",
+          "explanation": "After his brother's death he stopped walking through the square where Wellington was stabbed, reframing it as errand-efficiency (E1: 'you resolve everything in one trip, you understand?'). After Simone left he stopped using the faster terminal because it's where he put her on the bus, reframing it as a pastel preference (E2: 'the Guarapiranga side has better connections for me... So I go the other way'). The same substitution — logistics language standing in for an unspoken wound — appears at two separate decades and two separate losses, suggesting a durable habit of converting grief into geography rather than a one-off coping moment.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I don't go through that little square."
+            },
+            {
+              "exp": 2,
+              "quote": "I don't use Terminal Capelinha... So I go the other way. It's twenty-five minutes more. Doesn't bother me."
+            }
+          ],
+          "confidence": "high",
+          "kind": "recurrence",
+          "would_predict": "If asked directly about a place tied to a painful memory, he will describe the avoidance in practical terms (traffic, convenience, a better food stall) before, if ever, naming what actually happened there."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "Edilson believes that being visibly needy invites disaster, so he performs self-sufficiency even while quietly under strain.",
+          "explanation": "He tells his supervisor 'no, no, everything's resolved' minutes after being held up at knifepoint (E4: L45), gives his pastor the same line every time he's asked if he needs anything (E3: L40-42, 'Everything's resolved. Praise God' — a phrase his own daughter now mocks), and closes his account of exhaustion, grief, and financial strain in E5 with the identical formula ('I say no, no, everything's resolved, praise God... And it is. I mean it is.'). The phrase recurs verbatim across three separate decades and contexts as an automatic reflex, not a considered response, even when the surrounding facts (shaking hands, skipped meals, a decade of loss) say otherwise.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I never asked him for anything. Not once."
+            },
+            {
+              "exp": 4,
+              "quote": "I said no, no, everything's resolved, I'm on at four-fifty."
+            },
+            {
+              "exp": 5,
+              "quote": "people say, Edilson, you're wrecked, you're exhausted, and I say no, no, everything's resolved, praise God."
+            }
+          ],
+          "confidence": "high",
+          "kind": "unnamed_constant",
+          "would_predict": "In a health or mental-health check-in, he will minimize symptoms verbally even while describing behaviors (skipped meals, sitting on shaking hands, four hours of sleep) that show real depletion — the words and the body will disagree."
+        },
+        {
+          "category": "core_values",
+          "headline": "Edilson repeatedly redirects scarce money toward someone else's unspoken need rather than his own visible one, and hides the redirection.",
+          "explanation": "He secretly funded Simone for eighteen months by letting the sofa be repossessed and letting his family believe he'd sold it (E2: 'the answer was there wasn't any money'), gave his entire paycheck to a stroke victim's family and ate cream crackers while telling his six-year-old he'd already eaten (E3: 'I put in all of it. All of it... I told Bete I'd eaten at the garage'), and kept adding to Bete's envelope through a tight month rather than opening it, eating badly instead (E5: 'I should have opened that envelope and I ate badly instead for three weeks'). Three different decades, three different beneficiaries, one consistent move: his own hunger or comfort is the variable he cuts first, and he conceals the sacrifice from the person it would most implicate him to reveal it to.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "there wasn't any money, the answer was I stopped paying the installments on the sofa"
+            },
+            {
+              "exp": 3,
+              "quote": "I put in all of it. All of it. It was a Wednesday and I got paid on the Tuesday"
+            },
+            {
+              "exp": 5,
+              "quote": "I should have opened that envelope and I ate badly instead for three weeks. Which is stupid. Which I know is stupid."
+            }
+          ],
+          "confidence": "high",
+          "kind": "recurrence",
+          "would_predict": "In a budgeting conversation, he will underreport his own basic expenses (food, rest, medical) before he underreports money set aside for someone else's future."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Edilson positions himself as the calm buffer between danger and the most vulnerable person present, across a robbery and his daughter's commute — but has never let anyone do that for him.",
+          "explanation": "On the bus he engineered the standoff so 'if this goes bad it has to go bad at the front. Not back there' specifically because three passengers were elderly (E4). With his daughter, he walked her commute three times at different hours to route her away from an eighty-meter unlit wall (E5: 'the avenue has a wall on one side for about eighty meters... So I told her, go the long way'). In both cases he absorbs the risk calculation alone and tells almost no one afterward — he never told Bete about the robbery (E4: 'I never told Bete. She was ten.') and did the commute-timing without her knowledge (E5: 'she still doesn't know this'). Worth exploring whether he can receive this kind of protective attention from anyone, or only give it.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "if this goes bad it has to go bad at the front. Not back there."
+            },
+            {
+              "exp": 5,
+              "quote": "on my rest day I did the route. I did it as her."
+            }
+          ],
+          "confidence": "medium",
+          "kind": "recurrence",
+          "would_predict": "When Edilson himself is in danger, sick, or overwhelmed, he will not tell the people closest to him until well after the fact, if at all, and will resist others taking on risk-calculation on his behalf."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Edilson states an aspiration for people he loves to move toward freedom or independence, then quietly acts to keep them close, without acknowledging the contradiction as it happens.",
+          "explanation": "He says he wants Bete to go far — 'I want her in Campinas... nobody spits at her' (E5) — but when a real, funded chance to leave appeared he 'found a lot of reasons' and she never raised it again, which he flags himself ('I know exactly what I did and I did it anyway'). A structurally similar move appears earlier: at seventeen he obsessively recalculated the ambulance route that could have saved Wellington ('I knew every route... what was I going to do with it, run?' E1) even though he had no way to act on it — in both cases his planning/control impulse activates hardest exactly where the outcome (someone leaving, someone dying) is the one he cannot actually prevent or wants and doesn't want at once. Worth checking whether his protectiveness quietly overrides his stated wish for autonomy in the people he loves.",
+          "evidence": [
+            {
+              "exp": 5,
+              "quote": "I found reasons. I found a lot of reasons... And I know exactly what I did and I did it anyway."
+            },
+            {
+              "exp": 1,
+              "quote": "I knew all of that at seventeen and I didn't have a car, I didn't even have a bicycle, what was I going to do with it, run?"
+            }
+          ],
+          "confidence": "medium",
+          "kind": "contradiction",
+          "would_predict": "When Bete announces a move away for university or work, he will voice support publicly but privately raise a series of practical-sounding concerns (money, safety, timing) that function to delay or complicate the departure."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Edilson's core skill is staying functionally present and task-capable inside acute danger or grief, and other people specifically recruit him for this rather than him volunteering it.",
+          "explanation": "Brother Bené didn't ask about Simone, he just showed up at 4am and put coffee in front of him (E3: 'He never once asked me about Simone... He'd just say, Edilson, sit there, and put a coffee in front of me'); his supervisor, after the knife incident, physically marked the moment with a hand on his neck and an order to rest, which Edilson refused (E4: 'take tomorrow... no, no, everything's resolved'). In both cases someone else identifies that he is in crisis and intervenes on his behalf — he does not ask for help himself, but he is legible enough in his competence-under-strain that others feel compelled to step in.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "he says, come, there's coffee at the church, the prayer group, come"
+            },
+            {
+              "exp": 4,
+              "quote": "he put his hand on the back of my neck, and he said, you can take tomorrow."
+            },
+            {
+              "exp": 4,
+              "quote": "I said no, no, everything's resolved, I'm on at four-fifty."
+            }
+          ],
+          "confidence": "medium",
+          "kind": "recurrence",
+          "would_predict": "In future crises, colleagues or family will proactively offer him relief (time off, help, checking in) before he asks — and he will decline or downplay it in the moment, then likely accept a smaller, disguised version of it later (as with going to church at all)."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "Edilson believes a concrete, completable task is what stands between him and collapse, and reaches for one at the exact moment feeling becomes unbearable.",
+          "explanation": "Frozen in the kitchen after Simone's note, his mind fixed on buying a fluorescent tube, and he later names the mechanism directly: 'When there's a task you can do you do it and then you're not standing in a kitchen looking at a light' (E2). The same mechanism shows up procedurally rather than verbally in E4: immediately after being robbed at knifepoint, rather than processing the event he 'finished the whole line... Filled the paper,' completing his full shift and paperwork before his hands even began shaking on the ride home. The task-completion isn't just about caring for others (as in the core_values entries) — it is specifically his mechanism for regulating his own state.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "When there's a task you can do you do it and then you're not standing in a kitchen looking at a light."
+            },
+            {
+              "exp": 4,
+              "quote": "I finished the whole line. I dropped the eleven people at the end and did the return and put the bus in the garage at ten to one. Filled the paper."
+            }
+          ],
+          "confidence": "high",
+          "kind": "unnamed_constant",
+          "would_predict": "After any future acute stressor, he will complete an unrelated procedural obligation (paperwork, chores, a checklist) before allowing himself any emotional reaction, and the reaction will surface later, physically, once the task is done."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "patterns_to_explore",
+          "headline": "You mark every major loss with a permanent rerouting of your physical path, and never call it grief.",
+          "explanation": "After your brother's death you stopped walking through the square where he was stabbed, and you frame it as errand-efficiency — you resolve everything in one trip. After Simone left you stopped using the faster terminal because it's where you put her on the bus, and you frame that one as a pastel preference. Same substitution, two decades apart, two different losses: logistics language standing in for something you don't name.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I don't go through that little square."
+            },
+            {
+              "exp": 2,
+              "quote": "I don't use Terminal Capelinha... So I go the other way. It's twenty-five minutes more. Doesn't bother me."
+            }
+          ],
+          "confidence": "high",
+          "confidence_note": "Would strengthen if a third avoided location surfaced with the same practical cover story; would weaken if you ever named the avoidance as emotional rather than logistical.",
+          "would_predict": "If asked directly about a place tied to a painful memory, you'll describe the avoidance in practical terms — traffic, convenience, a better food stall — before, if ever, naming what actually happened there."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe being visibly needy invites disaster, so you perform self-sufficiency even while under real strain.",
+          "explanation": "You told your supervisor 'everything's resolved' minutes after being held up at knifepoint, you give your pastor the same line whenever he asks if you need anything, and you close your account of exhaustion, grief, and financial strain with the identical phrase — even Bete mocks it now. The phrase repeats verbatim across three decades as a reflex, not a considered answer, while the surrounding facts (shaking hands, skipped meals, a decade of loss) say something else.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I never asked him for anything. Not once."
+            },
+            {
+              "exp": 4,
+              "quote": "I said no, no, everything's resolved, I'm on at four-fifty."
+            },
+            {
+              "exp": 5,
+              "quote": "people say, Edilson, you're wrecked, you're exhausted, and I say no, no, everything's resolved, praise God."
+            }
+          ],
+          "confidence": "high",
+          "confidence_note": "Would strengthen with a fourth instance in a different relationship; would weaken if you ever accepted help in the moment rather than after the fact.",
+          "would_predict": "In a health or mental-health check-in, you'll minimize symptoms verbally even while describing behaviors that show real depletion — the words and the body will disagree."
+        },
+        {
+          "category": "core_values",
+          "headline": "You repeatedly cut your own money and food to cover someone else's unspoken need, and hide that you did it.",
+          "explanation": "You funded Simone secretly for eighteen months by letting the sofa be repossessed and letting your family think you sold it. You gave your whole paycheck to a stroke victim's family and ate cream crackers while telling Bete you'd already eaten. You kept adding to Bete's envelope through a tight month rather than opening it, and ate badly for three weeks instead. Three decades, three beneficiaries, one move: your own hunger is the first thing you cut, and you conceal it from the person it would most implicate you to tell.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "there wasn't any money, the answer was I stopped paying the installments on the sofa"
+            },
+            {
+              "exp": 3,
+              "quote": "I put in all of it. All of it. It was a Wednesday and I got paid on the Tuesday"
+            },
+            {
+              "exp": 5,
+              "quote": "I should have opened that envelope and I ate badly instead for three weeks. Which is stupid. Which I know is stupid."
+            }
+          ],
+          "confidence": "high",
+          "confidence_note": "Would strengthen with a fourth example toward a different beneficiary; would weaken if you ever told the beneficiary directly what it cost you.",
+          "would_predict": "In a budgeting conversation, you'll underreport your own basic expenses before you underreport money set aside for someone else's future."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You put yourself between danger and the most vulnerable person present, but you've never let anyone do that for you.",
+          "explanation": "On the bus you engineered the standoff so that if it went bad, it went bad at the front, specifically because three passengers were elderly. With Bete you walked her commute three times at different hours to route her around an eighty-meter unlit wall. In both cases you absorbed the risk calculation alone and told almost no one — you never told Bete about the robbery, and she still doesn't know about the commute-timing. Worth exploring whether you can receive this kind of protection from anyone, or only give it.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "if this goes bad it has to go bad at the front. Not back there."
+            },
+            {
+              "exp": 5,
+              "quote": "on my rest day I did the route. I did it as her."
+            }
+          ],
+          "confidence": "medium",
+          "confidence_note": "Would strengthen with a clear case of you refusing offered protection; would weaken if you described ever letting someone take on risk-calculation for you.",
+          "would_predict": "When you're in danger, sick, or overwhelmed yourself, you won't tell the people closest to you until well after the fact, if at all."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You say you want the people you love to move toward freedom, then quietly act to keep them close, without naming the contradiction as it happens.",
+          "explanation": "You say you want Bete in Campinas where nobody spits at her, but when a funded exchange program appeared, you found a lot of reasons, and she never raised it again — you flag this yourself: 'I know exactly what I did and I did it anyway.' A similar shape appears earlier: at seventeen you obsessively recalculated the ambulance route that could have saved Wellington even though you had no way to act on it. In both cases your planning impulse activates hardest exactly where the outcome is one you cannot control and may want and not want at once.",
+          "evidence": [
+            {
+              "exp": 5,
+              "quote": "I found reasons. I found a lot of reasons... And I know exactly what I did and I did it anyway."
+            },
+            {
+              "exp": 1,
+              "quote": "I knew all of that at seventeen and I didn't have a car, I didn't even have a bicycle, what was I going to do with it, run?"
+            }
+          ],
+          "confidence": "medium",
+          "confidence_note": "Would strengthen if you did this again with a second real departure opportunity; would weaken if you actively supported Bete leaving next time without objection.",
+          "would_predict": "When Bete announces a move away for university or work, you'll voice support publicly but privately raise practical-sounding concerns that function to delay or complicate the departure."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Your core skill is staying functionally present inside acute danger or grief, and people specifically recruit you for this rather than you offering it.",
+          "explanation": "Brother Bené didn't ask about Simone — he showed up at 4am and put coffee in front of you. Your supervisor, after the knife incident, physically marked the moment with a hand on your neck and an order to rest, which you refused. In both cases someone else recognized you were in crisis and intervened on your behalf; you didn't ask for help yourself, but you're legible enough in your competence-under-strain that others feel compelled to step in.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "he says, come, there's coffee at the church, the prayer group, come"
+            },
+            {
+              "exp": 4,
+              "quote": "he put his hand on the back of my neck, and he said, you can take tomorrow."
+            },
+            {
+              "exp": 4,
+              "quote": "I said no, no, everything's resolved, I'm on at four-fifty."
+            }
+          ],
+          "confidence": "medium",
+          "confidence_note": "Would strengthen with a third unprompted intervention from a different person; would weaken if a future crisis passed with no one noticing or stepping in.",
+          "would_predict": "In future crises, people close to you will proactively offer relief before you ask, and you'll decline or downplay it in the moment, then accept a smaller, disguised version later."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe a concrete, completable task is what stands between you and collapse, and you reach for one the moment feeling becomes unbearable.",
+          "explanation": "Frozen in the kitchen after Simone's note, your mind fixed on buying a fluorescent tube, and you name the mechanism directly: when there's a task you can do, you do it, and then you're not standing in a kitchen looking at a light. The same mechanism shows up without being named after the robbery — you finished the whole line, dropped the eleven people, filled the paper, and only let your hands shake once you were a passenger on someone else's bus.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "When there's a task you can do you do it and then you're not standing in a kitchen looking at a light."
+            },
+            {
+              "exp": 4,
+              "quote": "I finished the whole line. I dropped the eleven people at the end and did the return and put the bus in the garage at ten to one. Filled the paper."
+            }
+          ],
+          "confidence": "high",
+          "confidence_note": "Would strengthen with a third instance of task-completion preceding emotional release; would weaken if a future acute stressor produced immediate visible reaction instead.",
+          "would_predict": "After any future acute stressor, you'll complete an unrelated procedural obligation before allowing yourself any emotional reaction, and the reaction will surface later, physically, once the task is done."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 2.4796,
+  "latency_ms": 179242,
+  "persona": "p07_saopaulo",
+  "n_experiences": 5,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T16:03:29.795578+00:00"
+}

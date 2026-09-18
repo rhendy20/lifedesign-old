@@ -25,7 +25,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "prototype"))
 from engine.corpus import load_corpus  # noqa: E402
-from engine.llm import LLM  # noqa: E402
+from engine.llm import LLM, extract_json  # noqa: E402
 
 PERSONAS = ROOT / "eval/personas"
 OUT = ROOT / "eval/results/outputs"
@@ -78,14 +78,15 @@ def judge_persona(llm, judge_model, pid, conditions, seed=7):
         key[oid] = {"condition": cond, "insight_id": ins["id"]}
         anon.append({"id": oid, "category": ins["category"], "headline": ins["headline"],
                      "explanation": ins["explanation"], "confidence": ins.get("confidence", ""),
+                     "would_predict": ins.get("would_predict", ""),
                      "evidence": [{"exp": e.get("exp"), "quote": e["quote"]} for e in ins.get("evidence", [])]})
     corpus = load_corpus(PERSONAS / pid / "experiences")
     transcripts = "\n\n".join(f"[E{e.index}] \"{e.title}\"\n{e.text}" for e in corpus)
     gt = json.loads((PERSONAS / pid / "ground_truth.json").read_text())
     user = (f"TRANSCRIPTS:\n{transcripts}\n\nGROUND TRUTH (hidden from the systems):\n{json.dumps(gt, indent=1, ensure_ascii=False)}\n\n"
             f"INSIGHTS TO SCORE ({len(anon)}):\n{json.dumps(anon, indent=1, ensure_ascii=False)}\n\nScore every id. Return JSON only.")
-    res = llm.complete(judge_model, JUDGE_SYSTEM, user, max_tokens=16000, tag=f"judge:{pid}")
-    scores = res.json()["scores"]
+    res = llm.complete(judge_model, JUDGE_SYSTEM, user, max_tokens=16000, tag=f"judge:{pid}", thinking=6000)
+    scores = extract_json(res.text)["scores"]
     for s in scores:
         s.update(key.get(s["id"], {}))
     return {"persona": pid, "conditions": conditions, "judge": res.model, "judge_cost_usd": res.cost_usd,

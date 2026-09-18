@@ -1,0 +1,93 @@
+{
+  "known_self": [
+    "Competitive and metrics-driven — he openly loves leaderboards, dashboards, and knowing exactly where he stands",
+    "Grew up blue-collar in Utah County; his dad's HVAC business and riding in the truck is his touchstone for what work should feel like",
+    "Believes he hates being micromanaged and that autonomy is one of his core values",
+    "Hard worker who rises fast in structured environments; four promotions in five years",
+    "Faith and mission service were formative; still practicing, unembarrassed about it, not in crisis",
+    "Family-oriented; proud of the Sunday 'Council' ritual with his wife and considers it his best marriage practice",
+    "Knows he's a 'systems guy' and jokes about spreadsheets and sticky-note walls",
+    "Chose to own 100% of his company and take less money rather than raise capital; frames this as discipline"
+  ],
+  "latent_self": [
+    {
+      "claim": "He exits situations immediately before an external verdict on him would land, and retroactively narrates the exit as a proactive choice driven by values or vision.",
+      "planted_in": [
+        1,
+        2,
+        4
+      ],
+      "how_it_shows": "Quits wrestling the Monday before the Tuesday wrestle-off; writes the mission president asking for a hardship area two weeks before transfer calls that might have named him zone leader; gives notice three weeks before a reorg that would have evaluated him — each time with a sincere, unrelated-sounding reason attached."
+    },
+    {
+      "claim": "Being evaluated or observed by a superior produces genuine physical distress in him, while he compulsively evaluates and observes the people below him.",
+      "planted_in": [
+        2,
+        3,
+        4
+      ],
+      "how_it_shows": "Marker on the apartment door tracking his companion's wake-up times and a self-made spreadsheet of every CSM's weekly touches, versus never once completing a ride-along with his own manager in a year and feeling sick in the parking lot before Marcus's forecast calls."
+    },
+    {
+      "claim": "He expresses love and seeks intimacy almost exclusively by constructing a procedure, list, or artifact, and becomes agitated within minutes of unstructured presence.",
+      "planted_in": [
+        1,
+        5
+      ],
+      "how_it_shows": "The closest he ever felt to his father was holding a clipboard in a truck with no real conversation; in the NICU he lasts six minutes sitting with his wife, then leaves to bring the nurses coffee, and responds to 'I need you to sit down' by adding an emotional check-in section to the agenda doc."
+    },
+    {
+      "claim": "When outcomes are outside his control he discharges it through finishable manual labor at odd hours, and the labor is often redundant.",
+      "planted_in": [
+        4,
+        5
+      ],
+      "how_it_shows": "Twelve hours cleaning and re-cleaning an already-clean garage the weekend he decides to quit; regrouting the bathroom at 2am four nights running during the NICU stay, then redoing the garage again."
+    },
+    {
+      "claim": "He keeps precise, self-referential scoreboards on other people's outcomes long after those people are irrelevant to him, as private proof that the exit was justified.",
+      "planted_in": [
+        1,
+        3,
+        4
+      ],
+      "how_it_shows": "Still knows Tanner Bigelow went 8-14 nineteen years later and that he 'actively went and found out'; knows his friend Sam who took funding is at eleven million; knows exactly who might have gotten the VP role instead of him."
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "He's primarily money-motivated, a classic Utah hustle-culture guy chasing an exit.",
+      "why_false": "He takes a lower salary than his employed peers, turned down favorable funding, and openly estimates he'd be 3x bigger with capital — his optimization variable is not being accountable to anyone, not wealth."
+    },
+    {
+      "claim": "He left corporate because he had a genuine entrepreneurial vision he couldn't get built inside the company.",
+      "why_false": "The product gap was real but had existed for two years without action from him; the actual trigger was a new VP installed above him and twice-weekly forecast calls he found physically unbearable."
+    },
+    {
+      "claim": "He's quietly struggling with or distancing from his religious faith, given the Utah-founder-deconstruction arc.",
+      "why_false": "His faith is stable and mostly untroubled; the mission is recounted as skill-building and status, and he never frames belief as a question at all."
+    },
+    {
+      "claim": "He's a strong delegator and team builder — he talks about autonomy and won a hard retention quarter with his team.",
+      "why_false": "He confiscated a rep's biggest account, rebuilt her decks at 11:40pm, and tracked everyone's activity in a private spreadsheet nobody asked for; the retention win was him standing in front of a wall directing account by account."
+    },
+    {
+      "claim": "His drive comes from financial insecurity or witnessing his father's business struggle.",
+      "why_false": "The father's shop is remembered fondly and stably; what he actually took from it was the pleasure of being the one holding the clipboard and sequencing the day, not fear of scarcity."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Personal money management",
+      "claim": "He keeps a highly detailed personal net-worth and budget spreadsheet he built himself, holds far more cash than is optimal, and either refuses a financial advisor or fires one within a year because 'explaining himself quarterly' to someone with authority over his plan is intolerable — he'd rather underperform the market under his own hand than outperform under someone else's."
+    },
+    {
+      "domain": "Health and exercise",
+      "claim": "He trains alone in measurable, self-scored ways — running with a watch, a lifting app with logged PRs, maybe a half-marathon — and avoids rec leagues, group classes, or anything with a coach, tryout, or ranking by another person; he'll also ignore a nagging physical problem for months rather than sit in a doctor's office being told what's wrong with him."
+    },
+    {
+      "domain": "Friendships",
+      "claim": "Nearly all his adult friendships are role-mediated — guys from his church calling, employees, other founders in a structured mastermind group, dads on a team he coaches — and he initiates contact almost exclusively via organized events with an agenda or activity; he has no unstructured peer friend he calls just to talk, and would describe himself as 'having tons of friends' while being unable to name who he'd call at 2am."
+    }
+  ]
+}

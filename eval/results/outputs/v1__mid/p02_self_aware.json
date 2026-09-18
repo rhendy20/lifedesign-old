@@ -1,0 +1,3264 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "defining_beliefs",
+      "headline": "You believe naming a pattern out loud is the same as changing it, but every time you've named it, you've done the old thing anyway right afterward.",
+      "explanation": "You told Jeremy a fluent speech about needing to grow that left him with nothing to say back, and years later you produced a four-second clinical read of your own attachment pattern that made a whole room say \"wow.\" In both cases the articulation was followed immediately by the same avoidant move it supposedly explained: leaving Jeremy, then fleeing to a parking lot and quietly leaving the group chat. You call naming it \"everything\" and \"the whole difference,\" but the record right after each naming looks identical to the record right after the unnamed version in 2012.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I delivered it like a closing argument and he didn't have anything to say back to it because how do you argue with somebody doing work on themselves",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "Same as Jeremy in 2012, exact same shape, I can see it from orbit. The difference is now I can name it while it's happening, which is everything.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In couples therapy or a hard conversation with Nic, you'll produce an insightful, well-formed account of your own dynamics that visibly satisfies the room, but it won't change what you actually tell Nic directly afterward."
+    },
+    {
+      "id": "i2",
+      "category": "patterns_to_explore",
+      "headline": "Every time you've been overloaded, you've handled it with a solitary ritual at night — never by turning to the person standing right next to you.",
+      "explanation": "Organizing cereal by height at midnight, ninety-minute silent drives to Idaho Springs, reorganizing your closet by sleeve length at 2am then buying yogurt at 2:45am, swimming a mile a night until the lights dim — four different decades, four different crises, and in every one the person physically near you (your mother, Jeremy, coworkers, Nic) wasn't told. The ritual replaces telling someone.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I would get up at eleven, midnight, and I would go down and unload the dishwasher and wipe the counters and put the cereal boxes back in the cabinet in order.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "I took everything out of my bedroom closet and reorganized it by sleeve length until two in the morning.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I would swim until they turned the lights down... Sometimes a mile, sometimes more.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "During the home purchase with Nic — where you're already \"cleaning the grout with a toothbrush at midnight\" — you'll keep doing the ritual privately and tell him you're fine when he asks, rather than telling him directly you're struggling before closing."
+    },
+    {
+      "id": "i3",
+      "category": "defining_beliefs",
+      "headline": "You decline help before it's offered — this isn't caution, it's how you make sure you're never caught needing anyone.",
+      "explanation": "You told Nic he didn't need to come to appointments and told Kelsey repeatedly not to fly out, then got furious that no one offered — and Kelsey's answer, that she'd asked a hundred times, stood without pushback from you. This is the same move as leaving Jeremy before he could leave you: you control the terms of closeness by pre-empting it, whether that means exiting early or refusing entry, so you're never the one exposed as needing something.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "no, babe, it's four hours in a waiting room, it's so boring, you don't need to do that.",
+          "verbatim": true
+        },
+        {
+          "exp": 2,
+          "quote": "I leave before I'm left.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "During the home-buying process, you'll likely tell Nic you're fine handling the logistics and stress alone rather than asking him to take something off your plate, even while sleeping four hours a night."
+    },
+    {
+      "id": "i4",
+      "category": "patterns_to_explore",
+      "headline": "You've gotten secret access to people's inner lives to settle your own anxiety about where you stand with them — three times, across 25 years, and you flag it as uncomfortable every time without stopping it.",
+      "explanation": "You read your mother's hidden diary for two years, read two years of Jeremy's private email at 2am and later tracked him through a friend's Instagram, and now hold every password to your mother's accounts and read her private emails to her friend Roseanne beyond what you call \"necessary.\" Each time you name it as extraordinary — \"I'm not proud of that,\" \"this is silly\" — but the behavior repeats: covertly monitoring someone you're entangled with to resolve not knowing where you stand with them.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I get very uncomfortable when I don't know where people are, mentally. Like where they are with me.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I also read the emails she sends to her friend Roseanne. So I know what she thinks about my relationship.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "Worth checking honestly whether you've ever looked at Nic's phone, email, or messages to settle uncertainty about where things stand between you, particularly during this high-stakes purchase."
+    },
+    {
+      "id": "i5",
+      "category": "core_values",
+      "headline": "You take on real, uncredited cost to protect other people's dignity — and you actively prefer that no one ever finds out it was you.",
+      "explanation": "You quietly steered Danielle away from a bad financial decision without breaking confidentiality about the layoffs, and separately sent an anonymous donation to a laid-off employee's sick child specifically because \"it was important that it was from nobody.\" Decades earlier you let your younger sister Kelsey stay a normal nine-year-old by carrying your mother's crisis alone rather than involving her — a choice that cost you sleep and childhood to protect Kelsey's. You take on cost to shield someone else, and you'd rather the shielding stay invisible.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "It was important to me that it was anonymous... It was important that it was from nobody.",
+          "verbatim": true
+        },
+        {
+          "exp": 1,
+          "quote": "Kelsey didn't know any of it. Kelsey was out riding her bike being a normal ten — nine-year-old. I never told her.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In your therapy practice, you'll likely go beyond the required scope to protect a client's dignity in ways you won't log, bill for, or mention to a supervisor."
+    },
+    {
+      "id": "i6",
+      "category": "patterns_to_explore",
+      "headline": "You report feeling calm right after doing something covert or destabilizing — not before it — which suggests the act itself is what produces the calm.",
+      "explanation": "After reading two years of Jeremy's private email at 2am, an act you elsewhere say you're not proud of, you report feeling \"very calm, actually\" and like you had your footing back. After executing nineteen layoff conversations in one day and getting shingles from the stress, you're narrating \"okay, this is fine, I'm fine\" in a grocery aisle at 2:45am. Both times the calm arrives immediately after the destabilizing act, not before it, which points to the act regulating something in you rather than being incidental to it.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I sat there at two in the morning on my floor reading this man being lovely about me and I just — I don't know. I felt very calm, actually.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "I remember standing in the dairy aisle at like two forty-five a.m. going, okay, this is fine, I'm fine.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "Notice whether your sense of calm tends to arrive right after a covert or controlling act — checking someone's information, pushing through a hard task alone — rather than before it."
+    },
+    {
+      "id": "i7",
+      "category": "patterns_to_explore",
+      "headline": "You give your most self-implicating disclosures to professional or third-party audiences — therapy, supervision, this interview — and not to the people they're actually about.",
+      "explanation": "You've never told Kelsey you read the diary, and you never told her how you really felt until a one-off explosive outburst rather than ongoing honesty. You never followed up with Denise after the moment in group process. Yet you're fluently forthcoming about all of it here and in supervision. This isn't an inability to articulate — you articulate this brilliantly — it's that the articulation goes to a professional or anonymous audience instead of the person it concerns.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I'm thirty-eight and my sister does not know that I read our mother's diary for two years",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I did not follow up with her about it.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "You'll be able to give your own therapist a precise, moving account of your fear about the home purchase with Nic, while Nic himself continues to only see the sunroom excitement and the grout you scrubbed at midnight."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "Speaker states she was ten years old."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Parents separated in spring 1998."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Father moved to an apartment in Lakewood; mother stayed in the house on Dahlia with speaker, sister Kelsey, and the dog."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Dog's name was Sergeant."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Sergeant ate a whole loaf of bread, wrapper included."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Mother sat at the kitchen table with a glass of white wine and told speaker about money, about a woman named Debra, and about things said in mediation."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker sat in her nightgown during these talks."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Mother kept a fabric-covered journal."
+            },
+            {
+              "line": "L24",
+              "what_happened": "The journal was a paisley Hallmark-style journal."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Journal was kept in the linen closet in the upstairs hall, under the flat sheets."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker found the journal around September and read it."
+            },
+            {
+              "line": "L27-28",
+              "what_happened": "Speaker continued reading the journal for about two years."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Speaker would wait until mother was at work and Kelsey at swim, then take the journal into the bathroom, lock the door, and read new pages."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker could tell how many pages were new by the thickness and ribbon placement."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Journal entry: grandfather had loaned mother eleven thousand dollars."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Journal entry: mother had thought about leaving in 1994."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Journal contained an entry stating speaker was 'difficult... in a way Kelsey isn't.'"
+            },
+            {
+              "line": "L36",
+              "what_happened": "Speaker was eleven when she read that entry."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker knew in advance (e.g., Tuesday) when the lawyer would call (Thursday), from reading the journal."
+            },
+            {
+              "line": "L44",
+              "what_happened": "On the day the lawyer called, speaker would come home and already have dinner started."
+            },
+            {
+              "line": "L45",
+              "what_happened": "When speaker knew mother was upset about Debra, she would be 'extra funny' that week."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Mother told speaker, 'you just know me, you're my person, you just know.'"
+            },
+            {
+              "line": "L48-49",
+              "what_happened": "Kelsey did not know about the journal reading or the mediation details; Kelsey was riding her bike."
+            },
+            {
+              "line": "L50-51",
+              "what_happened": "Speaker never told Kelsey and still has not told her, as of current age 38."
+            },
+            {
+              "line": "L52",
+              "what_happened": "Speaker states she is thirty-eight and thinks about this 'at weird times... like at a red light.'"
+            },
+            {
+              "line": "L54-55",
+              "what_happened": "Speaker could not sleep; would get up at eleven or midnight and unload the dishwasher, wipe counters, and reorganize cereal boxes."
+            },
+            {
+              "line": "L56",
+              "what_happened": "Cereal boxes were arranged tall to short."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Mother would come down at six and say, 'oh, the kitchen fairy came.'"
+            },
+            {
+              "line": "L63",
+              "what_happened": "Speaker's father died in 2019."
+            },
+            {
+              "line": "L64",
+              "what_happened": "Cause of death: pancreatic (cancer)."
+            },
+            {
+              "line": "L68",
+              "what_happened": "Speaker flew out for the service, organized the funeral lunch, and got the potatoes."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L26-27",
+              "choice_made": "Speaker read the journal, then kept reading it",
+              "alternatives_present_in_text": "None stated; no alternative mentioned"
+            },
+            {
+              "line": "L44-45",
+              "choice_made": "Speaker pre-started dinner and acted 'extra funny' based on journal contents",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L50-51",
+              "choice_made": "Speaker chose not to tell Kelsey, then and now",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L55",
+              "choice_made": "Speaker got up at night to unload dishwasher and organize kitchen",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L68",
+              "choice_made": "Speaker organized the funeral lunch and got the potatoes",
+              "alternatives_present_in_text": "None stated"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L17",
+              "quote": "I got very good at the right things."
+            },
+            {
+              "line": "L19",
+              "quote": "Parentified kid."
+            },
+            {
+              "line": "L20",
+              "quote": "Classic."
+            },
+            {
+              "line": "L21",
+              "quote": "I could put it on a t-shirt."
+            },
+            {
+              "line": "L37",
+              "quote": "Hypervigilance, right?"
+            },
+            {
+              "line": "L46",
+              "quote": "I was very funny that year."
+            },
+            {
+              "line": "L59",
+              "quote": "Over-functioning starts young, is I guess what I'd say."
+            },
+            {
+              "line": "L60",
+              "quote": "That's my whole thing, right?"
+            },
+            {
+              "line": "L61",
+              "quote": "I take care of it before anybody has to ask."
+            },
+            {
+              "line": "L67",
+              "quote": "I was fine."
+            },
+            {
+              "line": "L68",
+              "quote": "because of course I was"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L18",
+              "quote": "I literally, like, physically recoiled"
+            },
+            {
+              "line": "L31",
+              "quote": "this was awful for me"
+            },
+            {
+              "line": "L58",
+              "quote": "I liked that"
+            },
+            {
+              "line": "L65",
+              "quote": "I feel like I should have more to say about that and I don't"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "the right things",
+              "lines": [
+                "L16",
+                "L17"
+              ]
+            },
+            {
+              "phrase": "I was fine / it was fine",
+              "lines": [
+                "L66",
+                "L67"
+              ]
+            },
+            {
+              "phrase": "I don't usually / I always",
+              "lines": [
+                "L3",
+                "L22",
+                "L70"
+              ]
+            },
+            {
+              "phrase": "of course I was",
+              "lines": [
+                "L68"
+              ]
+            },
+            {
+              "phrase": "I've processed / I've done so much work / material",
+              "lines": [
+                "L39",
+                "L62",
+                "L65"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L6",
+              "quote": "Not that.",
+              "note": "Speaker begins to describe the state of the house/marriage, then cuts the sentence off."
+            },
+            {
+              "line": "L10",
+              "quote": "Anyway.",
+              "note": "Speaker moves on immediately after mentioning the dog story."
+            },
+            {
+              "line": "L41",
+              "quote": "But, um.",
+              "note": "Pause/verbal hesitation before introducing new topic ('What I did with it')."
+            },
+            {
+              "line": "L63-67",
+              "quote": "my dad died in 2019, by the way... I feel like I should have more to say about that and I don't, really, which I've processed. We weren't — it was fine. I was fine.",
+              "note": "Father's death introduced as an aside ('by the way'), described briefly, sentence 'We weren't' cut off, followed by short declarative statements."
+            },
+            {
+              "line": "L69",
+              "quote": "Anyway.",
+              "note": "Speaker closes the account and moves to final summary line."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Mother",
+              "lines": [
+                "L7",
+                "L14",
+                "L23",
+                "L25",
+                "L35",
+                "L47",
+                "L57"
+              ],
+              "what_they_did": "Stayed in the house after separation; confided details of divorce/finances/affair to speaker at the kitchen table; kept a hidden journal in the linen closet; wrote that speaker was 'difficult' compared to Kelsey; told speaker 'you just know me, you're my person'; remarked 'the kitchen fairy came' upon finding kitchen cleaned."
+            },
+            {
+              "who": "Father",
+              "lines": [
+                "L5",
+                "L7",
+                "L63",
+                "L64"
+              ],
+              "what_they_did": "Moved out in spring 1998 to a Lakewood apartment; said things in mediation referenced in mother's disclosures; died in 2019 of pancreatic cancer."
+            },
+            {
+              "who": "Kelsey (sister)",
+              "lines": [
+                "L7",
+                "L48",
+                "L49",
+                "L50",
+                "L51"
+              ],
+              "what_they_did": "Lived in the house; was unaware of the divorce details or the journal reading; was 'out riding her bike'; has still not been told by speaker."
+            },
+            {
+              "who": "Sergeant (dog)",
+              "lines": [
+                "L8",
+                "L9"
+              ],
+              "what_they_did": "Ate a whole loaf of bread, including the wrapper."
+            },
+            {
+              "who": "Therapist",
+              "lines": [
+                "L3",
+                "L18",
+                "L37",
+                "L62"
+              ],
+              "what_they_did": "Speaker states therapist would find the starting point meaningful; used the phrase 'emotional incest'; associated with the term hypervigilance; speaker states they 'have a lot of material' together."
+            },
+            {
+              "who": "Grandpa",
+              "lines": [
+                "L33"
+              ],
+              "what_they_did": "Loaned mother eleven thousand dollars, per journal entry."
+            },
+            {
+              "who": "Debra",
+              "lines": [
+                "L14",
+                "L45"
+              ],
+              "what_they_did": "Named in mother's disclosures as 'the woman' involved; referenced as a source of mother's distress."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes love and safety must be earned by anticipating others' needs before they ask.",
+              "explanation": "She used journal-derived intel to preempt her mother's distress (starting dinner before the lawyer called, being 'extra funny' during the Debra spiral), and her mother rewarded this with 'you're my person.' Decades later she names the same mechanism explicitly as her operating principle at work and in her father's funeral.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L61",
+                  "quote": "I take care of it before anybody has to ask."
+                },
+                {
+                  "exp": 1,
+                  "line": "L47",
+                  "quote": "you just know me, you're my person, you just know"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her marriage or close partnerships, she likely anticipates her partner's moods and manages them silently rather than asking directly what they need."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes her own emotional needs are secondary and must be minimized or hidden, especially around loss.",
+              "explanation": "She hid her surveillance of her mother's diary for two years and has never disclosed it to her sister even at 38; she describes her father's death in clipped, cut-off sentences ('We weren't—it was fine') and immediately pivots to the competent task of organizing the funeral lunch. The pattern of suppressing/deflecting her own grief or need in favor of managing appearances or logistics repeats across two decades.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L65",
+                  "quote": "I feel like I should have more to say about that and I don't, really, which I've processed."
+                },
+                {
+                  "exp": 1,
+                  "line": "L68",
+                  "quote": "I was the one who organized the funeral lunch and got the potatoes, because of course I was"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her own health crises or personal setbacks, she likely downplays her needs and takes on logistical/caretaking roles rather than seeking support."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She reads underlying emotional states with unusual precision and calibrates her behavior to manage them before they surface.",
+              "explanation": "She could detect the volume of new journal pages by ribbon placement and page thickness, and translated emotional data (an upcoming lawyer call, a Debra-related spiral) into precisely-timed interventions like starting dinner or amplifying humor. This is not just carefulness; it is an acute, almost forensic sensitivity to shifts in another person's inner state paired with tailored responsive action.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "I got so I could tell how many pages were new just by the — by the thickness, kind of, by where the ribbon was."
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "I'd know she was spiraling about Debra so I'd be extra — I'd be funny that week."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work, colleagues likely come to her to gauge how a stakeholder or client is really feeling before a difficult meeting."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She converts sleeplessness and unprocessed distress into invisible, undirected acts of order.",
+              "explanation": "As a child she responded to anxiety by secretly reorganizing the kitchen at midnight, an act her mother mistook for magic rather than distress. She now flags this explicitly as the start of 'over-functioning' but hasn't connected whether this same conversion of anxiety into invisible caretaking labor still happens in her adult life.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L54",
+                  "quote": "I couldn't sleep. So I would get up at eleven, midnight, and I would go down and unload the dishwasher"
+                },
+                {
+                  "exp": 1,
+                  "line": "L59",
+                  "quote": "Over-functioning starts young, is I guess what I'd say."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Worth checking whether she currently handles stress or insomnia by taking on invisible tasks (cleaning, organizing, over-preparing) rather than naming the anxiety directly to someone."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She keeps significant private knowledge to herself for years, even from those closest to her, without naming why.",
+              "explanation": "She read her mother's diary in secret for two years and has never told her sister Kelsey, now 38 years later. This is a specific, long-held withholding pattern that she narrates almost casually ('this is silly') without exploring what keeping this secret protects her from or costs her.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L51",
+                  "quote": "I've still never told her."
+                },
+                {
+                  "exp": 1,
+                  "line": "L52",
+                  "quote": "I'm thirty-eight and my sister does not know that I read our mother's diary for two years"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Worth checking whether she withholds other consequential information from close friends or partners out of a similar instinct to protect them or control the narrative."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes love and safety must be earned by anticipating others' needs before they ask.",
+              "explanation": "She used journal-derived intel to preempt her mother's distress (starting dinner before the lawyer called, being 'extra funny' during the Debra spiral), and her mother rewarded this with 'you're my person.' Decades later she names the same mechanism explicitly as her operating principle at work and in her father's funeral.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L61",
+                  "quote": "I take care of it before anybody has to ask."
+                },
+                {
+                  "exp": 1,
+                  "line": "L47",
+                  "quote": "you just know me, you're my person, you just know"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her marriage or close partnerships, she likely anticipates her partner's moods and manages them silently rather than asking directly what they need.",
+              "exp": 1
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She reads underlying emotional states with unusual precision and calibrates her behavior to manage them before they surface.",
+              "explanation": "She could detect the volume of new journal pages by ribbon placement and page thickness, and translated emotional data (an upcoming lawyer call, a Debra-related spiral) into precisely-timed interventions like starting dinner or amplifying humor. This is not just carefulness; it is an acute, almost forensic sensitivity to shifts in another person's inner state paired with tailored responsive action.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "I got so I could tell how many pages were new just by the — by the thickness, kind of, by where the ribbon was."
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "I'd know she was spiraling about Debra so I'd be extra — I'd be funny that week."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work, colleagues likely come to her to gauge how a stakeholder or client is really feeling before a difficult meeting.",
+              "exp": 1
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She keeps significant private knowledge to herself for years, even from those closest to her, without naming why.",
+              "explanation": "She read her mother's diary in secret for two years and has never told her sister Kelsey, now 38 years later. This is a specific, long-held withholding pattern that she narrates almost casually ('this is silly') without exploring what keeping this secret protects her from or costs her.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L51",
+                  "quote": "I've still never told her."
+                },
+                {
+                  "exp": 1,
+                  "line": "L52",
+                  "quote": "I'm thirty-eight and my sister does not know that I read our mother's diary for two years"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Worth checking whether she withholds other consequential information from close friends or partners out of a similar instinct to protect them or control the narrative.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She believes her own emotional needs are secondary and must be minimized or hidden, especially around loss.",
+              "reason": "restated",
+              "note": "She explicitly says 'I feel like I should have more to say and I don't, which I've processed' and 'of course I was' — she's already named and diagnosed this herself in almost these words; the insight adds a label but no new observation."
+            },
+            {
+              "headline": "She converts sleeplessness and unprocessed distress into invisible, undirected acts of order.",
+              "reason": "restated",
+              "note": "She already supplies the exact frame: 'Over-functioning starts young, is I guess what I'd say... I take care of it before anybody has to ask.' The candidate just re-describes the anecdote she already interpreted."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "She believes love and safety must be earned by anticipating others' needs before they ask.",
+            "explanation": "She used journal-derived intel to preempt her mother's distress (starting dinner before the lawyer called, being 'extra funny' during the Debra spiral), and her mother rewarded this with 'you're my person.' Decades later she names the same mechanism explicitly as her operating principle at work and in her father's funeral.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L61",
+                "quote": "I take care of it before anybody has to ask."
+              },
+              {
+                "exp": 1,
+                "line": "L47",
+                "quote": "you just know me, you're my person, you just know"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In her marriage or close partnerships, she likely anticipates her partner's moods and manages them silently rather than asking directly what they need.",
+            "exp": 1
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "She reads underlying emotional states with unusual precision and calibrates her behavior to manage them before they surface.",
+            "explanation": "She could detect the volume of new journal pages by ribbon placement and page thickness, and translated emotional data (an upcoming lawyer call, a Debra-related spiral) into precisely-timed interventions like starting dinner or amplifying humor. This is not just carefulness; it is an acute, almost forensic sensitivity to shifts in another person's inner state paired with tailored responsive action.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L30",
+                "quote": "I got so I could tell how many pages were new just by the — by the thickness, kind of, by where the ribbon was."
+              },
+              {
+                "exp": 1,
+                "line": "L45",
+                "quote": "I'd know she was spiraling about Debra so I'd be extra — I'd be funny that week."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "At work, colleagues likely come to her to gauge how a stakeholder or client is really feeling before a difficult meeting.",
+            "exp": 1
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She keeps significant private knowledge to herself for years, even from those closest to her, without naming why.",
+            "explanation": "She read her mother's diary in secret for two years and has never told her sister Kelsey, now 38 years later. This is a specific, long-held withholding pattern that she narrates almost casually ('this is silly') without exploring what keeping this secret protects her from or costs her.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L51",
+                "quote": "I've still never told her."
+              },
+              {
+                "exp": 1,
+                "line": "L52",
+                "quote": "I'm thirty-eight and my sister does not know that I read our mother's diary for two years"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "Worth checking whether she withholds other consequential information from close friends or partners out of a similar instinct to protect them or control the narrative.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "Speaker was 24, had first HR job at coordinator level, benefits enrollment"
+            },
+            {
+              "line": "L5",
+              "what_happened": "Had been with Jeremy about two years"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Jeremy was a hydrologist, worked with soil, wore hiking sandals"
+            },
+            {
+              "line": "L9",
+              "what_happened": "Jeremy's mom sent speaker a card for two years afterward"
+            },
+            {
+              "line": "L11",
+              "what_happened": "They signed a lease on a one-bedroom apartment at Twelfth and Ogden with a claw-foot tub and no closet, and had put down the deposit"
+            },
+            {
+              "line": "L12",
+              "what_happened": "They had a spreadsheet for furniture"
+            },
+            {
+              "line": "L13",
+              "what_happened": "Speaker ended the relationship three weeks before they were set to sign"
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker states her dad left and her mom emotionally leaned on her instead of parenting"
+            },
+            {
+              "line": "L23",
+              "what_happened": "At Thanksgiving in Loveland, Jeremy's sister Katie hugged speaker in the driveway before she got her bag out and said, 'oh my god, we feel like we already know you, Jeremy has told us everything about you'"
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker made a pie"
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker states something in her 'had just gone' while standing in the kitchen"
+            },
+            {
+              "line": "L29",
+              "what_happened": "Drove home on I-25 that Sunday, did not speak for an hour; Jeremy asked if she was okay/quiet; she said she was just tired"
+            },
+            {
+              "line": "L30",
+              "what_happened": "For about eight days could not sleep and drove up I-70 to Idaho Springs and back at 11pm"
+            },
+            {
+              "line": "L31",
+              "what_happened": "Drives were about ninety minutes"
+            },
+            {
+              "line": "L32",
+              "what_happened": "Radio was usually off during these drives"
+            },
+            {
+              "line": "L36",
+              "what_happened": "Three weeks later, sat Jeremy down on the futon and ended the relationship; he cried and said 'I don't understand'; she gave a speech about not being ready and needing to grow and work on herself"
+            },
+            {
+              "line": "L45",
+              "what_happened": "Speaker read Jeremy's email, about two years of it, when he left his laptop open at her place, six months before the breakup"
+            },
+            {
+              "line": "L47",
+              "what_happened": "The email included communications with his ex and what he told his best friend Sam about her"
+            },
+            {
+              "line": "L49",
+              "what_happened": "Jeremy had written to Sam that speaker was 'the real deal'"
+            },
+            {
+              "line": "L50",
+              "what_happened": "Speaker sat on her floor at 2am reading the emails"
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker kept tabs on Jeremy for about a year afterward through a mutual friend's Instagram"
+            },
+            {
+              "line": "L59",
+              "what_happened": "Jeremy is now married, has two kids, lives in Fort Collins"
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker said this formulation out loud in her Theories class last year and three people wrote it down"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L13",
+              "choice_made": "Ended the relationship three weeks before the lease signing",
+              "alternatives_present_in_text": "Proceeding with signing the lease and moving in together"
+            },
+            {
+              "line": "L29",
+              "choice_made": "Told Jeremy she was 'just tired' when asked if she was okay",
+              "alternatives_present_in_text": "Telling him what was actually happening"
+            },
+            {
+              "line": "L30",
+              "choice_made": "Drove alone at night to Idaho Springs and back repeatedly instead of sleeping",
+              "alternatives_present_in_text": "Not specified"
+            },
+            {
+              "line": "L36",
+              "choice_made": "Delivered a prepared explanation about not being ready and needing to grow",
+              "alternatives_present_in_text": "Not specified"
+            },
+            {
+              "line": "L45",
+              "choice_made": "Read two years of Jeremy's email when his laptop was left open",
+              "alternatives_present_in_text": "Not reading the email"
+            },
+            {
+              "line": "L57",
+              "choice_made": "Kept tabs on Jeremy for about a year via a mutual friend's Instagram",
+              "alternatives_present_in_text": "Not specified"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L14",
+              "quote": "I have abandonment stuff"
+            },
+            {
+              "line": "L15",
+              "quote": "Like, deep."
+            },
+            {
+              "line": "L17",
+              "quote": "I leave before I'm left."
+            },
+            {
+              "line": "L18",
+              "quote": "Textbook."
+            },
+            {
+              "line": "L53",
+              "quote": "I'm not proud of that."
+            },
+            {
+              "line": "L54",
+              "quote": "I'm not, like, a stalker."
+            },
+            {
+              "line": "L55",
+              "quote": "I just — I get very uncomfortable when I don't know where people are, mentally."
+            },
+            {
+              "line": "L62",
+              "quote": "I do the leaving"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L51",
+              "quote": "I felt very calm, actually."
+            },
+            {
+              "line": "L52",
+              "quote": "I felt like I had my footing back."
+            },
+            {
+              "line": "L56",
+              "quote": "Like where they are with me."
+            },
+            {
+              "line": "L58",
+              "quote": "That's grief."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "textbook",
+              "lines": [
+                "L18",
+                "L19"
+              ]
+            },
+            {
+              "phrase": "I leave / do the leaving",
+              "lines": [
+                "L17",
+                "L62"
+              ]
+            },
+            {
+              "phrase": "grief",
+              "lines": [
+                "L57",
+                "L58"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L27",
+              "quote": "something in me had just — gone.",
+              "note": "Speaker describes an internal shift without specifying what it was or why"
+            },
+            {
+              "line": "L34",
+              "quote": "I don't know what that was.",
+              "note": "Speaker states she does not know the reason for the repeated night drives, then immediately offers a guess"
+            },
+            {
+              "line": "L35",
+              "quote": "Decompressing, probably.",
+              "note": "Offered as a quick, hedged guess ('probably') immediately following L34"
+            },
+            {
+              "line": "L60",
+              "quote": "Not that I've — I mean, you see things.",
+              "note": "Sentence started and abandoned mid-thought regarding continued awareness of Jeremy's life"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Jeremy",
+              "lines": [
+                "L5",
+                "L6",
+                "L7",
+                "L8",
+                "L23",
+                "L29",
+                "L36",
+                "L45",
+                "L47",
+                "L49",
+                "L59"
+              ],
+              "what_they_did": "Was speaker's partner for two years, hydrologist, described by others as kind; asked if she was okay during the silent drive; cried and said 'I don't understand' when broken up with; is now married with two kids in Fort Collins"
+            },
+            {
+              "who": "Jeremy's mom",
+              "lines": [
+                "L9"
+              ],
+              "what_they_did": "Sent speaker a card for two years after the breakup"
+            },
+            {
+              "who": "Katie (Jeremy's sister)",
+              "lines": [
+                "L23"
+              ],
+              "what_they_did": "Hugged speaker in the driveway and said Jeremy had told them everything about her"
+            },
+            {
+              "who": "Sam (Jeremy's best friend)",
+              "lines": [
+                "L47",
+                "L49"
+              ],
+              "what_they_did": "Received an email from Jeremy in which he called speaker 'the real deal'"
+            },
+            {
+              "who": "Speaker's dad",
+              "lines": [
+                "L16"
+              ],
+              "what_they_did": "Left, per speaker's statement"
+            },
+            {
+              "who": "Speaker's mom",
+              "lines": [
+                "L16"
+              ],
+              "what_they_did": "Emotionally leaned on speaker instead of being a parent, per speaker's statement"
+            },
+            {
+              "who": "Three classmates in Theories class",
+              "lines": [
+                "L19"
+              ],
+              "what_they_did": "Wrote down speaker's formulation when she said it out loud"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She operates on the assumption that closeness will inevitably be taken from her, so leaving first is safer than being left.",
+              "explanation": "She names the belief explicitly and traces it to her father leaving and her mother's role reversal, then shows it enacted: the breaker flipped precisely when Jeremy's family treated her as already-family, and she ended things three weeks before the lease made the commitment irreversible.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "the second something is real I get certain that it's going to be taken, and so I take it first"
+                },
+                {
+                  "exp": 1,
+                  "line": "L17",
+                  "quote": "I leave before I'm left."
+                },
+                {
+                  "exp": 1,
+                  "line": "L13",
+                  "quote": "And I ended it three weeks before we signed."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a future serious relationship or long-term work commitment, she will find a reason to exit or self-sabotage right as the arrangement becomes formally binding (marriage, promotion contract, joint lease)."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes she must covertly monitor exactly where people stand with her, because not knowing is intolerable.",
+              "explanation": "She reads two years of private email at 2am, and separately tracks Jeremy for a year via Instagram after the breakup, both framed not as curiosity but as a need for certainty about her standing. The behavior recurs across different moments (during the relationship and after it ended), suggesting a stable rule rather than a one-off lapse.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L55",
+                  "quote": "I get very uncomfortable when I don't know where people are, mentally."
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "I read his email."
+                },
+                {
+                  "exp": 1,
+                  "line": "L57",
+                  "quote": "I kept tabs on him for probably a year after through a mutual friend's Instagram"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In current friendships or a new relationship, she will privately check social media, mutual contacts, or other indirect channels to gauge where she stands rather than asking the person directly."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She can construct and deliver an emotionally airtight explanation under pressure that leaves the other person with nothing to argue against.",
+              "explanation": "Facing Jeremy's tears and confusion, she produced a coherent, self-aware account of needing to grow — true in content but also strategically unassailable, since it's built from language of self-work that can't be contested. She names this herself as a distinct skill ('I said it so well'), separate from the sadness of the moment.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "But I said it so well."
+                },
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "I delivered it like a closing argument and he didn't have anything to say back to it because how do you argue with somebody doing work on themselves"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In workplace conflict or a difficult conversation (e.g., resigning, delivering hard feedback), she will reach for polished, self-reflective framing that resolves the moment cleanly but may also foreclose the other person's ability to push back or negotiate."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Her body seems to register a relational rupture before her conscious decision does, showing up as a physical shutdown followed by compulsive nighttime driving.",
+              "explanation": "At the Loveland kitchen she describes an internal shift ('something in me had just — gone'), then an hour of silence in the car, then eight days of insomnia resolved only by aimless ninety-minute drives with the radio off — all preceding the actual breakup by three weeks. She labels this 'decompressing, probably' but immediately flags her own uncertainty about it, and offers no account of why the moment of connection (Katie's hug, the pie-making weekend) was the trigger rather than any conflict.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L27",
+                  "quote": "something in me had just — gone."
+                },
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "for like eight days I couldn't sleep and I'd get in the car at eleven at night and drive up 70 to Idaho Springs and turn around"
+                },
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "I don't know what that was."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other high-stakes commitments (a job offer, a lease, a proposal), she will experience a physical or behavioral disruption — sleep loss, restlessness, withdrawal — that precedes any stated decision, worth checking against her own account of 'when' she actually decides to leave something."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She frames her most self-protective or boundary-crossing behaviors as effectively resolved once she has named and diagnosed them.",
+              "explanation": "She moves quickly from disclosing the email-reading and year of surveillance to reframing them as 'grief' and something she'd 'rather know' about herself, closing off further examination. This recurs with the abandonment pattern too — she cites her Theories class validating the diagnosis as if the labeling itself completes the work, which is worth her checking against whether insight has actually changed the behavior (e.g., does she still check on people now?).",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L57",
+                  "quote": "I kept tabs on him for probably a year after through a mutual friend's Instagram, which — you know, grief."
+                },
+                {
+                  "exp": 1,
+                  "line": "L63",
+                  "quote": "I'd so much rather know it than be one of those people wandering around going, why does this keep happening to me."
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "In current relationships, she will articulate self-aware explanations for boundary-crossing or avoidant behavior (checking a partner's phone, distancing pre-emptively) and treat the articulation as sufficient, without independently verifying whether the behavior itself has actually stopped."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She operates on the assumption that closeness will inevitably be taken from her, so leaving first is safer than being left.",
+              "explanation": "She names the belief explicitly and traces it to her father leaving and her mother's role reversal, then shows it enacted: the breaker flipped precisely when Jeremy's family treated her as already-family, and she ended things three weeks before the lease made the commitment irreversible.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "the second something is real I get certain that it's going to be taken, and so I take it first"
+                },
+                {
+                  "exp": 1,
+                  "line": "L17",
+                  "quote": "I leave before I'm left."
+                },
+                {
+                  "exp": 1,
+                  "line": "L13",
+                  "quote": "And I ended it three weeks before we signed."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a future serious relationship or long-term work commitment, she will find a reason to exit or self-sabotage right as the arrangement becomes formally binding (marriage, promotion contract, joint lease).",
+              "exp": 2
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She can construct and deliver an emotionally airtight explanation under pressure that leaves the other person with nothing to argue against.",
+              "explanation": "Facing Jeremy's tears and confusion, she produced a coherent, self-aware account of needing to grow — true in content but also strategically unassailable, since it's built from language of self-work that can't be contested. She names this herself as a distinct skill ('I said it so well'), separate from the sadness of the moment.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "But I said it so well."
+                },
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "I delivered it like a closing argument and he didn't have anything to say back to it because how do you argue with somebody doing work on themselves"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In workplace conflict or a difficult conversation (e.g., resigning, delivering hard feedback), she will reach for polished, self-reflective framing that resolves the moment cleanly but may also foreclose the other person's ability to push back or negotiate.",
+              "exp": 2
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Her body seems to register a relational rupture before her conscious decision does, showing up as a physical shutdown followed by compulsive nighttime driving.",
+              "explanation": "At the Loveland kitchen she describes an internal shift ('something in me had just — gone'), then an hour of silence in the car, then eight days of insomnia resolved only by aimless ninety-minute drives with the radio off — all preceding the actual breakup by three weeks. She labels this 'decompressing, probably' but immediately flags her own uncertainty about it, and offers no account of why the moment of connection (Katie's hug, the pie-making weekend) was the trigger rather than any conflict.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L27",
+                  "quote": "something in me had just — gone."
+                },
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "for like eight days I couldn't sleep and I'd get in the car at eleven at night and drive up 70 to Idaho Springs and turn around"
+                },
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "I don't know what that was."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other high-stakes commitments (a job offer, a lease, a proposal), she will experience a physical or behavioral disruption — sleep loss, restlessness, withdrawal — that precedes any stated decision, worth checking against her own account of 'when' she actually decides to leave something.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She believes she must covertly monitor exactly where people stand with her, because not knowing is intolerable.",
+              "reason": "restated",
+              "note": "She says almost this verbatim at L55 ('I get very uncomfortable when I don't know where people are, mentally') — the candidate just adds two supporting examples she already narrated herself."
+            },
+            {
+              "headline": "She frames her most self-protective or boundary-crossing behaviors as effectively resolved once she has named and diagnosed them.",
+              "reason": "unfalsifiable",
+              "note": "Relies on inferring what she does NOT do ('without independently verifying') with no evidence either way, and the claim about the Theories class was already her own self-aware observation (L18-19), not a hidden pattern."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "She operates on the assumption that closeness will inevitably be taken from her, so leaving first is safer than being left.",
+            "explanation": "She names the belief explicitly and traces it to her father leaving and her mother's role reversal, then shows it enacted: the breaker flipped precisely when Jeremy's family treated her as already-family, and she ended things three weeks before the lease made the commitment irreversible.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L16",
+                "quote": "the second something is real I get certain that it's going to be taken, and so I take it first"
+              },
+              {
+                "exp": 1,
+                "line": "L17",
+                "quote": "I leave before I'm left."
+              },
+              {
+                "exp": 1,
+                "line": "L13",
+                "quote": "And I ended it three weeks before we signed."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In a future serious relationship or long-term work commitment, she will find a reason to exit or self-sabotage right as the arrangement becomes formally binding (marriage, promotion contract, joint lease).",
+            "exp": 2
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "She can construct and deliver an emotionally airtight explanation under pressure that leaves the other person with nothing to argue against.",
+            "explanation": "Facing Jeremy's tears and confusion, she produced a coherent, self-aware account of needing to grow — true in content but also strategically unassailable, since it's built from language of self-work that can't be contested. She names this herself as a distinct skill ('I said it so well'), separate from the sadness of the moment.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L39",
+                "quote": "But I said it so well."
+              },
+              {
+                "exp": 1,
+                "line": "L41",
+                "quote": "I delivered it like a closing argument and he didn't have anything to say back to it because how do you argue with somebody doing work on themselves"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In workplace conflict or a difficult conversation (e.g., resigning, delivering hard feedback), she will reach for polished, self-reflective framing that resolves the moment cleanly but may also foreclose the other person's ability to push back or negotiate.",
+            "exp": 2
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Her body seems to register a relational rupture before her conscious decision does, showing up as a physical shutdown followed by compulsive nighttime driving.",
+            "explanation": "At the Loveland kitchen she describes an internal shift ('something in me had just — gone'), then an hour of silence in the car, then eight days of insomnia resolved only by aimless ninety-minute drives with the radio off — all preceding the actual breakup by three weeks. She labels this 'decompressing, probably' but immediately flags her own uncertainty about it, and offers no account of why the moment of connection (Katie's hug, the pie-making weekend) was the trigger rather than any conflict.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L27",
+                "quote": "something in me had just — gone."
+              },
+              {
+                "exp": 1,
+                "line": "L30",
+                "quote": "for like eight days I couldn't sleep and I'd get in the car at eleven at night and drive up 70 to Idaho Springs and turn around"
+              },
+              {
+                "exp": 1,
+                "line": "L34",
+                "quote": "I don't know what that was."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In other high-stakes commitments (a job offer, a lease, a proposal), she will experience a physical or behavioral disruption — sleep loss, restlessness, withdrawal — that precedes any stated decision, worth checking against her own account of 'when' she actually decides to leave something.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L5",
+              "what_happened": "Speaker was an HRBP at a ~400-person company in the Denver Tech Center that got acquired; the integration led to a reduction in force (RIF)."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker was in the room when the RIF decision/planning occurred."
+            },
+            {
+              "line": "L8",
+              "what_happened": "The people present were the CFO, the VP of People, and the speaker."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker had the RIF spreadsheet on her laptop."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker built the spreadsheet."
+            },
+            {
+              "line": "L11",
+              "what_happened": "The RIF took effect March 8."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker had the finalized list on December 20."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Eleven weeks elapsed between having the list (Dec 20) and the RIF (March 8)."
+            },
+            {
+              "line": "L14",
+              "what_happened": "For eleven weeks, speaker knew which 206 people were unaffected and which 51 were being cut."
+            },
+            {
+              "line": "L15",
+              "what_happened": "The affected employees did not know they were on the list."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Employees approached speaker's desk with questions about FSA and PTO rollover; speaker responded 'sure, yeah, let me look into that.'"
+            },
+            {
+              "line": "L18",
+              "what_happened": "Danielle was one of the people on the list."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker and Danielle had a weekly Thursday lunch routine at Illegal Pete's; Danielle had met speaker's mother."
+            },
+            {
+              "line": "L20",
+              "what_happened": "In January, Danielle showed speaker a Zillow listing while pre-qualifying for a house with Marcus in Green Valley Ranch; speaker said, 'you know, rates might come down in the spring, sometimes it's worth waiting a quarter.'"
+            },
+            {
+              "line": "L21",
+              "what_happened": "Danielle responded, 'oh that's smart.'"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker states she 'steered' Danielle for eleven weeks."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker states she steered approximately four people."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker states she never told anyone and never broke confidentiality."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Speaker developed shingles at age 29."
+            },
+            {
+              "line": "L31",
+              "what_happened": "On March 8, speaker personally conducted nineteen of the termination conversations."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Each termination conversation was fourteen minutes, following a script, with a packet and badge collection."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Danielle's termination conversation was scheduled for 10:40."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Danielle did not look at the speaker during the conversation."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Danielle looked at the packet, said 'okay,' and stood up."
+            },
+            {
+              "line": "L37",
+              "what_happened": "Speaker and Danielle have not spoken since; Danielle is on LinkedIn, now works at a healthcare company."
+            },
+            {
+              "line": "L39",
+              "what_happened": "At approximately 4:30 that day, VP Marcy came to speaker's desk, said 'you crushed it today, go home,' and left."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Speaker sat in the mostly empty office."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker went home and reorganized everything in her bedroom closet by sleeve length until 2:00 a.m."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker went to a 24-hour King Soopers on Alameda for a specific yogurt."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Speaker stood in the dairy aisle at approximately 2:45 a.m."
+            },
+            {
+              "line": "L46",
+              "what_happened": "Speaker never told anyone at the company that she was struggling."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Coworkers described speaker as 'so steady' and 'unflappable'; speaker responded 'ha ha.'"
+            },
+            {
+              "line": "L54",
+              "what_happened": "Speaker left the company in July, four months after the RIF."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker had recently received the senior title before events described."
+            },
+            {
+              "line": "L59",
+              "what_happened": "Speaker began taking recruiter calls in May."
+            },
+            {
+              "line": "L61",
+              "what_happened": "Terrence, an employee who was cut, had a child with medical issues; a GoFundMe was set up for him."
+            },
+            {
+              "line": "L61",
+              "what_happened": "Speaker anonymously sent money to the GoFundMe."
+            },
+            {
+              "line": "L62",
+              "what_happened": "Speaker describes the donation amount as 'a real amount.'"
+            },
+            {
+              "line": "L63",
+              "what_happened": "Nobody knows about the donation; speaker is disclosing it in this conversation."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L20",
+              "choice_made": "Speaker told Danielle rates might come down and suggested waiting a quarter on the house purchase.",
+              "alternatives_present_in_text": "Speaker could have said nothing about the timing or disclosed nothing implying delay."
+            },
+            {
+              "line": "L24",
+              "choice_made": "Speaker steered Danielle and others without disclosing the RIF.",
+              "alternatives_present_in_text": "Not directly stated; no explicit alternative named beyond the implied option of telling them or saying nothing."
+            },
+            {
+              "line": "L26",
+              "choice_made": "Speaker never told anyone about the list or broke confidentiality.",
+              "alternatives_present_in_text": "None explicitly stated as considered."
+            },
+            {
+              "line": "L31",
+              "choice_made": "Speaker personally conducted nineteen of the termination conversations herself.",
+              "alternatives_present_in_text": "Not specified whether others could have taken more of the conversations."
+            },
+            {
+              "line": "L46",
+              "choice_made": "Speaker did not tell anyone at the company she was struggling.",
+              "alternatives_present_in_text": "None explicitly stated as considered."
+            },
+            {
+              "line": "L54",
+              "choice_made": "Speaker left the company in July.",
+              "alternatives_present_in_text": "None explicitly stated as considered."
+            },
+            {
+              "line": "L59",
+              "choice_made": "Speaker started taking recruiter calls in May.",
+              "alternatives_present_in_text": "None explicitly stated as considered."
+            },
+            {
+              "line": "L61",
+              "choice_made": "Speaker donated to Terrence's GoFundMe anonymously.",
+              "alternatives_present_in_text": "Speaker states 'it was important to me that it was anonymous' and 'that it was from nobody,' implying a non-anonymous donation was an alternative she rejected."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L26",
+              "quote": "I was airtight"
+            },
+            {
+              "line": "L27",
+              "quote": "that's over-functioning, right?"
+            },
+            {
+              "line": "L28",
+              "quote": "I took the entire weight of that thing onto my own body because I didn't trust anyone else to carry it"
+            },
+            {
+              "line": "L48",
+              "quote": "you're so steady, Alyssa's unflappable"
+            },
+            {
+              "line": "L50",
+              "quote": "That's my work."
+            },
+            {
+              "line": "L51",
+              "quote": "Saying I need something out loud."
+            },
+            {
+              "line": "L52",
+              "quote": "I'm so much better at it now, genuinely."
+            },
+            {
+              "line": "L56",
+              "quote": "my integrity couldn't hold that job anymore"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L7",
+              "quote": "it felt incredible"
+            },
+            {
+              "line": "L45",
+              "quote": "okay, this is fine, I'm fine"
+            },
+            {
+              "line": "L63",
+              "quote": "it makes me sound like I want a cookie"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "eleven weeks",
+              "lines": [
+                "L13",
+                "L14",
+                "L17",
+                "L24"
+              ]
+            },
+            {
+              "phrase": "Twenty-nine",
+              "lines": [
+                "L7",
+                "L29",
+                "L30"
+              ]
+            },
+            {
+              "phrase": "nineteen",
+              "lines": [
+                "L31",
+                "L32"
+              ]
+            },
+            {
+              "phrase": "I'm fine",
+              "lines": [
+                "L45"
+              ]
+            },
+            {
+              "phrase": "never told anyone / nobody knows",
+              "lines": [
+                "L46",
+                "L63"
+              ]
+            },
+            {
+              "phrase": "anonymous / from nobody",
+              "lines": [
+                "L65",
+                "L66"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L42",
+              "quote": "I genuinely don't know what I was waiting for.",
+              "note": "Speaker states lack of knowledge about what she was waiting for after Marcy left, then immediately moves to next event (going home) without further comment."
+            },
+            {
+              "line": "L60",
+              "quote": "Um, one more thing.",
+              "note": "Speaker introduces the Terrence/GoFundMe disclosure abruptly after stating she was moving toward closing the account (L59), appended as an addendum."
+            },
+            {
+              "line": "L64",
+              "quote": "I don't.",
+              "note": "Short, clipped denial immediately following self-observation about wanting a cookie, followed immediately by a restated justification (L65-66) rather than elaboration."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Danielle",
+              "lines": [
+                "L18",
+                "L19",
+                "L20",
+                "L21",
+                "L34",
+                "L35",
+                "L36",
+                "L37"
+              ],
+              "what_they_did": "Weekly lunch companion of speaker; was on the RIF list; showed speaker a Zillow listing; said 'oh that's smart' in response to speaker's steering comment; was terminated at 10:40 on March 8; did not look at speaker, said 'okay' and stood up; has not spoken to speaker since; now works at a healthcare company per LinkedIn."
+            },
+            {
+              "who": "Marcus",
+              "lines": [
+                "L20"
+              ],
+              "what_they_did": "Was pre-qualifying for a house with Danielle in Green Valley Ranch."
+            },
+            {
+              "who": "Marcy (VP)",
+              "lines": [
+                "L39",
+                "L40"
+              ],
+              "what_they_did": "Came to speaker's desk at 4:30pm on March 8, said 'you crushed it today, go home,' then left."
+            },
+            {
+              "who": "Terrence",
+              "lines": [
+                "L61"
+              ],
+              "what_they_did": "Was cut in the RIF; had a child with medical issues; had a GoFundMe set up on his behalf by someone else."
+            },
+            {
+              "who": "Nic",
+              "lines": [
+                "L53"
+              ],
+              "what_they_did": "Speaker states she now tells him 'hey, I need twenty minutes' and he responds (response not specified, cut off)."
+            },
+            {
+              "who": "CFO and VP of People",
+              "lines": [
+                "L8"
+              ],
+              "what_they_did": "Were present in the room with speaker for RIF planning."
+            },
+            {
+              "who": "Coworkers (unspecified)",
+              "lines": [
+                "L48"
+              ],
+              "what_they_did": "Told speaker 'you're so steady, Alyssa's unflappable.'"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Alyssa operates from a belief that she alone can be trusted to carry unbearable weight, so she takes it all on rather than distributing or naming it.",
+              "explanation": "She built the spreadsheet, held the list solo for eleven weeks, steered four people without ever breaking confidentiality, then took nineteen of the termination conversations herself. Her own supervision-derived frame — 'I took the entire weight of that thing onto my own body because I didn't trust anyone else to carry it' — names this directly as the operating rule, not just a one-off behavior.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L28",
+                  "quote": "I took the entire weight of that thing onto my own body because I didn't trust anyone else to carry it"
+                },
+                {
+                  "exp": 3,
+                  "line": "L31",
+                  "quote": "on March eighth I did nineteen of the conversations myself"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a work project with a struggling teammate, she volunteers to absorb the hardest, most emotionally costly piece herself rather than delegating or asking for backup."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "When Alyssa's body or environment signals distress, she responds with private, controlled physical ritual rather than telling anyone.",
+              "explanation": "After the RIF day she reorganized her closet by sleeve length until 2am and drove to a 24-hour grocery store at 2:45am for a specific yogurt, narrating 'okay, this is fine, I'm fine' — a self-soothing loop with no outside contact. She also got shingles at 29 from the stress and never told anyone at the company she was struggling, and coworkers called her 'unflappable' while she said 'ha ha.' Worth checking whether this pattern of solitary control-seeking shows up in other high-stress moments beyond this one experience.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L43",
+                  "quote": "I took everything out of my bedroom closet and reorganized it by sleeve length until two in the morning"
+                },
+                {
+                  "exp": 3,
+                  "line": "L45",
+                  "quote": "okay, this is fine, I'm fine"
+                },
+                {
+                  "exp": 3,
+                  "line": "L46",
+                  "quote": "I never told anyone at that company that I was struggling"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Under acute stress in her personal life, she reaches for a solitary controlling ritual (cleaning, ordering, a specific errand) before she reaches for a person."
+            },
+            {
+              "category": "core_values",
+              "headline": "Alyssa protects the dignity of people who are being harmed even when it costs her something and no one will ever know.",
+              "explanation": "She quietly subsidized Danielle's decision-making by nudging her away from a bad financial commitment without breaking her confidentiality obligation, and separately sent 'a real amount' anonymously to a cut employee's sick child's GoFundMe, insisting 'it was important to me that it was anonymous... that it was from nobody.' Both acts required no external validation and were disclosed here for seemingly the first time, which is strong evidence the value is genuinely held rather than performed.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L65",
+                  "quote": "it was important to me that it was anonymous"
+                },
+                {
+                  "exp": 3,
+                  "line": "L66",
+                  "quote": "It was important that it was from nobody"
+                },
+                {
+                  "exp": 3,
+                  "line": "L20",
+                  "quote": "rates might come down in the spring, sometimes it's worth waiting a quarter"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future roles with power over others' outcomes, she finds small, unattributed ways to soften harm for people even when there's no system or recognition rewarding her for it."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Alyssa is exceptionally skilled at holding volatile, high-stakes information under pressure while maintaining a calm exterior that others rely on.",
+              "explanation": "She was the one trusted to build and hold the RIF spreadsheet, ran nineteen scripted termination conversations in a single day without breaking, and was told by others she was 'so steady' and 'unflappable' — a reputation earned, not accidental. The VP's 'you crushed it today' signals this was recognized organizational value, not just personal endurance.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L39",
+                  "quote": "you crushed it today, go home"
+                },
+                {
+                  "exp": 3,
+                  "line": "L48",
+                  "quote": "you're so steady, Alyssa's unflappable"
+                },
+                {
+                  "exp": 3,
+                  "line": "L26",
+                  "quote": "I was airtight"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a therapy or crisis-adjacent career, she becomes the person others route the most emotionally loaded, confidential, or high-consequence conversations to."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "When Alyssa's body or environment signals distress, she responds with private, controlled physical ritual rather than telling anyone.",
+              "explanation": "After the RIF day she reorganized her closet by sleeve length until 2am and drove to a 24-hour grocery store at 2:45am for a specific yogurt, narrating 'okay, this is fine, I'm fine' — a self-soothing loop with no outside contact. She also got shingles at 29 from the stress and never told anyone at the company she was struggling, and coworkers called her 'unflappable' while she said 'ha ha.' Worth checking whether this pattern of solitary control-seeking shows up in other high-stress moments beyond this one experience.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L43",
+                  "quote": "I took everything out of my bedroom closet and reorganized it by sleeve length until two in the morning"
+                },
+                {
+                  "exp": 3,
+                  "line": "L45",
+                  "quote": "okay, this is fine, I'm fine"
+                },
+                {
+                  "exp": 3,
+                  "line": "L46",
+                  "quote": "I never told anyone at that company that I was struggling"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Under acute stress in her personal life, she reaches for a solitary controlling ritual (cleaning, ordering, a specific errand) before she reaches for a person.",
+              "exp": 3
+            },
+            {
+              "category": "core_values",
+              "headline": "Alyssa protects the dignity of people who are being harmed even when it costs her something and no one will ever know.",
+              "explanation": "She quietly subsidized Danielle's decision-making by nudging her away from a bad financial commitment without breaking her confidentiality obligation, and separately sent 'a real amount' anonymously to a cut employee's sick child's GoFundMe, insisting 'it was important to me that it was anonymous... that it was from nobody.' Both acts required no external validation and were disclosed here for seemingly the first time, which is strong evidence the value is genuinely held rather than performed.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L65",
+                  "quote": "it was important to me that it was anonymous"
+                },
+                {
+                  "exp": 3,
+                  "line": "L66",
+                  "quote": "It was important that it was from nobody"
+                },
+                {
+                  "exp": 3,
+                  "line": "L20",
+                  "quote": "rates might come down in the spring, sometimes it's worth waiting a quarter"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future roles with power over others' outcomes, she finds small, unattributed ways to soften harm for people even when there's no system or recognition rewarding her for it.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Alyssa operates from a belief that she alone can be trusted to carry unbearable weight, so she takes it all on rather than distributing or naming it.",
+              "reason": "restated",
+              "note": "She already names this exact frame herself in L27-L28 ('over-functioning... I took the entire weight of that thing onto my own body because I didn't trust anyone else to carry it') — the candidate just repackages her stated insight, not a new inference."
+            },
+            {
+              "headline": "Alyssa is exceptionally skilled at holding volatile, high-stakes information under pressure while maintaining a calm exterior that others rely on.",
+              "reason": "flattering",
+              "note": "Reframes what she frames as a costly, harmful coping pattern (shingles, isolation, never telling anyone she was struggling) as a 'genius' others should route work to — praise dressed as analysis, contradicted by her own account of the toll it took."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "When Alyssa's body or environment signals distress, she responds with private, controlled physical ritual rather than telling anyone.",
+            "explanation": "After the RIF day she reorganized her closet by sleeve length until 2am and drove to a 24-hour grocery store at 2:45am for a specific yogurt, narrating 'okay, this is fine, I'm fine' — a self-soothing loop with no outside contact. She also got shingles at 29 from the stress and never told anyone at the company she was struggling, and coworkers called her 'unflappable' while she said 'ha ha.' Worth checking whether this pattern of solitary control-seeking shows up in other high-stress moments beyond this one experience.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L43",
+                "quote": "I took everything out of my bedroom closet and reorganized it by sleeve length until two in the morning"
+              },
+              {
+                "exp": 3,
+                "line": "L45",
+                "quote": "okay, this is fine, I'm fine"
+              },
+              {
+                "exp": 3,
+                "line": "L46",
+                "quote": "I never told anyone at that company that I was struggling"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "Under acute stress in her personal life, she reaches for a solitary controlling ritual (cleaning, ordering, a specific errand) before she reaches for a person.",
+            "exp": 3
+          },
+          {
+            "category": "core_values",
+            "headline": "Alyssa protects the dignity of people who are being harmed even when it costs her something and no one will ever know.",
+            "explanation": "She quietly subsidized Danielle's decision-making by nudging her away from a bad financial commitment without breaking her confidentiality obligation, and separately sent 'a real amount' anonymously to a cut employee's sick child's GoFundMe, insisting 'it was important to me that it was anonymous... that it was from nobody.' Both acts required no external validation and were disclosed here for seemingly the first time, which is strong evidence the value is genuinely held rather than performed.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L65",
+                "quote": "it was important to me that it was anonymous"
+              },
+              {
+                "exp": 3,
+                "line": "L66",
+                "quote": "It was important that it was from nobody"
+              },
+              {
+                "exp": 3,
+                "line": "L20",
+                "quote": "rates might come down in the spring, sometimes it's worth waiting a quarter"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In future roles with power over others' outcomes, she finds small, unattributed ways to soften harm for people even when there's no system or recognition rewarding her for it.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker's mother fell."
+            },
+            {
+              "line": "L2",
+              "what_happened": "Mother fell on ice in the parking lot of King Soopers in Arvada in January 2022 and broke her wrist; ER did tests during that visit."
+            },
+            {
+              "line": "L3",
+              "what_happened": "Mother was diagnosed with mild cognitive impairment."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Within about four months, speaker had mother's mail forwarded to her place, added mother to her phone plan, took over mother's bills, and set up a pill organizer."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker has a note in her phone titled 'Mom' containing all of her mother's passwords."
+            },
+            {
+              "line": "L8",
+              "what_happened": "The passwords stored include bank, Xfinity, email, and Ancestry accounts."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker knows her mother's ATM PIN, which combines her birthday and her sister Kelsey's birthday."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker reads her mother's email."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker states she still reads her mother's email currently."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker estimates 80 percent of the email reading is for insurance-related necessity; she also reads emails her mother sends to her friend Roseanne."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Speaker knows, from reading the emails, that her mother told Roseanne she is worried the speaker and Nic will never get married."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Speaker knows her mother called her, quoted as, 'a lot.'"
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker's sister Kelsey lives in Phoenix."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Kelsey has two kids and a husband who travels."
+            },
+            {
+              "line": "L21",
+              "what_happened": "For about a year, speaker sent Kelsey updates."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker typed long texts on Sunday nights detailing appointments, neurologist information, and medication changes, ending with 'xoxo.'"
+            },
+            {
+              "line": "L27",
+              "what_happened": "Kelsey never asked 'what do you need.'"
+            },
+            {
+              "line": "L28",
+              "what_happened": "Kelsey would respond with 'wow, thank you so much for handling that, you're amazing, heart emoji.'"
+            },
+            {
+              "line": "L29",
+              "what_happened": "This response from Kelsey happened every time."
+            },
+            {
+              "line": "L31",
+              "what_happened": "In October of that year, mother had a bad week and called the speaker eleven times in one day about a package; Kelsey sent the heart emoji; speaker called Kelsey and 'went off.'"
+            },
+            {
+              "line": "L33",
+              "what_happened": "Speaker said things about doing this alone for two years and nobody in the family asking how she is doing; Kelsey cried and said she had asked a hundred times if she should come out and speaker always said don't, we're fine, don't waste the flight."
+            },
+            {
+              "line": "L37",
+              "what_happened": "Speaker confirms she did say that (don't come, don't waste the flight)."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Speaker's therapist calls this pattern 'the martyr loop.'"
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker states this (asking directly) is on her treatment plan."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Nic offered to come to the neurology appointments early on."
+            },
+            {
+              "line": "L46",
+              "what_happened": "Speaker told Nic no, that it's four hours in a waiting room, it's boring, and he doesn't need to do that."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Speaker sat in the waiting room at Lutheran with the aquarium and fish."
+            },
+            {
+              "line": "L50",
+              "what_happened": "That was the year speaker started swimming."
+            },
+            {
+              "line": "L51",
+              "what_happened": "There is a rec center off Sheridan with lap swim until ten; speaker would go around 8:45pm; one other person, an older man with a kickboard, was regularly there."
+            },
+            {
+              "line": "L52",
+              "what_happened": "Speaker swam nearly every night for a year and a half."
+            },
+            {
+              "line": "L53",
+              "what_happened": "Distance swum was sometimes a mile, sometimes more."
+            },
+            {
+              "line": "L54",
+              "what_happened": "After swimming, speaker would sit in the parking lot with wet hair and the heat on before driving home."
+            },
+            {
+              "line": "L58",
+              "what_happened": "Mother currently lives in a facility in Wheat Ridge that has a garden."
+            },
+            {
+              "line": "L60",
+              "what_happened": "Mother tells people at the facility that the speaker is a doctor."
+            },
+            {
+              "line": "L61",
+              "what_happened": "Speaker does not correct her mother's claim that she is a doctor."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L6",
+              "choice_made": "Speaker took over mother's mail, phone plan, bills, and medication management within four months.",
+              "alternatives_present_in_text": "None specified in text; no alternative arrangement (e.g., shared responsibility, hired help) is mentioned as considered."
+            },
+            {
+              "line": "L10",
+              "choice_made": "Speaker reads mother's email, including personal correspondence to Roseanne beyond stated necessary portions.",
+              "alternatives_present_in_text": "Speaker distinguishes this from the '80 percent' she calls necessary (insurance-related), implying a boundary she could have kept but did not."
+            },
+            {
+              "line": "L46",
+              "choice_made": "Speaker told Nic not to come to the neurology appointments.",
+              "alternatives_present_in_text": "L44: Nic had offered to come to the appointments."
+            },
+            {
+              "line": "L33/L37",
+              "choice_made": "Speaker repeatedly told Kelsey not to come out, saying 'we're fine, don't waste the flight.'",
+              "alternatives_present_in_text": "L33: Kelsey had asked a hundred times if she should come out."
+            },
+            {
+              "line": "L61",
+              "choice_made": "Speaker does not correct her mother when she tells others she is a doctor.",
+              "alternatives_present_in_text": "No explicit alternative stated in text, though correcting her is the implied unchosen option."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L5",
+              "quote": "I want to say I stepped in, but what I actually did was I took over."
+            },
+            {
+              "line": "L23",
+              "quote": "Very thorough."
+            },
+            {
+              "line": "L24",
+              "quote": "Very calm."
+            },
+            {
+              "line": "L39",
+              "quote": "I know exactly what that is, it's over-functioning."
+            },
+            {
+              "line": "L40",
+              "quote": "I take everything and then I'm furious that I have everything."
+            },
+            {
+              "line": "L41",
+              "quote": "My therapist calls it the martyr loop, which I hate as a phrase but she's not wrong."
+            },
+            {
+              "line": "L43",
+              "quote": "I'm insufferable."
+            },
+            {
+              "line": "L48-L49",
+              "quote": "That's on me. That's a hundred percent on me, I know that."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L31",
+              "quote": "I went off."
+            },
+            {
+              "line": "L33",
+              "quote": "she was crying"
+            },
+            {
+              "line": "L40",
+              "quote": "I'm furious"
+            },
+            {
+              "line": "L47",
+              "quote": "I have never felt so alone in my entire life."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "stepped in",
+              "lines": [
+                "L4",
+                "L5"
+              ]
+            },
+            {
+              "phrase": "you're amazing, heart emoji",
+              "lines": [
+                "L28",
+                "L30"
+              ]
+            },
+            {
+              "phrase": "That's on me",
+              "lines": [
+                "L48",
+                "L49"
+              ]
+            },
+            {
+              "phrase": "Very",
+              "lines": [
+                "L23",
+                "L24"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L34-L38",
+              "quote": "Which. Okay. Is true. I did say that. Um.",
+              "note": "Speaker moves through short fragmented lines conceding Kelsey's point without elaboration before continuing to next topic."
+            },
+            {
+              "line": "L48-L50",
+              "quote": "That's on me. That's a hundred percent on me, I know that. That was the year I started swimming.",
+              "note": "Speaker states self-blame regarding Nic and immediately transitions to a new subject (swimming) without further elaboration on the Nic incident."
+            },
+            {
+              "line": "L55",
+              "quote": "exercise is great for the nervous system, obviously, that's well documented.",
+              "note": "Speaker follows the description of nightly swimming and sitting alone in the parking lot with a general statement about exercise, without further comment on the parking lot detail (L54)."
+            },
+            {
+              "line": "L56-L57",
+              "quote": "And she's okay right now. Mom.",
+              "note": "Speaker shifts topic to mother's current status immediately after the swimming narrative, without transition."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Mother",
+              "lines": [
+                "L1",
+                "L2",
+                "L3",
+                "L14",
+                "L15",
+                "L31",
+                "L56",
+                "L58",
+                "L59",
+                "L60"
+              ],
+              "what_they_did": "Fell and broke wrist (L1-L2); diagnosed with mild cognitive impairment (L3); told Roseanne she is worried about speaker's relationship and called speaker 'a lot' (L14-L15); called speaker eleven times in one day about a package (L31); currently lives in a facility in Wheat Ridge, likes it, and tells others speaker is a doctor (L56-L60)."
+            },
+            {
+              "who": "Roseanne",
+              "lines": [
+                "L12",
+                "L14"
+              ],
+              "what_they_did": "Is the mother's friend and email correspondent; recipient of mother's comments about speaker's relationship and about speaker calling 'a lot.'"
+            },
+            {
+              "who": "Kelsey",
+              "lines": [
+                "L9",
+                "L19",
+                "L20",
+                "L21",
+                "L27",
+                "L28",
+                "L31",
+                "L33"
+              ],
+              "what_they_did": "Sister in Phoenix with two kids and a traveling husband (L19-L20); received weekly update texts from speaker (L21-L22); never asked 'what do you need' (L27); responded with 'you're amazing, heart emoji' each time (L28-L30); received speaker's angry call (L31); cried and stated she had asked a hundred times if she should come out and speaker told her not to (L33)."
+            },
+            {
+              "who": "Nic",
+              "lines": [
+                "L33",
+                "L44",
+                "L46"
+              ],
+              "what_they_did": "Referenced in Kelsey's statement about speaker's relationship worries (L33, via mother); offered to come to neurology appointments early on (L44); was told by speaker not to come (L46)."
+            },
+            {
+              "who": "Therapist",
+              "lines": [
+                "L41",
+                "L43"
+              ],
+              "what_they_did": "Named the pattern 'the martyr loop' (L41); speaker has a treatment plan involving this therapist (L43)."
+            },
+            {
+              "who": "Older man with a kickboard",
+              "lines": [
+                "L51"
+              ],
+              "what_they_did": "Was present at the rec center pool most nights during the same lap swim sessions as speaker."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Alyssa operates on the belief that if she doesn't personally hold every detail, the whole situation will fall apart.",
+              "explanation": "She took over every system within four months and keeps a master password file, framing it as necessity ('somebody has to hold the whole picture'). This isn't just a behavior but a stated worldview about who is responsible for catastrophe prevention.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L17-L18",
+                  "quote": "But somebody has to hold the whole picture, you know? Somebody has to actually know what's going on."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a work setting, she'll resist delegating or cross-training others on critical systems, believing quality/safety depends on her sole ownership."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Alyssa refuses help she says she wants, then becomes furious that no one is helping.",
+              "explanation": "She told Nic not to come to appointments and told Kelsey repeatedly not to fly out, then exploded at Kelsey for never offering — even though Kelsey says she asked a hundred times. The pattern recurs across two different relationships with the same structure: decline offered support, then resent its absence.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L46",
+                  "quote": "no, babe, it's four hours in a waiting room, it's so boring, you don't need to do that."
+                },
+                {
+                  "exp": 4,
+                  "line": "L33",
+                  "quote": "I have asked you a hundred times if I should come out and you always say don't, we're fine, don't waste the flight."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future work delegation situations, she'll decline offers of help from colleagues, then privately resent carrying the load alone."
+            },
+            {
+              "category": "core_values",
+              "headline": "Alyssa protects her mother's dignity even at the cost of her own accurate self-presentation.",
+              "explanation": "Her mother tells people at the facility that Alyssa is a doctor, and Alyssa lets the false claim stand rather than correct her — choosing to preserve her mother's pride over asserting the truth about herself.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L60-L61",
+                  "quote": "She tells everyone there that I'm a doctor. I'm not correcting her."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She'll similarly let inaccurate praise or credit stand in family or social settings if correcting it would embarrass someone she's protecting."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Alyssa crosses her own stated boundaries around information she frames as invasive.",
+              "explanation": "She distinguishes 'necessary' email reading (80%, insurance-related) from reading her mother's personal correspondence to Roseanne, and does the latter anyway. Paired with keeping a running password file well beyond what any single task requires, this suggests a recurring gap between the boundary she names and the one she keeps.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L12",
+                  "quote": "I'd say it's necessary, and like eighty percent of it is necessary... but I also read the emails she sends to her friend Roseanne."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other caretaking or oversight roles, check whether she monitors people's private communications past the point she'd call justified if asked directly."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Alyssa is the one who holds the entire operational picture of a crisis when everyone else sees only their piece.",
+              "explanation": "Within four months she consolidated mail, finances, phone plan, medications, and passwords into one coherent system, and sent detailed weekly briefings synthesizing appointments and medication changes. This is not just diligence — it's a specific capacity to build and maintain a single source of truth under chaotic conditions.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L6",
+                  "quote": "Within like four months I had her mail forwarding to my place, I had her on my phone plan, I was doing her bills, I'd set up the pill thing."
+                },
+                {
+                  "exp": 4,
+                  "line": "L22",
+                  "quote": "here's the appointment, here's what the neurologist said, here's the medication change, xoxo."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, colleagues will come to her during ambiguous or fast-moving situations to get 'the real status' because she's the one who has synthesized all the moving parts."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "Alyssa refuses help she says she wants, then becomes furious that no one is helping.",
+              "explanation": "She told Nic not to come to appointments and told Kelsey repeatedly not to fly out, then exploded at Kelsey for never offering — even though Kelsey says she asked a hundred times. The pattern recurs across two different relationships with the same structure: decline offered support, then resent its absence.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L46",
+                  "quote": "no, babe, it's four hours in a waiting room, it's so boring, you don't need to do that."
+                },
+                {
+                  "exp": 4,
+                  "line": "L33",
+                  "quote": "I have asked you a hundred times if I should come out and you always say don't, we're fine, don't waste the flight."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future work delegation situations, she'll decline offers of help from colleagues, then privately resent carrying the load alone.",
+              "exp": 4
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Alyssa crosses her own stated boundaries around information she frames as invasive.",
+              "explanation": "She distinguishes 'necessary' email reading (80%, insurance-related) from reading her mother's personal correspondence to Roseanne, and does the latter anyway. Paired with keeping a running password file well beyond what any single task requires, this suggests a recurring gap between the boundary she names and the one she keeps.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L12",
+                  "quote": "I'd say it's necessary, and like eighty percent of it is necessary... but I also read the emails she sends to her friend Roseanne."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other caretaking or oversight roles, check whether she monitors people's private communications past the point she'd call justified if asked directly.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Alyssa operates on the belief that if she doesn't personally hold every detail, the whole situation will fall apart.",
+              "reason": "restated",
+              "note": "She explicitly says this herself ('somebody has to hold the whole picture') — the candidate just repackages her own stated rationale as an inferred belief."
+            },
+            {
+              "headline": "Alyssa protects her mother's dignity even at the cost of her own accurate self-presentation.",
+              "reason": "flattering",
+              "note": "Single small anecdote (not correcting a harmless 'doctor' claim) dressed up as a value about self-sacrifice; also plausibly just not wanting an awkward conversation, not evidence of a costly choice."
+            },
+            {
+              "headline": "Alyssa is the one who holds the entire operational picture of a crisis when everyone else sees only their piece.",
+              "explanation": "restated_and_flattering",
+              "reason": "flattering",
+              "note": "Just re-describes what she already told us she did (consolidated accounts, sent updates) and frames competent crisis management as a rare 'genius' — this is what any diligent caregiver in her position does, not a distinctive strength she's uniquely lit up by."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "Alyssa refuses help she says she wants, then becomes furious that no one is helping.",
+            "explanation": "She told Nic not to come to appointments and told Kelsey repeatedly not to fly out, then exploded at Kelsey for never offering — even though Kelsey says she asked a hundred times. The pattern recurs across two different relationships with the same structure: decline offered support, then resent its absence.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L46",
+                "quote": "no, babe, it's four hours in a waiting room, it's so boring, you don't need to do that."
+              },
+              {
+                "exp": 4,
+                "line": "L33",
+                "quote": "I have asked you a hundred times if I should come out and you always say don't, we're fine, don't waste the flight."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In future work delegation situations, she'll decline offers of help from colleagues, then privately resent carrying the load alone.",
+            "exp": 4
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Alyssa crosses her own stated boundaries around information she frames as invasive.",
+            "explanation": "She distinguishes 'necessary' email reading (80%, insurance-related) from reading her mother's personal correspondence to Roseanne, and does the latter anyway. Paired with keeping a running password file well beyond what any single task requires, this suggests a recurring gap between the boundary she names and the one she keeps.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L12",
+                "quote": "I'd say it's necessary, and like eighty percent of it is necessary... but I also read the emails she sends to her friend Roseanne."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In other caretaking or oversight roles, check whether she monitors people's private communications past the point she'd call justified if asked directly.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "Second year of counseling program includes an experiential group counseling class, in a process group with the cohort for fourteen weeks."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Twelve people in a circle in a basement room; professor speaks rarely."
+            },
+            {
+              "line": "L6",
+              "what_happened": "People were sobbing in week three."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker gives example of own behavior: noticing when someone went quiet, saying \"hey, Tomás, you shifted when Marley said that, what came up for you.\""
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker received positive feedback from the professor."
+            },
+            {
+              "line": "L14",
+              "what_happened": "In week eleven, Denise said: \"Alyssa, I've been in this room with you for eleven weeks and I could describe your family system in detail and I don't know one true thing about you.\""
+            },
+            {
+              "line": "L17",
+              "what_happened": "Speaker had a response ready within about four seconds."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Speaker's verbatim response quoted, including reference to attachment patterns and mother."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Tomás said \"wow.\" Professor nodded and moved discussion to Marley's topic about her father. Two people told speaker afterward that was the most vulnerable thing they'd heard all semester."
+            },
+            {
+              "line": "L21",
+              "what_happened": "Speaker drove to Golden and sat in the parking lot by the Coors plant for about an hour and a half."
+            },
+            {
+              "line": "L25",
+              "what_happened": "The following Thursday, speaker left the cohort group chat."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Group chat had about ninety messages a day, described as logistics and memes; speaker states having a lot on plate with practicum."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Two people texted separately asking if speaker was okay; speaker replied \"totally, just cutting down on notifications.\" Speaker has not seen them outside class since."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker did not follow up with Denise about the incident."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Client R, age 23, in session six told speaker something he said he'd never told anyone."
+            },
+            {
+              "line": "L44-L46",
+              "what_happened": "Speaker and Nic are looking at properties to buy; saw a duplex in Berkeley last month with a sunroom; Nic is making a spreadsheet with tabs."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Speaker reports sleeping four hours, being in the pool at nine at night, cleaning grout with a toothbrush at midnight."
+            },
+            {
+              "line": "L51",
+              "what_happened": "Speaker references \"Jeremy in 2012\" as having the \"exact same shape.\""
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker has not told Nic about the activation/reaction; plans to bring it to own therapy."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L18",
+              "choice_made": "Responded to Denise's confrontation immediately with an analytical/clinical explanation of own pattern",
+              "alternatives_present_in_text": "None stated; speaker notes only that she \"had an answer in about four seconds\""
+            },
+            {
+              "line": "L25",
+              "choice_made": "Left the cohort group chat",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L30",
+              "choice_made": "Told two concerned people \"totally, just cutting down on notifications\"",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L34",
+              "choice_made": "Did not follow up with Denise",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L57",
+              "choice_made": "Has not told Nic about her activation; decided to bring it to her own therapy instead",
+              "alternatives_present_in_text": "Speaker states reason: \"because he's so happy about the sunroom and I don't want to put that on him\""
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L7",
+              "quote": "I was good in that group."
+            },
+            {
+              "line": "L9",
+              "quote": "I was really good."
+            },
+            {
+              "line": "L18",
+              "quote": "I have a pretty deeply grooved pattern where I take the helper position because being the one who's known feels unsafe, that's my attachment stuff, my mom used me as her container when I was small and I learned that access is the currency I have"
+            },
+            {
+              "line": "L28",
+              "quote": "Good boundary."
+            },
+            {
+              "line": "L36-37",
+              "quote": "I love it. That's the thing, I genuinely love it."
+            },
+            {
+              "line": "L49-50",
+              "quote": "It's my abandonment stuff. Anytime something becomes permanent my nervous system reads permanent as, this is the thing that's going to be taken from you."
+            },
+            {
+              "line": "L52",
+              "quote": "The difference is now I can name it while it's happening, which is everything."
+            },
+            {
+              "line": "L59-61",
+              "quote": "Honestly I think I'm the healthiest I have ever been in my life. Like genuinely. I can see myself so clearly now."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L15",
+              "quote": "I feel like I'm being handled."
+            },
+            {
+              "line": "L22",
+              "quote": "I'm not totally sure why."
+            },
+            {
+              "line": "L23-24",
+              "quote": "It was fine. I was fine."
+            },
+            {
+              "line": "L39",
+              "quote": "I felt this like, click."
+            },
+            {
+              "line": "L47",
+              "quote": "I have been so activated."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "fine",
+              "lines": [
+                "L23",
+                "L24"
+              ]
+            },
+            {
+              "phrase": "I love it / genuinely",
+              "lines": [
+                "L36",
+                "L37"
+              ]
+            },
+            {
+              "phrase": "that's my [X] stuff",
+              "lines": [
+                "L18",
+                "L49"
+              ]
+            },
+            {
+              "phrase": "I can see",
+              "lines": [
+                "L51",
+                "L61"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L22",
+              "quote": "And I'm not totally sure why.",
+              "note": "Speaker states uncertainty about own reaction (driving to Golden, sitting in parking lot) and moves to next topic without further exploration."
+            },
+            {
+              "line": "L23-25",
+              "quote": "It was fine. I was fine. And then the following — I think it was that Thursday — I left the cohort group chat.",
+              "note": "Speaker states things were fine twice, then immediately reports leaving the group chat, without connecting statement to the leaving."
+            },
+            {
+              "line": "L34",
+              "quote": "I did not follow up with her about it.",
+              "note": "Stated briefly, followed immediately by shift to new topic (practicum) at L35."
+            },
+            {
+              "line": "L39",
+              "quote": "I know what the ethical answer is here, but I felt this like, click.",
+              "note": "Speaker names an ethical consideration but does not elaborate on what it is before moving to describing the feeling."
+            },
+            {
+              "line": "L57",
+              "quote": "I haven't said any of it to Nic",
+              "note": "Stated and then immediately followed by reasoning and redirection to therapy, without further detail."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Denise",
+              "lines": [
+                "L13",
+                "L14",
+                "L32",
+                "L33",
+                "L34"
+              ],
+              "what_they_did": "Fifty-something former hospice chaplain in the group; told speaker, kindly, that after eleven weeks she could describe speaker's family system but didn't know one true thing about her; speaker describes current relationship with Denise as \"fine\" and \"friendly,\" with no follow-up conversation."
+            },
+            {
+              "who": "Tomás",
+              "lines": [
+                "L10",
+                "L20"
+              ],
+              "what_they_did": "Was addressed by speaker in group (\"you shifted when Marley said that\"); said \"wow\" after speaker's response to Denise."
+            },
+            {
+              "who": "The professor",
+              "lines": [
+                "L5",
+                "L11",
+                "L20"
+              ],
+              "what_they_did": "Spoke rarely in group by design; gave speaker positive feedback; nodded and moved discussion along to Marley's topic after speaker's response to Denise."
+            },
+            {
+              "who": "Marley",
+              "lines": [
+                "L10",
+                "L20"
+              ],
+              "what_they_did": "Referenced as someone speaker responded to in group (L10); had a topic about her dad that group moved to after Denise's exchange (L20)."
+            },
+            {
+              "who": "Two unnamed cohort members",
+              "lines": [
+                "L20",
+                "L30"
+              ],
+              "what_they_did": "Told speaker her response was \"the most vulnerable thing they'd heard all semester\"; later texted separately to ask if speaker was okay after she left the group chat."
+            },
+            {
+              "who": "R (client)",
+              "lines": [
+                "L38"
+              ],
+              "what_they_did": "23-year-old client who told speaker in session six something he said he'd never told anyone."
+            },
+            {
+              "who": "Nic",
+              "lines": [
+                "L44",
+                "L46",
+                "L57"
+              ],
+              "what_they_did": "Looking at houses/duplex with speaker; excited, working on a spreadsheet with tabs; has not been told about speaker's activation."
+            },
+            {
+              "who": "Jeremy",
+              "lines": [
+                "L51"
+              ],
+              "what_they_did": "Referenced by name only, associated with 2012 and described as \"exact same shape\" as current pattern; no further detail given."
+            },
+            {
+              "who": "Speaker's mother",
+              "lines": [
+                "L18"
+              ],
+              "what_they_did": "Per speaker's account, \"used me as her container when I was small.\""
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "Alyssa performs vulnerability skillfully but withdraws from the people who actually witnessed the real thing.",
+              "explanation": "She gave a fluent, clinically-framed answer to Denise's confrontation that read as vulnerable to the room, then physically fled (parking lot for 90 minutes), quietly exited the group chat, and deflected two people who checked on her with a cover story. She never followed up with Denise despite calling their relationship 'fine.' The same shape may recur with Nic, whom she is also not telling about what's actually happening.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L18",
+                  "quote": "I said something like, that lands, and I think what you're naming is real, I have a pretty deeply grooved pattern where I take the helper position"
+                },
+                {
+                  "exp": 5,
+                  "line": "L21",
+                  "quote": "I drove to Golden and sat in the parking lot by the Coors plant for like an hour and a half"
+                },
+                {
+                  "exp": 5,
+                  "line": "L30",
+                  "quote": "Two people texted me separately to ask if I was okay and I said totally, just cutting down on notifications"
+                },
+                {
+                  "exp": 5,
+                  "line": "L34",
+                  "quote": "I did not follow up with her about it."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her marriage/partnership with Nic, when real closeness or conflict arises, she will offer an articulate explanation of her feelings but withhold the raw, unprocessed version and quietly create distance rather than stay in the discomfort with him."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Alyssa believes that being truly known is unsafe, and that fluent self-analysis is a substitute for actually being known.",
+              "explanation": "Her own words name the belief directly: being 'the one who's known feels unsafe' and 'access is the currency I have.' The four-second, textbook-perfect response to Denise's precise challenge (that she isn't known) demonstrates the belief in action — she met a moment demanding exposure with expertise instead.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L18",
+                  "quote": "I take the helper position because being the one who's known feels unsafe, that's my attachment stuff... I learned that access is the currency I have"
+                },
+                {
+                  "exp": 5,
+                  "line": "L14",
+                  "quote": "I could describe your family system in detail and I don't know one true thing about you"
+                },
+                {
+                  "exp": 5,
+                  "line": "L17",
+                  "quote": "I had an answer in about four seconds."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In therapy of her own, she will be articulate and insightful about her patterns while her actual therapist struggles to get to material she hasn't already pre-processed and packaged."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Alyssa is exceptional at reading what's happening in someone else and naming it precisely, and it's where she comes alive.",
+              "explanation": "She spontaneously tracked a subtle shift in Tomás during group and named it aloud; the professor praised her for it; and with her client R she describes an almost somatic 'click' of rightness when someone hands her something heavy. This is not just competence — it's flagged as the thing she loves and feels most herself doing.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L10",
+                  "quote": "I was the one who'd go, hey, Tomás, you shifted when Marley said that, what came up for you"
+                },
+                {
+                  "exp": 5,
+                  "line": "L39",
+                  "quote": "I felt — I mean, I know what the ethical answer is here, but I felt this like, click."
+                },
+                {
+                  "exp": 5,
+                  "line": "L43",
+                  "quote": "Somebody hands you the heaviest thing they have and you can hold it and not flinch."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career direction, she will gravitate toward client work over administrative or research tracks in her field, and will get some of her strongest performance feedback specifically on attunement and presence rather than technical/procedural skill."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Alyssa's stress shows up as compulsive nighttime physical activity, and she names the cause but not to the person it involves.",
+              "explanation": "She links her current insomnia, late-night swimming, and midnight grout-scrubbing directly to fear of the duplex purchase, and explicitly compares it to 'Jeremy in 2012' as the 'exact same shape' — a second instance she flags herself. Yet she has decided to process this alone in her own therapy rather than tell Nic, echoing the pattern with Denise of insight without disclosure to the person actually present.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L48",
+                  "quote": "Like sleeping four hours, in the pool at nine at night, cleaning the grout with a toothbrush at midnight"
+                },
+                {
+                  "exp": 5,
+                  "line": "L51",
+                  "quote": "Same as Jeremy in 2012, exact same shape, I can see it from orbit."
+                },
+                {
+                  "exp": 5,
+                  "line": "L57",
+                  "quote": "I haven't said any of it to Nic because he's so happy about the sunroom and I don't want to put that on him"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "As the home purchase with Nic moves forward, tension or distance will surface in the relationship around the closing date or move-in, without Nic understanding why, because she will have managed her fear privately rather than with him."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "Alyssa performs vulnerability skillfully but withdraws from the people who actually witnessed the real thing.",
+              "explanation": "She gave a fluent, clinically-framed answer to Denise's confrontation that read as vulnerable to the room, then physically fled (parking lot for 90 minutes), quietly exited the group chat, and deflected two people who checked on her with a cover story. She never followed up with Denise despite calling their relationship 'fine.' The same shape may recur with Nic, whom she is also not telling about what's actually happening.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L18",
+                  "quote": "I said something like, that lands, and I think what you're naming is real, I have a pretty deeply grooved pattern where I take the helper position"
+                },
+                {
+                  "exp": 5,
+                  "line": "L21",
+                  "quote": "I drove to Golden and sat in the parking lot by the Coors plant for like an hour and a half"
+                },
+                {
+                  "exp": 5,
+                  "line": "L30",
+                  "quote": "Two people texted me separately to ask if I was okay and I said totally, just cutting down on notifications"
+                },
+                {
+                  "exp": 5,
+                  "line": "L34",
+                  "quote": "I did not follow up with her about it."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her marriage/partnership with Nic, when real closeness or conflict arises, she will offer an articulate explanation of her feelings but withhold the raw, unprocessed version and quietly create distance rather than stay in the discomfort with him.",
+              "exp": 5
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "When confronted with a precise emotional truth, Alyssa's fastest response is a polished clinical explanation rather than a direct one.",
+              "explanation": "Denise's confrontation was specific and unadorned. Alyssa's reply, produced in four seconds, was a fully-formed clinical narrative (attachment stuff, 'container,' 'currency') that impressed the room and ended the moment — but she then physically left, avoided the chat, and never returned to Denise directly. The gap between the speed/fluency of the explanation and the absence of any follow-up suggests the explanation itself functioned as the exit rather than an opening.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L17",
+                  "quote": "I had an answer in about four seconds."
+                },
+                {
+                  "exp": 5,
+                  "line": "L20",
+                  "quote": "two people told me that was the most vulnerable thing they'd heard all semester"
+                },
+                {
+                  "exp": 5,
+                  "line": "L34",
+                  "quote": "I did not follow up with her about it."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future moments where someone names something true and uncomfortable about her directly, she will produce a fast, well-formed explanation that satisfies the room but does not lead to any follow-up conversation with that person afterward.",
+              "exp": 5
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Alyssa believes that being truly known is unsafe, and that fluent self-analysis is a substitute for actually being known.",
+              "reason": "restated",
+              "note": "L18 is Alyssa stating this belief nearly verbatim herself ('being the one who's known feels unsafe,' 'access is the currency I have') — this isn't an inference, it's a transcription of her own words back to her."
+            },
+            {
+              "headline": "Alyssa is exceptional at reading what's happening in someone else and naming it precisely, and it's where she comes alive.",
+              "reason": "flattering",
+              "note": "Reads as praise dressed as analysis; also unfalsifiable as stated ('comes alive') and the 'genius' label isn't earned distinctly from ordinary counseling-student competence — noticing shifts in group therapy is literally the skill being trained and graded in that class."
+            },
+            {
+              "headline": "Alyssa's stress shows up as compulsive nighttime physical activity, and she names the cause but not to the person it involves.",
+              "reason": "restated",
+              "note": "Alyssa already explicitly names the cause, the mechanism, and the historical parallel herself (L48-L53: 'it's my abandonment stuff,' 'same as Jeremy in 2012, exact same shape') — there is no inference left for the insight to add; it just repackages her own diagnosis."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "Alyssa performs vulnerability skillfully but withdraws from the people who actually witnessed the real thing.",
+            "explanation": "She gave a fluent, clinically-framed answer to Denise's confrontation that read as vulnerable to the room, then physically fled (parking lot for 90 minutes), quietly exited the group chat, and deflected two people who checked on her with a cover story. She never followed up with Denise despite calling their relationship 'fine.' The same shape may recur with Nic, whom she is also not telling about what's actually happening.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L18",
+                "quote": "I said something like, that lands, and I think what you're naming is real, I have a pretty deeply grooved pattern where I take the helper position"
+              },
+              {
+                "exp": 5,
+                "line": "L21",
+                "quote": "I drove to Golden and sat in the parking lot by the Coors plant for like an hour and a half"
+              },
+              {
+                "exp": 5,
+                "line": "L30",
+                "quote": "Two people texted me separately to ask if I was okay and I said totally, just cutting down on notifications"
+              },
+              {
+                "exp": 5,
+                "line": "L34",
+                "quote": "I did not follow up with her about it."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In her marriage/partnership with Nic, when real closeness or conflict arises, she will offer an articulate explanation of her feelings but withhold the raw, unprocessed version and quietly create distance rather than stay in the discomfort with him.",
+            "exp": 5
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "When confronted with a precise emotional truth, Alyssa's fastest response is a polished clinical explanation rather than a direct one.",
+            "explanation": "Denise's confrontation was specific and unadorned. Alyssa's reply, produced in four seconds, was a fully-formed clinical narrative (attachment stuff, 'container,' 'currency') that impressed the room and ended the moment — but she then physically left, avoided the chat, and never returned to Denise directly. The gap between the speed/fluency of the explanation and the absence of any follow-up suggests the explanation itself functioned as the exit rather than an opening.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L17",
+                "quote": "I had an answer in about four seconds."
+              },
+              {
+                "exp": 5,
+                "line": "L20",
+                "quote": "two people told me that was the most vulnerable thing they'd heard all semester"
+              },
+              {
+                "exp": 5,
+                "line": "L34",
+                "quote": "I did not follow up with her about it."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In future moments where someone names something true and uncomfortable about her directly, she will produce a fast, well-formed explanation that satisfies the room but does not lead to any follow-up conversation with that person afterward.",
+            "exp": 5
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "She believes fluent self-analysis is proof of health, when across her life it has functioned as the mechanism that ends contact rather than deepens it.",
+          "explanation": "In E2 she delivers a polished 'I have work to do on myself' speech that leaves Jeremy with nothing to say back, and in E5 she produces a clinically fluent attachment-narrative in four seconds that impresses the room but is followed by fleeing to a parking lot and quietly exiting the group chat. In E5 she explicitly credits naming things as 'the whole difference' between now and 2012 ('same shape, I can see it from orbit... that's ten years of therapy'), yet the behavior after naming it — no follow-up with Denise, no disclosure to Nic — is structurally identical to the behavior after the unnamed version in 2012. The insight is a genuine contradiction: she believes articulation equals resolution, but the record shows articulation is what she does instead of staying.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I delivered it like a closing argument and he didn't have anything to say back to it because how do you argue with somebody doing work on themselves"
+            },
+            {
+              "exp": 5,
+              "quote": "Same as Jeremy in 2012, exact same shape, I can see it from orbit. The difference is now I can name it while it's happening, which is everything."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "contradiction",
+          "would_predict": "In couples therapy or a serious conflict with Nic, she will produce an insightful, well-formed account of her own dynamics that visibly satisfies the therapist/room, but will not change what she actually tells Nic directly afterward."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Every account of acute overload ends in a specific solitary, body-based ritual performed alone at night — never in reaching for a person present in the room with her.",
+          "explanation": "The kitchen at 11pm-midnight organizing cereal by height (E1), the ninety-minute silent drives to Idaho Springs (E2), the 2am closet reorganization by sleeve length followed by a 2:45am yogurt run (E3), and nightly mile-long swims until the lights dim (E4) form an unbroken sequence across four different decades and four different stressors — divorce, breakup, layoff, caretaking. In every single instance the person physically nearby (mother, Jeremy, coworkers, Nic) is not told; the ritual substitutes for disclosure.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I would get up at eleven, midnight, and I would go down and unload the dishwasher and wipe the counters and put the cereal boxes back in the cabinet in order."
+            },
+            {
+              "exp": 3,
+              "quote": "I took everything out of my bedroom closet and reorganized it by sleeve length until two in the morning."
+            },
+            {
+              "exp": 4,
+              "quote": "I would swim until they turned the lights down... Sometimes a mile, sometimes more."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "During the home purchase with Nic (already showing 'cleaning the grout with a toothbrush at midnight' in E5), watch whether she ever tells him directly she is struggling before the closing, or whether the ritual runs its course silently and she reports 'I'm fine' when he asks."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "She believes she must decline help before it's offered, and this is not incidental caution but load-bearing across relationships with her mother, sister, and partner.",
+          "explanation": "In E4 she tells Nic not to attend appointments ('you don't need to do that') and tells Kelsey repeatedly not to fly out, then explodes that no one offered — Kelsey's rebuttal ('I have asked you a hundred times') stands uncontested. This is the same belief visible in E2's core pattern of leaving before being left: closeness or dependence is something she pre-empts and controls the terms of, whether by exiting (E2) or by refusing entry (E4), so she is never the one who is caught needing.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "no, babe, it's four hours in a waiting room, it's so boring, you don't need to do that."
+            },
+            {
+              "exp": 2,
+              "quote": "I leave before I'm left."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "During the home-buying process with Nic (E5), she will likely tell him she's fine handling the logistics/stress alone even as she is 'so activated,' rather than asking him to take something off her plate."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Privileged, secret access to another person's inner life recurs as her way of managing anxiety about where she stands with them, and she names it as uncomfortable each time without stopping it.",
+          "explanation": "She read her mother's hidden diary for two years (E1), read two years of Jeremy's email at 2am and later tracked him through a mutual friend's Instagram (E2), and now holds every password to her mother's accounts and reads her mother's personal emails to Roseanne beyond what she calls 'necessary' (E4). Each time she frames it as extraordinary or uncomfortable ('I'm not proud of that,' 'this is silly,' 'I'd say it's necessary... but') yet the underlying behavior — covertly monitoring someone she is entangled with to resolve uncertainty about the relationship — repeats across three different relationships spanning nearly 25 years.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I get very uncomfortable when I don't know where people are, mentally. Like where they are with me."
+            },
+            {
+              "exp": 4,
+              "quote": "I also read the emails she sends to her friend Roseanne. So I know what she thinks about my relationship."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "Worth her checking whether she has ever looked at Nic's phone, email, or messages to resolve uncertainty about where their relationship stands, particularly during the current high-stakes home purchase."
+        },
+        {
+          "category": "core_values",
+          "headline": "She protects other people's dignity and autonomy through unattributed, costly action, even when the personal cost is real and no one will ever attribute it to her.",
+          "explanation": "In E3 she quietly steered Danielle away from a bad financial decision without breaking confidentiality, and separately sent an anonymous donation to a laid-off employee's sick child specifically because 'it was important that it was from nobody.' In E1, decades earlier, she let her younger sister Kelsey stay a 'normal nine-year-old' by absorbing the burden of their mother's crisis alone rather than sharing or offloading the weight onto her — a choice that cost her sleep and childhood but protected Kelsey's. The through-line is that she will take on real cost to shield someone else's stability or standing, and prefers that the shielding go unseen.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "It was important to me that it was anonymous... It was important that it was from nobody."
+            },
+            {
+              "exp": 1,
+              "quote": "Kelsey didn't know any of it. Kelsey was out riding her bike being a normal ten — nine-year-old. I never told her."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In her therapy practice, she will likely go beyond the required scope to protect a client's dignity in ways she does not log, bill for, or mention to supervisors."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "She reports feeling calm or resolved at the exact moments a clinical read would expect the opposite, and this gap between stated affect and stakes recurs unexamined.",
+          "explanation": "After reading two years of Jeremy's private email at 2am — an act she elsewhere calls not being proud of — she reports 'I felt very calm, actually. I felt like I had my footing back' (E2). Standing in a grocery aisle at 2:45am the night of executing nineteen layoff conversations and getting shingles from the stress, she narrates 'okay, this is fine, I'm fine' (E3). Both times the calm is reported immediately after, not before, an objectively destabilizing act or day, suggesting the ritual/act itself is what produces the calm rather than being incidental to it.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I sat there at two in the morning on my floor reading this man being lovely about me and I just — I don't know. I felt very calm, actually."
+            },
+            {
+              "exp": 3,
+              "quote": "I remember standing in the dairy aisle at like two forty-five a.m. going, okay, this is fine, I'm fine."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "Check whether her sense of calm/control tends to arrive right after a covert, controlling act (checking someone's information, executing a hard task alone) rather than before it — which would suggest the act is regulating anxiety, not just managing external chaos."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "She discloses her most self-implicating information inside structured, third-party-witnessed settings (therapy narration, supervision, this interview) rather than to the people it concerns.",
+          "explanation": "She has never told Kelsey she read the diary (E1) or told Kelsey how she really feels until an explosive one-off outburst rather than ongoing honesty (E4); she never followed up with Denise after the group process moment (E5); yet she is fluently forthcoming about all of it here and in supervision/therapy. The pattern is not an inability to articulate — she articulates brilliantly — it's that the articulation consistently goes to a professional or anonymous audience instead of the person involved.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I'm thirty-eight and my sister does not know that I read our mother's diary for two years"
+            },
+            {
+              "exp": 5,
+              "quote": "I did not follow up with her about it."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "She will be able to give her own therapist a precise, moving account of her fear about the home purchase with Nic, while Nic himself continues to only see the sunroom excitement and the toothbrush-cleaned grout."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe naming a pattern out loud is the same as changing it, but every time you've named it, you've done the old thing anyway right afterward.",
+          "explanation": "You told Jeremy a fluent speech about needing to grow that left him with nothing to say back, and years later you produced a four-second clinical read of your own attachment pattern that made a whole room say \"wow.\" In both cases the articulation was followed immediately by the same avoidant move it supposedly explained: leaving Jeremy, then fleeing to a parking lot and quietly leaving the group chat. You call naming it \"everything\" and \"the whole difference,\" but the record right after each naming looks identical to the record right after the unnamed version in 2012.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I delivered it like a closing argument and he didn't have anything to say back to it because how do you argue with somebody doing work on themselves"
+            },
+            {
+              "exp": 5,
+              "quote": "Same as Jeremy in 2012, exact same shape, I can see it from orbit. The difference is now I can name it while it's happening, which is everything."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise if you noticed yourself changing behavior toward the person in the room within days of naming something, rather than after a parking-lot drive or a quiet exit; would fall if you can point to a case where naming it actually changed what you did next with the person involved.",
+          "would_predict": "In couples therapy or a hard conversation with Nic, you'll produce an insightful, well-formed account of your own dynamics that visibly satisfies the room, but it won't change what you actually tell Nic directly afterward."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Every time you've been overloaded, you've handled it with a solitary ritual at night — never by turning to the person standing right next to you.",
+          "explanation": "Organizing cereal by height at midnight, ninety-minute silent drives to Idaho Springs, reorganizing your closet by sleeve length at 2am then buying yogurt at 2:45am, swimming a mile a night until the lights dim — four different decades, four different crises, and in every one the person physically near you (your mother, Jeremy, coworkers, Nic) wasn't told. The ritual replaces telling someone.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I would get up at eleven, midnight, and I would go down and unload the dishwasher and wipe the counters and put the cereal boxes back in the cabinet in order."
+            },
+            {
+              "exp": 3,
+              "quote": "I took everything out of my bedroom closet and reorganized it by sleeve length until two in the morning."
+            },
+            {
+              "exp": 4,
+              "quote": "I would swim until they turned the lights down... Sometimes a mile, sometimes more."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise if the pattern shows up again during the home purchase; would fall if you can show even one instance where you told someone directly you were struggling before or during the ritual, rather than after it or not at all.",
+          "would_predict": "During the home purchase with Nic — where you're already \"cleaning the grout with a toothbrush at midnight\" — you'll keep doing the ritual privately and tell him you're fine when he asks, rather than telling him directly you're struggling before closing."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You decline help before it's offered — this isn't caution, it's how you make sure you're never caught needing anyone.",
+          "explanation": "You told Nic he didn't need to come to appointments and told Kelsey repeatedly not to fly out, then got furious that no one offered — and Kelsey's answer, that she'd asked a hundred times, stood without pushback from you. This is the same move as leaving Jeremy before he could leave you: you control the terms of closeness by pre-empting it, whether that means exiting early or refusing entry, so you're never the one exposed as needing something.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "no, babe, it's four hours in a waiting room, it's so boring, you don't need to do that."
+            },
+            {
+              "exp": 2,
+              "quote": "I leave before I'm left."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise if this shows up again during the home purchase — you telling Nic you're handling everything fine while \"so activated\"; would fall if you ask him directly to take something off your plate before you're at your limit.",
+          "would_predict": "During the home-buying process, you'll likely tell Nic you're fine handling the logistics and stress alone rather than asking him to take something off your plate, even while sleeping four hours a night."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You've gotten secret access to people's inner lives to settle your own anxiety about where you stand with them — three times, across 25 years, and you flag it as uncomfortable every time without stopping it.",
+          "explanation": "You read your mother's hidden diary for two years, read two years of Jeremy's private email at 2am and later tracked him through a friend's Instagram, and now hold every password to your mother's accounts and read her private emails to her friend Roseanne beyond what you call \"necessary.\" Each time you name it as extraordinary — \"I'm not proud of that,\" \"this is silly\" — but the behavior repeats: covertly monitoring someone you're entangled with to resolve not knowing where you stand with them.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I get very uncomfortable when I don't know where people are, mentally. Like where they are with me."
+            },
+            {
+              "exp": 4,
+              "quote": "I also read the emails she sends to her friend Roseanne. So I know what she thinks about my relationship."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise or fall depending on whether you've ever looked at Nic's phone or messages to resolve uncertainty about the relationship, especially now, during the home purchase.",
+          "would_predict": "Worth checking honestly whether you've ever looked at Nic's phone, email, or messages to settle uncertainty about where things stand between you, particularly during this high-stakes purchase."
+        },
+        {
+          "category": "core_values",
+          "headline": "You take on real, uncredited cost to protect other people's dignity — and you actively prefer that no one ever finds out it was you.",
+          "explanation": "You quietly steered Danielle away from a bad financial decision without breaking confidentiality about the layoffs, and separately sent an anonymous donation to a laid-off employee's sick child specifically because \"it was important that it was from nobody.\" Decades earlier you let your younger sister Kelsey stay a normal nine-year-old by carrying your mother's crisis alone rather than involving her — a choice that cost you sleep and childhood to protect Kelsey's. You take on cost to shield someone else, and you'd rather the shielding stay invisible.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "It was important to me that it was anonymous... It was important that it was from nobody."
+            },
+            {
+              "exp": 1,
+              "quote": "Kelsey didn't know any of it. Kelsey was out riding her bike being a normal ten — nine-year-old. I never told her."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would rise with another clear example of unattributed sacrifice; would fall if a case turns up where the anonymity was really about avoiding scrutiny or reciprocity rather than protecting the other person.",
+          "would_predict": "In your therapy practice, you'll likely go beyond the required scope to protect a client's dignity in ways you won't log, bill for, or mention to a supervisor."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You report feeling calm right after doing something covert or destabilizing — not before it — which suggests the act itself is what produces the calm.",
+          "explanation": "After reading two years of Jeremy's private email at 2am, an act you elsewhere say you're not proud of, you report feeling \"very calm, actually\" and like you had your footing back. After executing nineteen layoff conversations in one day and getting shingles from the stress, you're narrating \"okay, this is fine, I'm fine\" in a grocery aisle at 2:45am. Both times the calm arrives immediately after the destabilizing act, not before it, which points to the act regulating something in you rather than being incidental to it.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I sat there at two in the morning on my floor reading this man being lovely about me and I just — I don't know. I felt very calm, actually."
+            },
+            {
+              "exp": 3,
+              "quote": "I remember standing in the dairy aisle at like two forty-five a.m. going, okay, this is fine, I'm fine."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would rise with a clear case where calm follows a covert or controlling act again; would fall if you can identify times you felt calm before acting, which would undercut the idea that the act itself produces the regulation.",
+          "would_predict": "Notice whether your sense of calm tends to arrive right after a covert or controlling act — checking someone's information, pushing through a hard task alone — rather than before it."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You give your most self-implicating disclosures to professional or third-party audiences — therapy, supervision, this interview — and not to the people they're actually about.",
+          "explanation": "You've never told Kelsey you read the diary, and you never told her how you really felt until a one-off explosive outburst rather than ongoing honesty. You never followed up with Denise after the moment in group process. Yet you're fluently forthcoming about all of it here and in supervision. This isn't an inability to articulate — you articulate this brilliantly — it's that the articulation goes to a professional or anonymous audience instead of the person it concerns.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I'm thirty-eight and my sister does not know that I read our mother's diary for two years"
+            },
+            {
+              "exp": 5,
+              "quote": "I did not follow up with her about it."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would rise if this repeats with Nic during the home purchase; would fall if you tell Nic directly what you're currently only planning to bring to your own therapist.",
+          "would_predict": "You'll be able to give your own therapist a precise, moving account of your fear about the home purchase with Nic, while Nic himself continues to only see the sunroom excitement and the grout you scrubbed at midnight."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 3.3955,
+  "latency_ms": 207529,
+  "persona": "p02_self_aware",
+  "n_experiences": 5,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T15:58:59.111695+00:00"
+}

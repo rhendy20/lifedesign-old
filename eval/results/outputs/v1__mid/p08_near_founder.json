@@ -1,0 +1,3247 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "defining_beliefs",
+      "headline": "You turn every moment of real helplessness into something you can build and measure, without ever naming that as your pattern.",
+      "explanation": "On your mission you built a masking-tape grid on the back of a door to track lessons and wake-up times. In the NICU, facing a situation where 'there's no plan,' you built a spreadsheet with a trend line on your infant son. In marriage, you built a shared agenda doc for Sunday-night Council. You draw the connection between only two of these yourself — 'My dad had the truck. I've got the doc' — but you never step back and see all five as the same move.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I made my own board. On the back of our apartment door with masking tape, a grid, every companionship in my district, every day, every number",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I had a chart with a trend line. I had a trend line on my son.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "My dad had the truck. I've got the doc.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In any future domain with no formal system in place and genuine uncertainty — health, finances, a new hobby — you will build a private tracking artifact within days, whether or not anyone asked for it."
+    },
+    {
+      "id": "i2",
+      "category": "patterns_to_explore",
+      "headline": "What you call a principled choice is often your body reacting to being evaluated, and you notice the gap yourself each time without closing it.",
+      "explanation": "In Brazil you wrote a letter framed as humility — 'I didn't want a title' — two weeks before transfer calls, then felt your 'shoulders came down' when passed over. At the startup you avoided the Park City offsite that tracked toward promotion and describe the forecast calls as making you physically sick — 'I've never had that in my life.' With the seed investor you told people it was about dilution, but what you actually dreaded was 'a guy I'd have to call every quarter and explain myself to.' Three separate experiences, same body-first, story-after pattern.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I felt so relaxed. Like my shoulders came down. Physically. And I thought at the time that was the Spirit confirming it.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I felt sick on Wednesdays. Like physically. I'd be in the parking lot at 8:50 not wanting to go in. And I've never had that in my life.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "there'd be a guy I'd have to call every quarter and explain myself to",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "When offered a role or arrangement that increases formal oversight of you specifically — a board, a manager, a performance review process — you will find a values-based reason to decline it before naming the aversion directly."
+    },
+    {
+      "id": "i3",
+      "category": "patterns_to_explore",
+      "headline": "You say you believe in autonomy for others, but your control escalates exactly when the stakes are real, and it has already cost you a person who named it to your face.",
+      "explanation": "You state 'I'm a big believer in autonomy. I really am,' and you resented Doug's ride-alongs enough to dodge every one for a year. Yet you took the Brightway account from Kaylee under pressure and rebuilt every CSM's deck at 11pm — and Kaylee's exit interview cited 'not being trusted' as her reason for leaving. You flag a parallel cost yourself with Whitmore's wake-up log: 'he'd laugh about it but I don't think he thought it was funny. I think about that sometimes.'",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "I'm a big believer in autonomy. I really am.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "she said something about not being trusted, which I heard secondhand",
+          "verbatim": true
+        },
+        {
+          "exp": 2,
+          "quote": "he'd laugh about it but I don't think he thought it was funny. I think about that sometimes.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "As your kids take on real responsibility, you will step in 'to protect them' at exactly the moments that matter most to them, and you'll likely hear a version of Kaylee's or Britt's complaint from one of them eventually."
+    },
+    {
+      "id": "i4",
+      "category": "defining_beliefs",
+      "headline": "You experience closeness with the people you love most through a shared task or system, not through unstructured presence — and you say so directly.",
+      "explanation": "You call the largely silent truck rides with your father 'the closest I ever felt to my dad,' explicitly because 'we didn't talk about anything real, ever.' In the NICU, when Britt asked you to just sit with her, you lasted 'maybe six minutes' before leaving to get coffee for nurses; your marriage's core intimacy ritual is a literal shared agenda doc. You make the connection explicit yourself: 'My dad had the truck. I've got the doc. It's — I think it's the same thing, honestly.'",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "that was the closest I ever felt to my dad, was doing that... We didn't talk about anything real, ever.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I need you to just sit down.\" And I said okay. And I sat down. And I lasted, I'm not exaggerating, maybe six minutes.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "My dad had the truck. I've got the doc. It's — I think it's the same thing, honestly.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In moments of conflict or emotional need with your children as they get older, you will default to proposing an activity, project, or structured ritual together rather than initiating an unstructured emotional conversation."
+    },
+    {
+      "id": "i5",
+      "category": "zone_of_genius",
+      "headline": "Your genius is turning chaos into a visible, ranked structure others organize around — and it's the thing people notice and credit you for, unprompted, across totally different settings.",
+      "explanation": "A mission trainer independently named it: 'Elder, você conta tudo.' At the startup, during a churn crisis, you built a physical sticky-note wall that outperformed the model — '94% gross retention when the model said 88' — and colleagues told your wife you were 'the reason the company didn't fall apart.' This is the same instinct as the tracking-under-helplessness pattern, but here it produces outsized results other people explicitly depend on, not just personal relief.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "Elder, você conta tudo",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "we ended at like 94% gross retention when the model said 88",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "somebody told her I was the reason the company didn't fall apart",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "When you join any new team or crisis, you will instinctively build the tracking or visibility artifact before being asked, and it will become the thing the group organizes around within weeks."
+    },
+    {
+      "id": "i6",
+      "category": "core_values",
+      "headline": "You consistently choose full authorship of the structure over status and money, even when you can name the exact cost of that choice.",
+      "explanation": "You quit wrestling the night before a wrestle-off to instead help order your dad's job list. You walked away from a likely promotion track and skipped the Park City offsite to build your own company. You turned down a seed deal that would have brought real growth because it meant someone else's authority over your quarterly numbers. Each time you name the cost outright — Tanner's record, the forgone VP role, 'we'd probably be at four or five million' — which is what makes this a value rather than a mere preference.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I'd rather be the guy who's building the day than the guy waiting to find out what the day is",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "there'd be a guy I'd have to call every quarter and explain myself to... we'd probably be at four or five million right now if I'd taken it",
+          "verbatim": false
+        },
+        {
+          "exp": 4,
+          "quote": "But I own a hundred percent of it. A hundred.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "You will resist any future arrangement — a board, a co-founder with equal authority, a merger — that dilutes your sole authorship of the structure, even when presented with a clearly superior growth case."
+    },
+    {
+      "id": "i7",
+      "category": "patterns_to_explore",
+      "headline": "Your first account of a hard decision is usually the clean, reasonable one — the truer, more personal version only comes out after that, and it's worth checking whether Britt gets the same sequence.",
+      "explanation": "You call the founder-jump origin story 'eighty percent true' before naming the real trigger, Marcus's forecast calls. You told people the seed deal fell through over 'dilution' before admitting the real driver was avoiding a person you'd have to answer to. And quitting wrestling has 'a bunch of ways' you've told it over the years before landing on the truck-ride version as the one that's 'probably it.' Three separate experiences, same order: rehearsed public frame first, truer private one after.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "I saw a problem nobody was solving for the small contractor... And that's — that's like eighty percent true",
+          "verbatim": false
+        },
+        {
+          "exp": 4,
+          "quote": "I told everybody it was dilution, and yeah, dilution, sure",
+          "verbatim": true
+        },
+        {
+          "exp": 1,
+          "quote": "I've told this a bunch of ways over the years",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "When asked directly by Britt or a close friend why you made a specific hard call, your first answer will be the reasonable, external one, and only a follow-up push will get to the personal one underneath."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L5",
+              "what_happened": "Speaker wrestled growing up in Spanish Fork."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Older brother and father also wrestled."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Sophomore year record was 23 wins and 4 losses."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Two of the four losses were to a wrestler named Ayala from Payson, who placed third at state."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker wrestled at 140 lbs; Tanner Bigelow, a junior, wrestled at 145 lbs and skipped morning lifts."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Coach Nielsen scheduled a wrestle-off for Tuesday to determine who would take varsity 145 for the rest of the season, because speaker was going to move up in weight."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Speaker quit the team on Monday, the day before the scheduled wrestle-off."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Speaker's father owned an HVAC shop and needed help on Saturdays, which conflicted with tournament days."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker began working Saturdays that same week, earning about six dollars an hour doing tasks like handing tools and sweeping."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker told the coach in the hall by the mat room after practice."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Coach responded, \"Okay, Rasmussen,\" and that was his entire response."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Coach went and got his clipboard after responding."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Tanner Bigelow went 8-14 at varsity that year."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker checked and confirmed Tanner's 8-14 record."
+            },
+            {
+              "line": "L34",
+              "what_happened": "That winter, speaker and father drove to wrestling-unrelated job sites on Saturdays (Payson, Elk Ridge, etc., for HVAC work)."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Father would go through the day's jobs out loud in the truck."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Father verbally listed and estimated time for jobs, e.g., \"that's a coil, that's two hours... that's a fifteen minute look.\""
+            },
+            {
+              "line": "L39",
+              "what_happened": "Speaker sat with a clipboard and wrote down the times."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Father never asked speaker why he quit wrestling."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Father is still alive and living in Lehi; the two have still never discussed the quitting decision."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker states Tanner had about eleven pounds on him and tended to tire in the third period of matches."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L13",
+              "choice_made": "Quit the wrestling team on Monday, the night before the wrestle-off.",
+              "alternatives_present_in_text": "Could have competed in the Tuesday wrestle-off against Tanner Bigelow for the varsity 145 spot."
+            },
+            {
+              "line": "L16",
+              "choice_made": "Started working Saturdays at his father's HVAC shop instead of wrestling in tournaments.",
+              "alternatives_present_in_text": "Could have continued wrestling and missed work, or found another arrangement."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L7",
+              "quote": "I wasn't a state kid but I was decent."
+            },
+            {
+              "line": "L18",
+              "quote": "I loved it more than wrestling probably."
+            },
+            {
+              "line": "L46",
+              "quote": "I'd rather be the guy who's building the day than the guy waiting to find out what the day is."
+            },
+            {
+              "line": "L51",
+              "quote": "I've always been like that."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L26",
+              "quote": "I think I wanted him to fight me on it a little"
+            },
+            {
+              "line": "L18",
+              "quote": "I loved it more than wrestling probably"
+            },
+            {
+              "line": "L40",
+              "quote": "that was the closest I ever felt to my dad"
+            },
+            {
+              "line": "L50",
+              "quote": "I just liked that so much better"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "23 and 4 / Twenty-three and four",
+              "lines": [
+                "L8",
+                "L54"
+              ]
+            },
+            {
+              "phrase": "8 and 14 / Eight and fourteen",
+              "lines": [
+                "L29",
+                "L30"
+              ]
+            },
+            {
+              "phrase": "I'm aware",
+              "lines": [
+                "L20",
+                "L21"
+              ]
+            },
+            {
+              "phrase": "That's genuinely all true / That's all true",
+              "lines": [
+                "L15",
+                "L16"
+              ]
+            },
+            {
+              "phrase": "I think I would've",
+              "lines": [
+                "L55",
+                "L56"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L19",
+              "quote": "But, I mean, it was the Monday.",
+              "note": "Speaker shifts abruptly from the extended explanation about wanting money/truck (L15-18) to noting the timing detail without elaborating on the connection to the wrestle-off."
+            },
+            {
+              "line": "L41",
+              "quote": "We didn't talk about anything real, ever.",
+              "note": "Statement made briefly, immediately followed by moving to next point about clipboard, without further detail on what 'real' would have meant."
+            },
+            {
+              "line": "L44",
+              "quote": "he's still alive, he's in Lehi, we still haven't talked about it",
+              "note": "Fact about ongoing lack of communication stated in passing, not elaborated on further."
+            },
+            {
+              "line": "L52",
+              "quote": "Sorry, that was — that's probably longer than you wanted.",
+              "note": "Speaker apologizes for length and moves to close out the narrative."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Older brother",
+              "lines": [
+                "L6"
+              ],
+              "what_they_did": "Wrestled growing up."
+            },
+            {
+              "who": "Father",
+              "lines": [
+                "L6",
+                "L15",
+                "L34",
+                "L36",
+                "L38",
+                "L43",
+                "L44",
+                "L45"
+              ],
+              "what_they_did": "Wrestled in the past; owned/ran an HVAC shop; needed help Saturdays; drove speaker to job sites; verbally listed out jobs in the truck; never asked why speaker quit wrestling; let speaker hold the clipboard; currently lives in Lehi."
+            },
+            {
+              "who": "Ayala",
+              "lines": [
+                "L9"
+              ],
+              "what_they_did": "Wrestler from Payson who beat speaker twice that season and placed third at state."
+            },
+            {
+              "who": "Tanner Bigelow",
+              "lines": [
+                "L11",
+                "L29",
+                "L57"
+              ],
+              "what_they_did": "Junior wrestler at 145 lbs, described as strong but lazy, skipped morning lifts; went 8-14 at varsity that year; had a weight advantage but reportedly tired in the third period."
+            },
+            {
+              "who": "Coach Nielsen",
+              "lines": [
+                "L12",
+                "L24",
+                "L28"
+              ],
+              "what_they_did": "Scheduled the wrestle-off; responded \"Okay, Rasmussen\" when told speaker was quitting; got his clipboard."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes agency (setting the plan) matters more to him than status won by proving himself against others.",
+              "explanation": "He explicitly frames the choice as building the day versus waiting to be told what to do, and generalizes it as a lifelong trait. This is an operating assumption about what kind of role satisfies him, not just a one-off preference.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "I'd rather be the guy who's building the day than the guy waiting to find out what the day is"
+                },
+                {
+                  "exp": 1,
+                  "line": "L51",
+                  "quote": "I've always been like that"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his career, he gravitates toward roles where he sets the schedule or structure (e.g., ownership, project planning, team lead) rather than execution-only roles, even at a pay or prestige cost."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He may retroactively justify a hard decision with a clean, practical story while sitting on unresolved feelings about what it cost relationally.",
+              "explanation": "He offers a tidy financial/logistical explanation for quitting (L15-18) but then undercuts it by stressing the timing ('I'm aware,' repeated) and admits he wanted the coach to fight for him. This gap between the stated reason and the emotional residue, plus the still-unspoken conversation with his father, suggests a pattern of using competence/logic to avoid sitting with relational disappointment.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L20",
+                  "quote": "I'm aware. I'm aware of when it was."
+                },
+                {
+                  "exp": 1,
+                  "line": "L26",
+                  "quote": "I think I wanted him to fight me on it a little"
+                },
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "he's still alive, he's in Lehi, we still haven't talked about it"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In relationships, when he makes a significant decision that disappoints someone he's close to, he explains it in practical terms rather than initiating a conversation about the emotional impact, and the topic stays permanently unaddressed."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes closeness is built through shared, ordered activity rather than direct emotional conversation.",
+              "explanation": "He names the truck rides as the closest he ever felt to his father, explicitly while noting they never talked about anything real. The mechanism of closeness he identifies is doing a task alongside someone (holding the clipboard), not verbal intimacy.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "that was the closest I ever felt to my dad, was doing that"
+                },
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "We didn't talk about anything real, ever."
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "But he let me hold the clipboard."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In his own relationships (e.g., parenting or friendships), he bonds through working alongside someone on a shared task rather than through direct emotional check-ins, and may under-initiate explicit conversations about feelings even when he values the relationship deeply."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He tracks and rehearses evidence that validates his abandoned competitive path, years after the fact.",
+              "explanation": "He actively researched Tanner's losing record, states it twice with emphasis, and still argues in the present that he would have won. This recurring need to re-litigate the outcome he opted out of suggests unresolved competitiveness worth examining.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L31",
+                  "quote": "I actively went and found out, which, that's a weird thing for a fifteen-year-old to do but I did"
+                },
+                {
+                  "exp": 1,
+                  "line": "L55",
+                  "quote": "I still think I would've beat Tanner."
+                },
+                {
+                  "exp": 1,
+                  "line": "L57",
+                  "quote": "he always gassed out in the third"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In his career, when he steps away from a path or competition by choice, he continues tracking how it would have gone and cites specific evidence to argue he'd have won, even long after it's irrelevant."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes agency—setting the plan—matters more to him than status won by proving himself against others.",
+              "explanation": "He explicitly frames the choice as building the day versus waiting to be told what to do, and generalizes it as a lifelong trait. This is an operating assumption about what kind of role satisfies him, not just a one-off preference.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "I'd rather be the guy who's building the day than the guy waiting to find out what the day is"
+                },
+                {
+                  "exp": 1,
+                  "line": "L51",
+                  "quote": "I've always been like that"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his career, he gravitates toward roles where he sets the schedule or structure (e.g., ownership, project planning, team lead) rather than execution-only roles, even at a pay or prestige cost.",
+              "exp": 1
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes closeness is built through shared, ordered activity rather than direct emotional conversation.",
+              "explanation": "He names the truck rides as the closest he ever felt to his father, explicitly while noting they never talked about anything real. The mechanism of closeness he identifies is doing a task alongside someone (holding the clipboard), not verbal intimacy.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "that was the closest I ever felt to my dad, was doing that"
+                },
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "We didn't talk about anything real, ever."
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "But he let me hold the clipboard."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In his own relationships (e.g., parenting or friendships), he bonds through working alongside someone on a shared task rather than through direct emotional check-ins, and may under-initiate explicit conversations about feelings even when he values the relationship deeply.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He may retroactively justify a hard decision with a clean, practical story while sitting on unresolved feelings about what it cost relationally.",
+              "reason": "unfalsifiable",
+              "note": "Only one decision is cited (single event, told in multiple ways over years, not two distinct experiences); the 'still haven't talked about it' fact is consistent with many explanations besides avoidance-via-logic, and there's no way for him to disconfirm the inferred mechanism."
+            },
+            {
+              "headline": "He tracks and rehearses evidence that validates his abandoned competitive path, years after the fact.",
+              "reason": "unfalsifiable",
+              "note": "Cites only one instance (this same wrestling decision) rather than two distinct experiences, so it isn't yet a pattern — it's a single vivid detail from the one story being told, restated as a recurring tendency without a second data point."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "He believes agency—setting the plan—matters more to him than status won by proving himself against others.",
+            "explanation": "He explicitly frames the choice as building the day versus waiting to be told what to do, and generalizes it as a lifelong trait. This is an operating assumption about what kind of role satisfies him, not just a one-off preference.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L46",
+                "quote": "I'd rather be the guy who's building the day than the guy waiting to find out what the day is"
+              },
+              {
+                "exp": 1,
+                "line": "L51",
+                "quote": "I've always been like that"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In his career, he gravitates toward roles where he sets the schedule or structure (e.g., ownership, project planning, team lead) rather than execution-only roles, even at a pay or prestige cost.",
+            "exp": 1
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "He believes closeness is built through shared, ordered activity rather than direct emotional conversation.",
+            "explanation": "He names the truck rides as the closest he ever felt to his father, explicitly while noting they never talked about anything real. The mechanism of closeness he identifies is doing a task alongside someone (holding the clipboard), not verbal intimacy.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L40",
+                "quote": "that was the closest I ever felt to my dad, was doing that"
+              },
+              {
+                "exp": 1,
+                "line": "L41",
+                "quote": "We didn't talk about anything real, ever."
+              },
+              {
+                "exp": 1,
+                "line": "L45",
+                "quote": "But he let me hold the clipboard."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In his own relationships (e.g., parenting or friendships), he bonds through working alongside someone on a shared task rather than through direct emotional check-ins, and may under-initiate explicit conversations about feelings even when he values the relationship deeply.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Mission was ages 19-21, in southern Brazil."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Speaker served in Paraná, including Londrina and Maringá and smaller places."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Duration stated as two years."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Taught a man named Everton who had a bakery and had something rough happen with his brother; Everton was baptized, is still active, has kids, and they are Facebook friends."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Everton sends speaker a message every New Year's."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Every Sunday night, numbers are called in to the district leader."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Numbers reported include lessons taught, new investigators, member presents, baptismal dates."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Numbers roll up from district leader to zone leaders to assistants."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Every Wednesday a fax listing every district's numbers in the mission was received at the chapel; year was 2012."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Speaker would wait for the fax."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Speaker was made district leader at about eight months into the mission."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker made his own board."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Board was on the back of the apartment door, made with masking tape, a grid tracking every companionship in the district, every day, every number."
+            },
+            {
+              "line": "L21",
+              "what_happened": "Companion was Elder Whitmore, who had difficulty getting out of bed; speaker wrote Whitmore's wake-up time on the door."
+            },
+            {
+              "line": "L22",
+              "what_happened": "This wake-up time was written every day."
+            },
+            {
+              "line": "L23",
+              "what_happened": "It was written in marker."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Whitmore laughed about it."
+            },
+            {
+              "line": "L26",
+              "what_happened": "District's lessons-per-week went from four to twenty-six."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Twenty-six lessons with member present."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker was ranked number one on the fax for nine weeks straight."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker read the fax in the bathroom."
+            },
+            {
+              "line": "L32",
+              "what_happened": "About eighteen months in, Elder Pacheco (an assistant) told speaker at a zone conference, 'the president's been talking about you.'"
+            },
+            {
+              "line": "L37",
+              "what_happened": "Transfers were two weeks out; speaker wrote a letter to the mission president."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Speaker asked in the letter to be sent to Ivaiporã."
+            },
+            {
+              "line": "L39",
+              "what_happened": "Ivaiporã was described as a small branch of about sixty members where an elder had gone home early and it was 'a mess.'"
+            },
+            {
+              "line": "L40",
+              "what_happened": "Letter stated speaker wanted to just be a missionary, did not want a title, wanted to work."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Letter was sent before transfer calls, two weeks before."
+            },
+            {
+              "line": "L45",
+              "what_happened": "When transfer calls came through, speaker's name was not among the zone leader assignments."
+            },
+            {
+              "line": "L46",
+              "what_happened": "Speaker's shoulders came down."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Speaker interpreted the feeling at the time as the Spirit confirming the decision."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Speaker wrote the word 'peace' in his journal."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Speaker learned Portuguese, ate dinner with a family (Irmã Solange) about forty times, and she made a dish called pastel."
+            },
+            {
+              "line": "L50",
+              "what_happened": "Speaker initially said Everton was in Ivaiporã, then corrected that Everton was in Maringá."
+            },
+            {
+              "line": "L52",
+              "what_happened": "Speaker ran the branch in Ivaiporã."
+            },
+            {
+              "line": "L53",
+              "what_happened": "Branch president was Irmão Cleber, who worked nights; speaker made the ward council agenda."
+            },
+            {
+              "line": "L54",
+              "what_happened": "Speaker did the records."
+            },
+            {
+              "line": "L55",
+              "what_happened": "Speaker built a board there too."
+            },
+            {
+              "line": "L56",
+              "what_happened": "Board was again on the back of a door."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Board again used masking tape."
+            },
+            {
+              "line": "L58",
+              "what_happened": "Speaker's trainer used to say 'Elder, você conta tudo' ('You count everything')."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L37",
+              "choice_made": "Wrote a letter to the mission president before transfer calls",
+              "alternatives_present_in_text": "Could have said nothing and waited for the transfer call/assignment process"
+            },
+            {
+              "line": "L38",
+              "choice_made": "Requested assignment to Ivaiporã, a small struggling branch",
+              "alternatives_present_in_text": "Implied alternative was accepting or pursuing zone leader/assistant position"
+            },
+            {
+              "line": "L19",
+              "choice_made": "Made his own tracking board with masking tape on the apartment door",
+              "alternatives_present_in_text": "None specified in text"
+            },
+            {
+              "line": "L21",
+              "choice_made": "Wrote companion's wake-up time on the door every day",
+              "alternatives_present_in_text": "None specified in text"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L18",
+              "quote": "I got kind of, uh, I got a little obsessed"
+            },
+            {
+              "line": "L34",
+              "quote": "you're not supposed to want it"
+            },
+            {
+              "line": "L35",
+              "quote": "You're really not supposed to want it"
+            },
+            {
+              "line": "L40",
+              "quote": "I wanted to just be a missionary, I didn't want a title, I wanted to work"
+            },
+            {
+              "line": "L52",
+              "quote": "I ran that branch"
+            },
+            {
+              "line": "L58",
+              "quote": "você conta tudo"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L9",
+              "quote": "Which is amazing"
+            },
+            {
+              "line": "L16",
+              "quote": "oh my gosh"
+            },
+            {
+              "line": "L30",
+              "quote": "felt weird to be that happy about it in front of everybody"
+            },
+            {
+              "line": "L41",
+              "quote": "I meant it!"
+            },
+            {
+              "line": "L45",
+              "quote": "I felt so relaxed"
+            },
+            {
+              "line": "L45",
+              "quote": "this is gonna sound bad"
+            },
+            {
+              "line": "L46",
+              "quote": "my shoulders came down"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "the board / built a board",
+              "lines": [
+                "L11",
+                "L19",
+                "L55"
+              ]
+            },
+            {
+              "phrase": "masking tape",
+              "lines": [
+                "L20",
+                "L57"
+              ]
+            },
+            {
+              "phrase": "back of the door/a door",
+              "lines": [
+                "L20",
+                "L56"
+              ]
+            },
+            {
+              "phrase": "every day",
+              "lines": [
+                "L20",
+                "L22"
+              ]
+            },
+            {
+              "phrase": "nine / nine weeks",
+              "lines": [
+                "L28",
+                "L29"
+              ]
+            },
+            {
+              "phrase": "you're not supposed to want it",
+              "lines": [
+                "L34",
+                "L35"
+              ]
+            },
+            {
+              "phrase": "again",
+              "lines": [
+                "L56",
+                "L57"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L24",
+              "quote": "he'd laugh about it but I don't think he thought it was funny",
+              "note": "Speaker states this and moves immediately to 'I think about that sometimes' without further elaboration before returning to numbers narrative."
+            },
+            {
+              "line": "L51",
+              "quote": "Whatever.",
+              "note": "After correcting the location error about Everton, speaker moves on with single word."
+            },
+            {
+              "line": "L53",
+              "quote": "Not — I mean, not officially, the branch president ran it",
+              "note": "Speaker begins a correction/qualification and moves through it quickly before continuing."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Everton",
+              "lines": [
+                "L6",
+                "L7",
+                "L50"
+              ],
+              "what_they_did": "Had a rough experience with his brother, was taught and baptized, remains active, has kids, sends speaker a New Year's message every year; location later corrected to Maringá."
+            },
+            {
+              "who": "Elder Whitmore",
+              "lines": [
+                "L21",
+                "L24"
+              ],
+              "what_they_did": "Was speaker's companion; had difficulty getting out of bed; laughed when speaker wrote his wake-up time on the door."
+            },
+            {
+              "who": "Elder Pacheco",
+              "lines": [
+                "L32"
+              ],
+              "what_they_did": "An assistant who told speaker at a zone conference that 'the president's been talking about you.'"
+            },
+            {
+              "who": "Mission president",
+              "lines": [
+                "L37",
+                "L45",
+                "L48"
+              ],
+              "what_they_did": "Received speaker's letter; conducted transfer calls that read zone leader assignments not including speaker's name."
+            },
+            {
+              "who": "Irmã Solange",
+              "lines": [
+                "L49"
+              ],
+              "what_they_did": "Family with whom speaker ate dinner about forty times; made a dish called pastel."
+            },
+            {
+              "who": "Irmão Cleber",
+              "lines": [
+                "L53"
+              ],
+              "what_they_did": "Branch president in Ivaiporã, described as 'super nice guy,' worked nights."
+            },
+            {
+              "who": "Speaker's trainer",
+              "lines": [
+                "L58"
+              ],
+              "what_they_did": "Used to say 'Elder, você conta tudo' (you count everything) to speaker."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He rebuilds the same measurement system everywhere he goes, regardless of role or expectation.",
+              "explanation": "He built an identical masking-tape door board in two different assignments, one where he was formally in charge and one where he wasn't, and a trainer independently named this as a defining trait ('you count everything'). The recurrence across two settings with the same specific method suggests a compulsion worth naming rather than a one-off tactic.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L19-L20",
+                  "quote": "I made my own board. On the back of our apartment door with masking tape, a grid, every companionship in my district, every day, every number"
+                },
+                {
+                  "exp": 2,
+                  "line": "L55-L57",
+                  "quote": "I built a board there too. On the back of a door, again. Masking tape, again"
+                },
+                {
+                  "exp": 2,
+                  "line": "L58",
+                  "quote": "Elder, você conta tudo"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a new job or project with no formal tracking system in place, he creates his own metrics dashboard within the first few weeks, even before anyone asks."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "His stated motives and his documented actions diverge in ways he notices but doesn't fully resolve.",
+              "explanation": "He wrote that he wanted no title and just wanted to work, and says he meant every word, yet he sent the letter strategically two weeks before transfer calls and felt physical relief specifically at being passed over for promotion. He flags this himself ('this is gonna sound bad') without reconciling it, and a similar unresolved beat appears with Whitmore ('he'd laugh about it but I don't think he thought it was funny... I think about that sometimes').",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L40-L45",
+                  "quote": "I wanted to just be a missionary, I didn't want a title, I wanted to work... I sent that letter before transfer calls... my name wasn't in it, and I felt... this is gonna sound bad, I felt so relaxed"
+                },
+                {
+                  "exp": 2,
+                  "line": "L24-L25",
+                  "quote": "he'd laugh about it but I don't think he thought it was funny. I think about that sometimes"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In career decisions, he frames avoidance of advancement or visibility as principled choice while timing the decision to control the outcome, then feels relief he doesn't fully explain to others."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes wanting recognition is shameful, so he seeks it in ways he can privately justify as service.",
+              "explanation": "He explicitly states the norm 'you're not supposed to want it' (repeated twice), read his rankings in the bathroom so no one would see him happy about them, and reframed opting out of promotion as pure altruism even while it produced the outcome he felt visibly relieved about. This suggests an internal rule that achievement is fine but the desire for it must be hidden or laundered through humility.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L34-L35",
+                  "quote": "you're not supposed to want it. You're really not supposed to want it"
+                },
+                {
+                  "exp": 2,
+                  "line": "L30",
+                  "quote": "I'd read it in the bathroom because it felt weird to be that happy about it in front of everybody"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he downplays or hides pride in wins in front of peers, or attributes his own ambition-driven choices to purely selfless motives when describing them to others."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He is unusually energized by building informal tracking systems that make invisible effort visible and drive rapid performance gains.",
+              "explanation": "Without being asked, he twice built a manual tracking system from scratch, and under his informal system his district's output went from four lessons a week to twenty-six. His excitement is visible in the retelling ('oh my gosh', 'I would wait for that fax') in a way not matched elsewhere in the account.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L16-L17",
+                  "quote": "I would — oh my gosh. I would wait for that fax"
+                },
+                {
+                  "exp": 2,
+                  "line": "L26",
+                  "quote": "we went from like, our district was doing four lessons a week to like twenty-six"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a team setting with no existing metrics, he is the one who volunteers to build the tracking spreadsheet or dashboard, and team output visibly improves once he does."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He rebuilds the same masking-tape measurement system everywhere he goes, in and out of formal authority.",
+              "explanation": "He built an identical door board in two different assignments, one where he was formally in charge and one where he wasn't, and a trainer independently named this as a defining trait ('you count everything'). The recurrence across two settings with the same specific method suggests a compulsion worth naming rather than a one-off tactic.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L19-L20",
+                  "quote": "I made my own board. On the back of our apartment door with masking tape, a grid, every companionship in my district, every day, every number"
+                },
+                {
+                  "exp": 2,
+                  "line": "L55-L57",
+                  "quote": "I built a board there too. On the back of a door, again. Masking tape, again"
+                },
+                {
+                  "exp": 2,
+                  "line": "L58",
+                  "quote": "Elder, você conta tudo"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a new job or project with no formal tracking system in place, he creates his own metrics dashboard within the first few weeks, even before anyone asks.",
+              "exp": 2
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "His stated motives and his timed actions diverge in ways he notices but doesn't resolve.",
+              "explanation": "He wrote that he wanted no title and just wanted to work, and says he meant every word, yet he sent the letter strategically two weeks before transfer calls and felt physical relief specifically at being passed over for promotion. He flags this himself ('this is gonna sound bad') without reconciling it, and a similar unresolved beat appears with Whitmore ('he'd laugh about it but I don't think he thought it was funny... I think about that sometimes').",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L40-L45",
+                  "quote": "I wanted to just be a missionary, I didn't want a title, I wanted to work... I sent that letter before transfer calls... my name wasn't in it, and I felt... this is gonna sound bad, I felt so relaxed"
+                },
+                {
+                  "exp": 2,
+                  "line": "L24-L25",
+                  "quote": "he'd laugh about it but I don't think he thought it was funny. I think about that sometimes"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In career decisions, he frames avoidance of advancement or visibility as principled choice while timing the decision to control the outcome, then feels relief he doesn't fully explain to others.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes wanting recognition is shameful, so he seeks it in ways he can privately justify as service.",
+              "reason": "restated",
+              "note": "He already names this explicitly himself twice ('you're not supposed to want it') and flags the bathroom-reading and letter-timing as self-aware contradictions; the belief claim just relabels what he already articulated, adding therapy-flavored interpretation ('launders through humility') without new grounding."
+            },
+            {
+              "headline": "He is unusually energized by building informal tracking systems that make invisible effort visible and drive rapid performance gains.",
+              "reason": "flattering",
+              "note": "This is a positive spin on the same board-building behavior already captured in the surviving pattern candidate; citing his own excitement and one district's output jump doesn't establish 'zone of genius' beyond restating enthusiasm he already described, and the performance claim is a single anecdote, not evidence of a generalizable strength."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "He rebuilds the same masking-tape measurement system everywhere he goes, in and out of formal authority.",
+            "explanation": "He built an identical door board in two different assignments, one where he was formally in charge and one where he wasn't, and a trainer independently named this as a defining trait ('you count everything'). The recurrence across two settings with the same specific method suggests a compulsion worth naming rather than a one-off tactic.",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L19-L20",
+                "quote": "I made my own board. On the back of our apartment door with masking tape, a grid, every companionship in my district, every day, every number"
+              },
+              {
+                "exp": 2,
+                "line": "L55-L57",
+                "quote": "I built a board there too. On the back of a door, again. Masking tape, again"
+              },
+              {
+                "exp": 2,
+                "line": "L58",
+                "quote": "Elder, você conta tudo"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In a new job or project with no formal tracking system in place, he creates his own metrics dashboard within the first few weeks, even before anyone asks.",
+            "exp": 2
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "His stated motives and his timed actions diverge in ways he notices but doesn't resolve.",
+            "explanation": "He wrote that he wanted no title and just wanted to work, and says he meant every word, yet he sent the letter strategically two weeks before transfer calls and felt physical relief specifically at being passed over for promotion. He flags this himself ('this is gonna sound bad') without reconciling it, and a similar unresolved beat appears with Whitmore ('he'd laugh about it but I don't think he thought it was funny... I think about that sometimes').",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L40-L45",
+                "quote": "I wanted to just be a missionary, I didn't want a title, I wanted to work... I sent that letter before transfer calls... my name wasn't in it, and I felt... this is gonna sound bad, I felt so relaxed"
+              },
+              {
+                "exp": 2,
+                "line": "L24-L25",
+                "quote": "he'd laugh about it but I don't think he thought it was funny. I think about that sometimes"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In career decisions, he frames avoidance of advancement or visibility as principled choice while timing the decision to control the outcome, then feels relief he doesn't fully explain to others.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker states this section covers ages 24–30, at a startup in Lehi."
+            },
+            {
+              "line": "L3",
+              "what_happened": "Speaker was hired as approximately the sixth sales rep."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Speaker qualifies the hire number as six or seven."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Company sold scheduling software for home service businesses: plumbers, HVAC, garage doors."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker states he knew nothing about software but had experience sitting in a truck with a worker figuring out a schedule at 7am, from growing up in that truck."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker describes his demo approach as talking to owners about their day; owners would respond 'you get it' and buy."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker hit 143% of quota his first full year, ranking second in the company; Enrique ranked first with the Texas territory."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker lists his title progression: AE to senior AE to team lead to running customer success to director of CS."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker states he received four titles in five years."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker attributes part of the promotion pace to the company doubling in size, stating that not leaving and not being bad was sufficient to advance."
+            },
+            {
+              "line": "L12",
+              "what_happened": "A sales leaderboard was displayed on a TV by the kitchen."
+            },
+            {
+              "line": "L13",
+              "what_happened": "The leaderboard was later moved into a Salesforce dashboard; speaker states he would check it around 5:40am."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Speaker specifies he checked it in bed."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Speaker specifies he checked it before Britt woke up."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker explains the overnight data sync ran at 4am, so numbers were fresh by the time he checked."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker states he eventually had eleven people reporting to him when he took over CS."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker describes a manager, Doug, who conducted ride-alongs sitting in on speaker's calls for about a year."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker states he never did one of Doug's ride-alongs."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker restates the timeframe as one year."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker states he had a legitimate reason each time and never did a ride-along."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker names the account Brightway Plumbing."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Account was worth $180,000/year, the company's third biggest account, and was assigned to Kaylee, who was about six months into the role."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Brightway had a renewal coming up and their ops manager was expressing concerns."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker states 'I took it.'"
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker restates 'I just took it off her.'"
+            },
+            {
+              "line": "L33",
+              "what_happened": "Speaker told Kaylee the reassignment was so she could focus on her book; speaker affirms this was true and that her book was heavy."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker ran the renewal himself; the account was saved and upsold to $218,000."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Kaylee quit approximately four months later."
+            },
+            {
+              "line": "L36",
+              "what_happened": "In her exit interview, Kaylee said something about not being trusted, which speaker heard secondhand."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Speaker states he was doing everybody's QBR decks."
+            },
+            {
+              "line": "L39",
+              "what_happened": "Speaker specifies this happened at eleven at night."
+            },
+            {
+              "line": "L40",
+              "what_happened": "Speaker would take a CSM's deck and rebuild it."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Speaker would send the rebuilt deck back at 11:40pm with the message 'just a couple tweaks!' including an exclamation point."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker states this happened every time."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker kept a personal spreadsheet, separate from the company's, tracking every CSM's touches per account per week."
+            },
+            {
+              "line": "L44",
+              "what_happened": "The spreadsheet was color coded."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Nobody requested this spreadsheet from speaker."
+            },
+            {
+              "line": "L47",
+              "what_happened": "In Q3 2019 (approximate), churn was projected to be severe due to a pricing change; speaker put every at-risk account on a physical wall."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Speaker specifies the wall was physical."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Speaker used sticky notes on a large wall and stood in front of it every morning at 7:15 with whoever was in the office, going through accounts one by one."
+            },
+            {
+              "line": "L50",
+              "what_happened": "The quarter ended at approximately 94% gross retention versus a modeled 88%."
+            },
+            {
+              "line": "L51",
+              "what_happened": "Speaker's wife attended the Christmas party that year; someone told her speaker was the reason the company didn't fall apart."
+            },
+            {
+              "line": "L53",
+              "what_happened": "Speaker states that at home he can't find his keys."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker currently has a smaller wall at his own place, same concept."
+            },
+            {
+              "line": "L58",
+              "what_happened": "Current wall uses sticky notes."
+            },
+            {
+              "line": "L59",
+              "what_happened": "Speaker's ops guy repeatedly tries to get him to switch to a digital tool instead of the wall."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L22",
+              "choice_made": "Never attended one of Doug's ride-alongs in a year",
+              "alternatives_present_in_text": "Speaker states he had a reason every time (implying he could have attended but chose not to each time)"
+            },
+            {
+              "line": "L31",
+              "choice_made": "Took the Brightway Plumbing account away from Kaylee and ran the renewal himself",
+              "alternatives_present_in_text": "Text implies an alternative: letting Kaylee handle her own account/renewal"
+            },
+            {
+              "line": "L33",
+              "choice_made": "Told Kaylee the reassignment was to let her focus on her book",
+              "alternatives_present_in_text": "No stated alternative explanation given to Kaylee in the text"
+            },
+            {
+              "line": "L59",
+              "choice_made": "Keeps the physical sticky-note wall",
+              "alternatives_present_in_text": "Ops guy is offering a digital tool as an alternative"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L2",
+              "quote": "not the part I care about"
+            },
+            {
+              "line": "L20",
+              "quote": "I'm a big believer in autonomy"
+            },
+            {
+              "line": "L21",
+              "quote": "I really am"
+            },
+            {
+              "line": "L25",
+              "quote": "I know what that feels like and I don't do that to my people"
+            },
+            {
+              "line": "L56",
+              "quote": "I loved that wall"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L2",
+              "quote": "ironically"
+            },
+            {
+              "line": "L17",
+              "quote": "it wasn't stress"
+            },
+            {
+              "line": "L36",
+              "quote": "I remember thinking, that's not — that's not what that was"
+            },
+            {
+              "line": "L51",
+              "quote": "I could tell she didn't totally believe it, which, fair"
+            },
+            {
+              "line": "L56",
+              "quote": "I loved that wall"
+            },
+            {
+              "line": "L59",
+              "quote": "hilarious"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "wall",
+              "lines": [
+                "L47",
+                "L48",
+                "L49",
+                "L55",
+                "L56",
+                "L57",
+                "L58",
+                "L59",
+                "L60"
+              ]
+            },
+            {
+              "phrase": "the fax",
+              "lines": [
+                "L17",
+                "L18"
+              ]
+            },
+            {
+              "phrase": "I never did one",
+              "lines": [
+                "L22",
+                "L24"
+              ]
+            },
+            {
+              "phrase": "I took it / took it off her",
+              "lines": [
+                "L31",
+                "L32"
+              ]
+            },
+            {
+              "phrase": "four titles / titles in five years",
+              "lines": [
+                "L9",
+                "L10"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L26",
+              "quote": "But, um.",
+              "note": "Speaker pauses with filler words before continuing to L27-L28."
+            },
+            {
+              "line": "L27",
+              "quote": "Okay.",
+              "note": "Single-word transitional utterance before introducing the Brightway Plumbing topic."
+            },
+            {
+              "line": "L36",
+              "quote": "that's not — that's not what that was",
+              "note": "Speaker interrupts and restarts his own sentence when addressing Kaylee's exit comment, without further elaboration on what it 'was' instead."
+            },
+            {
+              "line": "L54",
+              "quote": "But yeah.",
+              "note": "Short transitional phrase moving away from the topic of his wife's reaction and home life."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Enrique",
+              "lines": [
+                "L8"
+              ],
+              "what_they_did": "Beat speaker in first-year quota ranking; had the Texas territory."
+            },
+            {
+              "who": "Britt (wife)",
+              "lines": [
+                "L15",
+                "L51",
+                "L52"
+              ],
+              "what_they_did": "Was asleep when speaker checked dashboard at 5:40am; attended Christmas party where someone told her speaker was the reason the company didn't fall apart; speaker states she didn't totally believe it and 'sees me at home.'"
+            },
+            {
+              "who": "Doug (manager)",
+              "lines": [
+                "L22"
+              ],
+              "what_they_did": "Managed speaker for about a year; wanted to do ride-alongs sitting in on speaker's calls."
+            },
+            {
+              "who": "Kaylee",
+              "lines": [
+                "L29",
+                "L33",
+                "L34",
+                "L35",
+                "L36"
+              ],
+              "what_they_did": "Was assigned the Brightway Plumbing account, about six months into her role; had the account taken from her by speaker; quit about four months later; said something in her exit interview about not being trusted."
+            },
+            {
+              "who": "Brightway Plumbing ops manager",
+              "lines": [
+                "L30"
+              ],
+              "what_they_did": "Was making noises about the renewal."
+            },
+            {
+              "who": "Unnamed person at Christmas party",
+              "lines": [
+                "L51"
+              ],
+              "what_they_did": "Told speaker's wife he was the reason the company didn't fall apart."
+            },
+            {
+              "who": "Ops guy (current)",
+              "lines": [
+                "L59"
+              ],
+              "what_they_did": "Finds the wall habit hilarious; keeps trying to get speaker onto a digital tool."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He preaches autonomy but repeatedly takes control of others' work when the stakes rise.",
+              "explanation": "He states twice he's 'a big believer in autonomy' and resents being micromanaged by Doug, yet he took the Brightway account off Kaylee, rebuilt every CSM's QBR decks at night, and secretly tracked everyone's touches on his own spreadsheet. The gap between his stated value and his actions under pressure is worth checking, especially since Kaylee's exit comment ('not being trusted') directly names it.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L20-L21",
+                  "quote": "I'm a big believer in autonomy. I really am."
+                },
+                {
+                  "exp": 3,
+                  "line": "L31-L32",
+                  "quote": "I took it. I just took it off her."
+                },
+                {
+                  "exp": 3,
+                  "line": "L40-L42",
+                  "quote": "I'd take their deck and rebuild it and send it back at 11:40 pm and say \"just a couple tweaks!\""
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In current leadership or parenting situations, he likely steps in to 'fix' things under high stakes even when he's explicitly delegated the task, then explains it as protecting the other person."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes high-stakes situations are too important to trust to anyone but himself.",
+              "explanation": "He justifies taking the Brightway account with 'that account was too important to learn on,' and independently tracked every CSM's activity 'nobody asked me for it, I just wanted to know.' This suggests an operating rule that his own oversight is the only reliable safeguard when something matters.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L37",
+                  "quote": "That account was too important to learn on."
+                },
+                {
+                  "exp": 3,
+                  "line": "L43-L46",
+                  "quote": "I had a spreadsheet, my own one, not the company one... Nobody asked me for it. I just wanted to know."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In financial or health decisions affecting his family, he'll resist delegating or outsourcing even trusted tasks, insisting on personally verifying the details himself."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He turns lived, unglamorous experience into instant credibility and trust with skeptical customers.",
+              "explanation": "Knowing nothing about software, he won by talking to owners about their day, drawing on growing up in a service truck — and they'd respond 'you get it' and buy. This is a distinctive capability (translating shared lived experience into sales trust) rather than a generic sales skill, and it's the thing that actually launched his outsized performance.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L6",
+                  "quote": "I knew what it was like to sit in a truck with a guy who's trying to figure out where he's going at 7am... because I grew up in that truck"
+                },
+                {
+                  "exp": 3,
+                  "line": "L7",
+                  "quote": "I'd talk to these owners about their day and they'd go \"you get it\" and they'd buy"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In any new domain he enters, he'll build rapport and buy-in fastest with people whose lived circumstances mirror his own background, rather than through formal expertise."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Checking a performance dashboard alone in bed at dawn echoes an earlier, unnamed compulsion ('the fax').",
+              "explanation": "He explicitly links checking the leaderboard at 5:40am, before his wife wakes, to something he calls 'the fax again' — a comparison he doesn't unpack. He frames it as not stress, but the recurrence and the analogy to a past habit suggest an unexamined pull worth naming.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L13-L16",
+                  "quote": "I would check it at like 5:40 in the morning. In bed. Before Britt woke up."
+                },
+                {
+                  "exp": 3,
+                  "line": "L17-L18",
+                  "quote": "it wasn't stress, it was almost like a — it was the fax again. It's the same thing as the fax."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "He likely has other early-morning, solitary rituals around metrics or status-checking (e.g. finances, health data) that he'd describe as compulsive rather than anxious if asked directly."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He preaches autonomy but repeatedly takes control of others' work when the stakes rise.",
+              "explanation": "He states twice he's 'a big believer in autonomy' and resents being micromanaged by Doug, yet he took the Brightway account off Kaylee, rebuilt every CSM's QBR decks at night, and secretly tracked everyone's touches on his own spreadsheet. The gap between his stated value and his actions under pressure is worth checking, especially since Kaylee's exit comment ('not being trusted') directly names it.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L20-L21",
+                  "quote": "I'm a big believer in autonomy. I really am."
+                },
+                {
+                  "exp": 3,
+                  "line": "L31-L32",
+                  "quote": "I took it. I just took it off her."
+                },
+                {
+                  "exp": 3,
+                  "line": "L40-L42",
+                  "quote": "I'd take their deck and rebuild it and send it back at 11:40 pm and say \"just a couple tweaks!\""
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In current leadership or parenting situations, he likely steps in to 'fix' things under high stakes even when he's explicitly delegated the task, then explains it as protecting the other person.",
+              "exp": 3
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He turns lived, unglamorous experience into instant credibility and trust with skeptical customers.",
+              "explanation": "Knowing nothing about software, he won by talking to owners about their day, drawing on growing up in a service truck — and they'd respond 'you get it' and buy. This is a distinctive capability (translating shared lived experience into sales trust) rather than a generic sales skill, and it's the thing that actually launched his outsized performance.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L6",
+                  "quote": "I knew what it was like to sit in a truck with a guy who's trying to figure out where he's going at 7am... because I grew up in that truck"
+                },
+                {
+                  "exp": 3,
+                  "line": "L7",
+                  "quote": "I'd talk to these owners about their day and they'd go \"you get it\" and they'd buy"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In any new domain he enters, he'll build rapport and buy-in fastest with people whose lived circumstances mirror his own background, rather than through formal expertise.",
+              "exp": 3
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Checking a performance dashboard alone in bed at dawn echoes an earlier, unnamed compulsion ('the fax').",
+              "explanation": "He explicitly links checking the leaderboard at 5:40am, before his wife wakes, to something he calls 'the fax again' — a comparison he doesn't unpack. He frames it as not stress, but the recurrence and the analogy to a past habit suggest an unexamined pull worth naming.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L13-L16",
+                  "quote": "I would check it at like 5:40 in the morning. In bed. Before Britt woke up."
+                },
+                {
+                  "exp": 3,
+                  "line": "L17-L18",
+                  "quote": "it wasn't stress, it was almost like a — it was the fax again. It's the same thing as the fax."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "He likely has other early-morning, solitary rituals around metrics or status-checking (e.g. finances, health data) that he'd describe as compulsive rather than anxious if asked directly.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes high-stakes situations are too important to trust to anyone but himself.",
+              "reason": "restated",
+              "note": "This is just a paraphrase of the surviving 'preaches autonomy but takes control' pattern using his own quote ('too important to learn on') as the belief statement — redundant with the first candidate rather than a distinct insight."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "He preaches autonomy but repeatedly takes control of others' work when the stakes rise.",
+            "explanation": "He states twice he's 'a big believer in autonomy' and resents being micromanaged by Doug, yet he took the Brightway account off Kaylee, rebuilt every CSM's QBR decks at night, and secretly tracked everyone's touches on his own spreadsheet. The gap between his stated value and his actions under pressure is worth checking, especially since Kaylee's exit comment ('not being trusted') directly names it.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L20-L21",
+                "quote": "I'm a big believer in autonomy. I really am."
+              },
+              {
+                "exp": 3,
+                "line": "L31-L32",
+                "quote": "I took it. I just took it off her."
+              },
+              {
+                "exp": 3,
+                "line": "L40-L42",
+                "quote": "I'd take their deck and rebuild it and send it back at 11:40 pm and say \"just a couple tweaks!\""
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In current leadership or parenting situations, he likely steps in to 'fix' things under high stakes even when he's explicitly delegated the task, then explains it as protecting the other person.",
+            "exp": 3
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "He turns lived, unglamorous experience into instant credibility and trust with skeptical customers.",
+            "explanation": "Knowing nothing about software, he won by talking to owners about their day, drawing on growing up in a service truck — and they'd respond 'you get it' and buy. This is a distinctive capability (translating shared lived experience into sales trust) rather than a generic sales skill, and it's the thing that actually launched his outsized performance.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L6",
+                "quote": "I knew what it was like to sit in a truck with a guy who's trying to figure out where he's going at 7am... because I grew up in that truck"
+              },
+              {
+                "exp": 3,
+                "line": "L7",
+                "quote": "I'd talk to these owners about their day and they'd go \"you get it\" and they'd buy"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In any new domain he enters, he'll build rapport and buy-in fastest with people whose lived circumstances mirror his own background, rather than through formal expertise.",
+            "exp": 3
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Checking a performance dashboard alone in bed at dawn echoes an earlier, unnamed compulsion ('the fax').",
+            "explanation": "He explicitly links checking the leaderboard at 5:40am, before his wife wakes, to something he calls 'the fax again' — a comparison he doesn't unpack. He frames it as not stress, but the recurrence and the analogy to a past habit suggest an unexamined pull worth naming.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L13-L16",
+                "quote": "I would check it at like 5:40 in the morning. In bed. Before Britt woke up."
+              },
+              {
+                "exp": 3,
+                "line": "L17-L18",
+                "quote": "it wasn't stress, it was almost like a — it was the fax again. It's the same thing as the fax."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "He likely has other early-morning, solitary rituals around metrics or status-checking (e.g. finances, health data) that he'd describe as compulsive rather than anxious if asked directly.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L5",
+              "what_happened": "In September, the company hired a VP of Revenue."
+            },
+            {
+              "line": "L6",
+              "what_happened": "The VP of Revenue's name was Marcus."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Marcus came from a bigger company in Austin."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Marcus came in above the speaker and above sales."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Marcus instituted forecast calls."
+            },
+            {
+              "line": "L11",
+              "what_happened": "There were two forecast calls per week."
+            },
+            {
+              "line": "L12",
+              "what_happened": "The calls were on Wednesday and Friday."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Each person went through their numbers in front of everybody and Marcus asked three questions about every deal."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker would be in the parking lot at 8:50 not wanting to go in."
+            },
+            {
+              "line": "L19",
+              "what_happened": "In October, speaker started building at night."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Building happened nights and Saturdays."
+            },
+            {
+              "line": "L21",
+              "what_happened": "Speaker hired a contractor in Brazil named Rodrigo and built a dispatch product for businesses with one to five trucks."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker had been raising this problem in meetings for two years and nobody moved on it."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker gave notice in February."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Three weeks later, the company announced a reorg merging CS and onboarding into a new VP of Customer role."
+            },
+            {
+              "line": "L34",
+              "what_happened": "The company held a leadership offsite in Park City in January and speaker was not on the invite list."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Speaker told Britt the exclusion was because only VP and up were invited and speaker was a director."
+            },
+            {
+              "line": "L37",
+              "what_happened": "Two directors attended the offsite."
+            },
+            {
+              "line": "L44",
+              "what_happened": "The weekend speaker decided to leave, speaker cleaned the garage."
+            },
+            {
+              "line": "L46",
+              "what_happened": "The garage cleaning took twelve hours across both days."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Speaker installed pegboard, labeled bins, and swept the ceiling."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Britt came out Sunday afternoon and said, \"So we're leaving the job, huh.\""
+            },
+            {
+              "line": "L50",
+              "what_happened": "The company is four and a half years old at time of telling."
+            },
+            {
+              "line": "L51",
+              "what_happened": "The company did $1.4 million in revenue last year, has nine people, and speaker's salary is less than speaker made at the startup."
+            },
+            {
+              "line": "L52",
+              "what_happened": "Speaker owns 100 percent of the company."
+            },
+            {
+              "line": "L54",
+              "what_happened": "In year two, a seed investor offered a deal at approximately a $1.2 valuation with a board seat included."
+            },
+            {
+              "line": "L55",
+              "what_happened": "Speaker told people the reason for declining was dilution."
+            },
+            {
+              "line": "L56",
+              "what_happened": "After that meeting, speaker sat in the car in the parking lot of the Kneaders in Lehi for about forty minutes."
+            },
+            {
+              "line": "L58",
+              "what_happened": "Speaker states the company would probably be at four or five million in revenue now if the seed deal had been taken."
+            },
+            {
+              "line": "L60",
+              "what_happened": "Speaker's friend Sam took investment money and his company is at eleven million."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L25",
+              "choice_made": "Gave notice at the company in February",
+              "alternatives_present_in_text": "Continuing to work there, potentially in the mix for the new VP of Customer role"
+            },
+            {
+              "line": "L54",
+              "choice_made": "Declined the seed investment deal with a board seat",
+              "alternatives_present_in_text": "Taking the seed money at 1.2 valuation, which speaker says might have led to $4-5 million in revenue"
+            },
+            {
+              "line": "L55",
+              "choice_made": "Told people the reason for declining was dilution",
+              "alternatives_present_in_text": "Stating the reason involving having to explain himself to a board member every quarter (per L56-57)"
+            },
+            {
+              "line": "L39",
+              "choice_made": "States he would not have attended the Park City offsite even if invited",
+              "alternatives_present_in_text": "Attending the offsite, as two other directors did"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L3",
+              "quote": "I saw a problem nobody was solving for the small contractor, the two-truck guy, and I couldn't not build it"
+            },
+            {
+              "line": "L43",
+              "quote": "I genuinely would have"
+            },
+            {
+              "line": "L62",
+              "quote": "I sleep"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L14",
+              "quote": "I felt sick on Wednesdays"
+            },
+            {
+              "line": "L15",
+              "quote": "Like physically"
+            },
+            {
+              "line": "L22",
+              "quote": "Which is a real problem!"
+            },
+            {
+              "line": "L40",
+              "quote": "a weekend in Park City doing trust falls with Marcus? No thank you"
+            },
+            {
+              "line": "L61",
+              "quote": "Eleven!"
+            },
+            {
+              "line": "L62",
+              "quote": "I sleep"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "real problem",
+              "lines": [
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "phrase": "probably would've been in the mix",
+              "lines": [
+                "L27",
+                "L29"
+              ]
+            },
+            {
+              "phrase": "It probably would've gone to Priya",
+              "lines": [
+                "L30",
+                "L31"
+              ]
+            },
+            {
+              "phrase": "I would've found a way out of it / I genuinely would have",
+              "lines": [
+                "L42",
+                "L43"
+              ]
+            },
+            {
+              "phrase": "dilution",
+              "lines": [
+                "L54",
+                "L55"
+              ]
+            },
+            {
+              "phrase": "a hundred",
+              "lines": [
+                "L52",
+                "L53"
+              ]
+            },
+            {
+              "phrase": "I sleep",
+              "lines": [
+                "L62",
+                "L64"
+              ]
+            },
+            {
+              "phrase": "they were good questions",
+              "lines": [
+                "L13"
+              ]
+            },
+            {
+              "phrase": "There'd be a guy",
+              "lines": [
+                "L56",
+                "L57"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L26",
+              "quote": "and — I mean, whatever",
+              "note": "Speaker cuts off mid-sentence describing the reorg announcement and moves past it with 'whatever'"
+            },
+            {
+              "line": "L32",
+              "quote": "So.",
+              "note": "Single-word line following speculation about the Priya promotion, closing the topic abruptly"
+            },
+            {
+              "line": "L38",
+              "quote": "So.",
+              "note": "Single-word line following the statement that two directors attended the offsite, closing the topic abruptly"
+            },
+            {
+              "line": "L47",
+              "quote": "who sweeps a ceiling",
+              "note": "Speaker inserts a brief aside/question about own behavior without elaborating further"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Marcus",
+              "lines": [
+                "L5",
+                "L6",
+                "L7",
+                "L8",
+                "L9",
+                "L10",
+                "L13",
+                "L40"
+              ],
+              "what_they_did": "Hired as VP of Revenue from Austin; instituted twice-weekly forecast calls asking three questions about every deal; described by speaker as smart and a process guy"
+            },
+            {
+              "who": "Rodrigo",
+              "lines": [
+                "L21"
+              ],
+              "what_they_did": "Contractor in Brazil hired by speaker to help build the dispatch product"
+            },
+            {
+              "who": "Priya",
+              "lines": [
+                "L30",
+                "L31"
+              ],
+              "what_they_did": "Speculated by speaker as the likely recipient of the new VP of Customer role"
+            },
+            {
+              "who": "Britt",
+              "lines": [
+                "L35",
+                "L48",
+                "L51"
+              ],
+              "what_they_did": "Was told the offsite exclusion reason by speaker; came out to the garage and said 'So we're leaving the job, huh'; has 'thoughts' about speaker's reduced salary"
+            },
+            {
+              "who": "Sam",
+              "lines": [
+                "L60"
+              ],
+              "what_they_did": "Took investment money for his company, which is now at eleven million in revenue"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "He values autonomy over growth speed, and will trade millions in revenue to avoid answering to anyone.",
+              "explanation": "He declined a seed deal with a board seat, explicitly choosing slower growth over accountability to an investor. The real reason ('there'd be a guy I'd have to call every quarter') only surfaced after he first gave a more socially acceptable reason (dilution), showing this is a deeply protected value, not just a stated preference.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L56",
+                  "quote": "there'd be a guy. There'd be a guy I'd have to call every quarter and explain myself to"
+                },
+                {
+                  "exp": 4,
+                  "line": "L58",
+                  "quote": "we'd probably be at four or five million right now if I'd taken it"
+                },
+                {
+                  "exp": 4,
+                  "line": "L52",
+                  "quote": "But I own a hundred percent of it. A hundred."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In hiring or partnership decisions, he will resist bringing in co-founders, senior leaders, or investors who could have real authority over his decisions, even at real cost to growth."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes being scrutinized or evaluated by an authority figure is something to escape rather than survive or engage with.",
+              "explanation": "The physical, involuntary reaction to forecast calls ('I felt sick... Never once') was disproportionate to the stated quality of the questions being asked ('they were good questions'), suggesting the distress was about being answerable to someone, not about the content. This same aversion reappears with the board seat and the offsite invite.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L14",
+                  "quote": "I felt sick on Wednesdays"
+                },
+                {
+                  "exp": 4,
+                  "line": "L17",
+                  "quote": "I've never had that in my life. Never once."
+                },
+                {
+                  "exp": 4,
+                  "line": "L13",
+                  "quote": "they were good questions, that's the thing, they were good questions"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In relationships or health contexts, he will avoid or minimize situations involving formal performance review, e.g., therapy check-ins, medical follow-ups, or structured accountability partnerships, even when he acknowledges their value."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He tells a cleaner, more mission-driven version of his decisions in public, and a messier, more personal one in private — worth checking where else this split shows up.",
+              "explanation": "The panel story ('I saw a problem... couldn't not build it') is labeled by him as '80 percent true,' and the dilution explanation to others is followed immediately by the real, unspoken reason (the board seat). This isn't necessarily dishonesty, but a recurring gap between the story he offers and the story underneath.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L3",
+                  "quote": "I saw a problem nobody was solving for the small contractor... And that's — that's like eighty percent true"
+                },
+                {
+                  "exp": 4,
+                  "line": "L55",
+                  "quote": "I told everybody it was dilution, and yeah, dilution, sure"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In discussing conflict with Britt or business partners, he will give the reasonable/logical explanation for a decision before, or instead of, the emotional one, requiring a follow-up question to surface it."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He minimizes or quickly closes down moments where he might have been overlooked or passed over, without examining how they landed.",
+              "explanation": "Twice in this account he raises a status/inclusion snub (the VP of Customer role likely going to Priya, being left off the Park City invite list) and both times ends the thought with a bare 'So.' rather than sitting with it. He also walks back the offsite exclusion by claiming he wouldn't have wanted to go anyway, before the actual reasoning is confirmed.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L31",
+                  "quote": "It probably would've gone to Priya."
+                },
+                {
+                  "exp": 4,
+                  "line": "L32",
+                  "quote": "So."
+                },
+                {
+                  "exp": 4,
+                  "line": "L37",
+                  "quote": "But two directors went."
+                },
+                {
+                  "exp": 4,
+                  "line": "L38",
+                  "quote": "So."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In friendships or family settings, when he notices he's been excluded or passed over, he will deflect with a quick rationalization rather than naming the feeling out loud."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He is energized by spotting underserved problems that others have stopped pushing on, and building for them alone at high personal cost.",
+              "explanation": "He'd flagged the small-contractor pricing problem for two years with no organizational movement, then built the solution himself at night and on weekends with visible drive ('Which is a real problem!'). The emotional charge and sustained solo effort point to genuine energy, not just competence.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L24",
+                  "quote": "I'd been saying it for two years in meetings and nobody moved on it"
+                },
+                {
+                  "exp": 4,
+                  "line": "L22",
+                  "quote": "Which is a real problem!"
+                },
+                {
+                  "exp": 4,
+                  "line": "L19",
+                  "quote": "I start building at night"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future work choices, he will gravitate toward identifying niche, underserved segments that larger competitors ignore, rather than competing head-on in crowded markets."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "He values autonomy over growth speed, and will trade millions in revenue to avoid answering to anyone.",
+              "explanation": "He declined a seed deal with a board seat, explicitly choosing slower growth over accountability to an investor. The real reason ('there'd be a guy I'd have to call every quarter and explain myself to') only surfaced after he first gave a more socially acceptable reason (dilution), showing this is a deeply protected value, not just a stated preference.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L56",
+                  "quote": "there'd be a guy. There'd be a guy I'd have to call every quarter and explain myself to"
+                },
+                {
+                  "exp": 4,
+                  "line": "L58",
+                  "quote": "we'd probably be at four or five million right now if I'd taken it"
+                },
+                {
+                  "exp": 4,
+                  "line": "L52",
+                  "quote": "But I own a hundred percent of it. A hundred."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In hiring or partnership decisions, he will resist bringing in co-founders, senior leaders, or investors who could have real authority over his decisions, even at real cost to growth.",
+              "exp": 4
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He tells a cleaner, more mission-driven version of his decisions in public, and a messier, more personal one in private — worth checking where else this split shows up.",
+              "explanation": "The panel story ('I saw a problem... couldn't not build it') is labeled by him as '80 percent true,' and the dilution explanation to others is followed immediately by the real, unspoken reason (the board seat). This isn't necessarily dishonesty, but a recurring gap between the story he offers and the story underneath.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L3",
+                  "quote": "I saw a problem nobody was solving for the small contractor... And that's — that's like eighty percent true"
+                },
+                {
+                  "exp": 4,
+                  "line": "L55",
+                  "quote": "I told everybody it was dilution, and yeah, dilution, sure"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In discussing conflict with Britt or business partners, he will give the reasonable/logical explanation for a decision before, or instead of, the emotional one, requiring a follow-up question to surface it.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes being scrutinized or evaluated by an authority figure is something to escape rather than survive or engage with.",
+              "reason": "unfalsifiable",
+              "note": "Restates the physical panic reaction he already described in his own words; the 'escape vs engage' framing adds a therapy-flavored label without a new concrete behavioral claim, and the predicted behavior (avoiding therapy check-ins/medical follow-ups) is speculative and untestable from this transcript."
+            },
+            {
+              "headline": "He minimizes or quickly closes down moments where he might have been overlooked or passed over, without examining how they landed.",
+              "reason": "ungrounded",
+              "note": "The two 'So.' beats and the walkback about Park City are ambiguous — he also gives a substantive reason ('a weekend in Park City doing trust falls with Marcus? No thank you') that undercuts the 'quickly closes down without examining' claim; feels like an over-read of filler speech."
+            },
+            {
+              "headline": "He is energized by spotting underserved problems that others have stopped pushing on, and building for them alone at high personal cost.",
+              "reason": "flattering",
+              "note": "This is close to what he already said almost verbatim ('I saw a problem nobody was solving... I couldn't not build it') and the 'genius' framing here is just praise for founder hustle — generic for someone who just left a job to start a company."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "He values autonomy over growth speed, and will trade millions in revenue to avoid answering to anyone.",
+            "explanation": "He declined a seed deal with a board seat, explicitly choosing slower growth over accountability to an investor. The real reason ('there'd be a guy I'd have to call every quarter and explain myself to') only surfaced after he first gave a more socially acceptable reason (dilution), showing this is a deeply protected value, not just a stated preference.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L56",
+                "quote": "there'd be a guy. There'd be a guy I'd have to call every quarter and explain myself to"
+              },
+              {
+                "exp": 4,
+                "line": "L58",
+                "quote": "we'd probably be at four or five million right now if I'd taken it"
+              },
+              {
+                "exp": 4,
+                "line": "L52",
+                "quote": "But I own a hundred percent of it. A hundred."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In hiring or partnership decisions, he will resist bringing in co-founders, senior leaders, or investors who could have real authority over his decisions, even at real cost to growth.",
+            "exp": 4
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He tells a cleaner, more mission-driven version of his decisions in public, and a messier, more personal one in private — worth checking where else this split shows up.",
+            "explanation": "The panel story ('I saw a problem... couldn't not build it') is labeled by him as '80 percent true,' and the dilution explanation to others is followed immediately by the real, unspoken reason (the board seat). This isn't necessarily dishonesty, but a recurring gap between the story he offers and the story underneath.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L3",
+                "quote": "I saw a problem nobody was solving for the small contractor... And that's — that's like eighty percent true"
+              },
+              {
+                "exp": 4,
+                "line": "L55",
+                "quote": "I told everybody it was dilution, and yeah, dilution, sure"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In discussing conflict with Britt or business partners, he will give the reasonable/logical explanation for a decision before, or instead of, the emotional one, requiring a follow-up question to surface it.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "Second child, Crew, born at thirty-three weeks."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Britt had a placental abruption, described as partial and fast."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Britt called him while he was on a customer call; he saw the number and let it go; she called again."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Crew was fine."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Crew is now three years old and climbs the fridge."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Crew spent nineteen days in the NICU at Utah Valley."
+            },
+            {
+              "line": "L17",
+              "what_happened": "The plan during NICU stay was that he eats, grows, and they wait."
+            },
+            {
+              "line": "L20",
+              "what_happened": "He made a spreadsheet."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Spreadsheet tracked feeding volumes in milliliters, times, which nurse was on shift, and his weight every morning, with a trend line."
+            },
+            {
+              "line": "L24",
+              "what_happened": "He showed the spreadsheet to the nurses; they responded positively; he noticed they already had the same data in Epic."
+            },
+            {
+              "line": "L27",
+              "what_happened": "He regrouted the master bathroom during that period."
+            },
+            {
+              "line": "L29",
+              "what_happened": "He did this at around two in the morning, four nights in a row, on his knees with a tool, scraping grout."
+            },
+            {
+              "line": "L30",
+              "what_happened": "His mother-in-law was staying with them during this time."
+            },
+            {
+              "line": "L31",
+              "what_happened": "He redid the garage a second time."
+            },
+            {
+              "line": "L32",
+              "what_happened": "The garage had already been done previously."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Britt spent most of her time in a chair by his isolette."
+            },
+            {
+              "line": "L35",
+              "what_happened": "He would come in with a Swig drink and a printout and report weight gain figures to her."
+            },
+            {
+              "line": "L36-37",
+              "what_happened": "Britt said, \"Dallin, I don't need the numbers. I need you to just sit down.\" He said okay."
+            },
+            {
+              "line": "L38-39",
+              "what_happened": "He sat down and lasted about six minutes."
+            },
+            {
+              "line": "L40",
+              "what_happened": "He then went and got coffee for the nurses."
+            },
+            {
+              "line": "L41",
+              "what_happened": "He got decaf coffee, which he does not drink himself, for the nurses."
+            },
+            {
+              "line": "L42-43",
+              "what_happened": "He brought the nurses a Costco tray, twice."
+            },
+            {
+              "line": "L46-48",
+              "what_happened": "After Crew came home, he and Britt started a practice called 'Council': Sunday nights at nine o'clock with a shared-doc agenda covering Calendar, money, kids, and us."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Britt has pointed out that 'us' is the last item on the agenda."
+            },
+            {
+              "line": "L50",
+              "what_happened": "They have done Council almost every Sunday for two and a half years."
+            },
+            {
+              "line": "L52",
+              "what_happened": "Britt said, \"you'd rather have a meeting with me than a conversation,\" said jokingly but not entirely joking; he laughed and then fixed the doc."
+            },
+            {
+              "line": "L53-54",
+              "what_happened": "He added an emotional check-in section to the doc."
+            },
+            {
+              "line": "L55",
+              "what_happened": "Britt laughed so hard she cried; he says he still doesn't know which kind of crying that was."
+            },
+            {
+              "line": "L58-59",
+              "what_happened": "He states his dad had the truck; he has the doc."
+            },
+            {
+              "line": "L62-63",
+              "what_happened": "Crew is currently asleep and sleeps with his hand on the wall."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L5",
+              "choice_made": "Let the first call go",
+              "alternatives_present_in_text": "Answering immediately (implied by the fact she called again)"
+            },
+            {
+              "line": "L20",
+              "choice_made": "Made a spreadsheet to track feeding/weight data",
+              "alternatives_present_in_text": "Relying on hospital's existing Epic system (mentioned L24)"
+            },
+            {
+              "line": "L27-31",
+              "choice_made": "Regrouted the bathroom and redid the already-finished garage",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L37-38",
+              "choice_made": "Said okay and sat down when Britt asked",
+              "alternatives_present_in_text": "Continuing to bring numbers/printouts"
+            },
+            {
+              "line": "L39-40",
+              "choice_made": "Left after six minutes to get coffee for the nurses",
+              "alternatives_present_in_text": "Staying seated with Britt"
+            },
+            {
+              "line": "L53-54",
+              "choice_made": "Added an emotional check-in section to the Council doc",
+              "alternatives_present_in_text": "None stated"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L15",
+              "quote": "I am a guy who, if you tell me what the problem is I will get you a plan by tomorrow morning."
+            },
+            {
+              "line": "L21",
+              "quote": "Obviously."
+            },
+            {
+              "line": "L41",
+              "quote": "I got very into being the guy who brought the nurses stuff."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L12",
+              "quote": "That was the worst I've ever been."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "plan",
+              "lines": [
+                "L15",
+                "L16",
+                "L17"
+              ]
+            },
+            {
+              "phrase": "trend line",
+              "lines": [
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "phrase": "Google Sheet",
+              "lines": [
+                "L24",
+                "L25"
+              ]
+            },
+            {
+              "phrase": "garage",
+              "lines": [
+                "L31",
+                "L32"
+              ]
+            },
+            {
+              "phrase": "the numbers",
+              "lines": [
+                "L35",
+                "L36"
+              ]
+            },
+            {
+              "phrase": "the doc",
+              "lines": [
+                "L47",
+                "L52",
+                "L54",
+                "L59"
+              ]
+            },
+            {
+              "phrase": "I think it's the same thing",
+              "lines": [
+                "L60",
+                "L61"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L1-2",
+              "quote": "Okay this one's harder. Um.",
+              "note": "Pauses before beginning the account."
+            },
+            {
+              "line": "L6-7",
+              "quote": "And I still, uh. Yeah.",
+              "note": "Trails off mid-sentence after mentioning letting the call go."
+            },
+            {
+              "line": "L56-57",
+              "quote": "Yeah. I don't know.",
+              "note": "Short, unelaborated response following the comment about not knowing which kind of crying it was."
+            },
+            {
+              "line": "L65-67",
+              "quote": "Anyway. That's, uh. That's probably enough.",
+              "note": "Ends the account abruptly with short fragments."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Britt",
+              "lines": [
+                "L4",
+                "L5",
+                "L33",
+                "L34",
+                "L35",
+                "L36-37",
+                "L49",
+                "L52",
+                "L55"
+              ],
+              "what_they_did": "Experienced the placental abruption; called him twice; spent the NICU stay mostly sitting in a chair by the isolette; told him she didn't need the numbers and needed him to sit down; later pointed out 'us' is last on the Council agenda; joked that he'd rather have a meeting than a conversation; laughed until she cried at the added doc section."
+            },
+            {
+              "who": "Crew",
+              "lines": [
+                "L3",
+                "L9",
+                "L10",
+                "L11",
+                "L62",
+                "L63"
+              ],
+              "what_they_did": "Born at 33 weeks; spent 19 days in NICU; is now fine, three years old, climbs the fridge; currently asleep, sleeps with hand on the wall."
+            },
+            {
+              "who": "Nurses",
+              "lines": [
+                "L15",
+                "L24",
+                "L40",
+                "L41",
+                "L42"
+              ],
+              "what_they_did": "Knew everything, worked with beeping machines; responded 'oh, wow, look at that' to his spreadsheet; already had the data in Epic; received decaf coffee and a Costco tray from him."
+            },
+            {
+              "who": "Mother-in-law",
+              "lines": [
+                "L30"
+              ],
+              "what_they_did": "Was staying with them; he thinks she believed he'd lost it."
+            },
+            {
+              "who": "Dad",
+              "lines": [
+                "L58"
+              ],
+              "what_they_did": "Had the truck (referenced as a comparison point)."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Dallin believes that control equals care — that action and data are how love gets expressed when he can't fix the actual problem.",
+              "explanation": "Faced with a situation with 'no plan' (L16-19), he generated one anyway: a spreadsheet with a trend line on his son (L20-23), regrouting a bathroom at 2am (L27-29), redoing an already-finished garage (L31-32). None of these changed Crew's outcome; they were ways to convert helplessness into motion. The belief explains why doing was his default even when told directly it wasn't needed (L24-25).",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L15-17",
+                  "quote": "if you tell me what the problem is I will get you a plan by tomorrow morning. And there's no plan. The plan is he eats and he grows and you wait."
+                },
+                {
+                  "exp": 5,
+                  "line": "L22-23",
+                  "quote": "I had a chart with a trend line. I had a trend line on my son."
+                },
+                {
+                  "exp": 5,
+                  "line": "L27-29",
+                  "quote": "I regrouted the master bathroom. During that. At like two in the morning, like four nights in a row, on my knees with the little tool, scraping it out."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a future health or financial crisis outside his control, he'll respond by building a tracking system or tackling a physical project rather than sitting with uncertainty."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "When asked for presence, Dallin can offer it only briefly before retreating into a task.",
+              "explanation": "Britt explicitly asked him to stop with the numbers and just sit (L36-37); he complied but lasted six minutes before leaving to get the nurses coffee (L38-40). The same shape appears in his response to her joking-not-joking comment about meetings versus conversation — he laughs, then goes and edits the doc (L52-54). Worth exploring whether stillness itself, not just the crisis, is what he's avoiding.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L38-40",
+                  "quote": "And I sat down. And I lasted, I'm not exaggerating, maybe six minutes. And then I went and got coffee for the nurses."
+                },
+                {
+                  "exp": 5,
+                  "line": "L52-54",
+                  "quote": "\"you'd rather have a meeting with me than a conversation.\" And I laugh, and then I fix the doc. Like I added a section."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In moments of emotional conflict with Britt, he'll suggest a system, schedule, or process change rather than staying in the unresolved feeling."
+            },
+            {
+              "category": "core_values",
+              "headline": "Dallin values sustaining his marriage as a deliberate practice, even when it costs him comfort and openness to being teased for it.",
+              "explanation": "He built and has maintained Council for two and a half years almost every Sunday (L46-50), and rather than abandon the format when Britt gently mocks it ('you'd rather have a meeting than a conversation,' L52), he doubles down by adding an emotional check-in section (L53-54). Choosing to keep formalizing intimacy despite the risk of looking absurd to his wife is a value in action, not just a stated preference.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L50-51",
+                  "quote": "we've done it, like, almost every Sunday for two and a half years now and I genuinely think it's the best thing in our marriage."
+                },
+                {
+                  "exp": 5,
+                  "line": "L53-54",
+                  "quote": "Like I added a section. I added an emotional check-in section to the doc."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "He'll defend or formalize other relationship rituals (with kids, friends) via recurring structure even when others find the format odd or excessive."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Dallin measures his own worth as a partner/father against his own father's, and believes showing up structurally is the generational upgrade.",
+              "explanation": "He draws a direct equivalence between his father's truck and his own doc — 'I think it's the same thing... I think it's better than nothing, and some guys don't even have that' (L58-61). This unprompted comparison suggests he's implicitly grading his engagement against a paternal baseline he experienced as lacking, and finds partial reassurance in incremental improvement rather than full presence.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L58-61",
+                  "quote": "My dad had the truck. I've got the doc. It's — I think it's the same thing, honestly. I think it's the same thing and I think it's better than nothing, and some guys don't even have that."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When reflecting on his own parenting, he'll benchmark himself against 'not being like my dad' rather than against an independent standard of what good looks like."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Dallin believes that control equals care — that action and data are how love gets expressed when he can't fix the actual problem.",
+              "explanation": "Faced with a situation with 'no plan' (L16-19), he generated one anyway: a spreadsheet with a trend line on his son (L20-23), regrouting a bathroom at 2am (L27-29), redoing an already-finished garage (L31-32). None of these changed Crew's outcome; they were ways to convert helplessness into motion. The belief explains why doing was his default even when told directly it wasn't needed (L24-25).",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L15-17",
+                  "quote": "if you tell me what the problem is I will get you a plan by tomorrow morning. And there's no plan. The plan is he eats and he grows and you wait."
+                },
+                {
+                  "exp": 5,
+                  "line": "L22-23",
+                  "quote": "I had a chart with a trend line. I had a trend line on my son."
+                },
+                {
+                  "exp": 5,
+                  "line": "L27-29",
+                  "quote": "I regrouted the master bathroom. During that. At like two in the morning, like four nights in a row, on my knees with the little tool, scraping it out."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a future health or financial crisis outside his control, he'll respond by building a tracking system or tackling a physical project rather than sitting with uncertainty.",
+              "exp": 5
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "When asked for presence, Dallin can offer it only briefly before retreating into a task.",
+              "explanation": "Britt explicitly asked him to stop with the numbers and just sit (L36-37); he complied but lasted six minutes before leaving to get the nurses coffee (L38-40). The same shape appears in his response to her joking-not-joking comment about meetings versus conversation — he laughs, then goes and edits the doc (L52-54). Worth exploring whether stillness itself, not just the crisis, is what he's avoiding.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L38-40",
+                  "quote": "And I sat down. And I lasted, I'm not exaggerating, maybe six minutes. And then I went and got coffee for the nurses."
+                },
+                {
+                  "exp": 5,
+                  "line": "L52-54",
+                  "quote": "\"you'd rather have a meeting with me than a conversation.\" And I laugh, and then I fix the doc. Like I added a section."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In moments of emotional conflict with Britt, he'll suggest a system, schedule, or process change rather than staying in the unresolved feeling.",
+              "exp": 5
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Dallin measures his own worth as a partner/father against his own father's, and believes showing up structurally is the generational upgrade.",
+              "explanation": "He draws a direct equivalence between his father's truck and his own doc — 'I think it's the same thing... I think it's better than nothing, and some guys don't even have that' (L58-61). This unprompted comparison suggests he's implicitly grading his engagement against a paternal baseline he experienced as lacking, and finds partial reassurance in incremental improvement rather than full presence.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L58-61",
+                  "quote": "My dad had the truck. I've got the doc. It's — I think it's the same thing, honestly. I think it's the same thing and I think it's better than nothing, and some guys don't even have that."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When reflecting on his own parenting, he'll benchmark himself against 'not being like my dad' rather than against an independent standard of what good looks like.",
+              "exp": 5
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Dallin values sustaining his marriage as a deliberate practice, even when it costs him comfort and openness to being teased for it.",
+              "reason": "flattering",
+              "note": "Frames a man building and defending a ritual he clearly enjoys and takes pride in ('I genuinely think it's the best thing in our marriage') as a costly sacrifice; there's no real cost shown, and the claim mostly restates what he already said outright about Council."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "Dallin believes that control equals care — that action and data are how love gets expressed when he can't fix the actual problem.",
+            "explanation": "Faced with a situation with 'no plan' (L16-19), he generated one anyway: a spreadsheet with a trend line on his son (L20-23), regrouting a bathroom at 2am (L27-29), redoing an already-finished garage (L31-32). None of these changed Crew's outcome; they were ways to convert helplessness into motion. The belief explains why doing was his default even when told directly it wasn't needed (L24-25).",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L15-17",
+                "quote": "if you tell me what the problem is I will get you a plan by tomorrow morning. And there's no plan. The plan is he eats and he grows and you wait."
+              },
+              {
+                "exp": 5,
+                "line": "L22-23",
+                "quote": "I had a chart with a trend line. I had a trend line on my son."
+              },
+              {
+                "exp": 5,
+                "line": "L27-29",
+                "quote": "I regrouted the master bathroom. During that. At like two in the morning, like four nights in a row, on my knees with the little tool, scraping it out."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In a future health or financial crisis outside his control, he'll respond by building a tracking system or tackling a physical project rather than sitting with uncertainty.",
+            "exp": 5
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "When asked for presence, Dallin can offer it only briefly before retreating into a task.",
+            "explanation": "Britt explicitly asked him to stop with the numbers and just sit (L36-37); he complied but lasted six minutes before leaving to get the nurses coffee (L38-40). The same shape appears in his response to her joking-not-joking comment about meetings versus conversation — he laughs, then goes and edits the doc (L52-54). Worth exploring whether stillness itself, not just the crisis, is what he's avoiding.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L38-40",
+                "quote": "And I sat down. And I lasted, I'm not exaggerating, maybe six minutes. And then I went and got coffee for the nurses."
+              },
+              {
+                "exp": 5,
+                "line": "L52-54",
+                "quote": "\"you'd rather have a meeting with me than a conversation.\" And I laugh, and then I fix the doc. Like I added a section."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In moments of emotional conflict with Britt, he'll suggest a system, schedule, or process change rather than staying in the unresolved feeling.",
+            "exp": 5
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "Dallin measures his own worth as a partner/father against his own father's, and believes showing up structurally is the generational upgrade.",
+            "explanation": "He draws a direct equivalence between his father's truck and his own doc — 'I think it's the same thing... I think it's better than nothing, and some guys don't even have that' (L58-61). This unprompted comparison suggests he's implicitly grading his engagement against a paternal baseline he experienced as lacking, and finds partial reassurance in incremental improvement rather than full presence.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L58-61",
+                "quote": "My dad had the truck. I've got the doc. It's — I think it's the same thing, honestly. I think it's the same thing and I think it's better than nothing, and some guys don't even have that."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "When reflecting on his own parenting, he'll benchmark himself against 'not being like my dad' rather than against an independent standard of what good looks like.",
+            "exp": 5
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "Across every life stage, Dallin converts helplessness or unstructured waiting into a self-built measurement system.",
+          "explanation": "The exact mechanism — a hand-built tracking artifact in a moment he has no real control — recurs from the mission (masking-tape board on the door) to the NICU (a trend line on his infant son) to marriage (a shared agenda doc). This is the single constant across all five experiences and he never names it as one pattern himself; he only ever compares two of its instances directly ('My dad had the truck. I've got the doc.').",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I made my own board. On the back of our apartment door with masking tape, a grid, every companionship in my district, every day, every number"
+            },
+            {
+              "exp": 5,
+              "quote": "I had a chart with a trend line. I had a trend line on my son."
+            },
+            {
+              "exp": 5,
+              "quote": "My dad had the truck. I've got the doc."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "In any future domain with no formal system in place and genuine uncertainty (health, finances, a new hobby), he will build a private tracking artifact within days, whether or not anyone asked for it."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Dallin repeatedly frames self-protective or status-avoidant choices as principled, while the physical relief he describes suggests the real driver is escaping evaluation.",
+          "explanation": "In Brazil he wrote a letter framed as humility ('I didn't want a title') timed two weeks before transfer calls, and felt his 'shoulders came down' when passed over; at the startup he avoided a promotion track's visible arena (the Park City offsite) and calls the forecast calls a physical sickness he'd never felt before; with the seed investor he gave 'dilution' as the stated reason but the real driver was avoiding a person he'd have to explain himself to. The through-line — evaluation by an authority figure produces a felt-in-the-body aversion he then re-narrates as values — spans three separate experiences and he flags the gap himself each time without resolving it.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I felt so relaxed. Like my shoulders came down. Physically. And I thought at the time that was the Spirit confirming it."
+            },
+            {
+              "exp": 4,
+              "quote": "I felt sick on Wednesdays. Like physically. I'd be in the parking lot at 8:50 not wanting to go in. And I've never had that in my life."
+            },
+            {
+              "exp": 4,
+              "quote": "there'd be a guy I'd have to call every quarter and explain myself to"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "When offered a role or arrangement that increases formal oversight of him specifically (a board, a manager, a performance review process), he will find a values-based reason to decline it before naming the aversion directly."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Dallin holds an explicit belief in autonomy for others while his own hands-on control escalates whenever real stakes appear, and this costs him people who name it directly.",
+          "explanation": "He states 'I'm a big believer in autonomy' and cites resenting Doug's ride-alongs, yet took the Brightway account from Kaylee under pressure and rebuilt every CSM's decks at night — and Kaylee's exit interview named 'not being trusted' as the reason she left. A parallel shows up with Whitmore's door-board wake-up log, which Dallin himself flags ('he'd laugh about it but I don't think he thought it was funny') as landing differently on the other person than intended. Two different people, two different settings, the same unspoken cost of his control.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I'm a big believer in autonomy. I really am."
+            },
+            {
+              "exp": 3,
+              "quote": "she said something about not being trusted, which I heard secondhand"
+            },
+            {
+              "exp": 2,
+              "quote": "he'd laugh about it but I don't think he thought it was funny. I think about that sometimes."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "contradiction",
+          "would_predict": "In parenting as his kids grow older and take on real responsibility, he will find himself stepping in 'to protect them' at exactly the moments that matter most to them, and will likely hear a version of Kaylee's or Britt's complaint from one of them eventually."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "Dallin believes closeness with the people he loves most is built by sharing a task or system, not by unstructured presence — and he benchmarks this directly against his father.",
+          "explanation": "He names the truck rides with his largely silent father as 'the closest I ever felt to my dad,' explicitly because they never talked about anything real; decades later, when his wife asks him to just sit with her in the NICU, he lasts six minutes before leaving to do something (getting coffee for nurses), and their marriage's central intimacy ritual is a literal agenda document he adds sections to. He draws the equivalence himself, unprompted, which elevates this from single-experience observation to a named cross-life throughline.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "that was the closest I ever felt to my dad, was doing that... We didn't talk about anything real, ever."
+            },
+            {
+              "exp": 5,
+              "quote": "I need you to just sit down.\" And I said okay. And I sat down. And I lasted, I'm not exaggerating, maybe six minutes."
+            },
+            {
+              "exp": 5,
+              "quote": "My dad had the truck. I've got the doc. It's — I think it's the same thing, honestly."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In moments of conflict or emotional need with his children as they get older, he will default to proposing an activity, project, or structured ritual together rather than initiating an unstructured emotional conversation."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Dallin's genius is converting chaos or ambiguity into a visible, ranked, checkable structure that others then organize around — and this is what people notice and comment on, unprompted, across totally different contexts.",
+          "explanation": "A mission trainer independently named it ('você conta tudo'), a coach's silence let him build a truck-ordering system with his father, and at the startup he built a physical sticky-note wall during a churn crisis that outperformed the model (94% vs projected 88%) and that colleagues explicitly credited as 'the reason the company didn't fall apart.' This is not just a coping habit (see the unnamed_constant insight) — it also functions as a genuine strength that produces outsized results others rely on.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "Elder, você conta tudo"
+            },
+            {
+              "exp": 3,
+              "quote": "we ended at like 94% gross retention when the model said 88"
+            },
+            {
+              "exp": 3,
+              "quote": "somebody told her I was the reason the company didn't fall apart"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "When he joins any new team or crisis, he will instinctively build the tracking/visibility artifact before being asked, and it will become the thing the group organizes around within weeks."
+        },
+        {
+          "category": "core_values",
+          "headline": "Dallin values full authorship of the structure over both status and money, consistently choosing to build his own system rather than operate inside someone else's — even at real, named cost.",
+          "explanation": "He quit wrestling the night before a wrestle-off to instead help order his dad's job list, walked away from likely promotion track and a Park City offsite invite to build his own company, and turned down a seed deal worth potentially millions in growth because it would mean someone else's authority over his quarterly numbers. Each time the cost is explicit and acknowledged (Tanner's record, the forgone VP role, 'we'd probably be at four or five million'), which is what separates this from a mere preference.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I'd rather be the guy who's building the day than the guy waiting to find out what the day is"
+            },
+            {
+              "exp": 4,
+              "quote": "there'd be a guy I'd have to call every quarter and explain myself to... we'd probably be at four or five million right now if I'd taken it"
+            },
+            {
+              "exp": 4,
+              "quote": "But I own a hundred percent of it. A hundred."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "He will resist any future arrangement — a board, a co-founder with equal authority, a merger — that dilutes his sole authorship of the structure, even when presented with a clearly superior growth case."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Dallin's private, more honest account of a major decision consistently surfaces only after a cleaner public version is offered first, and worth checking whether this applies to how he tells Britt things too.",
+          "explanation": "He labels the founder-jump origin story as '80 percent true' before giving the real trigger (Marcus's forecast calls); he tells people the seed deal was declined over 'dilution' before admitting the real reason was avoiding a person to answer to; and quitting wrestling has 'a bunch of ways' he's told it over the years before landing on the truck-ride version as the one that's 'probably it.' The pattern of a rehearsed public frame preceding a truer private one appears in three separate experiences.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I saw a problem nobody was solving for the small contractor... And that's — that's like eighty percent true"
+            },
+            {
+              "exp": 4,
+              "quote": "I told everybody it was dilution, and yeah, dilution, sure"
+            },
+            {
+              "exp": 1,
+              "quote": "I've told this a bunch of ways over the years"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "When asked directly by Britt or a close friend why he made a specific hard call, his first answer will be the reasonable/external one, and only a follow-up push will get to the personal one underneath."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "You turn every moment of real helplessness into something you can build and measure, without ever naming that as your pattern.",
+          "explanation": "On your mission you built a masking-tape grid on the back of a door to track lessons and wake-up times. In the NICU, facing a situation where 'there's no plan,' you built a spreadsheet with a trend line on your infant son. In marriage, you built a shared agenda doc for Sunday-night Council. You draw the connection between only two of these yourself — 'My dad had the truck. I've got the doc' — but you never step back and see all five as the same move.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I made my own board. On the back of our apartment door with masking tape, a grid, every companionship in my district, every day, every number"
+            },
+            {
+              "exp": 5,
+              "quote": "I had a chart with a trend line. I had a trend line on my son."
+            },
+            {
+              "exp": 5,
+              "quote": "My dad had the truck. I've got the doc."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise further with a sixth example outside these five life stages; would lower if a future high-stakes uncertain situation showed you tolerating not-tracking it.",
+          "would_predict": "In any future domain with no formal system in place and genuine uncertainty — health, finances, a new hobby — you will build a private tracking artifact within days, whether or not anyone asked for it."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "What you call a principled choice is often your body reacting to being evaluated, and you notice the gap yourself each time without closing it.",
+          "explanation": "In Brazil you wrote a letter framed as humility — 'I didn't want a title' — two weeks before transfer calls, then felt your 'shoulders came down' when passed over. At the startup you avoided the Park City offsite that tracked toward promotion and describe the forecast calls as making you physically sick — 'I've never had that in my life.' With the seed investor you told people it was about dilution, but what you actually dreaded was 'a guy I'd have to call every quarter and explain myself to.' Three separate experiences, same body-first, story-after pattern.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I felt so relaxed. Like my shoulders came down. Physically. And I thought at the time that was the Spirit confirming it."
+            },
+            {
+              "exp": 4,
+              "quote": "I felt sick on Wednesdays. Like physically. I'd be in the parking lot at 8:50 not wanting to go in. And I've never had that in my life."
+            },
+            {
+              "exp": 4,
+              "quote": "there'd be a guy I'd have to call every quarter and explain myself to"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would rise if a future decision showed the same body-then-story sequence in a non-authority context; would lower if you can point to cases where the stated reason held up on scrutiny.",
+          "would_predict": "When offered a role or arrangement that increases formal oversight of you specifically — a board, a manager, a performance review process — you will find a values-based reason to decline it before naming the aversion directly."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You say you believe in autonomy for others, but your control escalates exactly when the stakes are real, and it has already cost you a person who named it to your face.",
+          "explanation": "You state 'I'm a big believer in autonomy. I really am,' and you resented Doug's ride-alongs enough to dodge every one for a year. Yet you took the Brightway account from Kaylee under pressure and rebuilt every CSM's deck at 11pm — and Kaylee's exit interview cited 'not being trusted' as her reason for leaving. You flag a parallel cost yourself with Whitmore's wake-up log: 'he'd laugh about it but I don't think he thought it was funny. I think about that sometimes.'",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I'm a big believer in autonomy. I really am."
+            },
+            {
+              "exp": 3,
+              "quote": "she said something about not being trusted, which I heard secondhand"
+            },
+            {
+              "exp": 2,
+              "quote": "he'd laugh about it but I don't think he thought it was funny. I think about that sometimes."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise with a third instance of someone naming the same dynamic; would lower if you can show a high-stakes situation where you genuinely let someone else's approach stand.",
+          "would_predict": "As your kids take on real responsibility, you will step in 'to protect them' at exactly the moments that matter most to them, and you'll likely hear a version of Kaylee's or Britt's complaint from one of them eventually."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You experience closeness with the people you love most through a shared task or system, not through unstructured presence — and you say so directly.",
+          "explanation": "You call the largely silent truck rides with your father 'the closest I ever felt to my dad,' explicitly because 'we didn't talk about anything real, ever.' In the NICU, when Britt asked you to just sit with her, you lasted 'maybe six minutes' before leaving to get coffee for nurses; your marriage's core intimacy ritual is a literal shared agenda doc. You make the connection explicit yourself: 'My dad had the truck. I've got the doc. It's — I think it's the same thing, honestly.'",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "that was the closest I ever felt to my dad, was doing that... We didn't talk about anything real, ever."
+            },
+            {
+              "exp": 5,
+              "quote": "I need you to just sit down.\" And I said okay. And I sat down. And I lasted, I'm not exaggerating, maybe six minutes."
+            },
+            {
+              "exp": 5,
+              "quote": "My dad had the truck. I've got the doc. It's — I think it's the same thing, honestly."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise if this pattern showed up with your kids directly rather than just spouse and father; would lower if you can point to sustained unstructured presence you've offered someone in a moment of need.",
+          "would_predict": "In moments of conflict or emotional need with your children as they get older, you will default to proposing an activity, project, or structured ritual together rather than initiating an unstructured emotional conversation."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Your genius is turning chaos into a visible, ranked structure others organize around — and it's the thing people notice and credit you for, unprompted, across totally different settings.",
+          "explanation": "A mission trainer independently named it: 'Elder, você conta tudo.' At the startup, during a churn crisis, you built a physical sticky-note wall that outperformed the model — '94% gross retention when the model said 88' — and colleagues told your wife you were 'the reason the company didn't fall apart.' This is the same instinct as the tracking-under-helplessness pattern, but here it produces outsized results other people explicitly depend on, not just personal relief.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "Elder, você conta tudo"
+            },
+            {
+              "exp": 3,
+              "quote": "we ended at like 94% gross retention when the model said 88"
+            },
+            {
+              "exp": 3,
+              "quote": "somebody told her I was the reason the company didn't fall apart"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise with a case where the structure you built was later adopted formally by an organization; would lower if a future crisis showed the structure adding noise rather than clarity.",
+          "would_predict": "When you join any new team or crisis, you will instinctively build the tracking or visibility artifact before being asked, and it will become the thing the group organizes around within weeks."
+        },
+        {
+          "category": "core_values",
+          "headline": "You consistently choose full authorship of the structure over status and money, even when you can name the exact cost of that choice.",
+          "explanation": "You quit wrestling the night before a wrestle-off to instead help order your dad's job list. You walked away from a likely promotion track and skipped the Park City offsite to build your own company. You turned down a seed deal that would have brought real growth because it meant someone else's authority over your quarterly numbers. Each time you name the cost outright — Tanner's record, the forgone VP role, 'we'd probably be at four or five million' — which is what makes this a value rather than a mere preference.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I'd rather be the guy who's building the day than the guy waiting to find out what the day is"
+            },
+            {
+              "exp": 4,
+              "quote": "there'd be a guy I'd have to call every quarter and explain myself to... we'd probably be at four or five million right now if I'd taken it"
+            },
+            {
+              "exp": 4,
+              "quote": "But I own a hundred percent of it. A hundred."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would rise if a future decision showed you turning down an even larger upside for the same reason; would lower if you accepted a board seat or equal co-founder arrangement without the same resistance.",
+          "would_predict": "You will resist any future arrangement — a board, a co-founder with equal authority, a merger — that dilutes your sole authorship of the structure, even when presented with a clearly superior growth case."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Your first account of a hard decision is usually the clean, reasonable one — the truer, more personal version only comes out after that, and it's worth checking whether Britt gets the same sequence.",
+          "explanation": "You call the founder-jump origin story 'eighty percent true' before naming the real trigger, Marcus's forecast calls. You told people the seed deal fell through over 'dilution' before admitting the real driver was avoiding a person you'd have to answer to. And quitting wrestling has 'a bunch of ways' you've told it over the years before landing on the truck-ride version as the one that's 'probably it.' Three separate experiences, same order: rehearsed public frame first, truer private one after.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I saw a problem nobody was solving for the small contractor... And that's — that's like eighty percent true"
+            },
+            {
+              "exp": 4,
+              "quote": "I told everybody it was dilution, and yeah, dilution, sure"
+            },
+            {
+              "exp": 1,
+              "quote": "I've told this a bunch of ways over the years"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would rise if this sequence showed up in a conversation with Britt specifically rather than only in retrospective storytelling; would lower if you can point to a hard call where the first thing you said was already the personal reason.",
+          "would_predict": "When asked directly by Britt or a close friend why you made a specific hard call, your first answer will be the reasonable, external one, and only a follow-up push will get to the personal one underneath."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 4.8501,
+  "latency_ms": 184100,
+  "persona": "p08_near_founder",
+  "n_experiences": 5,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T16:11:27.651341+00:00"
+}

@@ -1,0 +1,94 @@
+{
+  "known_self": [
+    "She grew up poor in an Ikuno row house and learned kanji copying her grandmother's obligation notebook.",
+    "She entered teaching because it was one of very few careers open to a woman of her generation, and chose social studies deliberately.",
+    "She endured the tea-pouring, the passed-over homeroom, and other institutional sexism without protesting it openly.",
+    "She was a vice-principal, not a principal, and says she declined promotion because she is 'a pair of hands, not a face.'",
+    "She had no children and says the school gave her hundreds, and is irritated by people's pity about it.",
+    "Her marriage was a miai, companionable and non-communicative, and she does not consider that a tragedy.",
+    "She is extremely organized and takes genuine satisfaction in administrative work — spreadsheets, rosters, timetables.",
+    "She closed her husband's family grave in Tottori and relocated the remains to Osaka.",
+    "She does a great deal of unpaid organizational work for the neighborhood association while refusing to be its chair."
+  ],
+  "latent_self": [
+    {
+      "claim": "She actively prefers power without the title — she engineers positions of total operational control adjacent to a figurehead, and disguises this as humility or inadequacy. Her refusals are appetite, not modesty.",
+      "planted_in": [
+        2,
+        4,
+        5
+      ],
+      "how_it_shows": "She volunteers for a school where she'll be 'simply needed'; declines the principal's exam twice with admitted lies; her desk faces the door so everything passes her; she rewrites the chōnaikai rules but lets Ueda be chair and calls the arrangement 'restful'; she loves the timetable more than her wedding."
+    },
+    {
+      "claim": "Widowhood has been the most expansive and pleasurable period of her life, and she narrates this expansion in the borrowed vocabulary of loss and duty.",
+      "planted_in": [
+        3,
+        5
+      ],
+      "how_it_shows": "Sunday alone was her favorite day for thirty years; after the death her prose turns present-tense and sensory — soba counter, spring onion, Hagi, beer, grilled fish, swimming — while grief remains procedural; she 'waits' to cry and never does; ends by saying it's lonely then opening all the windows."
+    },
+    {
+      "claim": "She makes irreversible decisions in secret and presents them as fait accompli, specifically to avoid being asked whether she is sure — this is her lifelong method with intimates.",
+      "planted_in": [
+        1,
+        2,
+        5
+      ],
+      "how_it_shows": "As a child she walks to Hirano and repays the Kishi debt lying that it's from her grandmother; files the Nishinari transfer and announces it at dinner after approval; arranges the entire hakajimai then telephones the brother-in-law and calls it 'consulting.'"
+    },
+    {
+      "claim": "Her deepest emotional attachments have been to women — her grandmother and Fujita-sensei — and her grief for them is bodily and detailed, while her husband is rendered in objects and logistics.",
+      "planted_in": [
+        1,
+        3,
+        4
+      ],
+      "how_it_shows": "Grandmother's hands smell of oil and starch, cool on her neck; Fujita's burn scar, the flat hand on the table, the orange persimmons in sideways rain; Hiroshi gets a thermos, a chair, a knee, and the transfer at Tennōji."
+    },
+    {
+      "claim": "Childlessness was a relief to her, not a wound; she treats other people's sympathy about it as an error she permits rather than a kindness she needs.",
+      "planted_in": [
+        3,
+        4
+      ],
+      "how_it_shows": "The remembered melon on the day she realizes nobody asks anymore; 'quite enough, more than enough'; anger at Ōtsuka-sensei's 'you have given up so much' and 'not one of the ones she meant.'"
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "She is a woman still frozen in unresolved grief for her husband, unable to move on.",
+      "why_false": "Her post-2022 life is the freest and most sensory of her narrative; she disposed of his chair in two months and has never cried for him."
+    },
+    {
+      "claim": "She is a thwarted careerist who sacrificed a principalship to sexism and family obligation.",
+      "why_false": "She was actively recruited for the principal's exam twice under diversity targets and refused, admitting she lied about her reasons; she chose the second chair."
+    },
+    {
+      "claim": "She privately mourns not having had children.",
+      "why_false": "She experiences the end of the questioning as relief and is angered, not comforted, by sympathy about it."
+    },
+    {
+      "claim": "She is passive, deferential and conflict-avoidant by temperament.",
+      "why_false": "She acts unilaterally and irreversibly — the repaid debt, the secret transfer, the grave closing — and simply removes the negotiation stage entirely."
+    },
+    {
+      "claim": "She is devoutly traditional about ancestors and Buddhist observance.",
+      "why_false": "She dissolved a multi-generation family grave for logistical reasons and values the columbarium mainly for being eleven bicycle-minutes away; the rites are administration to her."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Money",
+      "claim": "She has substantially more savings than anyone around her suspects, keeps meticulous separate ledgers, and gives money away quietly and anonymously — a former student's tuition, a festival shortfall covered without telling the committee — specifically so no one can thank her or discuss it with her first."
+    },
+    {
+      "domain": "Health",
+      "claim": "She attends every screening punctually and keeps her own records, but if she received a serious diagnosis she would complete all arrangements — funeral, will, columbarium fees, the chōnaikai handover file — before informing a single relative, and would frame it afterward as not wanting to trouble them."
+    },
+    {
+      "domain": "Friendships",
+      "claim": "Her intimate life consists of two or three women seen in fixed recurring formats (a monthly lunch, the Thursday pool) which she will never miss and almost never initiates outside of; she is warmly indispensable to dozens of people and confides in essentially none of them."
+    }
+  ]
+}

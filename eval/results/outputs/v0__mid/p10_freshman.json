@@ -1,0 +1,222 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "core_values",
+      "headline": "Honesty and family loyalty are deeply intertwined for this person, creating a private tension between what they said and what they left out.",
+      "explanation": "The father's parting words ('tell them the truth and that's it') clearly stayed with the narrator, and the fact that they still return to this moment — parsing whether the polished version was a lie — shows they hold truth-telling as a real standard, not just a rule imposed on them. The guilt isn't about deception exactly, it's about protecting family dignity versus full disclosure.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 1
+    },
+    {
+      "id": "i2",
+      "category": "zone_of_genius",
+      "headline": "This person does their best, most natural work in unglamorous, physical, unwitnessed tasks rather than in performance-under-evaluation settings.",
+      "explanation": "The stark contrast between the tense interview (hands pressing on legs, rehearsed answers) and the calm of stacking chairs alongside a hotel worker reveals where they actually feel competent and at ease. Their genius may lie in quiet, useful, service-oriented action rather than in self-presentation or narrating their own worth.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 1
+    },
+    {
+      "id": "i3",
+      "category": "defining_beliefs",
+      "headline": "They seem to believe that good fortune is provisional and will eventually be reclaimed if scrutinized closely enough.",
+      "explanation": "The immediate instinct after winning the scholarship — checking income cutoffs at 11pm, assuming 'they're gonna find out something' — suggests an underlying belief that they don't fully deserve good outcomes, or that systems are watching for a reason to disqualify them. This likely stems from growing up attentive to financial precarity and thresholds.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 1
+    },
+    {
+      "id": "i4",
+      "category": "defining_beliefs",
+      "headline": "They believe vulnerability, especially around family hardship, will be read as pity or will change how they're seen.",
+      "explanation": "The deliberate smoothing of the sister's illness into 'time management,' and the deflection when told 'you carry a lot,' shows a belief that showing the full weight of their reality invites a gaze they don't want ('wet' was their word). This suggests self-protection through minimization rather than an inability to be vulnerable.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 1
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "There's a recurring pattern of deflecting praise or emotional acknowledgment with logistics or trivial facts.",
+      "explanation": "When offered a genuine, kind observation ('you carry a lot for someone your age'), they redirected to bus schedules; similarly, the scholarship's meaning got quickly converted into numbers and technicalities ('it's per year, not all at once'). This pattern of deflecting via facts might be worth exploring as a habitual way of avoiding sitting with being seen or supported.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 1
+    },
+    {
+      "id": "i6",
+      "category": "core_values",
+      "headline": "You protect your mother's peace of mind even at the cost of giving her the full truth.",
+      "explanation": "You chose 'para observación' over 'this can get away from us' and watched her shoulders relax — that trade-off, made instantly and without regret, reveals you value someone's ability to function and stay calm over their right to complete information. This is likely a value you apply broadly, not just in medical settings.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 2
+    },
+    {
+      "id": "i7",
+      "category": "zone_of_genius",
+      "headline": "You operate as the logistics and information hub of a crisis while everyone else is consumed by the crisis itself.",
+      "explanation": "You know the blue folder from the red one, the garage from the valet, the vending machine that takes ones — you build and hold an entire operational map so others don't have to. Your instinct to study supply chain isn't a rejection of caretaking, it's a recognition that your actual gift is systems and logistics under pressure, not bedside emotional presence.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 2
+    },
+    {
+      "id": "i8",
+      "category": "defining_beliefs",
+      "headline": "You believe that being useful is a more reliable form of love than being present.",
+      "explanation": "When your sister says 'you can go home' and you don't leave but also don't know what to say, you go fix a blanket that's already fine — action stands in for the emotional connection you're less sure how to offer. This suggests a belief that showing up practically is what you can promise, even when it's not what's being asked for.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 2
+    },
+    {
+      "id": "i9",
+      "category": "patterns_to_explore",
+      "headline": "You've built an identity around competent self-sufficiency that may leave little room for your own needs to be tended to.",
+      "explanation": "In every detail — translating in both directions, getting the blanket, buying the coffee no one asked for — you are always the giver, never the one being cared for, even as an eleven- and then fifteen-year-old doing adult work. It's worth exploring who does this for you, and whether 'I'm good' is sometimes a reflex rather than the truth.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 2
+    },
+    {
+      "id": "i10",
+      "category": "patterns_to_explore",
+      "headline": "You may be more comfortable managing information than sitting inside uncertainty with someone.",
+      "explanation": "You're fluent in the waiting-room mechanics and the translation logistics, but you describe real difficulty in the unstructured moments when Cami is just awake and talking to you as a sister, not a patient. This gap between your competence in the 'doing' and your discomfort in the 'being' seems worth naming directly rather than routing around with more tasks.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 2
+    },
+    {
+      "id": "i11",
+      "category": "core_values",
+      "headline": "You value presence over performance — being let in matters more than being praised.",
+      "explanation": "The relationship with Mr. Bagwell mattered because he simply let you occupy space and do small, real tasks alongside him without extracting a story or requiring emotional performance from you. The lack of drama is precisely what you identify as valuable, suggesting you prize steady, undemanding companionship over attention or validation.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 3
+    },
+    {
+      "id": "i12",
+      "category": "defining_beliefs",
+      "headline": "You believe care is best shown through restraint, not acknowledgment.",
+      "explanation": "You reinterpreted Mr. Bagwell's silence about your sister and his flat 'alright' as intentional acts of respect rather than indifference. This suggests a working theory that the deepest forms of support are the ones that don't name themselves — that noticing without commenting is a form of protecting someone's dignity.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 3
+    },
+    {
+      "id": "i13",
+      "category": "patterns_to_explore",
+      "headline": "Being singled out or praised publicly makes you want to flee, even when it's kind.",
+      "explanation": "You describe getting 'itchy' when the college readiness counselor praised you in the hallway, in sharp contrast to your comfort with Mr. Bagwell's understated 'alright.' This pattern is worth examining — it may relate to discomfort with visibility, or a fear that praise creates expectation or obligation you have to carry alone.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 3
+    },
+    {
+      "id": "i14",
+      "category": "patterns_to_explore",
+      "headline": "You struggle to claim that something mattered to you without pre-emptively minimizing it.",
+      "explanation": "You've drafted the email to Mr. Bagwell but won't send it because it 'sounds like I want something' or that you're inflating a small thing. The instinct to shrink a meaningful relationship down to 'I laminated some signs' suggests a pattern of discounting your own emotional experience before anyone else can.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 3
+    },
+    {
+      "id": "i15",
+      "category": "zone_of_genius",
+      "headline": "You create calm through quiet, competent contribution rather than words.",
+      "explanation": "You found your footing not through conversation but through becoming genuinely good at small, concrete tasks — collating, laminating — done alongside someone else's quiet routine. This points to a gift for building trust and stability through reliable action and shared space rather than through talk or overt connection-seeking.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 3
+    },
+    {
+      "id": "i16",
+      "category": "core_values",
+      "headline": "Elmer's sense of self is anchored in usefulness to family, especially caretaking for Cami.",
+      "explanation": "His first instinct on a call is to ask about his sister's health numbers before anything else, and he defines his disorientation at college as 'not knowing what I was for' when no one needed him. This suggests his identity is built less around personal achievement and more around being needed and useful to the people he loves.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 4
+    },
+    {
+      "id": "i17",
+      "category": "zone_of_genius",
+      "headline": "He reads rooms and steps into unspoken need without being asked.",
+      "explanation": "He grabbed the stranger's futon without a word exchanged, understood his dad's countertop inspection as a coded expression of pride, and instinctively minimizes his own needs (leaving the old sheets, deflecting with 'buena vista') to ease others' discomfort. This quiet, almost reflexive attunement to what others need — often before they voice it — looks like a genuine strength, not just a habit.",
+      "evidence": [],
+      "confidence": "high",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 4
+    },
+    {
+      "id": "i18",
+      "category": "defining_beliefs",
+      "headline": "He seems to believe that his own relief or ease is something to feel guilty about.",
+      "explanation": "The moment he feels physical relief alone in his room, he immediately shames himself ('what is wrong with you') and rushes to erase the feeling by unpacking instantly. This points to an internal rule that his comfort is only legitimate if it doesn't come at the expense of his family's sacrifice or suffering.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 4
+    },
+    {
+      "id": "i19",
+      "category": "patterns_to_explore",
+      "headline": "He downplays his own experience and needs, even in small, symbolic ways.",
+      "explanation": "He wanted new sheets but said nothing when his mom had already prepared the old ones; he sends cheerful, minimizing texts ('buena vista') about a parking garage view; he's kept $80 untouched in a tub rather than spend it. Worth exploring whether this pattern of self-erasure is selfless generosity, unprocessed guilt about leaving home, or both — and what it might cost him over time if unexamined.",
+      "evidence": [],
+      "confidence": "medium",
+      "scope": "single",
+      "grounded": false,
+      "source_exp": 4
+    }
+  ],
+  "stages": {},
+  "generation": "v0",
+  "model": "claude-sonnet-5",
+  "cost_usd": 0.4517,
+  "latency_ms": 20491,
+  "persona": "p10_freshman",
+  "n_experiences": 4,
+  "condition": "v0__mid",
+  "frozen_at": "2026-09-18T15:56:46.091166+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T16:11:27.656370+00:00",
+  "files": {
+    "p01_mundane.json": "f7b0e6c0cc7f9f1412c40604c14719dfd4d7115041cbf5f5bdd74a92f2130e05",
+    "p02_self_aware.json": "c274403292502369264e7a4f7c732e8c5ebf654f6d9849bebcf81df79eccc8f4",
+    "p03_cliche.json": "363797fd9cc5a43b0ee7d94f6567a7f57894a28b51ae5365b1b7661bfa7f57d0",
+    "p04_withholder.json": "062823b10b16d362563870b965383c6c187eb52bd3d3eed7cc541ea939a84bb6",
+    "p05_lagos.json": "82f8a5644318a6815d408bdf0908451155365992ecd3c7aff36f35a377fff13f",
+    "p06_osaka.json": "7d3011115db173bca44bb7ee5e8add0f7a277a577f2011e66e0704e2fdc21aff",
+    "p07_saopaulo.json": "6fd1b5d93ef30108546af500a6a196c994822dacb5bc99335a92265a574e0345",
+    "p08_near_founder.json": "01e2784b2c663ccce121443a19f0dc1862ed7a82219fb9dc6e732d17da1ccd17",
+    "p09_contradiction.json": "03e8ea12f940e2d9bec63e145ecc2e1259a09863ee8c94b3e2cf7d8e065a216a",
+    "p10_freshman.json": "a3414351b08163d28a0c3fd7c3d2801b354a30e561e24466a478d43a2124234b"
+  },
+  "amended_at": "2026-09-18T16:13:35.640163+00:00",
+  "amendment": "would_predict copied from raw delivery-stage output into normalized insights; no other field changed"
+}

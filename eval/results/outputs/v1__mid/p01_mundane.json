@@ -1,0 +1,2801 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "defining_beliefs",
+      "headline": "You believe that if you don't personally catch and fix a hidden problem, no one else will — and that belief, not duty, is what drives your unpaid, unasked-for labor.",
+      "explanation": "You read the nine-inch exception register nobody else reads and say 'I don't know why. I just always did,' then build a system so specialized that 'nobody else can run it,' requiring you to walk colleagues through it from a beach on vacation. At 22, you don't just fix Ardith's flapper — you falsify a billing code yourself rather than trust the process to correct an $1,100 injustice. Both moments show you substituting personal, invisible intervention for institutional reliability, as if the system will fail unless you individually intercept it.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "Nobody else can run it.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I keyed the read as a meter-fail estimate. Which it wasn't. The meter was fine.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In any team or family process you're part of, you will quietly take on a checking/failsafe role no one assigned you, and will resist delegating it even when it costs you personally, because you don't trust the process to catch what you catch."
+    },
+    {
+      "id": "i2",
+      "category": "core_values",
+      "headline": "You consistently protect vulnerable or struggling people from a harsh-but-technically-correct outcome, at real personal cost, without ever seeking credit.",
+      "explanation": "You zero penalties for isolated elderly customers with no authorization, personally repair and financially cover Ardith's leak rather than let her eat an unjust bill, and orchestrate a boundary-line fix for your neighbor without ever mentioning the trespass, instead quietly helping him avoid a costly mistake with the post depth. In every case the help is materially real and the credit is actively declined or hidden.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "A lady on Social Security shouldn't eat a nine dollar penalty because her son didn't get the mail in.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "That's four dollars and thirty-nine cents of my own money, if you count the chain clip.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I never said a word. Never said a word, and I still haven't said a word, that's seven years.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a future conflict where you are owed something — money, recognition, an apology — you will act to fix the practical problem for the other person while withholding the grievance that would make the situation costly or awkward for them."
+    },
+    {
+      "id": "i3",
+      "category": "patterns_to_explore",
+      "headline": "You repeatedly have the real conversation available to you and choose the logistical one instead — then narrate the substitution as evidence nothing important happened.",
+      "explanation": "On the boat with Denny, you 'had the words in my mouth' about the layoff and instead asked about drift socks. With Tammy on the fence line, you were told to 'just go talk to him' and instead filed the survey and waited three weeks to solve it through labor, never raising it. Both times you frame the outcome as fine or even good — 'it doesn't bother me... it's grass' — but the swap from words to action/logistics recurs enough to ask what you believe talking would cost you.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I had the words in my mouth, something like, so how you doing with all that... And what I said was, 'You ever try one of them drift socks?'",
+          "verbatim": false
+        },
+        {
+          "exp": 4,
+          "quote": "Tammy says just go talk to him, and I said I will, and I did not.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "In a difficult upcoming conversation — with Nathan, with Brad, with Tammy — you will prepare a practical gesture or fix in place of naming the issue directly, and will describe the avoidance afterward as 'no big deal.'"
+    },
+    {
+      "id": "i4",
+      "category": "defining_beliefs",
+      "headline": "You believe that raising your own grievance or claim directly will make you look foolish or be received badly — so you only act through indirection: object, code, waiting, or someone else's name.",
+      "explanation": "You hid your authorship on the leak-forgiveness policy because 'if it'd had my name on it, a twenty-three-year-old meter reader, it goes in the drawer,' you let the promotion application die silently at Arby's rather than tell anyone you didn't want it, and you filed the survey and waited rather than confronting Rick about the encroachment. Each time the direct path — claim credit, say no clearly, name the trespass — is available and you take an indirect one instead.",
+      "evidence": [
+        {
+          "exp": 5,
+          "quote": "if it'd had my name on it, a twenty-three-year-old meter reader, it goes in the drawer. It doesn't pass.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "What I did instead... is I put the survey in the file cabinet, in the folder with the deed and the pool permit, and I waited.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "When you want something changed or recognized at work or home, you will engineer conditions for someone else to notice or act rather than making a direct ask, even when a direct ask would be faster and lower-risk."
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "You insist repeatedly, unprompted, that things you clearly still turn over don't bother you — the denial itself recurs more than the events warrant.",
+      "explanation": "You say of the Marlene sentence 'Which is insane. My wife would tell you it's insane' while admitting you've thought about it weekly for 27 years; you say of the fence 'it genuinely does not bother me' right before revealing you mow the disputed strip and think 'fourteen and a quarter' every time; and of the plaque, 'I'm not sitting here eating my heart out about a plaque.' The pattern is the unsolicited disclaimer attached to things you demonstrably still carry.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "That's the — and I've thought about that sentence I would say weekly for twenty-seven years. Which is insane.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "It genuinely does not bother me, it's grass... I just — fourteen and a quarter. Every time I mow.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "When asked directly whether a past decision still affects you, you will minimize verbally while a concrete behavioral trace — an object kept, a ritual, a recurring thought — contradicts the minimization."
+    },
+    {
+      "id": "i6",
+      "category": "zone_of_genius",
+      "headline": "You are exceptional at, and quietly energized by, converting a single small failure into a durable, generalized fix — but only when you can stay out of the spotlight doing it.",
+      "explanation": "From one exception register you built a system now core to billing operations that only you can run; from one bad flapper you authored a leak-forgiveness ordinance now used on 1,200+ accounts a year. In both cases the scaling-up is self-initiated, sustained over months/years, and done with your name deliberately absent or incidental — the genius and the self-erasure appear to be one motion, not two.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "it's got the exception logic in it, it's got the compound conversions, it's got the cross-reference for the parcels that got resplit",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "like eleven, twelve hundred accounts a year go through that adjustment now",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "Given a new domain — a community, church, or volunteer role — you will eventually build an informal but indispensable system or process there too, and will resist being publicly credited as its architect."
+    },
+    {
+      "id": "i7",
+      "category": "patterns_to_explore",
+      "headline": "You treat the choice not to advance yourself as closed and rational in the moment, yet keep a physical artifact of every one of these choices for decades.",
+      "explanation": "You kept the unfiled promotion application for fifteen years in a drawer you can't explain — 'I don't know why I didn't throw it out' — and kept the survey proving the fence encroachment in the deed folder for seven years so a future buyer will have it. This suggests the retention is not incidental clutter but a specific archive of moments where you chose not to assert yourself.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "I still got the application. It's in the gray filing cabinet in the garage... I don't know why I didn't throw it out.",
+          "verbatim": false
+        },
+        {
+          "exp": 4,
+          "quote": "I did put the survey in with the deed so at least they'll have it.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "low",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "If asked to clean out your garage or files, you will find several other kept artifacts tied to decisions you claim to have no regret about, and will struggle to articulate why each one is still there."
+    },
+    {
+      "id": "i8",
+      "category": "defining_beliefs",
+      "headline": "You believe closeness and obligation are in tension — that naming a bond out loud kills it, so you let things stay unspoken to keep them safe.",
+      "explanation": "You never revived the annual fishing trip because calling to remember it would make you 'feel funny,' never told Rick about the property line despite becoming genuinely close neighbors who share tools and holidays, and never told Marlene's daughter about the sentence that meant so much to you because 'how do you explain that.' In each case the closeness is real and ongoing, but you treat voicing its significance as the risk, not the relationship itself.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "you can't call a guy in March and go hey, remember that. You'd feel like a — I don't know. You'd feel funny about it.",
+          "verbatim": true
+        },
+        {
+          "exp": 1,
+          "quote": "I almost told her daughter about it and then I didn't, because it's — how do you explain that.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "With Nathan or Tammy, you likely have at least one significant unspoken debt of gratitude or affection you have never voiced directly, believing that saying it aloud would be more awkward than valuable — worth checking with them whether that's actually true."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Event dated 1999, speaker was age 25, four years into the job."
+            },
+            {
+              "line": "L11",
+              "what_happened": "The county was converting off an old AS/400 green-screen system, maintained by Ron Mierzwa since approximately 1983, to a new vendor package from Indianapolis, name not recalled, referred to as 'Muni-something.'"
+            },
+            {
+              "line": "L12",
+              "what_happened": "The conversion brought over the account master and current read but did not bring over estimate history."
+            },
+            {
+              "line": "L14",
+              "what_happened": "On compound meters (three-inch and up, commercial accounts), the estimate logic averaged the prior twelve readings on a calendar quarter basis, while billing was done on a rolling sixty-day cycle."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Commercial accounts had estimates coming in about eleven percent light, resulting in a true-up bill of about fourteen hundred dollars in February for accounts such as 'Hillcrest Lanes,' with customers reacting by 'screaming at Doreen up front.'"
+            },
+            {
+              "line": "L16",
+              "what_happened": "Nobody caught the issue because staff were looking at the summary page."
+            },
+            {
+              "line": "L17",
+              "what_happened": "The summary page balanced."
+            },
+            {
+              "line": "L19",
+              "what_happened": "The exception register printed on greenbar paper approximately nine inches thick and was not read by others."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Speaker read the exception register."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker took the report home and reviewed it at the kitchen table after Tammy went upstairs, while Nathan (a baby) was up at 11pm and 2am."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker found the pattern/issue."
+            },
+            {
+              "line": "L25",
+              "what_happened": "It took approximately five to six weeks of Tuesdays to prove the pattern by hand-figuring about forty accounts."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker wrote up the finding."
+            },
+            {
+              "line": "L27",
+              "what_happened": "The write-up was two pages."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker gave the write-up to Marlene Deemer, supervisor at the time."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Marlene had worked there since the Nixon administration."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Marlene read the two-page document standing up, taking about two minutes, then said, \"Kovarik, you're the only one in here who actually reads the back page,\" put it down on the counter, and went to lunch."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker states he has thought about that sentence weekly for twenty-seven years."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Marlene died in approximately 2014; speaker attended the funeral."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Speaker almost told Marlene's daughter about the incident at the funeral but did not."
+            },
+            {
+              "line": "L41",
+              "what_happened": "After the incident, speaker began keeping his own set of records/books on the issue."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Records started as a 'Green Bandy notebook' then became an Excel workbook once Excel was available on office machines, which grew to include exception logic, compound conversions, and a cross-reference for parcels resplit in annexation without new account numbers."
+            },
+            {
+              "line": "L43",
+              "what_happened": "There are about eleven hundred parcels in that cross-reference category."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Nobody else can run the workbook/system speaker built."
+            },
+            {
+              "line": "L45",
+              "what_happened": "In 2016, speaker was on vacation in Myrtle Beach with Tammy's family and the office called him on Wednesday morning."
+            },
+            {
+              "line": "L46",
+              "what_happened": "The office also called on Thursday."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Speaker walked the office through the process by phone while on vacation, twice."
+            },
+            {
+              "line": "L54",
+              "what_happened": "Speaker built a flag in the system so that if a penalty applies to a residential single-occupancy account and the read history indicates an older person living alone, the penalty is set to zero."
+            },
+            {
+              "line": "L56",
+              "what_happened": "Nobody instructed speaker to create this flag."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Nobody instructed speaker not to create this flag."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L20",
+              "choice_made": "Speaker read the exception register/back page.",
+              "alternatives_present_in_text": "Text states 'nobody reads it' (L19), implying the alternative of not reading it, which others took."
+            },
+            {
+              "line": "L23",
+              "choice_made": "Speaker took the report home and worked on it at night.",
+              "alternatives_present_in_text": "No alternative explicitly stated in text."
+            },
+            {
+              "line": "L38",
+              "choice_made": "Speaker did not tell Marlene's daughter about the incident.",
+              "alternatives_present_in_text": "Speaker states he 'almost told her,' indicating telling her was a considered alternative."
+            },
+            {
+              "line": "L48-L49",
+              "choice_made": "Speaker walked the office through the process by phone despite being on vacation.",
+              "alternatives_present_in_text": "Speaker states 'I'm on a beach' as a statement made to the office, suggesting refusal was considered but not enacted."
+            },
+            {
+              "line": "L54-L55",
+              "choice_made": "Speaker set the penalty to zero for certain accounts.",
+              "alternatives_present_in_text": "L56-57 state nobody told him to do this or not to do this, implying leaving the penalty as-is was an available alternative."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L4",
+              "quote": "nothing's happened to me"
+            },
+            {
+              "line": "L9",
+              "quote": "It's dumb"
+            },
+            {
+              "line": "L20-22",
+              "quote": "I read it. I don't know why. I just always did."
+            },
+            {
+              "line": "L44",
+              "quote": "Nobody else can run it."
+            },
+            {
+              "line": "L51",
+              "quote": "I wasn't mad about it, I want to be clear."
+            },
+            {
+              "line": "L52",
+              "quote": "Some of that's on me for building it the way I built it."
+            },
+            {
+              "line": "L58",
+              "quote": "I'm not trying to be a saint about it, that's just how the thing is supposed to work in my opinion."
+            },
+            {
+              "line": "L63",
+              "quote": "Told you it was dumb."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L35",
+              "quote": "insane"
+            },
+            {
+              "line": "L36",
+              "quote": "insane"
+            },
+            {
+              "line": "L51",
+              "quote": "I wasn't mad about it"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "dumb",
+              "lines": [
+                "L9",
+                "L63"
+              ]
+            },
+            {
+              "phrase": "back page",
+              "lines": [
+                "L19",
+                "L31"
+              ]
+            },
+            {
+              "phrase": "insane",
+              "lines": [
+                "L35",
+                "L36"
+              ]
+            },
+            {
+              "phrase": "That's the whole thing / That's it / That's my story",
+              "lines": [
+                "L32",
+                "L33",
+                "L61"
+              ]
+            },
+            {
+              "phrase": "I zero the penalty / I just zero it",
+              "lines": [
+                "L54",
+                "L55"
+              ]
+            },
+            {
+              "phrase": "anyway",
+              "lines": [
+                "L40",
+                "L60"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L38-L39",
+              "quote": "I almost told her daughter about it and then I didn't, because it's — how do you explain that. 'Hi, your mom said one sentence to me in 1999.'",
+              "note": "Speaker cuts off explanation of why he didn't tell the daughter, moving to a hypothetical quoted line instead of elaborating."
+            },
+            {
+              "line": "L53",
+              "quote": "There's things in there that are, you know.",
+              "note": "Speaker leaves the sentence incomplete, does not specify what the 'things' are, moves to next topic."
+            },
+            {
+              "line": "L60",
+              "quote": "That's — anyway.",
+              "note": "Speaker cuts off mid-sentence and moves to closing statement."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Tammy (wife)",
+              "lines": [
+                "L6",
+                "L23",
+                "L36",
+                "L45"
+              ],
+              "what_they_did": "Said the lack of hardship is 'a blessing' (L6); went upstairs while speaker worked at kitchen table (L23); speaker states she would call his thinking 'insane' (L36); her family was present on the 2016 Myrtle Beach trip (L45)."
+            },
+            {
+              "who": "Ron Mierzwa",
+              "lines": [
+                "L11"
+              ],
+              "what_they_did": "Had maintained the old AS/400 system since approximately 1983."
+            },
+            {
+              "who": "Doreen",
+              "lines": [
+                "L15"
+              ],
+              "what_they_did": "Was at the front desk and was yelled at by customers over the surprise true-up bills."
+            },
+            {
+              "who": "Marlene Deemer",
+              "lines": [
+                "L28",
+                "L29",
+                "L30",
+                "L31",
+                "L37",
+                "L38"
+              ],
+              "what_they_did": "Was the supervisor; read the two-page write-up standing up in about two minutes; said 'Kovarik, you're the only one in here who actually reads the back page'; put it down and went to lunch; speaker speculates she forgot it by the time she reached her car; died in approximately 2014."
+            },
+            {
+              "who": "Marlene's daughter",
+              "lines": [
+                "L38"
+              ],
+              "what_they_did": "Was present at Marlene's funeral; speaker almost told her about the incident."
+            },
+            {
+              "who": "Nathan (baby)",
+              "lines": [
+                "L23"
+              ],
+              "what_they_did": "Was an infant who woke at 11pm and 2am."
+            },
+            {
+              "who": "Office staff (unspecified)",
+              "lines": [
+                "L45",
+                "L46",
+                "L49"
+              ],
+              "what_they_did": "Called speaker on vacation on Wednesday and Thursday; were walked through the process twice by phone."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "zone_of_genius",
+              "headline": "Kovarik is exceptional at finding hidden systemic errors that everyone else's process overlooks, and he's drawn to that work unprompted.",
+              "explanation": "He read the nine-inch exception register nobody else touched, spent weeks of nights hand-figuring forty accounts to prove a subtle pattern, and says 'I don't know why. I just always did' — signaling an intrinsic pull toward this kind of work, not an assigned task. Decades later he's still the only one who can run the system he built from it.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L19-L22",
+                  "quote": "it's like nine inches thick and nobody reads it. I read it. I don't know why. I just always did."
+                },
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "Nobody else can run it."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his career, he'd naturally gravitate toward auditing, quality-control, or troubleshooting roles where he finds the one error everyone else missed, even when it's not his formal job."
+            },
+            {
+              "category": "core_values",
+              "headline": "He values protecting the vulnerable over rule-following, quietly building in a penalty waiver for elderly customers even though no one authorized it.",
+              "explanation": "He created an unrequested rule to zero penalties for older people living alone, at personal/professional risk since nobody told him to do it — a choice that costs him exposure but protects someone who can't advocate for herself. This is a value acted on under no external pressure to act, which makes it more revealing, not less.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L54-L56",
+                  "quote": "if the penalty kicks and it's a residential single-occupancy and the read history says it's an older person living alone — I zero the penalty. I just zero it. Nobody told me to do that."
+                },
+                {
+                  "exp": 1,
+                  "line": "L59",
+                  "quote": "A lady on Social Security shouldn't eat a nine dollar penalty because her son didn't get the mail in."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In family or community settings, he'd quietly intervene to protect someone vulnerable from a harsh but 'technically correct' outcome, without seeking credit or permission."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Kovarik believes his competence and care go unrecognized and unspoken, and one offhand sentence had to stand in for a lifetime of validation.",
+              "explanation": "A two-minute, unemotional comment from a supervisor who then 'went to lunch' has stayed with him weekly for 27 years, and he calls his own preoccupation with it 'insane' and 'dumb' multiple times — suggesting he doesn't feel entitled to claim the recognition himself, so he clings to the one external confirmation he got. His self-deprecation ('I'm not trying to be a saint,' 'told you it was dumb') paired with obsessive retelling reveals a belief that being seen for this kind of quiet diligence is rare and not to be expected.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L34-L36",
+                  "quote": "I've thought about that sentence I would say weekly for twenty-seven years. Which is insane. My wife would tell you it's insane."
+                },
+                {
+                  "exp": 1,
+                  "line": "L37",
+                  "quote": "She said it and went to lunch and I bet she forgot it by the time she got to her car."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he'll under-advocate for himself or downplay his own contributions in performance reviews, waiting to be noticed rather than naming his own value."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Kovarik repeatedly absorbs disruption to his personal life and rest to be the invisible fix-it person, then insists he isn't bothered by it.",
+              "explanation": "He worked at the kitchen table after his wife went up and his newborn was waking through the night to solve the original problem, and years later was called twice on a family vacation and walked people through the system rather than saying no. Both times he explicitly disclaims any resentment ('I wasn't mad about it,' framing the workbook's exclusivity as his own fault) — worth checking whether he actually protects his own rest and boundaries, or reflexively minimizes the cost to himself.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "I'd take it home, honest to God, I'd take it home and go through it on the kitchen table after Tammy went up, because Nathan was a baby and he was up at eleven and up at two anyway"
+                },
+                {
+                  "exp": 1,
+                  "line": "L45-L52",
+                  "quote": "they called me Wednesday morning from the office. And Thursday. On vacation... I wasn't mad about it, I want to be clear. Some of that's on me for building it the way I built it."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In his health/rest habits, he likely says yes to being interrupted during vacations or off-hours across other domains, then reframes the imposition as his own responsibility rather than setting a boundary."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "zone_of_genius",
+              "headline": "Kovarik is drawn to finding hidden systemic errors nobody else's process catches — unprompted, and for years after the fact.",
+              "explanation": "He read the nine-inch exception register nobody else touched, spent weeks of nights hand-figuring forty accounts to prove a subtle pattern, and says 'I don't know why. I just always did' — an intrinsic pull toward this work, not an assigned task. Decades later he built and still solely maintains the system that grew out of it.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L19-L22",
+                  "quote": "it's like nine inches thick and nobody reads it. I read it. I don't know why. I just always did."
+                },
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "Nobody else can run it."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his career, he'd naturally gravitate toward auditing, quality-control, or troubleshooting roles where he finds the one error everyone else missed, even when it's not his formal job.",
+              "exp": 1
+            },
+            {
+              "category": "core_values",
+              "headline": "He values protecting the vulnerable over rule-following, quietly building an unauthorized penalty waiver for elderly customers.",
+              "explanation": "He created an unrequested rule to zero penalties for older people living alone, with no external pressure or credit-seeking involved — a self-initiated choice that protects someone who can't advocate for herself, at some professional risk since it's outside his mandate.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L54-L56",
+                  "quote": "if the penalty kicks and it's a residential single-occupancy and the read history says it's an older person living alone — I zero the penalty. I just zero it. Nobody told me to do that."
+                },
+                {
+                  "exp": 1,
+                  "line": "L59",
+                  "quote": "A lady on Social Security shouldn't eat a nine dollar penalty because her son didn't get the mail in."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In family or community settings, he'd quietly intervene to protect someone vulnerable from a harsh but 'technically correct' outcome, without seeking credit or permission.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Kovarik believes his competence and care go unrecognized and unspoken, and one offhand sentence had to stand in for a lifetime of validation.",
+              "reason": "unfalsifiable",
+              "note": "Speculative psychologizing about what one sentence 'had to stand in for'; the speaker already explicitly labels his own preoccupation 'insane' and offers his own explanation, so this mostly restates his framing with added therapy-flavored interpretation ('doesn't feel entitled to claim recognition') that nothing in the transcript could confirm or disconfirm."
+            },
+            {
+              "headline": "Kovarik repeatedly absorbs disruption to his personal life and rest to be the invisible fix-it person, then insists he isn't bothered by it.",
+              "reason": "restated",
+              "note": "He already says directly 'I wasn't mad about it' and 'some of that's on me' — the candidate's core observation (he disclaims resentment) is just repeating his own words back as if it were an inferred pattern, and the 'boundaries' framing is unearned therapy vocabulary layered on two anecdotes rather than a clear behavioral recurrence he hasn't named himself."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "zone_of_genius",
+            "headline": "Kovarik is drawn to finding hidden systemic errors nobody else's process catches — unprompted, and for years after the fact.",
+            "explanation": "He read the nine-inch exception register nobody else touched, spent weeks of nights hand-figuring forty accounts to prove a subtle pattern, and says 'I don't know why. I just always did' — an intrinsic pull toward this work, not an assigned task. Decades later he built and still solely maintains the system that grew out of it.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L19-L22",
+                "quote": "it's like nine inches thick and nobody reads it. I read it. I don't know why. I just always did."
+              },
+              {
+                "exp": 1,
+                "line": "L44",
+                "quote": "Nobody else can run it."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In his career, he'd naturally gravitate toward auditing, quality-control, or troubleshooting roles where he finds the one error everyone else missed, even when it's not his formal job.",
+            "exp": 1
+          },
+          {
+            "category": "core_values",
+            "headline": "He values protecting the vulnerable over rule-following, quietly building an unauthorized penalty waiver for elderly customers.",
+            "explanation": "He created an unrequested rule to zero penalties for older people living alone, with no external pressure or credit-seeking involved — a self-initiated choice that protects someone who can't advocate for herself, at some professional risk since it's outside his mandate.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L54-L56",
+                "quote": "if the penalty kicks and it's a residential single-occupancy and the read history says it's an older person living alone — I zero the penalty. I just zero it. Nobody told me to do that."
+              },
+              {
+                "exp": 1,
+                "line": "L59",
+                "quote": "A lady on Social Security shouldn't eat a nine dollar penalty because her son didn't get the mail in."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In family or community settings, he'd quietly intervene to protect someone vulnerable from a harsh but 'technically correct' outcome, without seeking credit or permission.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker states the event occurred August 2004, age 30, out of Catawba, with brother-in-law Denny."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Denny owned a nineteen-foot Lund, approximately 1986, with a 90hp main motor and a 9.9hp kicker motor for trolling."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Denny mixed gas by eyeball rather than measuring."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Denny would not measure the gas mixture."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker states he told Denny the ratio was fifty to one and not a suggestion; Denny would hold up the can and say 'that's about right.' They were about four and a half miles northeast of the reef complex; water was flat/glass."
+            },
+            {
+              "line": "L8",
+              "what_happened": "The kicker motor started loading up."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker corrects himself from 'four-stroke' to 'two-stroke'; motor was loading up and fouling out; they lost an hour and twenty minutes."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker pulled both spark plugs and cleaned them using a nail file from Denny's tackle box instead of a wire brush; they ran the rest of the day on one plug described as 'basically junk.'"
+            },
+            {
+              "line": "L11",
+              "what_happened": "They caught seventeen fish."
+            },
+            {
+              "line": "L12",
+              "what_happened": "They kept twelve fish."
+            },
+            {
+              "line": "L13",
+              "what_happened": "The largest fish was seven and a quarter pounds, caught by Denny; speaker netted it."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Denny was laid off from Cooper Standard around March 2004."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Speaker states Denny had been at Cooper Standard for fourteen years."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Speaker repeats that it was fourteen years."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Karen (speaker's wife's sister) told Tammy (speaker's wife) that Denny 'wasn't doing great' with the layoff."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Denny was reported to be sitting in the garage."
+            },
+            {
+              "line": "L21",
+              "what_happened": "Tammy told speaker to take Denny out on the boat, and if 'it' came up, to let it come up."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker said 'yeah okay' to Tammy."
+            },
+            {
+              "line": "L23",
+              "what_happened": "They were out on the boat for nine and a half hours."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker repeats nine and a half hours, two people, twelve-foot boat width described."
+            },
+            {
+              "line": "L25",
+              "what_happened": "The subject of the layoff did not come up."
+            },
+            {
+              "line": "L28",
+              "what_happened": "They talked about bottom bouncer vs. crawler harness on a snap weight for about forty-five minutes, about a two-ounce versus three-ounce weight, about the Indians bullpen, and Denny mentioned his dad's old Starcraft boat; at one point near sunset they shut the motor down and drifted."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker asked Denny, 'You ever try one of them drift socks?' Denny said no."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker told Denny drift socks are about thirty dollars at the Dick's in Findlay and would hold the boat to about one-point-one (mph)."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Denny responded 'huh.'"
+            },
+            {
+              "line": "L35",
+              "what_happened": "Speaker states Denny has been working at the Marathon terminal since 2006."
+            },
+            {
+              "line": "L36",
+              "what_happened": "At the boat ramp around 9pm, in the dark, Denny said without looking up, 'We oughta do this every year.' Speaker replied, 'Absolutely.'"
+            },
+            {
+              "line": "L37",
+              "what_happened": "They never went on that trip again."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Speaker repeats 'Never once.'"
+            },
+            {
+              "line": "L39",
+              "what_happened": "Speaker states twenty-two years have passed."
+            },
+            {
+              "line": "L40",
+              "what_happened": "Speaker lists reasons trips didn't recur: the boat needed a lower unit, Karen's mother had a hip issue, Denny's kids got into soccer."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Denny now owns a pontoon boat."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker and Denny currently see each other on Christmas Eve and the Fourth of July."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Denny still does not measure his gas mixture."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L29-L30",
+              "choice_made": "Speaker asked about drift socks instead of asking Denny how he was doing.",
+              "alternatives_present_in_text": "Speaker states he had the words 'so how you doing with all that' in his mouth and considered saying them (L29)."
+            },
+            {
+              "line": "L40",
+              "choice_made": "Speaker did not call Denny to propose repeating the trip.",
+              "alternatives_present_in_text": "Speaker states 'you can't call a guy in March and go hey, remember that' as the alternative considered and rejected."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L2",
+              "quote": "I've told this story at the bowling alley probably eighty times but I tell it wrong, I tell the funny part."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L41",
+              "quote": "You'd feel like a — I don't know."
+            },
+            {
+              "line": "L42",
+              "quote": "You'd feel funny about it."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "Fourteen years",
+              "lines": [
+                "L17",
+                "L18"
+              ]
+            },
+            {
+              "phrase": "Nine and a half hours",
+              "lines": [
+                "L23",
+                "L24"
+              ]
+            },
+            {
+              "phrase": "Not once / Never once",
+              "lines": [
+                "L26",
+                "L27",
+                "L37",
+                "L38"
+              ]
+            },
+            {
+              "phrase": "measure his gas",
+              "lines": [
+                "L5",
+                "L6",
+                "L47"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L25-L27",
+              "quote": "And it did not come up. Not once. Not one time.",
+              "note": "Speaker states the topic of the layoff was never raised during the nine-and-a-half-hour trip, stated in three short successive clauses."
+            },
+            {
+              "line": "L33",
+              "quote": "And that was that.",
+              "note": "Speaker moves quickly past the exchange about drift socks and Denny's 'huh' response with a short closing phrase."
+            },
+            {
+              "line": "L34-L35",
+              "quote": "And I'm not — look, I don't know that saying the other thing would've helped him any. He's fine, he's been at the Marathon terminal since oh-six, they're fine.",
+              "note": "Speaker shifts quickly from the unfinished sentence about whether speaking up would have helped to a statement that the outcome was fine."
+            },
+            {
+              "line": "L41-L42",
+              "quote": "You'd feel like a — I don't know. You'd feel funny about it.",
+              "note": "Speaker leaves a self-description incomplete ('You'd feel like a—') and moves to a vaguer substitute phrase."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Denny",
+              "lines": [
+                "L1",
+                "L4",
+                "L5",
+                "L6",
+                "L7",
+                "L13",
+                "L16",
+                "L19",
+                "L20",
+                "L28",
+                "L30",
+                "L32",
+                "L36",
+                "L43",
+                "L44",
+                "L45",
+                "L47"
+              ],
+              "what_they_did": "Owned the boat, mixed gas by eyeball, was laid off from Cooper Standard after fourteen years, was reported to be sitting in the garage, went on the nine-and-a-half-hour trip, caught the big fish, discussed fishing gear/Indians/his dad's boat, answered 'no' and 'huh' to drift sock question, said 'We oughta do this every year' at the ramp, now works at Marathon terminal, now owns a pontoon, is described by speaker as 'a good guy,' still doesn't measure gas."
+            },
+            {
+              "who": "Karen",
+              "lines": [
+                "L19",
+                "L40"
+              ],
+              "what_they_did": "Told Tammy that Denny wasn't doing great; her mother later had a hip issue, cited as a reason the trip wasn't repeated."
+            },
+            {
+              "who": "Tammy",
+              "lines": [
+                "L19",
+                "L21"
+              ],
+              "what_they_did": "Was told by Karen about Denny's state; told speaker to take Denny out on the boat and let the topic come up if it would."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes that being present and useful is a substitute for direct emotional conversation.",
+              "explanation": "He had the words to ask Denny how he was doing 'in his mouth' but chose to ask about drift socks instead, then rationalized that talking wouldn't have helped anyway. This suggests an operating belief that showing up and staying near someone counts as support, even when the actual vulnerable question goes unasked.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L29-L30",
+                  "quote": "I had the words in my mouth, something like, so how you doing with all that, or, you know. And what I said was, 'You ever try one of them drift socks?'"
+                },
+                {
+                  "exp": 2,
+                  "line": "L34",
+                  "quote": "I don't know that saying the other thing would've helped him any."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In his own marriage or friendships, he likely shows care through shared activity and reliable presence rather than initiating direct conversations about feelings, even when he senses something is wrong."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He seems to let meaningful commitments quietly lapse rather than let them become effortful or 'funny.'",
+              "explanation": "He meant it 'one hundred percent' when he agreed to repeat the trip, yet twenty-two years passed with a string of small, plausible reasons and an explicit belief that calling to revive it would 'feel funny.' The gap between sincere intent and follow-through, paired with an aversion to the awkwardness of reinitiating, recurs both in the emotional check-in he avoided and the tradition he let drop.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L36-L38",
+                  "quote": "'We oughta do this every year.' And I said, 'Absolutely.' And I meant it... And we never did it again. Never once."
+                },
+                {
+                  "exp": 2,
+                  "line": "L40-L42",
+                  "quote": "you can't call a guy in March and go hey, remember that. You'd feel like a — I don't know. You'd feel funny about it."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Worth checking whether he has other sincerely-meant plans or relationships (with friends, extended family) that faded the same way, avoided because reinitiating felt awkward rather than because the relationship soured."
+            },
+            {
+              "category": "core_values",
+              "headline": "He prioritizes a friend's autonomy and dignity over his own discomfort with silence.",
+              "explanation": "Given explicit permission from his wife to raise Denny's layoff, and having the words ready, he chose to let Denny lead instead of pushing the subject himself, even at the cost of an unresolved moment he still thinks about. This is a costly choice — he clearly wanted to say something — made in favor of not intruding on Denny's space.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L21-L22",
+                  "quote": "take him out on the boat, and if it comes up, let it come up. And I said yeah okay."
+                },
+                {
+                  "exp": 2,
+                  "line": "L25-L27",
+                  "quote": "And it did not come up. Not once. Not one time."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In leadership or parenting situations, he likely avoids confronting someone about a sensitive struggle directly, instead creating space and waiting for the other person to bring it up first."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He tells a rehearsed, funny version of important stories and only reveals the emotional core when pressed to go deeper.",
+              "explanation": "He states he has told this story eighty times but always tells 'the funny part,' and the extraction shows him repeatedly cutting himself off ('You'd feel like a — I don't know') when approaching feeling language. This suggests a pattern of defaulting to humor or facts as a way of managing or avoiding emotional material.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L2",
+                  "quote": "I've told this story at the bowling alley probably eighty times but I tell it wrong, I tell the funny part."
+                },
+                {
+                  "exp": 2,
+                  "line": "L41-L42",
+                  "quote": "You'd feel like a — I don't know. You'd feel funny about it."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Worth checking whether he does this in other retellings of significant personal events — leading with humor or logistics and only surfacing the emotional weight when specifically asked to slow down."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He seems to let meaningful commitments quietly lapse rather than let them become effortful or 'funny.'",
+              "explanation": "He meant it 'one hundred percent' when he agreed to repeat the trip, yet twenty-two years passed with a string of small, plausible reasons and an explicit belief that calling to revive it would 'feel funny.' The gap between sincere intent and follow-through, paired with an aversion to the awkwardness of reinitiating, recurs both in the emotional check-in he avoided and the tradition he let drop.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L36-L38",
+                  "quote": "'We oughta do this every year.' And I said, 'Absolutely.' And I meant it... And we never did it again. Never once."
+                },
+                {
+                  "exp": 2,
+                  "line": "L40-L42",
+                  "quote": "you can't call a guy in March and go hey, remember that. You'd feel like a — I don't know. You'd feel funny about it."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Worth checking whether he has other sincerely-meant plans or relationships (with friends, extended family) that faded the same way, avoided because reinitiating felt awkward rather than because the relationship soured.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes that being present and useful is a substitute for direct emotional conversation.",
+              "reason": "restated",
+              "note": "The speaker already narrates this exact realization himself (L28-L34: he had the words, chose drift socks instead, rationalizes it) — the candidate just repackages his own account as a 'belief' without adding an inference he hasn't already made explicit."
+            },
+            {
+              "headline": "He prioritizes a friend's autonomy and dignity over his own discomfort with silence.",
+              "reason": "flattering",
+              "note": "Reframes an action taken under his wife's explicit instruction ('take him out on the boat, if it comes up let it come up') as a self-generated value; also contradicts the more honest reading that he avoided the conversation out of his own discomfort, not selfless respect for Denny."
+            },
+            {
+              "headline": "He tells a rehearsed, funny version of important stories and only reveals the emotional core when pressed to go deeper.",
+              "reason": "restated",
+              "note": "He states this outright at L2 and L14-15 ('here's the part I don't tell') — the candidate is just describing the transcript's own structure, not an inference about him the stranger couldn't get from his own words."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "He seems to let meaningful commitments quietly lapse rather than let them become effortful or 'funny.'",
+            "explanation": "He meant it 'one hundred percent' when he agreed to repeat the trip, yet twenty-two years passed with a string of small, plausible reasons and an explicit belief that calling to revive it would 'feel funny.' The gap between sincere intent and follow-through, paired with an aversion to the awkwardness of reinitiating, recurs both in the emotional check-in he avoided and the tradition he let drop.",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L36-L38",
+                "quote": "'We oughta do this every year.' And I said, 'Absolutely.' And I meant it... And we never did it again. Never once."
+              },
+              {
+                "exp": 2,
+                "line": "L40-L42",
+                "quote": "you can't call a guy in March and go hey, remember that. You'd feel like a — I don't know. You'd feel funny about it."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "Worth checking whether he has other sincerely-meant plans or relationships (with friends, extended family) that faded the same way, avoided because reinitiating felt awkward rather than because the relationship soured.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "In 2011, the position formerly held by Marlene, reclassified as Supervisor Two, Billing and Customer Accounts, came open."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Doreen brought the speaker a congratulations card before he applied."
+            },
+            {
+              "line": "L8",
+              "what_happened": "The speaker did not submit an application."
+            },
+            {
+              "line": "L11",
+              "what_happened": "HR posted the position on a Thursday; the speaker took the application packet home and it remained in the door pocket of his truck."
+            },
+            {
+              "line": "L13",
+              "what_happened": "The packet sat in the truck door pocket for eleven days."
+            },
+            {
+              "line": "L14",
+              "what_happened": "He filled out most of the application at the kitchen table."
+            },
+            {
+              "line": "L15",
+              "what_happened": "He entered name, dates of service, and certifications, including his Ohio Water Environment certification from 2002."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Section Six of the application asked him to describe his supervisory philosophy and give an example of addressing a performance issue."
+            },
+            {
+              "line": "L17",
+              "what_happened": "He never wrote anything in that section."
+            },
+            {
+              "line": "L19",
+              "what_happened": "On the Friday deadline (noon), he drove past the admin building on Sandusky Street during his lunch break and continued driving."
+            },
+            {
+              "line": "L20",
+              "what_happened": "He went to Arby's."
+            },
+            {
+              "line": "L24",
+              "what_happened": "That night he told Tammy the raise was $4,200/year before taxes, roughly $200/month after PERS pickup and tax bracket change, that he would lose overtime eligibility, that Nathan was doing travel ball that summer with a trip to Cooperstown, and that he would be on call for main breaks."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Tammy said okay."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Tammy did not push back."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Brad Nusser, age 31, who came from the engineering side, got the position."
+            },
+            {
+              "line": "L32",
+              "what_happened": "The speaker trained Brad, sitting with him for six weeks."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Brad has been the speaker's boss for fifteen years."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Brad brings the speaker a Dairy Queen cake on his work anniversary each year."
+            },
+            {
+              "line": "L40",
+              "what_happened": "In approximately 2014 or 2015, Brad conducted a corrective action on Cheryl Vandersteen, an 18-year employee, regarding her time card records, and the speaker served as department witness."
+            },
+            {
+              "line": "L42",
+              "what_happened": "The meeting took place in a conference room with a whiteboard that is never erased and lasted forty minutes."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Cheryl cried during the meeting, then returned to her desk and completed her afternoon work, answering phones; the speaker sat two rows away."
+            },
+            {
+              "line": "L48",
+              "what_happened": "The speaker still has the unsubmitted application."
+            },
+            {
+              "line": "L49",
+              "what_happened": "The application is stored in the second drawer of a gray filing cabinet in the garage, along with snowblower manuals."
+            },
+            {
+              "line": "L50",
+              "what_happened": "Tammy found the application while cleaning the garage; she held it up without speaking, he told her to throw it out, and she put it back in the drawer."
+            },
+            {
+              "line": "L51",
+              "what_happened": "The application remains in the drawer."
+            },
+            {
+              "line": "L54",
+              "what_happened": "The filing cabinet also contains receipts from a Buick the family sold in 2009."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L8",
+              "choice_made": "Did not submit the application",
+              "alternatives_present_in_text": "Could have applied, as colleagues expected"
+            },
+            {
+              "line": "L17",
+              "choice_made": "Left Section Six (supervisory philosophy/performance example) blank",
+              "alternatives_present_in_text": "Filled out all other sections including certifications and dates"
+            },
+            {
+              "line": "L19",
+              "choice_made": "Drove past the admin building and kept going instead of submitting the application",
+              "alternatives_present_in_text": "Deadline was noon Friday; admin building was on his lunch route"
+            },
+            {
+              "line": "L50",
+              "choice_made": "Told Tammy to throw out the application",
+              "alternatives_present_in_text": "She put it back in the drawer instead of discarding it"
+            },
+            {
+              "line": "L52",
+              "choice_made": "Has not thrown out the application",
+              "alternatives_present_in_text": "Told Tammy to throw it out (L50)"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L53",
+              "quote": "I keep everything, that's probably it."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L44",
+              "quote": "Cheryl cried"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "Eleven days",
+              "lines": [
+                "L13",
+                "L18"
+              ]
+            },
+            {
+              "phrase": "Every bit of that is true / this is all factually true",
+              "lines": [
+                "L24",
+                "L25",
+                "L26"
+              ]
+            },
+            {
+              "phrase": "I don't regret it",
+              "lines": [
+                "L37",
+                "L38"
+              ]
+            },
+            {
+              "phrase": "forty minutes",
+              "lines": [
+                "L42",
+                "L43"
+              ]
+            },
+            {
+              "phrase": "We're good",
+              "lines": [
+                "L34",
+                "L35"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L21",
+              "quote": "That's it.",
+              "note": "Speaker moves immediately from describing driving to Arby's without elaborating on the decision itself"
+            },
+            {
+              "line": "L22",
+              "quote": "That's the whole dramatic story.",
+              "note": "Speaker labels the account as minimal/undramatic immediately after narrating it"
+            },
+            {
+              "line": "L45",
+              "quote": "That's — anyway, unrelated, I'm just saying it's not all gravy, that job.",
+              "note": "Speaker cuts off mid-sentence after describing Cheryl returning to her desk, redirects to a general statement about the job"
+            },
+            {
+              "line": "L52",
+              "quote": "I don't know why I didn't throw it out.",
+              "note": "Stated without further explanation before moving to unrelated detail about Buick receipts"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Doreen",
+              "lines": [
+                "L5",
+                "L6"
+              ],
+              "what_they_did": "Brought speaker a congratulations card before he applied"
+            },
+            {
+              "who": "Tammy",
+              "lines": [
+                "L24",
+                "L27",
+                "L28",
+                "L29",
+                "L50"
+              ],
+              "what_they_did": "Was told the financial reasoning that night; said okay; did not push back; later found the application in the garage, held it up silently, and put it back after being told to throw it out"
+            },
+            {
+              "who": "Brad Nusser",
+              "lines": [
+                "L30",
+                "L31",
+                "L32",
+                "L33",
+                "L36",
+                "L40"
+              ],
+              "what_they_did": "Got the promotion at age 31, came from engineering, was trained by speaker for six weeks, has been speaker's boss for fifteen years, brings him a Dairy Queen cake annually, and conducted a corrective action on Cheryl Vandersteen with speaker as witness"
+            },
+            {
+              "who": "Cheryl Vandersteen",
+              "lines": [
+                "L40",
+                "L44"
+              ],
+              "what_they_did": "An 18-year employee who underwent a corrective action over time card issues; cried during the meeting, then returned to her desk and completed her afternoon work"
+            },
+            {
+              "who": "Marlene",
+              "lines": [
+                "L3"
+              ],
+              "what_they_did": "Previously held the position before it was reclassified"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "He prioritizes family time and predictable routine over money and status when the two directly conflict.",
+              "explanation": "He let a promotion lapse specifically citing Nathan's travel ball season and the loss of on-call flexibility, not incompetence or fear. He chose not to defend or dress up the decision — he calls the financial reasoning 'all factually true,' suggesting the tradeoff was real and consciously accepted, not a cover story.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L24",
+                  "quote": "Nathan was doing travel ball that summer, they were going to Cooperstown, and I'd have been on call for main breaks"
+                },
+                {
+                  "exp": 3,
+                  "line": "L25",
+                  "quote": "Which is all true."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In family/parenting decisions, he will decline career opportunities or extra income if they conflict with being present for his kids' commitments."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes that being someone's supervisor would fundamentally damage the relationship, so he avoids positions requiring him to discipline or evaluate peers.",
+              "explanation": "The one section he couldn't complete was about supervisory philosophy and addressing performance issues — the exact content of the role, not paperwork friction. His visceral reaction to witnessing Brad's corrective action with Cheryl ('it's not all gravy') and his cut-off sentence about her returning to her desk suggest this isn't hypothetical anxiety but a belief confirmed by direct observation.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L16",
+                  "quote": "Describe your supervisory philosophy and give an example of a time you addressed a performance issue"
+                },
+                {
+                  "exp": 3,
+                  "line": "L17",
+                  "quote": "And I never wrote in it."
+                },
+                {
+                  "exp": 3,
+                  "line": "L45",
+                  "quote": "That's — anyway, unrelated, I'm just saying it's not all gravy, that job."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In leadership/collaboration contexts, he will volunteer for technical or mentoring roles but resist positions with formal authority to discipline or evaluate others."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He narrates costly avoidant decisions as small or undramatic immediately after describing them, and then keeps physical evidence of the decision for years.",
+              "explanation": "He calls the promotion story 'the whole dramatic story' right after describing an eleven-day avoidance and a literal drive-past of the deadline, and elsewhere cuts himself off ('That's — anyway, unrelated') right after a moment of real discomfort. Yet he still has the actual application in a drawer fifteen years later and doesn't know why. This gap between the minimizing language and the physical retention is worth him examining — is he actually as at peace with the decision as he claims?",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L22",
+                  "quote": "That's the whole dramatic story."
+                },
+                {
+                  "exp": 3,
+                  "line": "L52",
+                  "quote": "I don't know why I didn't throw it out."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In reflecting on other major life decisions (e.g., career or relationship turning points), he will downplay their significance verbally while retaining objects, routines, or habits connected to the road not taken."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He is unusually effective at building durable, low-friction working relationships with people who end up in authority over him.",
+              "explanation": "He trained Brad for six weeks and the result, fifteen years later, is a boss relationship marked by zero friction and a running affectionate ritual (the Dairy Queen cake). This isn't just niceness — it's a demonstrated capacity to fully invest in someone else's success in a role he himself gave up, with no visible resentment leaking through.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L32",
+                  "quote": "I trained him on everything, I sat with him for, God, six weeks"
+                },
+                {
+                  "exp": 3,
+                  "line": "L33",
+                  "quote": "he's my boss for now fifteen years and he's never once had to look at me sideways"
+                },
+                {
+                  "exp": 3,
+                  "line": "L36",
+                  "quote": "He brings me a Dairy Queen cake on my anniversary date every year"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In team/collaboration settings, colleagues and even those promoted over him will seek him out for onboarding or informal mentorship, and he will be energized rather than drained by it."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He narrates the promotion avoidance as small and undramatic, yet has kept the physical application for fifteen years and can't say why.",
+              "explanation": "He calls the promotion story 'the whole dramatic story' right after describing an eleven-day avoidance and a literal drive-past of the deadline, and elsewhere cuts himself off ('That's — anyway, unrelated') right after a moment of real discomfort about Cheryl. Yet the actual application still sits in a drawer, and when Tammy found it and silently held it up, he told her to throw it out but she put it back — and it's still there. This gap between the minimizing language and the physical retention is worth him examining.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L22",
+                  "quote": "That's the whole dramatic story."
+                },
+                {
+                  "exp": 3,
+                  "line": "L50",
+                  "quote": "she held it up and she didn't say anything, she just looked at me, and I said throw it out, and she put it back in the drawer"
+                },
+                {
+                  "exp": 3,
+                  "line": "L52",
+                  "quote": "I don't know why I didn't throw it out."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In reflecting on other major life decisions, he will downplay their significance verbally while retaining objects, routines, or habits connected to the road not taken.",
+              "exp": 3
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He builds durable, friction-free working relationships with people who end up in authority over him, to the point they seek him out for it.",
+              "explanation": "He trained Brad for six weeks and the result, fifteen years later, is a boss relationship with zero visible friction and a running ritual (the Dairy Queen cake) that colleagues comment on. This is a specific, observed outcome — not just a claim of being agreeable — and it's notable given he gave up the role Brad now holds.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L32",
+                  "quote": "I trained him on everything, I sat with him for, God, six weeks"
+                },
+                {
+                  "exp": 3,
+                  "line": "L33",
+                  "quote": "he's my boss for now fifteen years and he's never once had to look at me sideways"
+                },
+                {
+                  "exp": 3,
+                  "line": "L36",
+                  "quote": "He brings me a Dairy Queen cake on my anniversary date every year, which is a whole thing, everybody laughs about it"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In team/collaboration settings, people promoted over him will seek him out for onboarding or informal mentorship, and he will be energized rather than drained by it.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He prioritizes family time and predictable routine over money and status when the two directly conflict.",
+              "reason": "restated",
+              "note": "He already states this explicitly himself (L24-26, L37-39) — 'that's all true,' 'I don't regret it.' The candidate just repackages his own account as a discovered value."
+            },
+            {
+              "headline": "He believes that being someone's supervisor would fundamentally damage the relationship, so he avoids positions requiring him to discipline or evaluate peers.",
+              "reason": "ungrounded",
+              "note": "He explicitly denies having a big reason ('everybody thinks there's a reason... there's not,' L9) and gives concrete financial/family reasons instead. The Cheryl story is offered by him as a postscript proving the job 'isn't all gravy,' not as evidence of a fear that drove the original decision — the claim reads backward causation into the transcript."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "He narrates the promotion avoidance as small and undramatic, yet has kept the physical application for fifteen years and can't say why.",
+            "explanation": "He calls the promotion story 'the whole dramatic story' right after describing an eleven-day avoidance and a literal drive-past of the deadline, and elsewhere cuts himself off ('That's — anyway, unrelated') right after a moment of real discomfort about Cheryl. Yet the actual application still sits in a drawer, and when Tammy found it and silently held it up, he told her to throw it out but she put it back — and it's still there. This gap between the minimizing language and the physical retention is worth him examining.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L22",
+                "quote": "That's the whole dramatic story."
+              },
+              {
+                "exp": 3,
+                "line": "L50",
+                "quote": "she held it up and she didn't say anything, she just looked at me, and I said throw it out, and she put it back in the drawer"
+              },
+              {
+                "exp": 3,
+                "line": "L52",
+                "quote": "I don't know why I didn't throw it out."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In reflecting on other major life decisions, he will downplay their significance verbally while retaining objects, routines, or habits connected to the road not taken.",
+            "exp": 3
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "He builds durable, friction-free working relationships with people who end up in authority over him, to the point they seek him out for it.",
+            "explanation": "He trained Brad for six weeks and the result, fifteen years later, is a boss relationship with zero visible friction and a running ritual (the Dairy Queen cake) that colleagues comment on. This is a specific, observed outcome — not just a claim of being agreeable — and it's notable given he gave up the role Brad now holds.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L32",
+                "quote": "I trained him on everything, I sat with him for, God, six weeks"
+              },
+              {
+                "exp": 3,
+                "line": "L33",
+                "quote": "he's my boss for now fifteen years and he's never once had to look at me sideways"
+              },
+              {
+                "exp": 3,
+                "line": "L36",
+                "quote": "He brings me a Dairy Queen cake on my anniversary date every year, which is a whole thing, everybody laughs about it"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In team/collaboration settings, people promoted over him will seek him out for onboarding or informal mentorship, and he will be energized rather than drained by it.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "Rick Hoefler, neighbor to the east, put in a privacy fence in April 2019"
+            },
+            {
+              "line": "L5",
+              "what_happened": "Fence specified as six-foot, dog-ear, cedar-tone, pressure-treated, running from front corner of his garage to rear pin"
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker pulled the plat in 2008 when installing an above-ground pool"
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker got the plat and a long tape and measured, finding the fence over the line"
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker paid Hulbert Surveying out of Kenton $385 to survey the line; they set a pin and measured 14.25 inches encroachment at front, about 11.5 inches at back"
+            },
+            {
+              "line": "L13",
+              "what_happened": "Fence line runs 106 feet"
+            },
+            {
+              "line": "L19",
+              "what_happened": "Tammy told speaker to go talk to Rick; speaker said he would and did not"
+            },
+            {
+              "line": "L20",
+              "what_happened": "Speaker put the survey in the file cabinet with the deed and pool permit and waited"
+            },
+            {
+              "line": "L21",
+              "what_happened": "About three weeks later Rick was setting the last eight fence posts using a rented one-man auger in wet clay soil"
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker could hear the auger bogging down from his kitchen"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker went over to Rick's"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker brought a two-man auger from his father-in-law and a digging bar; they completed the eight posts in about two and a half hours"
+            },
+            {
+              "line": "L25",
+              "what_happened": "Local frost depth is 42 inches; Rick was digging to 30 inches"
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker told Rick this"
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker said, quoted: \"Rick, you're gonna heave 'em.\""
+            },
+            {
+              "line": "L28",
+              "what_happened": "Rick then dug to 42 inches"
+            },
+            {
+              "line": "L29",
+              "what_happened": "They wet-set the posts using the dry-pack method (bag dumped in, water poured on top)"
+            },
+            {
+              "line": "L30",
+              "what_happened": "Rick bought a twelve-pack of Yuengling and they sat in his garage"
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker did not mention the survey or encroachment to Rick"
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker states it has been seven years and he still has not said anything"
+            },
+            {
+              "line": "L37",
+              "what_happened": "Speaker mows up to Rick's fence, including the 14 inches of his own property on Rick's side of the fence"
+            },
+            {
+              "line": "L42",
+              "what_happened": "Rick plowed speaker's driveway multiple times during a February with heavy snow"
+            },
+            {
+              "line": "L43",
+              "what_happened": "Rick borrows speaker's two-man auger; speaker borrows Rick's pressure washer"
+            },
+            {
+              "line": "L44",
+              "what_happened": "At Christmas Rick brings sausages made by his brother-in-law in Lima"
+            },
+            {
+              "line": "L36",
+              "what_happened": "Speaker put the survey in with the deed documents"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L19",
+              "choice_made": "Told Tammy he would talk to Rick, then did not do it",
+              "alternatives_present_in_text": "Tammy's suggestion: 'just go talk to him'"
+            },
+            {
+              "line": "L20",
+              "choice_made": "Filed the survey away and waited instead of confronting Rick",
+              "alternatives_present_in_text": "Could have talked to Rick as Tammy suggested"
+            },
+            {
+              "line": "L23",
+              "choice_made": "Went over to help Rick with the fence posts",
+              "alternatives_present_in_text": "Could have stayed inside / not helped"
+            },
+            {
+              "line": "L26-27",
+              "choice_made": "Told Rick about the frost depth issue (30 vs 42 inches)",
+              "alternatives_present_in_text": "Could have said nothing about the depth, as he said nothing about the boundary"
+            },
+            {
+              "line": "L31-32",
+              "choice_made": "Never told Rick about the survey/encroachment, for seven years",
+              "alternatives_present_in_text": "Could have disclosed the survey findings at any point, including during the post-digging beers"
+            },
+            {
+              "line": "L37-39",
+              "choice_made": "Continues to mow the disputed 14 inches on Rick's side rather than cede it or raise the issue",
+              "alternatives_present_in_text": "Could let it get 'ratty' or raise the boundary issue instead"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L11",
+              "quote": "I didn't trust myself"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L34",
+              "quote": "it doesn't bother me"
+            },
+            {
+              "line": "L35",
+              "quote": "I want to be clear"
+            },
+            {
+              "line": "L36",
+              "quote": "It genuinely does not bother me"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "fourteen and a quarter",
+              "lines": [
+                "L11",
+                "L12",
+                "L50"
+              ]
+            },
+            {
+              "phrase": "never said a word",
+              "lines": [
+                "L31",
+                "L32"
+              ]
+            },
+            {
+              "phrase": "it doesn't bother me / does not bother me",
+              "lines": [
+                "L34",
+                "L36"
+              ]
+            },
+            {
+              "phrase": "I know where my line is",
+              "lines": [
+                "L7",
+                "L8"
+              ]
+            },
+            {
+              "phrase": "he's been great / he's been",
+              "lines": [
+                "L41"
+              ]
+            },
+            {
+              "phrase": "That's all",
+              "lines": [
+                "L52"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L20",
+              "quote": "I've never really laid this out to anybody in order like this",
+              "note": "speaker flags this is the first time narrating this sequence, then moves directly into next event without dwelling"
+            },
+            {
+              "line": "L29",
+              "quote": "which people argue about, but with that clay and the water table back there I've always thought — anyway",
+              "note": "speaker begins a tangent about post-setting method, cuts himself off mid-thought with 'anyway'"
+            },
+            {
+              "line": "L33",
+              "quote": "Six, seven years.",
+              "note": "speaker corrects/re-estimates the time elapsed quickly without elaborating"
+            },
+            {
+              "line": "L45-48",
+              "quote": "I'd say he's, you know, he's probably the guy I'd call. Out of anybody around here. Not that I've ever called him. But I would.",
+              "note": "speaker makes a claim then immediately qualifies that it has never been tested"
+            },
+            {
+              "line": "L50-52",
+              "quote": "I just — fourteen and a quarter. Every time I mow. That's all.",
+              "note": "speaker trails off with incomplete sentence ('I just —') and ends abruptly with 'That's all' rather than elaborating on what happens every time he mows"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Rick Hoefler",
+              "lines": [
+                "L4",
+                "L5",
+                "L21",
+                "L24",
+                "L26-28",
+                "L30",
+                "L41-44"
+              ],
+              "what_they_did": "Installed the encroaching fence; dug posts too shallow initially then corrected to 42 inches after being told; bought beer and sat in garage with speaker; has plowed speaker's driveway, borrows/lends tools, brings Christmas sausages"
+            },
+            {
+              "who": "Tammy",
+              "lines": [
+                "L19"
+              ],
+              "what_they_did": "Told speaker to go talk to Rick about the fence"
+            },
+            {
+              "who": "Hulbert Surveying",
+              "lines": [
+                "L11"
+              ],
+              "what_they_did": "Surveyed the property line for $385 and set a pin, confirming 14.25 inch encroachment at front"
+            },
+            {
+              "who": "speaker's father-in-law",
+              "lines": [
+                "L24"
+              ],
+              "what_they_did": "Owns the two-man auger that speaker borrowed to help Rick"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He resolves conflict by acting on it materially while withholding the actual grievance verbally, in both the boundary dispute and the frost-depth issue.",
+              "explanation": "With the fence encroachment he filed the survey and said nothing for seven years, yet with the shallow post holes he spoke up immediately ('Rick, you're gonna heave 'em'). The gap between these two responses to Rick's work is unexplained and worth checking: what makes an issue speakable versus filed away?",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L20",
+                  "quote": "What I did instead... is I put the survey in the file cabinet, in the folder with the deed and the pool permit, and I waited"
+                },
+                {
+                  "exp": 4,
+                  "line": "L27",
+                  "quote": "I said Rick, you're gonna heave 'em."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a work disagreement with a peer, he would fix a technical problem himself or flag a technical risk directly, but would not raise a relational or ownership grievance about the same situation."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes that confronting someone directly would cost more than quietly absorbing and privately correcting the injustice himself.",
+              "explanation": "Rather than talk to Rick as Tammy suggested, he verified the encroachment meticulously (pulling the plat, paying for a survey), then chose silence and years of small self-imposed corrections (mowing the strip himself) instead of raising it. The effort invested in proving he's right, paired with total avoidance of using that proof, suggests he expects confrontation to damage the relationship more than the loss is worth.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L19",
+                  "quote": "And Tammy says just go talk to him, and I said I will, and I did not."
+                },
+                {
+                  "exp": 4,
+                  "line": "L37",
+                  "quote": "But I mow up to his fence. I mow that fourteen inches of mine on his side."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a workplace scenario where a colleague encroaches on his role or credit, he would document it privately but avoid raising it directly, instead quietly compensating for it himself."
+            },
+            {
+              "category": "core_values",
+              "headline": "He prioritizes the ongoing neighborly relationship over being vindicated on a provable, documented grievance.",
+              "explanation": "He had unambiguous legal proof of encroachment (survey, pin, exact measurements) and chose, at real cost to himself (mowing extra ground indefinitely), to preserve the relationship rather than assert his rights. He explicitly reframes Rick as 'a good neighbor' and 'the guy I'd call,' showing the relationship outweighs the win.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L36",
+                  "quote": "It genuinely does not bother me, it's grass, nobody's ever gonna know"
+                },
+                {
+                  "exp": 4,
+                  "line": "L49",
+                  "quote": "That's a good neighbor."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a family or team setting, he would let a minor unfair division of resources or credit go unaddressed if raising it risked damaging a valued long-term relationship."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He is unusually attuned to physical/technical risk in shared work and reflexively steps in to prevent future failure, even when it's not his problem.",
+              "explanation": "He noticed the auger bogging from inside his kitchen, correctly diagnosed the frost-depth risk, and mobilized equipment and labor to fix it in real time. This wasn't passive noticing but immediate, competent, hands-on correction of someone else's project.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L22",
+                  "quote": "And I could hear it bogging from my kitchen."
+                },
+                {
+                  "exp": 4,
+                  "line": "L25",
+                  "quote": "Forty-two inches, that's your frost depth here, you gotta be forty-two or you'll heave 'em in three winters, and he was going thirty."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he would be the person colleagues rely on to catch a structural or procedural flaw in a shared project before it becomes costly, even outside his formal responsibility."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He resolves conflict by acting on it materially while withholding the actual grievance verbally, in both the boundary dispute and the frost-depth issue.",
+              "explanation": "With the fence encroachment he filed the survey and said nothing for seven years, yet with the shallow post holes he spoke up immediately ('Rick, you're gonna heave 'em'). The gap between these two responses to Rick's work is unexplained and worth checking: what makes an issue speakable versus filed away?",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L20",
+                  "quote": "What I did instead... is I put the survey in the file cabinet, in the folder with the deed and the pool permit, and I waited"
+                },
+                {
+                  "exp": 4,
+                  "line": "L27",
+                  "quote": "I said Rick, you're gonna heave 'em."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a work disagreement with a peer, he would fix a technical problem himself or flag a technical risk directly, but would not raise a relational or ownership grievance about the same situation.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes that confronting someone directly would cost more than quietly absorbing and privately correcting the injustice himself.",
+              "reason": "restated",
+              "note": "This is just his own account ('Tammy says just go talk to him, and I said I will, and I did not' / mows the strip himself) relabeled with therapy-adjacent framing ('confronting would cost more') rather than adding an inferred belief beyond what he already narrated."
+            },
+            {
+              "headline": "He prioritizes the ongoing neighborly relationship over being vindicated on a provable, documented grievance.",
+              "reason": "restated",
+              "note": "He says this almost verbatim himself: 'it genuinely does not bother me' and 'that's a good neighbor' — the candidate just repackages his stated conclusion as an inferred value."
+            },
+            {
+              "headline": "He is unusually attuned to physical/technical risk in shared work and reflexively steps in to prevent future failure, even when it's not his problem.",
+              "reason": "generic",
+              "note": "A man with construction/DIY experience noticing a neighbor's post-hole depth is wrong and helping fix it is unremarkable handyman behavior, not evidence of an exceptional, energizing 'zone of genius' — nothing distinguishes this from ordinary neighborly competence."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "He resolves conflict by acting on it materially while withholding the actual grievance verbally, in both the boundary dispute and the frost-depth issue.",
+            "explanation": "With the fence encroachment he filed the survey and said nothing for seven years, yet with the shallow post holes he spoke up immediately ('Rick, you're gonna heave 'em'). The gap between these two responses to Rick's work is unexplained and worth checking: what makes an issue speakable versus filed away?",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L20",
+                "quote": "What I did instead... is I put the survey in the file cabinet, in the folder with the deed and the pool permit, and I waited"
+              },
+              {
+                "exp": 4,
+                "line": "L27",
+                "quote": "I said Rick, you're gonna heave 'em."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In a work disagreement with a peer, he would fix a technical problem himself or flag a technical risk directly, but would not raise a relational or ownership grievance about the same situation.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L2",
+              "what_happened": "Before working in billing, speaker worked on meters."
+            },
+            {
+              "line": "L3",
+              "what_happened": "Worked a reading route on the west side and toward the township for two years, 1995 to 1997."
+            },
+            {
+              "line": "L4",
+              "what_happened": "This was before radio-read technology, requiring entry into customers' basements."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Used a handheld device called the Itron and a flashlight to read meters in basements."
+            },
+            {
+              "line": "L6",
+              "what_happened": "A woman named Ardith Bolyard, approximately 78 years old, lived on Mulberry."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Her meter read showed approximately 91,000 gallons over a sixty-day cycle; she was a widow living alone in a 1,400 square foot house."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Her normal usage was approximately 4,000 gallons."
+            },
+            {
+              "line": "L10",
+              "what_happened": "The bill, including sewer charges billed off the water read, would have been approximately $1,100."
+            },
+            {
+              "line": "L11",
+              "what_happened": "The specific bill amount was $1,140-something."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker was 22 years old at the time."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Speaker went to the house and identified the toilet as the source."
+            },
+            {
+              "line": "L14",
+              "what_happened": "The cause was the flapper."
+            },
+            {
+              "line": "L15",
+              "what_happened": "The flapper was a four-dollar rubber part that had softened and was leaking silently down the back of the bowl without noise."
+            },
+            {
+              "line": "L16-L17",
+              "what_happened": "Ardith had not heard the leak."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Speaker went to the Hardware on Main during lunch, bought a flapper ($1.99) and a chain clip (approximately $2.40), and installed them."
+            },
+            {
+              "line": "L19",
+              "what_happened": "The repair took eleven minutes."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Speaker recorded the meter read as a 'meter-fail estimate' in the system."
+            },
+            {
+              "line": "L21-L22",
+              "what_happened": "The meter had not actually failed; it was functioning correctly."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker entered her twelve-month average, which processed through the system, resulting in a $41 bill; no one questioned this in thirty years."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Ardith gave speaker a can of Vernors from her refrigerator."
+            },
+            {
+              "line": "L25-L26",
+              "what_happened": "Speaker did not want the Vernors but drank it."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker thought about the incident for about a year, then wrote a proposal on a Brother typewriter for a 'leak forgiveness' policy: a one-time adjustment to average billing for verified leaks fixed within thirty days."
+            },
+            {
+              "line": "L27",
+              "what_happened": "This type of policy is now used by half the districts in the state and is in the current rate ordinance."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Speaker did not put his name on the typed proposal."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker gave the proposal to Ron Mierzwa, saying someone might want to consider it; Ron put his own name on it."
+            },
+            {
+              "line": "L32",
+              "what_happened": "The proposal went to the board in 1998 and passed."
+            },
+            {
+              "line": "L33-L34",
+              "what_happened": "Ron received a plaque, which is at his house; speaker saw it at Ron's retirement event."
+            },
+            {
+              "line": "L38-L39",
+              "what_happened": "Speaker states that if the proposal had carried his name as a 23-year-old meter reader, it would not have passed."
+            },
+            {
+              "line": "L40",
+              "what_happened": "Ron had twenty-five years of tenure and golfed with a commissioner."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Ardith died sometime in the early 2000s."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Her house is now a rental with vinyl siding."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Approximately 1,100-1,200 accounts per year now go through the adjustment policy."
+            },
+            {
+              "line": "L46-L47",
+              "what_happened": "Speaker looked up the number once: 1,206 accounts in 2019."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Total personal cost of parts was $4.39 including the chain clip."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L18",
+              "choice_made": "Speaker personally purchased and installed the flapper on his lunch break rather than reporting the leak through normal channels.",
+              "alternatives_present_in_text": "None stated in text; speaker notes in L18 he 'probably get walked out for this now.'"
+            },
+            {
+              "line": "L20",
+              "choice_made": "Speaker coded the read as a 'meter-fail estimate' and entered her twelve-month average.",
+              "alternatives_present_in_text": "Accurate coding reflecting the actual leak and usage was the implied alternative (L21-22: 'Which it wasn't. The meter was fine.')."
+            },
+            {
+              "line": "L29",
+              "choice_made": "Speaker did not put his name on the typed proposal.",
+              "alternatives_present_in_text": "Putting his own name on the proposal was the alternative, addressed in L38-39: 'if it'd had my name on it... it doesn't pass.'"
+            },
+            {
+              "line": "L30",
+              "choice_made": "Speaker gave the unsigned proposal to Ron Mierzwa and suggested he consider it.",
+              "alternatives_present_in_text": "None explicitly stated as an alternative path considered."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L12",
+              "quote": "I'm twenty-two, I don't know anything"
+            },
+            {
+              "line": "L31",
+              "quote": "That's on me."
+            },
+            {
+              "line": "L35-L36",
+              "quote": "I'm not sitting here eating my heart out about a plaque. I don't want a plaque."
+            }
+          ],
+          "emotion_words": [],
+          "repetitions": [
+            {
+              "phrase": "plaque",
+              "lines": [
+                "L33",
+                "L34",
+                "L35",
+                "L36"
+              ]
+            },
+            {
+              "phrase": "flapper",
+              "lines": [
+                "L14",
+                "L15",
+                "L18"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L6",
+                "L12"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L48",
+              "quote": "Anyway.",
+              "note": "Speaker moves on immediately after stating Ardith's death and the house becoming a rental."
+            },
+            {
+              "line": "L1",
+              "quote": "I feel like I'm hogging the tape here.",
+              "note": "Speaker comments on taking up recording time before beginning the account."
+            },
+            {
+              "line": "L50",
+              "quote": "So.",
+              "note": "Speaker ends the account with a single-word closing after stating the dollar amount."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Ardith Bolyard",
+              "lines": [
+                "L6",
+                "L7",
+                "L16",
+                "L24",
+                "L43",
+                "L44"
+              ],
+              "what_they_did": "Widow living alone whose toilet flapper leaked; did not hear the leak; gave speaker a can of Vernors; died in early 2000s; her house later became a rental."
+            },
+            {
+              "who": "Ron Mierzwa",
+              "lines": [
+                "L30",
+                "L33",
+                "L34",
+                "L40"
+              ],
+              "what_they_did": "Received the unsigned proposal from speaker, put his own name on it, presented it to the board where it passed, received a plaque, had twenty-five years of tenure and golfed with a commissioner."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "He will bend or break procedure to prevent an innocent person from bearing an unjust cost, and covers it with a false code rather than seeking permission.",
+              "explanation": "At 22, with no authority to do so, he personally fixed Ardith's toilet on his own dime and time, then falsified the meter-fail code to erase an $1,100 bill she didn't deserve. This was a costly, risky choice (he says he'd 'get walked out for this now') made unilaterally, showing the value was protected through action rather than words.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L18",
+                  "quote": "I went to the Hardware on Main on my lunch, got a flapper and one of them chain clips"
+                },
+                {
+                  "exp": 1,
+                  "line": "L20-L22",
+                  "quote": "I keyed the read as a meter-fail estimate. Which it wasn't. The meter was fine."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his career, he will quietly break minor rules or absorb personal cost to protect a vulnerable colleague or customer from an unfair institutional outcome, without seeking credit or approval first."
+            },
+            {
+              "category": "core_values",
+              "headline": "He deliberately sacrifices personal credit when he calculates that anonymity is what makes an idea succeed.",
+              "explanation": "He stripped his name from the leak-forgiveness proposal, correctly predicting that a 23-year-old meter reader's name would have killed it, while Ron's tenure and relationships got it passed. He states outright he doesn't want the plaque, and his focus stays on the outcome (1,200 accounts a year benefiting) rather than recognition.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L29",
+                  "quote": "I didn't put my name on it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L38-L39",
+                  "quote": "if it'd had my name on it, a twenty-three-year-old meter reader, it goes in the drawer. It doesn't pass."
+                },
+                {
+                  "exp": 1,
+                  "line": "L35-L36",
+                  "quote": "I'm not sitting here eating my heart out about a plaque. I don't want a plaque."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In leadership or team settings, he will let a higher-status colleague front an idea he authored if it increases the odds of adoption, and will decline public recognition offered to him."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He spots a systemic failure inside a single anecdote and redesigns the system, not just the instance.",
+              "explanation": "Rather than stopping at fixing Ardith's flapper, he spent a year turning her situation into a generalized policy (leak forgiveness) that now runs at scale (1,200+ accounts/year) and is codified in ordinance. This move from one broken toilet to institutional rule change, done unprompted and alone on a typewriter, shows an exceptional and self-directed pattern-to-policy capability.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L27",
+                  "quote": "I typed up a page, on the Brother, about doing a leak forgiveness deal, like a one-time adjustment"
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "like eleven, twelve hundred accounts a year go through that adjustment now"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, when he encounters one customer or employee complaint, he will instinctively ask whether it reveals a policy gap and draft a fix rather than treating it as a one-off."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes that legitimacy and standing, not merit, are what actually move institutions to act.",
+              "explanation": "He explicitly reasons that his idea needed someone with tenure and social capital ('twenty-five years and he golfed with a commissioner') to pass, and frames this not as a regret but as simply how things work. This operating assumption led him to preemptively erase his own authorship rather than test whether merit alone could carry it.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "Ron had twenty-five years and he golfed with a commissioner."
+                },
+                {
+                  "exp": 1,
+                  "line": "L41-L42",
+                  "quote": "that's just, you know, that's how you get a thing done. That's what I'd tell anybody."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "He will advise younger colleagues to route their ideas through senior sponsors rather than pursuing direct credit, treating this as practical wisdom rather than something to challenge."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He notes his own quiet, uncompensated exits from stories (the Vernors he didn't want, the four dollars he covered, the credit he gave away) without dwelling on them — worth checking if this self-erasure is a habit beyond this one story.",
+              "explanation": "Across this single account he repeatedly minimizes his own stake: drinking a soda he disliked, paying out of pocket, giving away authorship, and ending the story with a flat dollar figure and 'So.' rather than any reflection on what it cost or meant to him. The pattern of deflecting from his own experience toward practical/financial closure recurs enough within this one telling to be worth exploring across other experiences.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L25-L26",
+                  "quote": "I didn't even want it, I don't like Vernors. I drank it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L49-L50",
+                  "quote": "That's four dollars and thirty-nine cents of my own money, if you count the chain clip. So."
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "In discussing other personal achievements or sacrifices, he will similarly redirect the conversation toward concrete, minor details (costs, logistics) rather than his own feelings or need for acknowledgment."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "He will bend or break procedure to prevent an innocent person from bearing an unjust cost, and covers it with a false code rather than seeking permission.",
+              "explanation": "At 22, with no authority to do so, he personally fixed Ardith's toilet on his own dime and time, then falsified the meter-fail code to erase an $1,100 bill she didn't deserve. This was a costly, risky choice (he says he'd 'get walked out for this now') made unilaterally, showing the value was protected through action rather than words.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L18",
+                  "quote": "I went to the Hardware on Main on my lunch, got a flapper and one of them chain clips"
+                },
+                {
+                  "exp": 1,
+                  "line": "L20-L22",
+                  "quote": "I keyed the read as a meter-fail estimate. Which it wasn't. The meter was fine."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his career, he will quietly break minor rules or absorb personal cost to protect a vulnerable colleague or customer from an unfair institutional outcome, without seeking credit or approval first.",
+              "exp": 5
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He spots a systemic failure inside a single anecdote and redesigns the system, not just the instance.",
+              "explanation": "Rather than stopping at fixing Ardith's flapper, he spent a year turning her situation into a generalized policy (leak forgiveness) that now runs at scale (1,200+ accounts/year) and is codified in ordinance. This move from one broken toilet to institutional rule change, done unprompted and alone on a typewriter, shows an exceptional and self-directed pattern-to-policy capability.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L27",
+                  "quote": "I typed up a page, on the Brother, about doing a leak forgiveness deal, like a one-time adjustment"
+                },
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "like eleven, twelve hundred accounts a year go through that adjustment now"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, when he encounters one customer or employee complaint, he will instinctively ask whether it reveals a policy gap and draft a fix rather than treating it as a one-off.",
+              "exp": 5
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes that legitimacy and standing, not merit, are what actually move institutions to act.",
+              "explanation": "He explicitly reasons that his idea needed someone with tenure and social capital ('twenty-five years and he golfed with a commissioner') to pass, and frames this not as a regret but as simply how things work. This operating assumption led him to preemptively erase his own authorship rather than test whether merit alone could carry it.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "Ron had twenty-five years and he golfed with a commissioner."
+                },
+                {
+                  "exp": 1,
+                  "line": "L41-L42",
+                  "quote": "that's just, you know, that's how you get a thing done. That's what I'd tell anybody."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "He will advise younger colleagues to route their ideas through senior sponsors rather than pursuing direct credit, treating this as practical wisdom rather than something to challenge.",
+              "exp": 5
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He deliberately sacrifices personal credit when he calculates that anonymity is what makes an idea succeed.",
+              "reason": "restated",
+              "note": "He already explicitly states the calculation ('if it'd had my name on it... it doesn't pass') and the lack of desire for credit ('I don't want a plaque') — the candidate just repackages his own stated reasoning as an inferred value."
+            },
+            {
+              "headline": "He notes his own quiet, uncompensated exits from stories (the Vernors he didn't want, the four dollars he covered, the credit he gave away) without dwelling on them — worth checking if this self-erasure is a habit beyond this one story.",
+              "reason": "unfalsifiable",
+              "note": "Draws a 'self-erasure' pattern from a single telling of one story; there's no second experience cited, and the tone/deflection reading is an interpretive gloss on stylistic minimalism rather than an observable recurring behavior."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "He will bend or break procedure to prevent an innocent person from bearing an unjust cost, and covers it with a false code rather than seeking permission.",
+            "explanation": "At 22, with no authority to do so, he personally fixed Ardith's toilet on his own dime and time, then falsified the meter-fail code to erase an $1,100 bill she didn't deserve. This was a costly, risky choice (he says he'd 'get walked out for this now') made unilaterally, showing the value was protected through action rather than words.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L18",
+                "quote": "I went to the Hardware on Main on my lunch, got a flapper and one of them chain clips"
+              },
+              {
+                "exp": 1,
+                "line": "L20-L22",
+                "quote": "I keyed the read as a meter-fail estimate. Which it wasn't. The meter was fine."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In his career, he will quietly break minor rules or absorb personal cost to protect a vulnerable colleague or customer from an unfair institutional outcome, without seeking credit or approval first.",
+            "exp": 5
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "He spots a systemic failure inside a single anecdote and redesigns the system, not just the instance.",
+            "explanation": "Rather than stopping at fixing Ardith's flapper, he spent a year turning her situation into a generalized policy (leak forgiveness) that now runs at scale (1,200+ accounts/year) and is codified in ordinance. This move from one broken toilet to institutional rule change, done unprompted and alone on a typewriter, shows an exceptional and self-directed pattern-to-policy capability.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L27",
+                "quote": "I typed up a page, on the Brother, about doing a leak forgiveness deal, like a one-time adjustment"
+              },
+              {
+                "exp": 1,
+                "line": "L45",
+                "quote": "like eleven, twelve hundred accounts a year go through that adjustment now"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "At work, when he encounters one customer or employee complaint, he will instinctively ask whether it reveals a policy gap and draft a fix rather than treating it as a one-off.",
+            "exp": 5
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "He believes that legitimacy and standing, not merit, are what actually move institutions to act.",
+            "explanation": "He explicitly reasons that his idea needed someone with tenure and social capital ('twenty-five years and he golfed with a commissioner') to pass, and frames this not as a regret but as simply how things work. This operating assumption led him to preemptively erase his own authorship rather than test whether merit alone could carry it.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L40",
+                "quote": "Ron had twenty-five years and he golfed with a commissioner."
+              },
+              {
+                "exp": 1,
+                "line": "L41-L42",
+                "quote": "that's just, you know, that's how you get a thing done. That's what I'd tell anybody."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "He will advise younger colleagues to route their ideas through senior sponsors rather than pursuing direct credit, treating this as practical wisdom rather than something to challenge.",
+            "exp": 5
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "He believes that if he doesn't personally catch and fix a hidden problem, no one else will — and this belief, not duty, is what drives his unpaid, unasked-for labor.",
+          "explanation": "In E1 he reads the nine-inch exception register nobody else reads and says 'I don't know why. I just always did,' then builds a system so specialized that 'nobody else can run it,' requiring him to walk colleagues through it from a beach on vacation. In E5, at 22, he doesn't just fix Ardith's flapper — he falsifies a billing code himself rather than trust the process to correct an $1,100 injustice. Both moments show him substituting personal, invisible intervention for institutional reliability, as if the system will fail unless he individually intercepts it.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "Nobody else can run it."
+            },
+            {
+              "exp": 5,
+              "quote": "I keyed the read as a meter-fail estimate. Which it wasn't. The meter was fine."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "In any team or family process he's part of, he will quietly take on a checking/failsafe role no one assigned him, and will resist delegating it even when it costs him personally (vacations, weekends), because he doesn't trust the process to catch what he catches."
+        },
+        {
+          "category": "core_values",
+          "headline": "He consistently protects vulnerable or struggling people from a harsh-but-technically-correct outcome, at real personal cost, without ever seeking credit.",
+          "explanation": "He zeroes penalties for isolated elderly customers with no authorization (E1), personally repairs and financially covers Ardith's leak rather than let her eat an unjust bill (E5), and orchestrates a boundary-line fix for his neighbor without ever mentioning the trespass, instead quietly helping him avoid a costly mistake with the post depth (E4). In every case the help is materially real and the credit is actively declined or hidden.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "A lady on Social Security shouldn't eat a nine dollar penalty because her son didn't get the mail in."
+            },
+            {
+              "exp": 5,
+              "quote": "That's four dollars and thirty-nine cents of my own money, if you count the chain clip."
+            },
+            {
+              "exp": 4,
+              "quote": "I never said a word. Never said a word, and I still haven't said a word, that's seven years."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a future conflict where he is owed something (money, recognition, an apology), he will act to fix the practical problem for the other person while withholding the grievance that would make the situation costly or awkward for them."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "He repeatedly has the real conversation available to him and chooses the logistical one instead — then narrates the substitution as evidence nothing important happened.",
+          "explanation": "On the boat with Denny, he 'had the words in my mouth' about the layoff and instead asked about drift socks (E2). With Tammy on the fence line, he was told to 'just go talk to him' and instead filed the survey and waited three weeks to solve it through labor, never raising it (E4). Both times he frames the outcome as fine or even good ('it doesn't bother me... it's grass'), but the swap from words to action/logistics recurs enough to ask what he believes talking would cost him.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I had the words in my mouth, something like, so how you doing with all that... And what I said was, 'You ever try one of them drift socks?'"
+            },
+            {
+              "exp": 4,
+              "quote": "Tammy says just go talk to him, and I said I will, and I did not."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a difficult upcoming conversation (with Nathan, with Brad, with Tammy), he will prepare a practical gesture or fix in place of naming the issue directly, and will describe the avoidance afterward as 'no big deal.'"
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "He believes that raising his own grievance or claim directly will make him look foolish or be received badly — so he only acts through indirection: object, code, waiting, or someone else's name.",
+          "explanation": "He hid his authorship on the leak-forgiveness policy because 'if it'd had my name on it, a twenty-three-year-old meter reader, it goes in the drawer' (E5), he let the promotion application die silently at Arby's rather than tell anyone he didn't want it (E3), and he filed the survey and waited rather than confronting Rick about the encroachment (E4). Each time the direct path (claim credit, say no clearly, name the trespass) is available and he takes an indirect one instead.",
+          "evidence": [
+            {
+              "exp": 5,
+              "quote": "if it'd had my name on it, a twenty-three-year-old meter reader, it goes in the drawer. It doesn't pass."
+            },
+            {
+              "exp": 4,
+              "quote": "What I did instead... is I put the survey in the file cabinet, in the folder with the deed and the pool permit, and I waited."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "When he wants something changed or recognized at work or home, he will engineer conditions for someone else to notice or act rather than making a direct ask, even when a direct ask would be faster and lower-risk."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "He insists repeatedly, unprompted, that things he clearly still turn over don't bother him — the denial itself recurs more than the events warrant.",
+          "explanation": "He says of the Marlene sentence 'Which is insane. My wife would tell you it's insane' (E1) while admitting he's thought about it weekly for 27 years; he says of the fence 'it genuinely does not bother me' right before revealing he mows the disputed strip and thinks 'fourteen and a quarter' every time (E4); and of the plaque, 'I'm not sitting here eating my heart out about a plaque' (E5). The pattern is the unsolicited disclaimer attached to things he demonstrably still carries.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "That's the — and I've thought about that sentence I would say weekly for twenty-seven years. Which is insane."
+            },
+            {
+              "exp": 4,
+              "quote": "It genuinely does not bother me, it's grass... I just — fourteen and a quarter. Every time I mow."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "contradiction",
+          "would_predict": "When asked directly whether a past decision (the promotion, a family rift, a work slight) still affects him, he will minimize verbally while a concrete behavioral trace (an object kept, a ritual, a recurring thought) contradicts the minimization — worth checking what else he's filed away as 'doesn't bother me.'"
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "He is exceptional at, and quietly energized by, converting a single small failure into a durable, generalized fix — but only when he can stay out of the spotlight doing it.",
+          "explanation": "From one exception register he built a system now core to billing operations that only he can run (E1); from one bad flapper he authored a leak-forgiveness ordinance now used on 1,200+ accounts a year (E5). In both cases the scaling-up is self-initiated, sustained over months/years, and done with his name deliberately absent or incidental — the genius and the self-erasure appear to be one motion, not two.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "it's got the exception logic in it, it's got the compound conversions, it's got the cross-reference for the parcels that got resplit"
+            },
+            {
+              "exp": 5,
+              "quote": "like eleven, twelve hundred accounts a year go through that adjustment now"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "Given a new domain (e.g., a community, church, or volunteer role), he will eventually build an informal but indispensable system or process there too, and will resist being publicly credited as its architect."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "He treats the choice not to advance himself (career, credit, tradition) as closed and rational in the moment, yet keeps a physical artifact of every one of these choices for decades.",
+          "explanation": "He kept the unfiled promotion application for fifteen years in a drawer he can't explain ('I don't know why I didn't throw it out' — E3), kept the survey proving the fence encroachment in the deed folder for seven years so a future buyer will have it (E4), and still owns receipts for a car sold in 2009 as evidence of 'I keep everything' (E3). This suggests the retention is not incidental clutter but a specific archive of moments where he chose not to assert himself.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I still got the application. It's in the gray filing cabinet in the garage... I don't know why I didn't throw it out."
+            },
+            {
+              "exp": 4,
+              "quote": "I did put the survey in with the deed so at least they'll have it."
+            }
+          ],
+          "confidence": "low",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "If asked to clean out his garage or files, he will find several other kept artifacts tied to decisions he claims to have no regret about, and will struggle to articulate why each one is still there."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "He believes closeness and obligation are in tension — that naming a bond out loud (a tradition, a feeling, a friendship) is what kills it, so he lets things stay unspoken to keep them safe.",
+          "explanation": "He never revived the annual fishing trip because calling to remember it would make him 'feel funny' (E2), never told Rick about the property line despite them becoming genuinely close neighbors who share tools and holidays (E4), and never told Marlene's daughter about the sentence that meant so much to him because 'how do you explain that' (E1). In each case the closeness is real and ongoing, but he treats voicing its significance as the risk, not the relationship itself.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "you can't call a guy in March and go hey, remember that. You'd feel like a — I don't know. You'd feel funny about it."
+            },
+            {
+              "exp": 1,
+              "quote": "I almost told her daughter about it and then I didn't, because it's — how do you explain that."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "With his son Nathan or wife Tammy, he likely has at least one significant unspoken debt of gratitude or affection that he has never voiced directly, believing that saying it aloud would be more awkward than valuable — worth him checking with the people closest to him whether that's true."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe that if you don't personally catch and fix a hidden problem, no one else will — and that belief, not duty, is what drives your unpaid, unasked-for labor.",
+          "explanation": "You read the nine-inch exception register nobody else reads and say 'I don't know why. I just always did,' then build a system so specialized that 'nobody else can run it,' requiring you to walk colleagues through it from a beach on vacation. At 22, you don't just fix Ardith's flapper — you falsify a billing code yourself rather than trust the process to correct an $1,100 injustice. Both moments show you substituting personal, invisible intervention for institutional reliability, as if the system will fail unless you individually intercept it.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "Nobody else can run it."
+            },
+            {
+              "exp": 5,
+              "quote": "I keyed the read as a meter-fail estimate. Which it wasn't. The meter was fine."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Confidence would rise if you noticed yourself doing this in a domain outside work — a church, a volunteer group, an extended family matter. It would fall if you could point to a time you deliberately let a process fail rather than fix it yourself.",
+          "would_predict": "In any team or family process you're part of, you will quietly take on a checking/failsafe role no one assigned you, and will resist delegating it even when it costs you personally, because you don't trust the process to catch what you catch."
+        },
+        {
+          "category": "core_values",
+          "headline": "You consistently protect vulnerable or struggling people from a harsh-but-technically-correct outcome, at real personal cost, without ever seeking credit.",
+          "explanation": "You zero penalties for isolated elderly customers with no authorization, personally repair and financially cover Ardith's leak rather than let her eat an unjust bill, and orchestrate a boundary-line fix for your neighbor without ever mentioning the trespass, instead quietly helping him avoid a costly mistake with the post depth. In every case the help is materially real and the credit is actively declined or hidden.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "A lady on Social Security shouldn't eat a nine dollar penalty because her son didn't get the mail in."
+            },
+            {
+              "exp": 5,
+              "quote": "That's four dollars and thirty-nine cents of my own money, if you count the chain clip."
+            },
+            {
+              "exp": 4,
+              "quote": "I never said a word. Never said a word, and I still haven't said a word, that's seven years."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Confidence would rise with an instance where you were the vulnerable one and someone protected you the same way. It would fall if you could recall a time you let a vulnerable person eat a harsh outcome because helping was too costly.",
+          "would_predict": "In a future conflict where you are owed something — money, recognition, an apology — you will act to fix the practical problem for the other person while withholding the grievance that would make the situation costly or awkward for them."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You repeatedly have the real conversation available to you and choose the logistical one instead — then narrate the substitution as evidence nothing important happened.",
+          "explanation": "On the boat with Denny, you 'had the words in my mouth' about the layoff and instead asked about drift socks. With Tammy on the fence line, you were told to 'just go talk to him' and instead filed the survey and waited three weeks to solve it through labor, never raising it. Both times you frame the outcome as fine or even good — 'it doesn't bother me... it's grass' — but the swap from words to action/logistics recurs enough to ask what you believe talking would cost you.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I had the words in my mouth, something like, so how you doing with all that... And what I said was, 'You ever try one of them drift socks?'"
+            },
+            {
+              "exp": 4,
+              "quote": "Tammy says just go talk to him, and I said I will, and I did not."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Confidence would rise if you noticed the same swap happening in a conversation with Nathan or Tammy directly. It would fall if you could identify a moment you did say the hard thing and it went badly, which would explain the avoidance as learned rather than reflexive.",
+          "would_predict": "In a difficult upcoming conversation — with Nathan, with Brad, with Tammy — you will prepare a practical gesture or fix in place of naming the issue directly, and will describe the avoidance afterward as 'no big deal.'"
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe that raising your own grievance or claim directly will make you look foolish or be received badly — so you only act through indirection: object, code, waiting, or someone else's name.",
+          "explanation": "You hid your authorship on the leak-forgiveness policy because 'if it'd had my name on it, a twenty-three-year-old meter reader, it goes in the drawer,' you let the promotion application die silently at Arby's rather than tell anyone you didn't want it, and you filed the survey and waited rather than confronting Rick about the encroachment. Each time the direct path — claim credit, say no clearly, name the trespass — is available and you take an indirect one instead.",
+          "evidence": [
+            {
+              "exp": 5,
+              "quote": "if it'd had my name on it, a twenty-three-year-old meter reader, it goes in the drawer. It doesn't pass."
+            },
+            {
+              "exp": 4,
+              "quote": "What I did instead... is I put the survey in the file cabinet, in the folder with the deed and the pool permit, and I waited."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Confidence would rise with a case where indirection clearly cost you something significant. It would fall if you could show a case where you made a direct ask and it worked cleanly, undercutting the belief that directness fails.",
+          "would_predict": "When you want something changed or recognized at work or home, you will engineer conditions for someone else to notice or act rather than making a direct ask, even when a direct ask would be faster and lower-risk."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You insist repeatedly, unprompted, that things you clearly still turn over don't bother you — the denial itself recurs more than the events warrant.",
+          "explanation": "You say of the Marlene sentence 'Which is insane. My wife would tell you it's insane' while admitting you've thought about it weekly for 27 years; you say of the fence 'it genuinely does not bother me' right before revealing you mow the disputed strip and think 'fourteen and a quarter' every time; and of the plaque, 'I'm not sitting here eating my heart out about a plaque.' The pattern is the unsolicited disclaimer attached to things you demonstrably still carry.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "That's the — and I've thought about that sentence I would say weekly for twenty-seven years. Which is insane."
+            },
+            {
+              "exp": 4,
+              "quote": "It genuinely does not bother me, it's grass... I just — fourteen and a quarter. Every time I mow."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Confidence would rise if a person close to you (Tammy, Nathan) independently named one of these as something you clearly still carry. It would fall if you could name something you disclaimed and genuinely did let go of, with no behavioral trace.",
+          "would_predict": "When asked directly whether a past decision still affects you, you will minimize verbally while a concrete behavioral trace — an object kept, a ritual, a recurring thought — contradicts the minimization."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "You are exceptional at, and quietly energized by, converting a single small failure into a durable, generalized fix — but only when you can stay out of the spotlight doing it.",
+          "explanation": "From one exception register you built a system now core to billing operations that only you can run; from one bad flapper you authored a leak-forgiveness ordinance now used on 1,200+ accounts a year. In both cases the scaling-up is self-initiated, sustained over months/years, and done with your name deliberately absent or incidental — the genius and the self-erasure appear to be one motion, not two.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "it's got the exception logic in it, it's got the compound conversions, it's got the cross-reference for the parcels that got resplit"
+            },
+            {
+              "exp": 5,
+              "quote": "like eleven, twelve hundred accounts a year go through that adjustment now"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Confidence would rise if you found yourself doing this in a new domain outside work. It would fall if you accepted visible credit for one of these systems when offered.",
+          "would_predict": "Given a new domain — a community, church, or volunteer role — you will eventually build an informal but indispensable system or process there too, and will resist being publicly credited as its architect."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You treat the choice not to advance yourself as closed and rational in the moment, yet keep a physical artifact of every one of these choices for decades.",
+          "explanation": "You kept the unfiled promotion application for fifteen years in a drawer you can't explain — 'I don't know why I didn't throw it out' — and kept the survey proving the fence encroachment in the deed folder for seven years so a future buyer will have it. This suggests the retention is not incidental clutter but a specific archive of moments where you chose not to assert yourself.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I still got the application. It's in the gray filing cabinet in the garage... I don't know why I didn't throw it out."
+            },
+            {
+              "exp": 4,
+              "quote": "I did put the survey in with the deed so at least they'll have it."
+            }
+          ],
+          "confidence": "low",
+          "scope": "cross",
+          "confidence_note": "Confidence would rise if you found a third or fourth kept artifact tied to a similar self-limiting choice. It would fall if you threw one of these out without hesitation when asked.",
+          "would_predict": "If asked to clean out your garage or files, you will find several other kept artifacts tied to decisions you claim to have no regret about, and will struggle to articulate why each one is still there."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe closeness and obligation are in tension — that naming a bond out loud kills it, so you let things stay unspoken to keep them safe.",
+          "explanation": "You never revived the annual fishing trip because calling to remember it would make you 'feel funny,' never told Rick about the property line despite becoming genuinely close neighbors who share tools and holidays, and never told Marlene's daughter about the sentence that meant so much to you because 'how do you explain that.' In each case the closeness is real and ongoing, but you treat voicing its significance as the risk, not the relationship itself.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "you can't call a guy in March and go hey, remember that. You'd feel like a — I don't know. You'd feel funny about it."
+            },
+            {
+              "exp": 1,
+              "quote": "I almost told her daughter about it and then I didn't, because it's — how do you explain that."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Confidence would rise if you tested this directly — telling Tammy or Nathan something significant out loud — and could observe whether it actually damaged anything. It would fall if you found a case where saying the thing out loud strengthened rather than threatened the bond.",
+          "would_predict": "With Nathan or Tammy, you likely have at least one significant unspoken debt of gratitude or affection you have never voiced directly, believing that saying it aloud would be more awkward than valuable — worth checking with them whether that's actually true."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 3.4937,
+  "latency_ms": 211020,
+  "persona": "p01_mundane",
+  "n_experiences": 5,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T15:59:02.591491+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Edilson Ramos da Silva",
+  "age": 44,
+  "sex": "male",
+  "occupation": "City bus driver (São Paulo municipal line)",
+  "culture_context": "Brazilian, born and raised in the Jardim Ângela / Capão Redondo area on the far south side of São Paulo. Evangelical (Assembleia de Deus congregation). Single father to a 15-year-old daughter. Speech rendered in translated Brazilian Portuguese register — warm, digressive, self-deprecating, full of small courtesies and church formulas.",
+  "id": "p07_saopaulo",
+  "archetype": "different_life_shape",
+  "spec": "A 44-year-old single father in São Paulo who drives a city bus. His wife left when their daughter was three; the daughter is now fifteen. Evangelical church member, grew up in a favela, his brother was killed at 19. Speaks in translated Brazilian Portuguese register with warmth and occasional humor. His concerns are money, his daughter's safety and schooling, his own tiredness.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.33146950000000003
+}

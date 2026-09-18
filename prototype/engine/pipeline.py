@@ -34,23 +34,26 @@ def _transcript_block(e: Experience) -> str:
 
 
 class Pipeline:
-    def __init__(self, llm: LLM, generation: str, model: str, workers: int = 4):
+    def __init__(self, llm: LLM, generation: str, model: str, workers: int = 4, label: str = "run"):
         self.llm, self.generation, self.model, self.workers = llm, generation, model, workers
         self.fw = load_framework()
         self.fw_brief = framework_brief(self.fw)
-        self.tag_prefix = f"{generation}:{model}"
+        self.tag_prefix = f"{generation}:{model}:{label}"
+        self._sink: list = []  # every LLMResult this pipeline instance produced; exact cost regardless of parallel runs
 
     # ------------------------------------------------------------------ public
     def run(self, corpus: List[Experience]) -> dict:
         t0 = time.time()
-        spent0 = self.llm.spent_usd()
+        self._sink.clear()
         if self.generation == "v0":
             out = self._run_v0(corpus)
         else:
             out = self._run_staged(corpus)
         out["generation"], out["model"] = self.generation, self.model
-        out["cost_usd"] = round(self.llm.spent_usd() - spent0, 4)
-        out["latency_ms"] = int((time.time() - t0) * 1000)
+        out["cost_usd"] = round(sum(r.cost_usd for r in self._sink), 4)
+        out["n_calls"] = len(self._sink)
+        out["model_latency_ms"] = sum(r.latency_ms for r in self._sink)  # summed per-call API time
+        out["latency_ms"] = int((time.time() - t0) * 1000)             # wall-clock with internal parallelism
         out["insights"] = self._normalize(out["insights"], corpus)
         return out
 
@@ -59,8 +62,8 @@ class Pipeline:
         p = load_prompt("v0", "baseline")
 
         def one(e):
-            res = self.llm.complete(self.model, p["system"], fill(p["user"], transcript=e.text), tag=f"{self.tag_prefix}:baseline:E{e.index}")
-            items = res.json().get("insights", [])
+            res = self.llm.complete_json(self.model, p["system"], fill(p["user"], transcript=e.text), tag=f"{self.tag_prefix}:baseline:E{e.index}", sink=self._sink)
+            items = res.get("insights", [])
             for it in items:
                 it["scope"], it["evidence"], it["_exp"] = "single", [], e.index
             return items
@@ -78,18 +81,18 @@ class Pipeline:
 
         def per_experience(e: Experience):
             block = _transcript_block(e)
-            ext = self.llm.complete(self.model, p_ext["system"], fill(p_ext["user"], transcript=block),
-                                    tag=f"{self.tag_prefix}:extraction:E{e.index}").json()
-            interp = self.llm.complete(self.model, fill(p_int["system"], framework=self.fw_brief),
+            ext = self.llm.complete_json(self.model, p_ext["system"], fill(p_ext["user"], transcript=block),
+                                         tag=f"{self.tag_prefix}:extraction:E{e.index}", sink=self._sink)
+            interp = self.llm.complete_json(self.model, fill(p_int["system"], framework=self.fw_brief),
                                        fill(p_int["user"], transcript=block, extraction=ext),
-                                       tag=f"{self.tag_prefix}:interpretation:E{e.index}").json()
+                                       tag=f"{self.tag_prefix}:interpretation:E{e.index}", sink=self._sink)
             cands = interp.get("candidates", [])
             if grounding_gate:
                 cands, dropped = self._ground_filter(cands, corpus, default_exp=e.index)
                 interp["_dropped_ungrounded"] = dropped
-            crit = self.llm.complete(self.model, fill(p_crit["system"], framework=self.fw_brief),
+            crit = self.llm.complete_json(self.model, fill(p_crit["system"], framework=self.fw_brief),
                                      fill(p_crit["user"], transcript=block, candidates={"candidates": cands}),
-                                     tag=f"{self.tag_prefix}:critic:E{e.index}").json()
+                                     tag=f"{self.tag_prefix}:critic:E{e.index}", sink=self._sink)
             survivors = crit.get("survivors", [])
             for s in survivors:
                 s.setdefault("exp", e.index)
@@ -100,17 +103,17 @@ class Pipeline:
 
         all_transcripts = "\n\n".join(_transcript_block(e) for e in corpus)
         survivors = [s for so in stage_out for s in so["survivors"]]
-        syn = self.llm.complete(self.model, fill(p_syn["system"], framework=self.fw_brief),
+        syn = self.llm.complete_json(self.model, fill(p_syn["system"], framework=self.fw_brief),
                                 fill(p_syn["user"], transcripts=all_transcripts, survivors={"survivors": survivors},
-                                     n=str(len(corpus))), max_tokens=8000, tag=f"{self.tag_prefix}:synthesis").json()
+                                     n=str(len(corpus))), max_tokens=8000, tag=f"{self.tag_prefix}:synthesis", sink=self._sink)
         syn_items = syn.get("insights", [])
         if grounding_gate:
             syn_items, dropped = self._ground_filter(syn_items, corpus)
             syn["_dropped_ungrounded"] = dropped
 
-        deliv = self.llm.complete(self.model, p_del["system"],
+        deliv = self.llm.complete_json(self.model, p_del["system"],
                                   fill(p_del["user"], insights={"insights": syn_items}, transcripts=all_transcripts),
-                                  max_tokens=8000, tag=f"{self.tag_prefix}:delivery").json()
+                                  max_tokens=8000, tag=f"{self.tag_prefix}:delivery", sink=self._sink)
         final = deliv.get("insights", syn_items)
         return {"insights": final, "stages": {"per_experience": stage_out, "synthesis": syn, "delivery": deliv}}
 
@@ -152,6 +155,7 @@ class Pipeline:
                 "confidence": str(it.get("confidence", "unstated")).lower(),
                 "scope": it.get("scope", "cross" if len({e["exp"] for e in ev}) > 1 else "single"),
                 "grounded": bool(ev) and all(e["verbatim"] for e in ev),
+                "would_predict": str(it.get("would_predict", "")).strip(),
                 "source_exp": it.get("_exp"),
             })
         return out

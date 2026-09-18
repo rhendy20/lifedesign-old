@@ -1,0 +1,3132 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "defining_beliefs",
+      "headline": "You believe telling someone about a crisis before it's resolved multiplies the suffering, so you withhold first and reveal only finished outcomes.",
+      "explanation": "At fourteen you lied to Tayo and Bisola about the real state of the business, hiding it inside a game rather than telling them the truth. A decade later you name the identical logic explicitly for your IELTS/UK plans — 'the moment I say it, it becomes a thing that everybody is holding... Five people are disappointed instead of one' — and you connect it yourself to the change-of-course secrecy. This belief shows up across three separate life stages, and you name it directly in the most recent one.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "So I told them we were doing a competition.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "the moment I say it, it becomes a thing that everybody is holding, and then if it doesn't work, I'm not the only one that it didn't work for",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a future romantic partnership or job change, you'll make the decision and quietly execute the first risky steps alone, telling the other person only once the outcome is secured or failure is no longer reversible."
+    },
+    {
+      "id": "i2",
+      "category": "patterns_to_explore",
+      "headline": "Every turning point you describe as calm or 'quiet' was actually preceded by covert, unilateral action you hid from the person whose reaction you feared most.",
+      "explanation": "You say the inventory 'made something in my chest go down' while simultaneously building a cover story for your siblings; you frame the nursing decision as your mind going 'quiet' and your body deciding, yet you then secretly did the paperwork and hid it from your father until it was irreversible; you frame the IELTS decision around calm ('everything is steps') while hiding it from your whole family. The pattern suggests your felt calm is produced by control you've already unilaterally seized, not by absence of conflict — worth checking whether 'calm' for you actually means 'already decided and hidden.'",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "my mind just — it went quiet... I went to the cyber cafe at Ojota, that same week, and did the change of course myself... I didn't tell my daddy.",
+          "verbatim": false
+        },
+        {
+          "exp": 5,
+          "quote": "I'm reading the NMC page and I'm calm, everything is steps, do step one do step two",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "You'll describe feeling most settled at work right after quietly locking in a decision or fix that colleagues don't yet know about, and report anxiety specifically around the act of announcing something, not the act of deciding it."
+    },
+    {
+      "id": "i3",
+      "category": "defining_beliefs",
+      "headline": "You believe help from someone more powerful than you always carries an invisible bill, so you route around the person best able to help when the stakes are highest.",
+      "explanation": "During your father's medical emergency you explicitly refused to call Aunty Funmi, naming the debt logic outright ('every conversation will have that inside it'), and instead depleted your own allowance and found an unconnected referral. The same avoidance shows up again with the UK plan, where you predict Aunty Funmi 'would probably pay for the CBT on the spot' yet choose secrecy specifically to avoid that. The belief holds even when the powerful person is demonstrably willing and able, which suggests it's about the relational cost of accepting, not the money.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "she would send the money, yes, she would absolutely send it, and then for the next one year every conversation will have that inside it",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "Aunty Funmi would probably pay for the CBT on the spot, she'd be telling her prayer group the same week... It's just — I can't.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "At work, you'll avoid asking a senior sponsor or manager for resources or backing even when they've explicitly offered it, preferring to solve the problem with less and report success only after the fact."
+    },
+    {
+      "id": "i4",
+      "category": "zone_of_genius",
+      "headline": "Your core move — turning an overwhelming unknown into an ordered, steppable system — is the one thing you reach for, unprompted, in every crisis of your life, from a food store at 14 to a visa pathway at 24.",
+      "explanation": "You built an unrequested rationed inventory system during your father's business collapse, read the four-year nursing handbook 'like a novel' because 'when you can see the whole staircase, you can climb anything,' and built a three-scenario financial model with a currency-risk column for UK migration. In each case this system-building is what produces your sense of calm, and in each case no one asked you to do it.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I had an exercise book, one Olympic 40-leaves, and I ruled it. Item. Quantity. How many days it can carry us.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I did three columns... I even put a column for if the pound moves.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "Colleagues and family will bring you their most chaotic, undefined problems — not just financial ones — because you're known as the person who can turn panic into a written plan within a day."
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "You call yourself unemotional or 'analytical' in the same breath as describing precise, dated, sensory memories of people who hurt or moved you.",
+      "explanation": "You say 'it's not that I'm holding anything' immediately before reciting the exact dates uncles did or didn't visit; you call yourself 'a very analytical person' immediately after describing an undeliberated, bodily decision; you say 'I don't get attached' while revealing you've kept a dead patient's comb for over a year and remember the sound of a grieving son's shoes. The self-narrative of coldness or rationality is contradicted by the granularity and duration of what you retain in at least three separate instances.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "So it's not that I'm holding anything. But I know the dates. That's just how my head is.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I don't get attached, that's the thing about me... Her comb is in my bag. The small black one. It's been there since last year.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "You'll describe yourself to a partner or manager as low-maintenance or unbothered by a conflict, while privately being able to recall exact dates, words, and sensory details of that same conflict months or years later."
+    },
+    {
+      "id": "i6",
+      "category": "core_values",
+      "headline": "You consistently give full, costly care to whoever has the least power or advocacy in the room, even when told or expected to ration it.",
+      "explanation": "You protected your younger siblings from fear the adults couldn't shield them from, and you gave Mama Ronke — a patient with 'nobody harassing for her' — full nightly care against your supervisor's direct correction ('you're doing too much... I said yes ma. I didn't stop.'). Both instances cost you something (time, energy, or the comfort of being formally right) and both target the person in the room with the least ability to demand it.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "my younger ones, Tayo and Bisola especially, they kept asking, are we going to move house, are we changing school, because they heard something",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "Mama Ronke had nobody harassing for her... I said yes ma. I didn't stop.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "In a team setting, you'll quietly over-invest in the least-resourced or least-advocated-for client, patient, or junior colleague, even after being explicitly told to spread your attention more evenly."
+    },
+    {
+      "id": "i7",
+      "category": "defining_beliefs",
+      "headline": "You see yourself as the family's designated shock-absorber — the one who calculates what remains and stretches it — and this identity, formed at 14, now directly shapes your decision about whether to leave the country.",
+      "explanation": "At fourteen, unprompted, you became the one counting the rice and calculating days remaining ('what is the actual quantity remaining, and how many days'). A decade later, your entire migration calculus is not personal ambition but engineered around this same function for your siblings — 'the real calculation is Tayo... I can send maybe six, seven hundred pounds a month' — and you explicitly worry 'who will count what is remaining' if you leave. The childhood role has become the adult's central life-decision framework.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "That year taught me to look at a situation and ask, what is the actual quantity remaining, and how many days.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "if I leave, who is the one that will be at the house when my daddy's BP does that thing again. Who will count what is remaining.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "Even after achieving financial independence or living abroad, you'll continue building and maintaining detailed contingency plans for your siblings' futures, resisting any suggestion from family that you 'step back' from that role."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L6",
+              "what_happened": "Speaker was fourteen years old in 2016."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker was in SS1."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker's father was bringing in generators (Tiger, Elepaq brands) and sometimes tyres, and had two containers at Apapa when the naira/dollar exchange rate changed that year."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker states she did not know the word 'demurrage' before that year and now can spell it backwards."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker states she learned the words 'demurrage' and 'restructuring' that year."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Speaker's mother used the word 'restructuring' repeatedly, which speaker compares to a prayer point."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Mother said 'We are restructuring.'"
+            },
+            {
+              "line": "L17",
+              "what_happened": "Speaker describes father as 'a quiet man.'"
+            },
+            {
+              "line": "L18",
+              "what_happened": "Father would come back from Apapa and sit in the parlour in his cane chair holding the remote, with the television not on."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Father pressed the remote 'small small' (repeatedly/slightly)."
+            },
+            {
+              "line": "L21",
+              "what_happened": "Household had stopped buying diesel for the generator by around June."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Father sat in the dark holding a remote."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker greeted father ('e kaale sir'); he asked how school was; she replied 'fine sir.'"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker states this exchange was the whole conversation for about four months."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker went into the store where rice, garri, and tinned tomatoes were kept and counted everything."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker used an Olympic 40-leaves exercise book and ruled it into columns."
+            },
+            {
+              "line": "L27-29",
+              "what_happened": "Columns were labeled Item, Quantity, and how many days it can carry the family."
+            },
+            {
+              "line": "L30-31",
+              "what_happened": "Speaker calculated for seven people in the household, noting the last born was a baby at the time."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker calculated that if they ate rice three times a week, the bag would finish on a specific date."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Speaker wrote down the calculated date."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker states she does not know if the calculation was correct."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Younger siblings Tayo and Bisola asked if they were going to move house or change school."
+            },
+            {
+              "line": "L37",
+              "what_happened": "Speaker told them they were doing a competition."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Speaker called it 'Operation Manage.'"
+            },
+            {
+              "line": "L39",
+              "what_happened": "Rule of the competition: whoever wastes the least food in a week gets to choose what they watch on Sunday."
+            },
+            {
+              "line": "L40",
+              "what_happened": "There was no prize because there was no electricity, and the younger siblings didn't immediately notice."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Bisola asked directly, 'Sister Temi is Daddy's business finished,' and speaker answered 'no, Daddy is changing business.'"
+            },
+            {
+              "line": "L44",
+              "what_happened": "Father sold his Peugeot 504."
+            },
+            {
+              "line": "L47",
+              "what_happened": "A buyer came from Ikorodu, haggled for one hour twenty minutes, paid in a black nylon bag; father counted the money standing up in the sun."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Speaker states she still doesn't like the buyer's face and doesn't know his name."
+            },
+            {
+              "line": "L50",
+              "what_happened": "A neighbor's daughter in SS3 got pregnant that year and was moved to the village; mother referenced this in sermons for about two years."
+            },
+            {
+              "line": "L54",
+              "what_happened": "Father has three brothers; only Uncle Segun visited during that period, coming twice (September and just before Christmas)."
+            },
+            {
+              "line": "L54",
+              "what_happened": "On the second visit, Uncle Segun brought a bag of rice and a crate of eggs but dropped them at the gate without coming inside because he was going somewhere."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker did the small chops arrangement for Uncle Kunle's daughter's wedding introduction last year and did not collect money for it."
+            },
+            {
+              "line": "L61",
+              "what_happened": "Speaker states she knows the visit was on the 14th of September because it was after her birthday."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L25",
+              "choice_made": "Speaker went into the store and counted all food items",
+              "alternatives_present_in_text": "Speaker states 'nobody sent me,' implying it was not a family instruction; no alternative action described"
+            },
+            {
+              "line": "L37",
+              "choice_made": "Speaker told younger siblings it was a competition rather than telling them about financial trouble",
+              "alternatives_present_in_text": "Implied alternative: telling them the truth about the family's situation"
+            },
+            {
+              "line": "L41",
+              "choice_made": "Speaker told Bisola 'no, Daddy is changing business' in response to being asked if the business was finished",
+              "alternatives_present_in_text": "Implied alternative: confirming the business was finished"
+            },
+            {
+              "line": "L55-56",
+              "choice_made": "Speaker states she is 'not saying anything' about the two uncles who did not visit, and states 'I greet them well'",
+              "alternatives_present_in_text": "Implied alternative: voicing criticism or complaint about the uncles"
+            },
+            {
+              "line": "L57",
+              "choice_made": "Speaker did the small chops arrangement for Uncle Kunle's daughter's wedding without collecting money",
+              "alternatives_present_in_text": "Implied alternative: declining to help or charging for the service"
+            },
+            {
+              "line": "L64-65",
+              "choice_made": "Speaker states the lesson taken was to ask 'what is the actual quantity remaining, and how many days,' not 'how do I feel about it'",
+              "alternatives_present_in_text": "Explicit alternative named and rejected: focusing on feelings"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L52",
+              "quote": "I am not a person that keeps record of what people did"
+            },
+            {
+              "line": "L53",
+              "quote": "Family is family."
+            },
+            {
+              "line": "L58",
+              "quote": "it's not that I'm holding anything"
+            },
+            {
+              "line": "L59",
+              "quote": "I know the dates."
+            },
+            {
+              "line": "L60",
+              "quote": "That's just how my head is."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L34",
+              "quote": "writing it made something in my chest go down"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "restructuring",
+              "lines": [
+                "L12",
+                "L13",
+                "L14"
+              ]
+            },
+            {
+              "phrase": "changing business",
+              "lines": [
+                "L41",
+                "L42",
+                "L43"
+              ]
+            },
+            {
+              "phrase": "small small",
+              "lines": [
+                "L20",
+                "L57 (small chops)"
+              ]
+            },
+            {
+              "phrase": "I know the dates / know it was the 14th of September",
+              "lines": [
+                "L59",
+                "L61"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L46",
+              "quote": "The Peugeot, that one is another story.",
+              "note": "Speaker flags a topic and then moves on without full elaboration before returning to it in L47"
+            },
+            {
+              "line": "L50-51",
+              "quote": "That was the year our neighbour's daughter... Irrelevant, sorry.",
+              "note": "Speaker introduces the neighbor's daughter's pregnancy and then labels it irrelevant, moving past it"
+            },
+            {
+              "line": "L55",
+              "quote": "The other two, I'm not saying anything.",
+              "note": "Speaker declines to elaborate on the two uncles who did not visit"
+            },
+            {
+              "line": "L62",
+              "quote": "Anyway.",
+              "note": "Speaker uses this word to close off the preceding topic (uncles/dates) and transition to summary"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Father",
+              "lines": [
+                "L8",
+                "L17",
+                "L18",
+                "L19",
+                "L20",
+                "L21",
+                "L22",
+                "L23",
+                "L44",
+                "L47"
+              ],
+              "what_they_did": "Brought in generators and tyres, had containers at Apapa affected by currency change, sat in parlour in cane chair holding remote without turning on TV, gave minimal responses to greetings, sold his Peugeot 504 to a buyer for cash counted in the sun"
+            },
+            {
+              "who": "Mother (mummy)",
+              "lines": [
+                "L13",
+                "L14",
+                "L25",
+                "L50"
+              ],
+              "what_they_did": "Used the word 'restructuring' repeatedly, kept the store of rice/garri/tin tomatoes, used the neighbor's daughter's pregnancy as a recurring sermon topic"
+            },
+            {
+              "who": "Tayo",
+              "lines": [
+                "L36"
+              ],
+              "what_they_did": "Asked if they were going to move house or change school"
+            },
+            {
+              "who": "Bisola",
+              "lines": [
+                "L36",
+                "L41"
+              ],
+              "what_they_did": "Asked if they were moving/changing school; directly asked speaker if Daddy's business was finished"
+            },
+            {
+              "who": "Last born (baby sister)",
+              "lines": [
+                "L30"
+              ],
+              "what_they_did": "Was a baby at the time, included in household count of seven"
+            },
+            {
+              "who": "Buyer from Ikorodu",
+              "lines": [
+                "L47",
+                "L48"
+              ],
+              "what_they_did": "Came to buy the Peugeot 504, haggled for one hour twenty minutes, paid in a black nylon bag"
+            },
+            {
+              "who": "Neighbour's daughter (SS3)",
+              "lines": [
+                "L50"
+              ],
+              "what_they_did": "Got pregnant that year and was moved to the village"
+            },
+            {
+              "who": "Uncle Segun",
+              "lines": [
+                "L54"
+              ],
+              "what_they_did": "Visited twice (September, before Christmas); second time brought a bag of rice and crate of eggs but dropped them at the gate without entering"
+            },
+            {
+              "who": "Other two uncles (unnamed)",
+              "lines": [
+                "L55",
+                "L56"
+              ],
+              "what_they_did": "Did not visit during that period; speaker states she still greets them well"
+            },
+            {
+              "who": "Uncle Kunle's daughter",
+              "lines": [
+                "L57"
+              ],
+              "what_they_did": "Had a wedding introduction last year for which speaker arranged small chops without payment"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Temi believes feelings are unaffordable information; only measurable quantity and time count as real.",
+              "explanation": "She explicitly names the lesson as a rule: ask what quantity remains and how many days it will last, not how you feel about it, and backs this with the visceral relief of the exercise-book calculation. This is stated as a general operating principle drawn from one crisis, not a one-off reaction.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L64-65",
+                  "quote": "That year taught me to look at a situation and ask, what is the actual quantity remaining, and how many days. Not how do I feel about it. Nobody can eat how you feel about it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "writing it made something in my chest go down"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a health or relationship crisis, she will build a tracker or plan before she processes or names her emotions about it."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Temi's genius is converting felt panic into a measurable system that others can act on without knowing the panic exists.",
+              "explanation": "At fourteen, unprompted, she built an inventory system (item/quantity/days) and then repackaged the crisis for her siblings as 'Operation Manage,' a game with rules that hid the real stakes. This shows both unusual skill (turning chaos into structure) and energy (she did it without being asked, and it visibly calmed her).",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L25",
+                  "quote": "I went into the store where my mummy keeps the rice and the garri and the tin tomatoes, and I counted everything"
+                },
+                {
+                  "exp": 1,
+                  "line": "L38-39",
+                  "quote": "I called it Operation Manage. Whoever wastes the least food in a week gets to choose what we watch on Sunday."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work, she'll be the one others hand ambiguous or alarming situations to, trusting her to turn them into a plan the team can follow calmly."
+            },
+            {
+              "category": "core_values",
+              "headline": "Temi protects younger family members from fear even when it costs her the truth.",
+              "explanation": "She chose to tell Tayo and Bisola a comforting fiction ('a competition') and directly denied the business was finished when Bisola asked point-blank, despite knowing the real severity. This is a costly choice — she carries the true weight alone rather than let them carry fear — repeated across two separate moments.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L37",
+                  "quote": "So I told them we were doing a competition."
+                },
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "Bisola asked me straight, she said Sister Temi is Daddy's business finished, and I said no, Daddy is changing business."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her own family or team, she will withhold or soften bad news from those she sees as vulnerable, presenting it as manageable rather than alarming."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Temi tracks exact dates and grievances with precision while insisting, in the same breath, that she holds nothing against anyone.",
+              "explanation": "She names the exact date of Uncle Segun's visit and contrasts it with the uncles who never came, then states 'I'm not saying anything' and 'it's not that I'm holding anything' — yet the specificity of what she recalls (dates, who dropped a gift at the gate without entering) suggests the record itself is a form of holding. This tension between the disclaimer and the granularity of memory is unresolved and worth her own attention.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L54",
+                  "quote": "the only one that came to the house that whole time was Uncle Segun, and he came twice, September and then just before Christmas"
+                },
+                {
+                  "exp": 1,
+                  "line": "L58-60",
+                  "quote": "So it's not that I'm holding anything. But I know the dates. That's just how my head is."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future family conflicts, she will produce precise, dated accounts of who showed up and who didn't while framing herself as neutral or unbothered — worth checking whether the precision itself signals unspoken resentment."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "zone_of_genius",
+              "headline": "Temi's genius is converting felt panic into a measurable system that others can act on without knowing the panic exists.",
+              "explanation": "At fourteen, unprompted, she built an inventory system (item/quantity/days) and then repackaged the crisis for her siblings as 'Operation Manage,' a game with rules that hid the real stakes. This shows both unusual skill (turning chaos into structure) and energy (she did it without being asked, and it visibly calmed her).",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L25",
+                  "quote": "I went into the store where my mummy keeps the rice and the garri and the tin tomatoes, and I counted everything"
+                },
+                {
+                  "exp": 1,
+                  "line": "L38-39",
+                  "quote": "I called it Operation Manage. Whoever wastes the least food in a week gets to choose what we watch on Sunday."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work, she'll be the one others hand ambiguous or alarming situations to, trusting her to turn them into a plan the team can follow calmly.",
+              "exp": 1
+            },
+            {
+              "category": "core_values",
+              "headline": "Temi protects younger family members from fear even when it costs her the truth.",
+              "explanation": "She chose to tell Tayo and Bisola a comforting fiction ('a competition') and directly denied the business was finished when Bisola asked point-blank, despite knowing the real severity. This is a costly choice — she carries the true weight alone rather than let them carry fear — repeated across two separate moments.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L37",
+                  "quote": "So I told them we were doing a competition."
+                },
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "Bisola asked me straight, she said Sister Temi is Daddy's business finished, and I said no, Daddy is changing business."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her own family or team, she will withhold or soften bad news from those she sees as vulnerable, presenting it as manageable rather than alarming.",
+              "exp": 1
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Temi tracks exact dates and grievances with precision while insisting, in the same breath, that she holds nothing against anyone.",
+              "explanation": "She names the exact date of Uncle Segun's visit and contrasts it with the uncles who never came, then states 'I'm not saying anything' and 'it's not that I'm holding anything' — yet the specificity of what she recalls (dates, who dropped a gift at the gate without entering) suggests the record itself is a form of holding. This tension between the disclaimer and the granularity of memory is unresolved and worth her own attention.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L54",
+                  "quote": "the only one that came to the house that whole time was Uncle Segun, and he came twice, September and then just before Christmas"
+                },
+                {
+                  "exp": 1,
+                  "line": "L58-60",
+                  "quote": "So it's not that I'm holding anything. But I know the dates. That's just how my head is."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future family conflicts, she will produce precise, dated accounts of who showed up and who didn't while framing herself as neutral or unbothered — worth checking whether the precision itself signals unspoken resentment.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Temi believes feelings are unaffordable information; only measurable quantity and time count as real.",
+              "reason": "restated",
+              "note": "This is nearly verbatim what she already said in L64-65 ('ask what is the actual quantity remaining... Not how do I feel about it'); the claim adds no inference beyond her own stated conclusion."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "zone_of_genius",
+            "headline": "Temi's genius is converting felt panic into a measurable system that others can act on without knowing the panic exists.",
+            "explanation": "At fourteen, unprompted, she built an inventory system (item/quantity/days) and then repackaged the crisis for her siblings as 'Operation Manage,' a game with rules that hid the real stakes. This shows both unusual skill (turning chaos into structure) and energy (she did it without being asked, and it visibly calmed her).",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L25",
+                "quote": "I went into the store where my mummy keeps the rice and the garri and the tin tomatoes, and I counted everything"
+              },
+              {
+                "exp": 1,
+                "line": "L38-39",
+                "quote": "I called it Operation Manage. Whoever wastes the least food in a week gets to choose what we watch on Sunday."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "At work, she'll be the one others hand ambiguous or alarming situations to, trusting her to turn them into a plan the team can follow calmly.",
+            "exp": 1
+          },
+          {
+            "category": "core_values",
+            "headline": "Temi protects younger family members from fear even when it costs her the truth.",
+            "explanation": "She chose to tell Tayo and Bisola a comforting fiction ('a competition') and directly denied the business was finished when Bisola asked point-blank, despite knowing the real severity. This is a costly choice — she carries the true weight alone rather than let them carry fear — repeated across two separate moments.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L37",
+                "quote": "So I told them we were doing a competition."
+              },
+              {
+                "exp": 1,
+                "line": "L41",
+                "quote": "Bisola asked me straight, she said Sister Temi is Daddy's business finished, and I said no, Daddy is changing business."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In her own family or team, she will withhold or soften bad news from those she sees as vulnerable, presenting it as manageable rather than alarming.",
+            "exp": 1
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Temi tracks exact dates and grievances with precision while insisting, in the same breath, that she holds nothing against anyone.",
+            "explanation": "She names the exact date of Uncle Segun's visit and contrasts it with the uncles who never came, then states 'I'm not saying anything' and 'it's not that I'm holding anything' — yet the specificity of what she recalls (dates, who dropped a gift at the gate without entering) suggests the record itself is a form of holding. This tension between the disclaimer and the granularity of memory is unresolved and worth her own attention.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L54",
+                "quote": "the only one that came to the house that whole time was Uncle Segun, and he came twice, September and then just before Christmas"
+              },
+              {
+                "exp": 1,
+                "line": "L58-60",
+                "quote": "So it's not that I'm holding anything. But I know the dates. That's just how my head is."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In future family conflicts, she will produce precise, dated accounts of who showed up and who didn't while framing herself as neutral or unbothered — worth checking whether the precision itself signals unspoken resentment.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L2",
+              "what_happened": "Aunty Funmi is speaker's mother's immediate elder sister"
+            },
+            {
+              "line": "L3",
+              "what_happened": "Aunty Funmi pays the speaker's school fees"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Aunty Funmi lives in Magodo, husband works in oil and gas servicing, their two children are in Canada, one doing masters"
+            },
+            {
+              "line": "L7",
+              "what_happened": "Description of house: big house, two generators, one for house one for borehole"
+            },
+            {
+              "line": "L8",
+              "what_happened": "Dog named Bingo described as hating speaker specifically"
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker's mummy took speaker to Aunty Funmi's on a Saturday after nursing admission"
+            },
+            {
+              "line": "L11",
+              "what_happened": "They sat in the car in the compound for almost two hours because Aunty was on a call"
+            },
+            {
+              "line": "L12",
+              "what_happened": "Mummy repeated 'let's just be patient' during the wait"
+            },
+            {
+              "line": "L13",
+              "what_happened": "Speaker was wearing church clothes"
+            },
+            {
+              "line": "L15",
+              "what_happened": "When they entered, Aunty Funmi hugged speaker and called her 'Temi the doctor'"
+            },
+            {
+              "line": "L16",
+              "what_happened": "Aunty Funmi said don't worry about fees, just read your book"
+            },
+            {
+              "line": "L18",
+              "what_happened": "Aunty Funmi has paid fees every single session"
+            },
+            {
+              "line": "L19",
+              "what_happened": "Aunty Funmi paid fees and accommodation, bought an HP laptop in second year, replaced stolen stethoscope same week"
+            },
+            {
+              "line": "L20",
+              "what_happened": "Speaker keeps all receipts and transfer alerts in a brown envelope in their box"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Total support estimated at 1.2-1.3 million per year; laptop cost 250 (thousand, implied) at that time"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker states conditions were never written down but everybody knows them"
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker calls Aunty Funmi every Sunday evening after church"
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker sends photographed results every semester; if not sent within two days, Aunty calls speaker's mummy, not speaker"
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker stays in Magodo during holidays"
+            },
+            {
+              "line": "L29",
+              "what_happened": "During holidays, speaker supervises workmen fixing the roof, goes to market with Aunty, cooks when Aunty has her prayer group"
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker states mummy raised them"
+            },
+            {
+              "line": "L33",
+              "what_happened": "In 2022, speaker's father had a BP-related incident"
+            },
+            {
+              "line": "L34",
+              "what_happened": "Father's speech was affected for about forty minutes then returned"
+            },
+            {
+              "line": "L35",
+              "what_happened": "Speaker's mummy was crying on the phone"
+            },
+            {
+              "line": "L36",
+              "what_happened": "Family's first idea was to call Aunty Funmi"
+            },
+            {
+              "line": "L41",
+              "what_happened": "Speaker called coursemate Kemi whose uncle works at a private hospital in Ogba, arranged referral, used entire placement allowance; mummy sold something (sentence trails off)"
+            },
+            {
+              "line": "L43",
+              "what_happened": "Cost was about eighty-something thousand for scan and drugs"
+            },
+            {
+              "line": "L44",
+              "what_happened": "After father was stable and discharged, speaker called Aunty Funmi and told her"
+            },
+            {
+              "line": "L46",
+              "what_happened": "Aunty Funmi asked 'Temitope, am I a stranger?'"
+            },
+            {
+              "line": "L47",
+              "what_happened": "Aunty Funmi repeated 'Am I a stranger in this family?'"
+            },
+            {
+              "line": "L48",
+              "what_happened": "Aunty Funmi asked why speaker didn't call her"
+            },
+            {
+              "line": "L49",
+              "what_happened": "Speaker repeatedly said sorry ma, everything happened fast ma"
+            },
+            {
+              "line": "L50",
+              "what_happened": "Aunty Funmi sent two hundred thousand that same night"
+            },
+            {
+              "line": "L55",
+              "what_happened": "When mummy's freezer spoilt, Aunty Funmi bought another one"
+            },
+            {
+              "line": "L62",
+              "what_happened": "Aunty Funmi is coming to speaker's graduation and asking about aso-ebi colours"
+            },
+            {
+              "line": "L67",
+              "what_happened": "Bingo the dog still hates speaker after three years"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L37",
+              "choice_made": "Speaker said no to calling Aunty Funmi immediately",
+              "alternatives_present_in_text": "Everybody's first idea was to call Aunty Funmi (L36)"
+            },
+            {
+              "line": "L38",
+              "choice_made": "Speaker asked for small time before involving Aunty",
+              "alternatives_present_in_text": "Immediate call to Aunty Funmi as the default family response"
+            },
+            {
+              "line": "L41",
+              "choice_made": "Speaker called coursemate Kemi for a hospital referral and used own placement allowance instead",
+              "alternatives_present_in_text": "Could have called Aunty Funmi for money as family expected"
+            },
+            {
+              "line": "L44",
+              "choice_made": "Speaker called Aunty Funmi only after father was stable and discharged",
+              "alternatives_present_in_text": "Could have called her during the crisis as family wanted"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L28",
+              "quote": "Not resting o."
+            },
+            {
+              "line": "L56",
+              "quote": "I just — I don't know how to explain it."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L35",
+              "quote": "crying"
+            },
+            {
+              "line": "L45",
+              "quote": "she was so angry"
+            },
+            {
+              "line": "L53",
+              "quote": "I'm not complaining"
+            },
+            {
+              "line": "L63",
+              "quote": "I will be smiling"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "let's just be patient",
+              "lines": [
+                "L12"
+              ]
+            },
+            {
+              "phrase": "Am I a stranger",
+              "lines": [
+                "L46",
+                "L47"
+              ]
+            },
+            {
+              "phrase": "sorry ma",
+              "lines": [
+                "L49"
+              ]
+            },
+            {
+              "phrase": "she's a very kind woman / she deserves it / she earned it",
+              "lines": [
+                "L54",
+                "L63",
+                "L64"
+              ]
+            },
+            {
+              "phrase": "two hundred thousand",
+              "lines": [
+                "L50",
+                "L51"
+              ]
+            },
+            {
+              "phrase": "Bingo",
+              "lines": [
+                "L8",
+                "L65",
+                "L66"
+              ]
+            },
+            {
+              "phrase": "that's fine",
+              "lines": [
+                "L30"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L41",
+              "quote": "and my mummy sold — well.",
+              "note": "sentence left incomplete, speaker does not state what mummy sold"
+            },
+            {
+              "line": "L42",
+              "quote": "We sorted it.",
+              "note": "moves past financial/logistical details of the crisis quickly"
+            },
+            {
+              "line": "L32",
+              "quote": "no, let me tell you the real thing.",
+              "note": "speaker interrupts own account and redirects to a different story"
+            },
+            {
+              "line": "L61",
+              "quote": "Anyway.",
+              "note": "abruptly closes reflective passage about 'adjusting your walking' and moves to graduation topic"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Aunty Funmi",
+              "lines": [
+                "L3",
+                "L15",
+                "L16",
+                "L18",
+                "L19",
+                "L44",
+                "L45",
+                "L46",
+                "L47",
+                "L48",
+                "L50",
+                "L55",
+                "L62"
+              ],
+              "what_they_did": "Pays school fees and other costs, calls speaker 'Temi the doctor', tells her not to worry about fees, expresses anger at not being called during father's health crisis, sends money after the fact, buys freezer, plans to attend graduation"
+            },
+            {
+              "who": "Speaker's mummy",
+              "lines": [
+                "L10",
+                "L12",
+                "L26",
+                "L31",
+                "L35",
+                "L41"
+              ],
+              "what_they_did": "Takes speaker to Aunty Funmi's house, tells her to be patient, is the one Aunty calls if results aren't sent, raised speaker, cries on phone during father's crisis, sells something during the crisis"
+            },
+            {
+              "who": "Speaker's daddy",
+              "lines": [
+                "L33",
+                "L34"
+              ],
+              "what_they_did": "Experienced a BP-related episode with temporarily affected speech"
+            },
+            {
+              "who": "Kemi (coursemate)",
+              "lines": [
+                "L41"
+              ],
+              "what_they_did": "Has an uncle at a private hospital in Ogba, contacted by speaker for referral"
+            },
+            {
+              "who": "Bingo (dog)",
+              "lines": [
+                "L8",
+                "L9",
+                "L65",
+                "L66",
+                "L67"
+              ],
+              "what_they_did": "Reportedly hates the speaker specifically while being fine with everyone else, for three years"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "She protects her family's dignity and autonomy even when it costs her money, time, and Aunty Funmi's anger.",
+              "explanation": "When her father had a health crisis, she chose to arrange a private referral and drain her own allowance rather than immediately call the person who could easily pay, even knowing this would upset that person. This is a costly choice made under pressure, not a stated preference.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L37",
+                  "quote": "And I said no."
+                },
+                {
+                  "exp": 2,
+                  "line": "L39",
+                  "quote": "she would send the money, yes, she would absolutely send it, and then for the next one year every conversation will have that inside it"
+                },
+                {
+                  "exp": 2,
+                  "line": "L41",
+                  "quote": "I called my coursemate Kemi... and I did the referral myself, and I took my whole allowance from the placement"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career, she will avoid asking mentors or superiors for help/favors even when it would be faster, preferring to solve problems herself first and disclose only after resolution."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes financial support always comes with unspoken, permanent obligations that must be managed carefully.",
+              "explanation": "She states outright that the conditions of Aunty Funmi's support were 'never written down but everybody knows them,' and describes a self-conscious recalibration of her own behavior ('you adjust your walking') to avoid disturbing the relationship. This is an operating assumption about how support and debt work, not a one-off observation.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L24",
+                  "quote": "The conditions were never written down but everybody knows them."
+                },
+                {
+                  "exp": 2,
+                  "line": "L57",
+                  "quote": "when somebody is holding you up, you start to walk in a way that doesn't disturb their hand"
+                },
+                {
+                  "exp": 2,
+                  "line": "L60",
+                  "quote": "after some years you don't even remember how you used to walk before"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future relationships (romantic, professional, mentorship), she will feel unusual anxiety around accepting favors or gifts, often over-compensating with compliance or gratitude to preempt any sense of debt."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She interrupts or abruptly closes her own vulnerable reflections just after voicing them.",
+              "explanation": "Twice in this account she surfaces a deeper truth — redirecting mid-story to 'the real thing' about her father's crisis, and then cutting off her own metaphor about adjusting her walk with 'Anyway.' Worth exploring whether she habitually retreats from insight right when it becomes uncomfortable.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L32",
+                  "quote": "no, let me tell you the real thing."
+                },
+                {
+                  "exp": 2,
+                  "line": "L61",
+                  "quote": "Anyway."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In therapy, coaching, or close friendships, she will raise emotionally significant topics and then quickly change the subject before fully processing them, unless someone gently holds the space open."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She may minimize or rush past the personal costs of the family crisis and her own sacrifices.",
+              "explanation": "She leaves the sentence about her mother selling something incomplete, and quickly summarizes a serious medical emergency with 'We sorted it.' Combined with insisting 'I'm not complaining' about Aunty's delayed money, there may be a pattern of downplaying strain to protect others' image or her own composure.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L41",
+                  "quote": "and my mummy sold — well."
+                },
+                {
+                  "exp": 2,
+                  "line": "L42",
+                  "quote": "We sorted it."
+                },
+                {
+                  "exp": 2,
+                  "line": "L53",
+                  "quote": "I'm not complaining, God forbid."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her nursing career, she will underreport her own stress or resource strain when managing high-pressure situations, presenting things as fine even when they are not."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She is quick and resourceful at mobilizing informal networks to solve urgent practical problems.",
+              "explanation": "Under acute crisis pressure, she immediately identified and activated a personal connection (Kemi's uncle) to get a real medical referral, rather than freezing or defaulting to the obvious answer. This reflects a genuine, applied capability, not just a value.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L41",
+                  "quote": "I called my coursemate Kemi whose uncle is at a private hospital in Ogba, and I did the referral myself"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her nursing/clinical career, colleagues will come to her first when they need something arranged quickly through informal channels rather than official ones."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "She protects her family's dignity and autonomy even when it costs her money, time, and Aunty Funmi's anger.",
+              "explanation": "When her father had a health crisis, she chose to arrange a private referral and drain her own allowance rather than immediately call the person who could easily pay, even knowing this would upset that person. This is a costly choice made under pressure, not a stated preference.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L37",
+                  "quote": "And I said no."
+                },
+                {
+                  "exp": 2,
+                  "line": "L39",
+                  "quote": "she would send the money, yes, she would absolutely send it, and then for the next one year every conversation will have that inside it"
+                },
+                {
+                  "exp": 2,
+                  "line": "L41",
+                  "quote": "I called my coursemate Kemi... and I did the referral myself, and I took my whole allowance from the placement"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career, she will avoid asking mentors or superiors for help/favors even when it would be faster, preferring to solve problems herself first and disclose only after resolution.",
+              "exp": 2
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes financial support always comes with unspoken, permanent obligations that must be managed carefully.",
+              "explanation": "She states outright that the conditions of Aunty Funmi's support were 'never written down but everybody knows them,' and describes a self-conscious recalibration of her own behavior ('you adjust your walking') to avoid disturbing the relationship. This is an operating assumption about how support and debt work, not a one-off observation.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L24",
+                  "quote": "The conditions were never written down but everybody knows them."
+                },
+                {
+                  "exp": 2,
+                  "line": "L57",
+                  "quote": "when somebody is holding you up, you start to walk in a way that doesn't disturb their hand"
+                },
+                {
+                  "exp": 2,
+                  "line": "L60",
+                  "quote": "after some years you don't even remember how you used to walk before"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future relationships (romantic, professional, mentorship), she will feel unusual anxiety around accepting favors or gifts, often over-compensating with compliance or gratitude to preempt any sense of debt.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She interrupts or abruptly closes her own vulnerable reflections just after voicing them.",
+              "reason": "unfalsifiable",
+              "note": "Two instances of narrative self-interruption ('let me tell you the real thing', 'Anyway') is normal storytelling rhythm, not a demonstrated pattern of avoiding vulnerability; the leap to a therapy-flavored claim about retreating from insight isn't supported by two ordinary discourse markers."
+            },
+            {
+              "headline": "She may minimize or rush past the personal costs of the family crisis and her own sacrifices.",
+              "reason": "unfalsifiable",
+              "note": "Hedged with 'may'; relies on incomplete sentences and a polite disclaimer as proof of a minimizing pattern, but these are equally explained by normal conversational compression - nothing here is checkable."
+            },
+            {
+              "headline": "She is quick and resourceful at mobilizing informal networks to solve urgent practical problems.",
+              "reason": "flattering",
+              "note": "Single crisis event, generalized into a 'zone of genius' claim with a sweeping prediction about her whole career; one data point dressed as an exceptional strength."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "She protects her family's dignity and autonomy even when it costs her money, time, and Aunty Funmi's anger.",
+            "explanation": "When her father had a health crisis, she chose to arrange a private referral and drain her own allowance rather than immediately call the person who could easily pay, even knowing this would upset that person. This is a costly choice made under pressure, not a stated preference.",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L37",
+                "quote": "And I said no."
+              },
+              {
+                "exp": 2,
+                "line": "L39",
+                "quote": "she would send the money, yes, she would absolutely send it, and then for the next one year every conversation will have that inside it"
+              },
+              {
+                "exp": 2,
+                "line": "L41",
+                "quote": "I called my coursemate Kemi... and I did the referral myself, and I took my whole allowance from the placement"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In her career, she will avoid asking mentors or superiors for help/favors even when it would be faster, preferring to solve problems herself first and disclose only after resolution.",
+            "exp": 2
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "She believes financial support always comes with unspoken, permanent obligations that must be managed carefully.",
+            "explanation": "She states outright that the conditions of Aunty Funmi's support were 'never written down but everybody knows them,' and describes a self-conscious recalibration of her own behavior ('you adjust your walking') to avoid disturbing the relationship. This is an operating assumption about how support and debt work, not a one-off observation.",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L24",
+                "quote": "The conditions were never written down but everybody knows them."
+              },
+              {
+                "exp": 2,
+                "line": "L57",
+                "quote": "when somebody is holding you up, you start to walk in a way that doesn't disturb their hand"
+              },
+              {
+                "exp": 2,
+                "line": "L60",
+                "quote": "after some years you don't even remember how you used to walk before"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In future relationships (romantic, professional, mentorship), she will feel unusual anxiety around accepting favors or gifts, often over-compensating with compliance or gratitude to preempt any sense of debt.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker states this account is about becoming a nurse, in 2019 at age 17-18, after JAMB."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Speaker's grandmother died; a nurse at the general hospital in Ijebu had been kind to her."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker scored 268 in JAMB; describes post-UTME score as 'okay but not okay-okay'; did not get admission to medicine."
+            },
+            {
+              "line": "L10",
+              "what_happened": "People asked whether speaker's father knew someone, and cited a classmate whose father was a lecturer and got in with a lower score."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker states father 'could barely' (sentence trails off)."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker states there was no connection ('somebody to know')."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Options under consideration: change of course, wait one year and rewrite JAMB, or attend a private university costing about three million naira a year."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker's mother wanted her to rewrite the exam."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Aunty Funmi wanted speaker to study pharmacy."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Speaker's father did not state a preference directly but had told his friends he wanted medicine."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Speaker was walking from her aunty's shop in Ketu, stopped under a shelter at Ojota when rain started."
+            },
+            {
+              "line": "L23",
+              "what_happened": "A woman was selling gala and La Casera under a nylon cover on her tray during the rain, making change with wet hands."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker's slippers were in water while watching the woman."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker said 'nursing' at that moment."
+            },
+            {
+              "line": "L33-L37",
+              "what_happened": "Speaker lists reasons constructed afterward: nursing is 4-5 years not 7; nursing allows travel; nursing has defined progression (programme, indexing, registration with Nursing and Midwifery Council, license with a number); there is a syllabus."
+            },
+            {
+              "line": "L39",
+              "what_happened": "Speaker received a handbook in first year showing four years of courses, clinical postings, and hours, and read it fully."
+            },
+            {
+              "line": "L40",
+              "what_happened": "Speaker's roommate laughed at her for reading the handbook."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker went to a cyber cafe at Ojota that same week and completed the change of course herself."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker paid for the change of course with her own money."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker did not tell her father before completing the change of course."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Speaker told her father after the admission list came out, showing him the printout."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Father responded, 'that one is good, they will always need nurses.'"
+            },
+            {
+              "line": "L48",
+              "what_happened": "Father asked if she was happy; she said yes."
+            },
+            {
+              "line": "L49-L50",
+              "what_happened": "Father never asked about the medicine option again, up to the time of this account."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L14",
+              "choice_made": "Change of course to nursing",
+              "alternatives_present_in_text": "Wait one year and rewrite JAMB for medicine; attend a private university (~3 million naira/year)"
+            },
+            {
+              "line": "L25",
+              "choice_made": "Said 'nursing' while standing under the shelter",
+              "alternatives_present_in_text": "Pharmacy (per Aunty Funmi), rewriting for medicine (per mother), continuing to pursue medicine (implied by father telling friends)"
+            },
+            {
+              "line": "L42-L44",
+              "choice_made": "Completed the change of course application herself, using her own money, without telling her father first",
+              "alternatives_present_in_text": "Could have told father first or waited for family consensus"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L59",
+              "quote": "I'm a very analytical person"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L38",
+              "quote": "I actually liked that a lot"
+            },
+            {
+              "line": "L48",
+              "quote": "are you happy"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "okay-okay / not okay",
+              "lines": [
+                "L9"
+              ]
+            },
+            {
+              "phrase": "he had already told his friends",
+              "lines": [
+                "L18",
+                "L19"
+              ]
+            },
+            {
+              "phrase": "Ojota",
+              "lines": [
+                "L1 (implied by title)",
+                "L20",
+                "L42"
+              ]
+            },
+            {
+              "phrase": "yes sir",
+              "lines": [
+                "L46",
+                "L48"
+              ]
+            },
+            {
+              "phrase": "reasoning / reasoned",
+              "lines": [
+                "L29",
+                "L30"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L11",
+              "quote": "My daddy — my daddy at that time, he could barely — you know.",
+              "note": "Sentence left incomplete, trailing off before finishing the thought about the father's circumstances."
+            },
+            {
+              "line": "L52",
+              "quote": "I don't even know what she has to do with it, honestly.",
+              "note": "Speaker states uncertainty about the significance of the woman and moves on without elaborating further."
+            },
+            {
+              "line": "L58",
+              "quote": "Which I don't tell people because it sounds mad.",
+              "note": "Speaker names this as something withheld from others, mentioned briefly before ending the account."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Grandmother",
+              "lines": [
+                "L4"
+              ],
+              "what_they_did": "Died; had been cared for by a kind nurse at the Ijebu general hospital."
+            },
+            {
+              "who": "Nurse at Ijebu general hospital",
+              "lines": [
+                "L4"
+              ],
+              "what_they_did": "Was kind to speaker's grandmother."
+            },
+            {
+              "who": "Classmates/people (unnamed)",
+              "lines": [
+                "L10"
+              ],
+              "what_they_did": "Asked if speaker's father knew someone in the school system; cited a classmate who got into medicine with a lower score via her lecturer father."
+            },
+            {
+              "who": "Speaker's mother (Mummy)",
+              "lines": [
+                "L16"
+              ],
+              "what_they_did": "Wanted speaker to rewrite the exam."
+            },
+            {
+              "who": "Aunty Funmi",
+              "lines": [
+                "L17"
+              ],
+              "what_they_did": "Wanted speaker to study pharmacy."
+            },
+            {
+              "who": "Speaker's father (Daddy)",
+              "lines": [
+                "L18",
+                "L19",
+                "L45",
+                "L47",
+                "L48",
+                "L49",
+                "L50"
+              ],
+              "what_they_did": "Did not state preference directly but had told friends he wanted medicine for her; upon seeing admission printout, said 'nursing,' then 'that one is good, they will always need nurses'; asked if she was happy; never again asked about the medicine option."
+            },
+            {
+              "who": "Woman selling gala and La Casera",
+              "lines": [
+                "L23"
+              ],
+              "what_they_did": "Sold goods under a nylon cover during heavy rain, making change with wet hands."
+            },
+            {
+              "who": "Speaker's roommate",
+              "lines": [
+                "L40"
+              ],
+              "what_they_did": "Laughed at speaker for reading the nursing handbook like a novel."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She trusts a sudden, unreasoned bodily certainty more than deliberation, then reverse-engineers logic to justify it to others.",
+              "explanation": "She explicitly says the decision came with 'no reasoning' and 'it was like somebody came and put it in my hand,' then built the reasons afterward. She admits this is how most of her big decisions happen but hides it because 'it sounds mad,' presenting herself instead as analytical.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L29-L31",
+                  "quote": "I didn't reason it. I want to be clear, there was no reasoning. It was like somebody came and put it in my hand."
+                },
+                {
+                  "exp": 3,
+                  "line": "L56-L59",
+                  "quote": "It was just the moment my body decided something and then my mouth caught up later... I tell them I'm a very analytical person."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In career or relationship decisions, she will describe a sudden 'knowing' that precedes any pro/con list, and will downplay or conceal that origin story when explaining the decision to colleagues or partners."
+            },
+            {
+              "category": "core_values",
+              "headline": "She values self-determined, legible paths over paths that depend on someone else's favor or connections.",
+              "explanation": "Faced with a system where classmates got into medicine via their fathers' influence and she had 'no somebody to know,' she chose a field whose progression is written down, licensed, and indexed — 'nobody can come and say ah your uncle knows so-and-so.' This preference cost her the higher-status path (medicine) and her father's stated wish.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L10",
+                  "quote": "does your daddy know somebody, is there anybody in the school, my classmate's father was a lecturer somewhere and she got in with less than me"
+                },
+                {
+                  "exp": 3,
+                  "line": "L35-L37",
+                  "quote": "you register with the Nursing and Midwifery Council, you have a licence with a number... Nobody can come and say ah your uncle knows so-and-so"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her career, she will gravitate toward roles and systems with transparent, merit-based advancement (certifications, exams, clear ladders) and feel distrust or discomfort in environments driven by informal networking or patronage."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She commits to major decisions alone and in secret before informing the family member whose approval matters most.",
+              "explanation": "She completed the change of course herself, with her own money, without telling her father, only revealing it after the admission list came out as a fait accompli. Combined with her habit of acting on unreasoned certainty (L25) before building justifications, this suggests a pattern of unilateral action followed by after-the-fact disclosure when stakes involve others' expectations.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L42-L44",
+                  "quote": "I went to the cyber cafe at Ojota, that same week, and did the change of course myself. I paid with my own money. I didn't tell my daddy."
+                },
+                {
+                  "exp": 3,
+                  "line": "L45",
+                  "quote": "I told him after, when the admission list came out, I brought the printout and I said Daddy, see, I got admission"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future high-stakes decisions involving people she doesn't want to disappoint (partner, manager), she will likely act first and disclose only once the outcome is irreversible, worth checking whether this is protective or avoidant."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes she has to protect others (especially her father) from the disappointment of her real choices by curating the story she tells.",
+              "explanation": "She maintains a polished interview narrative ('half of that is true') and never corrected her father's assumption about medicine even after admission, noting he 'never asked me again' about it. This suggests an internalized rule that preserving others' comfort matters more than full disclosure.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L2-L3",
+                  "quote": "At interviews I say, ah, I have always wanted to care for people... Half of that is true."
+                },
+                {
+                  "exp": 3,
+                  "line": "L49-L50",
+                  "quote": "He never asked me again. Till today he has never asked me about the medicine thing."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In close relationships, she will offer a smoothed-over, socially acceptable version of her reasoning rather than the messier truth, especially when the truth might unsettle someone she cares about."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She trusts a sudden, unreasoned bodily certainty more than deliberation, then reverse-engineers logic to justify it to others — and hides this from her professional self-image.",
+              "explanation": "She explicitly says the decision came with 'no reasoning' and 'it was like somebody came and put it in my hand,' then built the reasons afterward. She admits this is how most of her big decisions happen but hides it because 'it sounds mad,' presenting herself instead as analytical.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L29-L31",
+                  "quote": "I didn't reason it. I want to be clear, there was no reasoning. It was like somebody came and put it in my hand."
+                },
+                {
+                  "exp": 3,
+                  "line": "L56-L59",
+                  "quote": "It was just the moment my body decided something and then my mouth caught up later... I tell them I'm a very analytical person."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In career or relationship decisions, she will describe a sudden 'knowing' that precedes any pro/con list, and will downplay or conceal that origin story when explaining the decision to colleagues or partners.",
+              "exp": 3
+            },
+            {
+              "category": "core_values",
+              "headline": "She values self-determined, legible paths over paths that depend on someone else's favor or connections.",
+              "explanation": "Faced with a system where classmates got into medicine via their fathers' influence and she had 'no somebody to know,' she chose a field whose progression is written down, licensed, and indexed — 'nobody can come and say ah your uncle knows so-and-so.' This preference cost her the higher-status path (medicine) and her father's stated wish.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L10",
+                  "quote": "does your daddy know somebody, is there anybody in the school, my classmate's father was a lecturer somewhere and she got in with less than me"
+                },
+                {
+                  "exp": 3,
+                  "line": "L35-L37",
+                  "quote": "you register with the Nursing and Midwifery Council, you have a licence with a number... Nobody can come and say ah your uncle knows so-and-so"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her career, she will gravitate toward roles and systems with transparent, merit-based advancement (certifications, exams, clear ladders) and feel distrust or discomfort in environments driven by informal networking or patronage.",
+              "exp": 3
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She commits to major decisions alone and in secret before informing the family member whose approval matters most.",
+              "explanation": "She completed the change of course herself, with her own money, without telling her father, only revealing it after the admission list came out as a fait accompli. Combined with her habit of acting on unreasoned certainty before building justifications, this suggests a pattern of unilateral action followed by after-the-fact disclosure when stakes involve others' expectations.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L42-L44",
+                  "quote": "I went to the cyber cafe at Ojota, that same week, and did the change of course myself. I paid with my own money. I didn't tell my daddy."
+                },
+                {
+                  "exp": 3,
+                  "line": "L45",
+                  "quote": "I told him after, when the admission list came out, I brought the printout and I said Daddy, see, I got admission"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future high-stakes decisions involving people she doesn't want to disappoint (partner, manager), she will likely act first and disclose only once the outcome is irreversible, worth checking whether this is protective or avoidant.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She believes she has to protect others (especially her father) from the disappointment of her real choices by curating the story she tells.",
+              "reason": "restated",
+              "note": "She already states this directly ('half of that is true' about her curated interview story, and narrates the father not-asking as a deliberate omission) — the candidate just relabels her own explicit account as a 'belief' without adding an inference she hasn't already made herself."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "She trusts a sudden, unreasoned bodily certainty more than deliberation, then reverse-engineers logic to justify it to others — and hides this from her professional self-image.",
+            "explanation": "She explicitly says the decision came with 'no reasoning' and 'it was like somebody came and put it in my hand,' then built the reasons afterward. She admits this is how most of her big decisions happen but hides it because 'it sounds mad,' presenting herself instead as analytical.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L29-L31",
+                "quote": "I didn't reason it. I want to be clear, there was no reasoning. It was like somebody came and put it in my hand."
+              },
+              {
+                "exp": 3,
+                "line": "L56-L59",
+                "quote": "It was just the moment my body decided something and then my mouth caught up later... I tell them I'm a very analytical person."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In career or relationship decisions, she will describe a sudden 'knowing' that precedes any pro/con list, and will downplay or conceal that origin story when explaining the decision to colleagues or partners.",
+            "exp": 3
+          },
+          {
+            "category": "core_values",
+            "headline": "She values self-determined, legible paths over paths that depend on someone else's favor or connections.",
+            "explanation": "Faced with a system where classmates got into medicine via their fathers' influence and she had 'no somebody to know,' she chose a field whose progression is written down, licensed, and indexed — 'nobody can come and say ah your uncle knows so-and-so.' This preference cost her the higher-status path (medicine) and her father's stated wish.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L10",
+                "quote": "does your daddy know somebody, is there anybody in the school, my classmate's father was a lecturer somewhere and she got in with less than me"
+              },
+              {
+                "exp": 3,
+                "line": "L35-L37",
+                "quote": "you register with the Nursing and Midwifery Council, you have a licence with a number... Nobody can come and say ah your uncle knows so-and-so"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In her career, she will gravitate toward roles and systems with transparent, merit-based advancement (certifications, exams, clear ladders) and feel distrust or discomfort in environments driven by informal networking or patronage.",
+            "exp": 3
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She commits to major decisions alone and in secret before informing the family member whose approval matters most.",
+            "explanation": "She completed the change of course herself, with her own money, without telling her father, only revealing it after the admission list came out as a fait accompli. Combined with her habit of acting on unreasoned certainty before building justifications, this suggests a pattern of unilateral action followed by after-the-fact disclosure when stakes involve others' expectations.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L42-L44",
+                "quote": "I went to the cyber cafe at Ojota, that same week, and did the change of course myself. I paid with my own money. I didn't tell my daddy."
+              },
+              {
+                "exp": 3,
+                "line": "L45",
+                "quote": "I told him after, when the admission list came out, I brought the printout and I said Daddy, see, I got admission"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In future high-stakes decisions involving people she doesn't want to disappoint (partner, manager), she will likely act first and disclose only once the outcome is irreversible, worth checking whether this is protective or avoidant.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "Speaker worked nights on a medical ward during clinical placement because fewer students were on nights."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Patient in bed seven was named Mama Ronke."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Mama Ronke was 68, had a CVA with dense hemiplegia, was mostly aphasic, could say about three words, one of which was 'water.'"
+            },
+            {
+              "line": "L7",
+              "what_happened": "Her son and family brought her in, paid the deposit, and completed the investigations."
+            },
+            {
+              "line": "L10",
+              "what_happened": "There is no NHIS for most people; payment is cash; once the bill passed a certain point, the family stopped coming."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Nineteen days passed."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Nobody came to visit for nineteen days."
+            },
+            {
+              "line": "L21",
+              "what_happened": "Relatives of other patients buy drugs and diapers and pressure nurses; speaker states this pressure results in more attention."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Mama Ronke had no one advocating/pressuring on her behalf."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker performed mouth care on Mama Ronke."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker did this every night."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Mouth care involved using a swab and glycerine to clean the tongue and palate."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker turned Mama Ronke two-hourly with help from whoever was available."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker plaited Mama Ronke's hair one night because it was matting."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker talked to Mama Ronke, including about a pharmacology test."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Mama Ronke looked at the ceiling."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Sister Adaeze told the speaker, 'Temi, you're doing too much, this is not your patient alone, you have six others.'"
+            },
+            {
+              "line": "L35",
+              "what_happened": "Speaker responded, 'yes ma.'"
+            },
+            {
+              "line": "L36",
+              "what_happened": "Speaker did not stop the extra care."
+            },
+            {
+              "line": "L37",
+              "what_happened": "Mama Ronke died on a Thursday, about ten to five in the morning."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Speaker was present at the time of death."
+            },
+            {
+              "line": "L39",
+              "what_happened": "The breathing changed and then stopped; described as not dramatic."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Sister Adaeze guided the speaker through last offices."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Last offices procedure included washing the body, positioning it, packing with cotton wool, removing the cannula and catheter, identification, writing the tag, and recording the time on the chart."
+            },
+            {
+              "line": "L46",
+              "what_happened": "During the procedure, speaker's hands were steady and mind was clear; afterward went to the changing room and sat on the bench."
+            },
+            {
+              "line": "L50",
+              "what_happened": "Mama Ronke's small black comb is in the speaker's bag."
+            },
+            {
+              "line": "L52",
+              "what_happened": "The comb has been in the bag since last year."
+            },
+            {
+              "line": "L54",
+              "what_happened": "The son came on Friday."
+            },
+            {
+              "line": "L54",
+              "what_happened": "He was crying."
+            },
+            {
+              "line": "L55",
+              "what_happened": "Speaker took him to the office, gave him water, and told him she was comfortable."
+            },
+            {
+              "line": "L56",
+              "what_happened": "Son said, 'thank you nurse, God bless you.'"
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker said, 'it's okay sir.'"
+            },
+            {
+              "line": "L60",
+              "what_happened": "Speaker remembers the date the son last visited before that and the sound of his shoes."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L27",
+              "choice_made": "Plaited Mama Ronke's hair",
+              "alternatives_present_in_text": "Could have left the hair matting, as patient 'didn't know'"
+            },
+            {
+              "line": "L36",
+              "choice_made": "Continued the extra caregiving after being told she was doing too much",
+              "alternatives_present_in_text": "Could have reduced care to match Sister Adaeze's suggestion"
+            },
+            {
+              "line": "L55",
+              "choice_made": "Told the son she was comfortable",
+              "alternatives_present_in_text": "L58 indicates she wanted to say something else but didn't"
+            },
+            {
+              "line": "L58-59",
+              "choice_made": "Said 'it's okay sir' instead of what she wanted to say",
+              "alternatives_present_in_text": "L58: 'I wanted to say — I didn't say anything'"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L47",
+              "quote": "I was genuinely fine."
+            },
+            {
+              "line": "L48",
+              "quote": "I don't get attached, that's the thing about me, I think I'm actually quite hard in that way."
+            },
+            {
+              "line": "L49",
+              "quote": "I don't."
+            },
+            {
+              "line": "L61",
+              "quote": "I don't know why my head keeps those things."
+            },
+            {
+              "line": "L62",
+              "quote": "It's not useful."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L27",
+              "quote": "it was disturbing me"
+            },
+            {
+              "line": "L47",
+              "quote": "I was genuinely fine"
+            },
+            {
+              "line": "L54",
+              "quote": "he was crying"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "nineteen days / I know it was nineteen",
+              "lines": [
+                "L14",
+                "L15",
+                "L17"
+              ]
+            },
+            {
+              "phrase": "shoes",
+              "lines": [
+                "L7",
+                "L60"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L53",
+                "L61"
+              ]
+            },
+            {
+              "phrase": "it's okay sir",
+              "lines": [
+                "L57",
+                "L59"
+              ]
+            },
+            {
+              "phrase": "she was completely right",
+              "lines": [
+                "L33",
+                "L34"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L18",
+              "quote": "So.",
+              "note": "Single-word line moving past the nineteen-day absence without elaboration"
+            },
+            {
+              "line": "L40",
+              "quote": "okay, this is the thing I actually wanted to say",
+              "note": "Speaker flags a delayed arrival at the point after covering other material"
+            },
+            {
+              "line": "L53",
+              "quote": "I keep meaning to, I don't know, I don't know what you're supposed to do with it",
+              "note": "Speaker does not finish the thought about the comb's disposition"
+            },
+            {
+              "line": "L58-59",
+              "quote": "I wanted to say — I didn't say anything. ... I said it's okay sir.",
+              "note": "Speaker states an intended statement was not made, without specifying its content"
+            },
+            {
+              "line": "L63",
+              "quote": "Maybe it's from when I was small, I used to count things.",
+              "note": "Brief reference to childhood behavior, not elaborated"
+            },
+            {
+              "line": "L64-66",
+              "quote": "Anyway. That's it. That's bed seven.",
+              "note": "Closing lines end the account abruptly after the comb/son material"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Mama Ronke's son",
+              "lines": [
+                "L7",
+                "L54",
+                "L55",
+                "L56",
+                "L60"
+              ],
+              "what_they_did": "Brought her in, paid deposit, did investigations; stopped visiting for a period; returned on a Friday crying; thanked the speaker; his shoe sound and visit date were noted by speaker"
+            },
+            {
+              "who": "Sister Adaeze",
+              "lines": [
+                "L32",
+                "L41"
+              ],
+              "what_they_did": "Told speaker she was doing too much and had six other patients; later guided speaker through last offices procedure"
+            },
+            {
+              "who": "coursemates",
+              "lines": [
+                "L49"
+              ],
+              "what_they_did": "Cry after a death, according to speaker"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "Temi gives full care to patients regardless of whether anyone is advocating for them or watching.",
+              "explanation": "She kept doing nightly mouth care, two-hourly turning, and even plaited Mama Ronke's hair despite knowing the patient had no visitors pressuring staff and would not register the gesture. When directly told by a superior she was overdoing it, she said 'yes ma' and continued anyway, showing the value survived a real cost (time, energy, pushback from authority).",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L22",
+                  "quote": "Mama Ronke had nobody harassing for her."
+                },
+                {
+                  "exp": 4,
+                  "line": "L27",
+                  "quote": "I plaited her hair one night because it was matting and I couldn't — it was disturbing me."
+                },
+                {
+                  "exp": 4,
+                  "line": "L32-36",
+                  "quote": "Sister Adaeze said to me one night, she said Temi, you're doing too much... I said yes ma. I didn't stop."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future work settings, she will over-invest in the client/patient/colleague who has the least social capital or advocacy, even when told to ration her effort more evenly."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Temi believes that attention and care in institutional settings are earned through advocacy, not given by right.",
+              "explanation": "She states plainly that patients with people around 'get attended to better' and that 'harassment works,' framing this as an unshakeable fact of the system rather than something to be angry about. This belief seems to be what drives her to personally compensate — she becomes the advocate Mama Ronke doesn't have.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L19",
+                  "quote": "In that ward the reality is, the patients whose people are around get attended to better."
+                },
+                {
+                  "exp": 4,
+                  "line": "L20",
+                  "quote": "That's just true, anybody who tells you otherwise is lying."
+                },
+                {
+                  "exp": 4,
+                  "line": "L21",
+                  "quote": "The relatives buy the drugs, they buy the diapers, they harass the nurses, and harassment works."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will be drawn to roles or causes involving people who lack advocates (the unbefriended elderly, the unrepresented, the voiceless) and will resist systems that reward loud demands over quiet need."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Temi names herself as emotionally 'hard' and unattached in the same breath as describing behaviors that suggest deep, quiet attachment.",
+              "explanation": "She insists 'I don't get attached' and contrasts herself with crying coursemates, yet she plaited a dying woman's hair for herself, kept her comb for over a year without knowing why, and tracks the exact date and shoe-sound of a grieving son's visits. The self-description of hardness sits oddly against the specificity and duration of what she's retained — worth her checking which one is actually true.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L48",
+                  "quote": "I don't get attached, that's the thing about me, I think I'm actually quite hard in that way."
+                },
+                {
+                  "exp": 4,
+                  "line": "L50-53",
+                  "quote": "Her comb is in my bag. The small black one. It's been there since last year. I keep meaning to, I don't know, I don't know what you're supposed to do with it."
+                },
+                {
+                  "exp": 4,
+                  "line": "L60-61",
+                  "quote": "I remember what date he last came before that, and I remember what the shoes sounded like. I don't know why my head keeps those things."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her personal relationships, she will likely underreport her own emotional investment while unconsciously keeping objects, dates, or small rituals tied to people she claims not to be attached to."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Temi swallows what she actually wants to say to people in emotionally loaded moments, substituting a safer scripted line.",
+              "explanation": "With the grieving son she explicitly notes wanting to say something else and instead defaults to 'it's okay sir' — a phrase she repeats twice. Combined with the abrupt, unresolved endings on the comb and on her childhood counting habit, there's a pattern of stopping short of naming what she actually feels or means.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L58-59",
+                  "quote": "I wanted to say — I didn't say anything. ... I said it's okay sir."
+                },
+                {
+                  "exp": 4,
+                  "line": "L53",
+                  "quote": "I keep meaning to, I don't know, I don't know what you're supposed to do with it."
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "In close relationships or conflict, she will likely default to a safe, minimizing phrase in the moment and only later, or never, articulate what she actually wanted to say."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Temi performs precise, ordered, high-stakes physical tasks under emotional pressure with unusual steadiness.",
+              "explanation": "During last offices — a procedure with strict sequence and finality — her hands were 'completely steady' and mind 'completely clear,' a composure she doesn't attribute to detachment elsewhere in the account but that stands out as functioning at its best exactly when the stakes and emotion are highest. This is a capability, not just a value, since it's specifically about performing well under pressure rather than what she cares about.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L46",
+                  "quote": "my hands were completely steady and my mind was completely clear, and afterwards I went to the changing room and I sat on the bench and I was fine"
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "In future crisis or high-stakes moments at work, colleagues will seek her out specifically to execute the procedural, unglamorous tasks that require calm precision while others are falling apart."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "Temi gives full care to patients regardless of whether anyone is advocating for them or watching.",
+              "explanation": "She kept doing nightly mouth care, two-hourly turning, and even plaited Mama Ronke's hair despite knowing the patient had no visitors pressuring staff and would not register the gesture. When directly told by a superior she was overdoing it, she said 'yes ma' and continued anyway, showing the value survived a real cost (time, energy, pushback from authority).",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L22",
+                  "quote": "Mama Ronke had nobody harassing for her."
+                },
+                {
+                  "exp": 4,
+                  "line": "L27",
+                  "quote": "I plaited her hair one night because it was matting and I couldn't — it was disturbing me."
+                },
+                {
+                  "exp": 4,
+                  "line": "L32-36",
+                  "quote": "Sister Adaeze said to me one night, she said Temi, you're doing too much... I said yes ma. I didn't stop."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future work settings, she will over-invest in the client/patient/colleague who has the least social capital or advocacy, even when told to ration her effort more evenly.",
+              "exp": 4
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Temi names herself as emotionally 'hard' and unattached in the same breath as describing behaviors that suggest deep, quiet attachment.",
+              "explanation": "She insists 'I don't get attached' and contrasts herself with crying coursemates, yet she plaited a dying woman's hair for herself, kept her comb for over a year without knowing why, and tracks the exact date and shoe-sound of a grieving son's visits. The self-description of hardness sits oddly against the specificity and duration of what she's retained — worth her checking which one is actually true.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L48",
+                  "quote": "I don't get attached, that's the thing about me, I think I'm actually quite hard in that way."
+                },
+                {
+                  "exp": 4,
+                  "line": "L50-53",
+                  "quote": "Her comb is in my bag. The small black one. It's been there since last year. I keep meaning to, I don't know, I don't know what you're supposed to do with it."
+                },
+                {
+                  "exp": 4,
+                  "line": "L60-61",
+                  "quote": "I remember what date he last came before that, and I remember what the shoes sounded like. I don't know why my head keeps those things."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In her personal relationships, she will likely underreport her own emotional investment while unconsciously keeping objects, dates, or small rituals tied to people she claims not to be attached to.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Temi believes that attention and care in institutional settings are earned through advocacy, not given by right.",
+              "reason": "restated",
+              "note": "This is nearly verbatim what she says at L19-21 ('the patients whose people are around get attended to better... harassment works') — it's her stated observation about the system, not an inferred belief shaping her behavior."
+            },
+            {
+              "headline": "Temi swallows what she actually wants to say to people in emotionally loaded moments, substituting a safer scripted line.",
+              "reason": "ungrounded",
+              "note": "Only one clear instance (the son) is cited; the comb quote doesn't support 'swallowing what she wants to say' — it's about not knowing what to do with an object, a different phenomenon. Fails the two-instance bar for a pattern claim."
+            },
+            {
+              "headline": "Temi performs precise, ordered, high-stakes physical tasks under emotional pressure with unusual steadiness.",
+              "reason": "unfalsifiable",
+              "note": "Single occurrence, no comparison to how she handles other high-stakes tasks, and 'colleagues will seek her out' prediction is unsupported speculation — reads as flattering praise dressed as a genius claim rather than a demonstrated pattern of being sought out for this skill."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "Temi gives full care to patients regardless of whether anyone is advocating for them or watching.",
+            "explanation": "She kept doing nightly mouth care, two-hourly turning, and even plaited Mama Ronke's hair despite knowing the patient had no visitors pressuring staff and would not register the gesture. When directly told by a superior she was overdoing it, she said 'yes ma' and continued anyway, showing the value survived a real cost (time, energy, pushback from authority).",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L22",
+                "quote": "Mama Ronke had nobody harassing for her."
+              },
+              {
+                "exp": 4,
+                "line": "L27",
+                "quote": "I plaited her hair one night because it was matting and I couldn't — it was disturbing me."
+              },
+              {
+                "exp": 4,
+                "line": "L32-36",
+                "quote": "Sister Adaeze said to me one night, she said Temi, you're doing too much... I said yes ma. I didn't stop."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In future work settings, she will over-invest in the client/patient/colleague who has the least social capital or advocacy, even when told to ration her effort more evenly.",
+            "exp": 4
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Temi names herself as emotionally 'hard' and unattached in the same breath as describing behaviors that suggest deep, quiet attachment.",
+            "explanation": "She insists 'I don't get attached' and contrasts herself with crying coursemates, yet she plaited a dying woman's hair for herself, kept her comb for over a year without knowing why, and tracks the exact date and shoe-sound of a grieving son's visits. The self-description of hardness sits oddly against the specificity and duration of what she's retained — worth her checking which one is actually true.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L48",
+                "quote": "I don't get attached, that's the thing about me, I think I'm actually quite hard in that way."
+              },
+              {
+                "exp": 4,
+                "line": "L50-53",
+                "quote": "Her comb is in my bag. The small black one. It's been there since last year. I keep meaning to, I don't know, I don't know what you're supposed to do with it."
+              },
+              {
+                "exp": 4,
+                "line": "L60-61",
+                "quote": "I remember what date he last came before that, and I remember what the shoes sounded like. I don't know why my head keeps those things."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In her personal relationships, she will likely underreport her own emotional investment while unconsciously keeping objects, dates, or small rituals tied to people she claims not to be attached to.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "CGE is due in less than four months, followed by indexing, then licence, then internship"
+            },
+            {
+              "line": "L5",
+              "what_happened": "In February she wrote IELTS"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Nobody knows about the IELTS"
+            },
+            {
+              "line": "L7",
+              "what_happened": "Kemi knows because she drove her; speaker told Kemi she would \"end her\" if she opens her mouth"
+            },
+            {
+              "line": "L8",
+              "what_happened": "She told her mummy she was going to a workshop in Lekki"
+            },
+            {
+              "line": "L9",
+              "what_happened": "She paid for the test herself, using money kept from placement allowance, a health-talk gig for the estate association, and money from selling a phone"
+            },
+            {
+              "line": "L10",
+              "what_happened": "The test cost eighty-something thousand naira"
+            },
+            {
+              "line": "L11",
+              "what_happened": "She got 8.0 overall, 7.5 in writing"
+            },
+            {
+              "line": "L12",
+              "what_happened": "After getting the result she opened the NMC website and wrote out the whole process in her book"
+            },
+            {
+              "line": "L13",
+              "what_happened": "She lists the process steps: CBT, application, qualification verification, OSCE, visa, job offer, sponsorship; estimates cost at 2.5 to 4 million naira without an agent, depending on the dollar"
+            },
+            {
+              "line": "L14",
+              "what_happened": "She made three columns"
+            },
+            {
+              "line": "L15",
+              "what_happened": "Columns were labeled best case, medium, worst case"
+            },
+            {
+              "line": "L16",
+              "what_happened": "She added a column for pound fluctuation"
+            },
+            {
+              "line": "L17",
+              "what_happened": "She has not told anyone in her family"
+            },
+            {
+              "line": "L20",
+              "what_happened": "States her mummy would be happy; says half of Lagos wants their child in UK"
+            },
+            {
+              "line": "L21",
+              "what_happened": "States Aunty Funmi would probably pay for the CBT on the spot and tell her prayer group the same week"
+            },
+            {
+              "line": "L30",
+              "what_happened": "States she did the same thing (withholding until decided) with a prior change of course"
+            },
+            {
+              "line": "L35",
+              "what_happened": "Tayo is writing WAEC and wants to study engineering; siblings listed as Bisola and twins"
+            },
+            {
+              "line": "L36",
+              "what_happened": "States there are five siblings total"
+            },
+            {
+              "line": "L37",
+              "what_happened": "Her father does brokering, connecting people to container deals"
+            },
+            {
+              "line": "L38",
+              "what_happened": "States sometimes nothing comes for two months"
+            },
+            {
+              "line": "L39",
+              "what_happened": "States her mummy's frozen food business is okay but not enough for school fees"
+            },
+            {
+              "line": "L40",
+              "what_happened": "She calculated that on a band 5 UK starting salary, after tax and rent, she could send six to seven hundred pounds a month; she has been looking at rooms in the Midlands, not London"
+            },
+            {
+              "line": "L41",
+              "what_happened": "States this amount would cover Tayo completely and start a fund for Bisola"
+            },
+            {
+              "line": "L49",
+              "what_happened": "States that some days reading the NMC page she feels calm because it's broken into steps"
+            },
+            {
+              "line": "L50",
+              "what_happened": "States other days she thinks about who will be home when her father's BP episode happens"
+            },
+            {
+              "line": "L58",
+              "what_happened": "States she needs to go study the renal system"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L8",
+              "choice_made": "Told her mother she was going to a workshop in Lekki",
+              "alternatives_present_in_text": "Could have told her mother about the IELTS test"
+            },
+            {
+              "line": "L9",
+              "choice_made": "Paid for the test using saved allowance, gig money, and proceeds from selling a phone",
+              "alternatives_present_in_text": "None specified"
+            },
+            {
+              "line": "L17",
+              "choice_made": "Has not told any family member",
+              "alternatives_present_in_text": "L27-L29: plans to tell after CBT pass or after getting an offer"
+            },
+            {
+              "line": "L27",
+              "choice_made": "Decided she will speak about it only when she has the CBT pass in hand",
+              "alternatives_present_in_text": "L28: 'Maybe when I have the offer'"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L56",
+              "quote": "I'm not even a person who thinks about myself like this"
+            },
+            {
+              "line": "L56",
+              "quote": "my friends will tell you I don't like all this deep-deep conversation"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L11",
+              "quote": "which annoyed me"
+            },
+            {
+              "line": "L49",
+              "quote": "I'm calm"
+            },
+            {
+              "line": "L55",
+              "quote": "I feel like I've been talking rubbish"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "I can't",
+              "lines": [
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "phrase": "step",
+              "lines": [
+                "L49"
+              ]
+            },
+            {
+              "phrase": "Anyway",
+              "lines": [
+                "L4",
+                "L33",
+                "L54"
+              ]
+            },
+            {
+              "phrase": "that's the",
+              "lines": [
+                "L42",
+                "L43"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L11",
+              "quote": "which annoyed me because writing is the one I actually — anyway",
+              "note": "sentence cut off mid-thought with 'anyway,' topic changed"
+            },
+            {
+              "line": "L31",
+              "quote": "Wow. L32: I never thought about that. L33: Anyway.",
+              "note": "speaker notices a pattern (change of course parallel), then immediately says 'Anyway' and moves on without further comment"
+            },
+            {
+              "line": "L54",
+              "quote": "Anyway that's — is that enough?",
+              "note": "speaker abruptly asks if she's said enough, cutting off further reflection"
+            },
+            {
+              "line": "L55",
+              "quote": "I feel like I've been talking rubbish",
+              "note": "speaker dismisses what she just said"
+            },
+            {
+              "line": "L57",
+              "quote": "Let me go and read, jare.",
+              "note": "ends the account abruptly to return to studying"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Kemi",
+              "lines": [
+                "L7"
+              ],
+              "what_they_did": "Drove her to the IELTS test and knows about it; was told to keep silent"
+            },
+            {
+              "who": "Mummy",
+              "lines": [
+                "L8",
+                "L20",
+                "L29",
+                "L47"
+              ],
+              "what_they_did": "Was told a false reason (workshop in Lekki) for the trip; speaker predicts she would be happy about UK plans; speaker imagines telling her once it's already done; speaker mentions hearing her from the kitchen"
+            },
+            {
+              "who": "Aunty Funmi",
+              "lines": [
+                "L21"
+              ],
+              "what_they_did": "Speaker predicts she would pay for the CBT immediately and tell her prayer group"
+            },
+            {
+              "who": "Tayo",
+              "lines": [
+                "L34",
+                "L35",
+                "L41"
+              ],
+              "what_they_did": "Is writing WAEC, wants to study engineering; is the focus of speaker's financial planning"
+            },
+            {
+              "who": "Bisola",
+              "lines": [
+                "L35",
+                "L41"
+              ],
+              "what_they_did": "Named as a sibling; included in future financial planning"
+            },
+            {
+              "who": "the twins",
+              "lines": [
+                "L35"
+              ],
+              "what_they_did": "Named as siblings"
+            },
+            {
+              "who": "Daddy",
+              "lines": [
+                "L37",
+                "L50"
+              ],
+              "what_they_did": "Does brokering/container deals with inconsistent income; has BP (blood pressure) episodes"
+            },
+            {
+              "who": "people (generalized)",
+              "lines": [
+                "L18",
+                "L44"
+              ],
+              "what_they_did": "Speaker anticipates others will think she is ashamed or scared, or that she wants to 'japa' for a better life"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "She will absorb financial risk and secrecy alone rather than let her family share the emotional weight of a possible failure.",
+              "explanation": "She self-funded the IELTS by selling a phone and saving gig money, and chose to withhold the plan even though she knows her mother and aunt would support it. She explicitly frames this as protecting them from collective disappointment, not personal shame.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L9",
+                  "quote": "I paid for it myself — I have been keeping money from the allowance from placement and from when I did that health-talk gig"
+                },
+                {
+                  "exp": 5,
+                  "line": "L24",
+                  "quote": "the moment I say it, it becomes a thing that everybody is holding, and then if it doesn't work, I'm not the only one that it didn't work for"
+                },
+                {
+                  "exp": 5,
+                  "line": "L26",
+                  "quote": "Five people are disappointed instead of one"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a relationship or work setting, she will take on a difficult task quietly and only report progress once the outcome is secured, avoiding asking for support mid-process."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She turns overwhelming, uncertain multi-step processes into structured, navigable systems that let her stay calm under pressure.",
+              "explanation": "Faced with a genuinely daunting bureaucratic and financial path (NMC registration, visa, sponsorship), she independently built a full step-by-step map and a three-scenario financial model with a currency-risk column. She names the calm this produces, showing it energizes rather than drains her.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L12",
+                  "quote": "she sat down and I opened the NMC website and I wrote out the whole thing in my book"
+                },
+                {
+                  "exp": 5,
+                  "line": "L14",
+                  "quote": "I did three columns"
+                },
+                {
+                  "exp": 5,
+                  "line": "L16",
+                  "quote": "I even put a column for if the pound moves"
+                },
+                {
+                  "exp": 5,
+                  "line": "L49",
+                  "quote": "I'm reading the NMC page and I'm calm, everything is steps, do step one do step two"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her nursing career, she will be the one colleagues ask to build the plan when a process feels chaotic or bureaucratically overwhelming."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes her worth and stability are tied to being the sibling who provides, not the one who needs.",
+              "explanation": "Her entire calculation for going to the UK is built around covering Tayo's fees and starting a fund for Bisola, framed as 'the actual reason' over any personal desire to leave. This suggests an internalized role as financial anchor for five siblings and a fragile household income.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L41",
+                  "quote": "Which handles Tayo completely and starts a pool for Bisola"
+                },
+                {
+                  "exp": 5,
+                  "line": "L43",
+                  "quote": "That's the actual reason"
+                },
+                {
+                  "exp": 5,
+                  "line": "L50",
+                  "quote": "if I leave, who is the one that will be at the house when my daddy's BP does that thing again"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future relationships or friendships, she will default to being the one who gives practical support and struggle to ask others for help with her own needs."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She appears to make major life decisions in near-total secrecy, only revealing them once irreversible, and hasn't examined why.",
+              "explanation": "She names doing the same thing with a prior 'change of course' decision, then immediately says 'Anyway' and moves past the realization without exploring it. Worth checking whether this secrecy is really about protecting others, as she claims, or also about control/fear of being talked out of it.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L30",
+                  "quote": "That's how I did the change of course thing too, actually"
+                },
+                {
+                  "exp": 5,
+                  "line": "L32",
+                  "quote": "I never thought about that"
+                },
+                {
+                  "exp": 5,
+                  "line": "L33",
+                  "quote": "Anyway"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will make another significant decision (career, relationship, move) unilaterally and disclose it to family/friends only after it is finalized."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "She absorbs financial risk and secrecy alone rather than let her family share the emotional weight of a possible failure.",
+              "explanation": "She self-funded the IELTS by selling a phone and saving gig money, and chose to withhold the plan even though she knows her mother and aunt would support it. She explicitly frames this as protecting them from collective disappointment, not personal shame.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L9",
+                  "quote": "I paid for it myself — I have been keeping money from the allowance from placement and from when I did that health-talk gig"
+                },
+                {
+                  "exp": 5,
+                  "line": "L24",
+                  "quote": "the moment I say it, it becomes a thing that everybody is holding, and then if it doesn't work, I'm not the only one that it didn't work for"
+                },
+                {
+                  "exp": 5,
+                  "line": "L26",
+                  "quote": "Five people are disappointed instead of one"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a relationship or work setting, she will take on a difficult task quietly and only report progress once the outcome is secured, avoiding asking for support mid-process.",
+              "exp": 5
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She turns overwhelming, uncertain multi-step processes into structured, navigable systems that let her stay calm under pressure.",
+              "explanation": "Faced with a genuinely daunting bureaucratic and financial path (NMC registration, visa, sponsorship), she independently built a full step-by-step map and a three-scenario financial model with a currency-risk column. She names the calm this produces, showing it energizes rather than drains her.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L12",
+                  "quote": "she sat down and I opened the NMC website and I wrote out the whole thing in my book"
+                },
+                {
+                  "exp": 5,
+                  "line": "L14",
+                  "quote": "I did three columns"
+                },
+                {
+                  "exp": 5,
+                  "line": "L16",
+                  "quote": "I even put a column for if the pound moves"
+                },
+                {
+                  "exp": 5,
+                  "line": "L49",
+                  "quote": "I'm reading the NMC page and I'm calm, everything is steps, do step one do step two"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her nursing career, she will be the one colleagues ask to build the plan when a process feels chaotic or bureaucratically overwhelming.",
+              "exp": 5
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She makes major life decisions in near-total secrecy, only revealing them once irreversible, and hasn't examined why.",
+              "explanation": "She names doing the same thing with a prior 'change of course' decision, then immediately says 'Anyway' and moves past the realization without exploring it. Worth checking whether this secrecy is really about protecting others, as she claims, or also about control/fear of being talked out of it.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L30",
+                  "quote": "That's how I did the change of course thing too, actually"
+                },
+                {
+                  "exp": 5,
+                  "line": "L32",
+                  "quote": "I never thought about that"
+                },
+                {
+                  "exp": 5,
+                  "line": "L33",
+                  "quote": "Anyway"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will make another significant decision (career, relationship, move) unilaterally and disclose it to family/friends only after it is finalized.",
+              "exp": 5
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She believes her worth and stability are tied to being the sibling who provides, not the one who needs.",
+              "reason": "restated",
+              "note": "She explicitly says 'that's the actual reason' — the belief is stated by her almost verbatim, not inferred; the 'worth tied to providing' framing is therapy vocabulary layered on top without added behavioural specificity beyond what she already said."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "She absorbs financial risk and secrecy alone rather than let her family share the emotional weight of a possible failure.",
+            "explanation": "She self-funded the IELTS by selling a phone and saving gig money, and chose to withhold the plan even though she knows her mother and aunt would support it. She explicitly frames this as protecting them from collective disappointment, not personal shame.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L9",
+                "quote": "I paid for it myself — I have been keeping money from the allowance from placement and from when I did that health-talk gig"
+              },
+              {
+                "exp": 5,
+                "line": "L24",
+                "quote": "the moment I say it, it becomes a thing that everybody is holding, and then if it doesn't work, I'm not the only one that it didn't work for"
+              },
+              {
+                "exp": 5,
+                "line": "L26",
+                "quote": "Five people are disappointed instead of one"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In a relationship or work setting, she will take on a difficult task quietly and only report progress once the outcome is secured, avoiding asking for support mid-process.",
+            "exp": 5
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "She turns overwhelming, uncertain multi-step processes into structured, navigable systems that let her stay calm under pressure.",
+            "explanation": "Faced with a genuinely daunting bureaucratic and financial path (NMC registration, visa, sponsorship), she independently built a full step-by-step map and a three-scenario financial model with a currency-risk column. She names the calm this produces, showing it energizes rather than drains her.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L12",
+                "quote": "she sat down and I opened the NMC website and I wrote out the whole thing in my book"
+              },
+              {
+                "exp": 5,
+                "line": "L14",
+                "quote": "I did three columns"
+              },
+              {
+                "exp": 5,
+                "line": "L16",
+                "quote": "I even put a column for if the pound moves"
+              },
+              {
+                "exp": 5,
+                "line": "L49",
+                "quote": "I'm reading the NMC page and I'm calm, everything is steps, do step one do step two"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In her nursing career, she will be the one colleagues ask to build the plan when a process feels chaotic or bureaucratically overwhelming.",
+            "exp": 5
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She makes major life decisions in near-total secrecy, only revealing them once irreversible, and hasn't examined why.",
+            "explanation": "She names doing the same thing with a prior 'change of course' decision, then immediately says 'Anyway' and moves past the realization without exploring it. Worth checking whether this secrecy is really about protecting others, as she claims, or also about control/fear of being talked out of it.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L30",
+                "quote": "That's how I did the change of course thing too, actually"
+              },
+              {
+                "exp": 5,
+                "line": "L32",
+                "quote": "I never thought about that"
+              },
+              {
+                "exp": 5,
+                "line": "L33",
+                "quote": "Anyway"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "She will make another significant decision (career, relationship, move) unilaterally and disclose it to family/friends only after it is finalized.",
+            "exp": 5
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "Temi believes disclosure of a crisis, before it is resolved, multiplies suffering by forcing others to carry it — so she withholds first and reveals only finished outcomes.",
+          "explanation": "At fourteen she lied to Tayo and Bisola about the real state of the business, hiding it inside a game rather than telling them the truth (E1). A decade later she names the identical logic explicitly for IELTS/UK plans — 'the moment I say it, it becomes a thing that everybody is holding... Five people are disappointed instead of one' (E5) — and even connects it herself to the change-of-course secrecy in E3. The belief is consistent across three separate life stages and she names it directly in the most recent experience, making this the clearest self-aware articulation of a lifelong operating rule.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "So I told them we were doing a competition."
+            },
+            {
+              "exp": 5,
+              "quote": "the moment I say it, it becomes a thing that everybody is holding, and then if it doesn't work, I'm not the only one that it didn't work for"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a future romantic partnership or job change, she will make the decision and quietly execute the first risky steps alone, telling her partner only once the outcome is secured or failure is no longer possible to reverse."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Every major turning point Temi describes as calm, embodied, or 'quiet' was actually preceded or accompanied by covert, unilateral action she kept hidden from the person whose reaction she feared most.",
+          "explanation": "In E1 she says the inventory 'made something in my chest go down' while simultaneously constructing a cover story for her siblings; in E3 the nursing decision is framed as her mind going 'quiet' and her body deciding, yet she then secretly executed the paperwork and hid it from her father until it was irreversible; in E5 she again frames her calm ('everything is steps') around a secret IELTS attempt hidden from her whole family. The pattern is that her felt calm is produced by control she has already unilaterally seized, not by absence of conflict — worth her checking whether 'calm' for her is actually synonymous with 'already decided and hidden.'",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "my mind just — it went quiet... I went to the cyber cafe at Ojota, that same week, and did the change of course myself... I didn't tell my daddy."
+            },
+            {
+              "exp": 5,
+              "quote": "I'm reading the NMC page and I'm calm, everything is steps, do step one do step two"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "She will describe feeling most peaceful/settled at work in moments right after she has quietly locked in a decision or fix that colleagues don't yet know about, and report anxiety spikes specifically around the act of announcing something, not the act of deciding it."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "Temi believes help that comes from someone with more power than her always carries an invisible bill, so she routes around the person best able to help when the stakes are highest.",
+          "explanation": "In E2 she explicitly refuses to call Aunty Funmi during her father's medical emergency, naming the debt logic outright ('every conversation will have that inside it'), and instead depletes her own allowance and finds an unconnected referral. In E5 the same avoidance appears with her mother and Aunty Funmi regarding the UK plan, where she predicts Aunty Funmi 'would probably pay for the CBT on the spot' yet chooses secrecy specifically to avoid that. The belief holds even when the powerful person is demonstrably willing and financially able, showing it is about the relational cost of accepting, not the money itself.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "she would send the money, yes, she would absolutely send it, and then for the next one year every conversation will have that inside it"
+            },
+            {
+              "exp": 5,
+              "quote": "Aunty Funmi would probably pay for the CBT on the spot, she'd be telling her prayer group the same week... It's just — I can't."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "At work, she will avoid asking a senior sponsor or manager for resources/backing even when they have explicitly offered it, preferring to solve the problem with fewer resources herself and report success afterward."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Temi's core genius — converting an overwhelming, high-stakes unknown into an ordered, steppable system — is the one thing she reaches for, unprompted, in every crisis of her life, from a food store at 14 to a visa pathway at 24.",
+          "explanation": "She built an unrequested rationed inventory system during her father's business collapse (E1), read the four-year nursing handbook 'like a novel' because 'when you can see the whole staircase, you can climb anything' (E3), and built a three-scenario financial model with a currency-risk column for UK migration (E5). In each case this system-building is what produces her sense of calm, and in each case no one asked her to do it — it is instinctive and self-rewarding.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I had an exercise book, one Olympic 40-leaves, and I ruled it. Item. Quantity. How many days it can carry us."
+            },
+            {
+              "exp": 5,
+              "quote": "I did three columns... I even put a column for if the pound moves."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "Colleagues and family will instinctively bring her their most chaotic, undefined problems (not just financial ones) because she is known as the person who can turn panic into a written plan within a day."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Temi insists she is unemotional or 'analytical' in the same breath as describing evidence of exactly the opposite — precise, dated, sensory memories of people who hurt or moved her.",
+          "explanation": "In E1 she says 'it's not that I'm holding anything' immediately before reciting the exact dates uncles did or didn't visit; in E3 she calls herself 'a very analytical person' immediately after describing an undeliberated, bodily decision; in E4 she says 'I don't get attached' while revealing she has kept a dead patient's comb for over a year and remembers the sound of a grieving son's shoes. The self-narrative of coldness/rationality is contradicted by the granularity and duration of what she retains in at least three separate experiences — this is a contradiction between stated self-image and demonstrated behavior, not yet examined by her.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "So it's not that I'm holding anything. But I know the dates. That's just how my head is."
+            },
+            {
+              "exp": 4,
+              "quote": "I don't get attached, that's the thing about me... Her comb is in my bag. The small black one. It's been there since last year."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "contradiction",
+          "would_predict": "She will describe herself to a partner or manager as low-maintenance or unbothered by a conflict, while privately being able to recall exact dates, words, and sensory details of that same conflict months or years later."
+        },
+        {
+          "category": "core_values",
+          "headline": "Temi consistently gives full, costly care to whoever has the least power or advocacy in the room — siblings without information, an unvisited dying patient, a family without connections — even when told or expected to ration it.",
+          "explanation": "She protected her younger siblings from the fear the adults couldn't shield them from (E1), and gave Mama Ronke — a patient with 'nobody harassing for her' — full nightly care against her supervisor's direct correction ('you're doing too much... I said yes ma. I didn't stop.') (E4). Both are costly (her time, energy, or the comfort of being formally right) and both target the person in the room with the least ability to demand it.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "my younger ones, Tayo and Bisola especially, they kept asking, are we going to move house, are we changing school, because they heard something"
+            },
+            {
+              "exp": 4,
+              "quote": "Mama Ronke had nobody harassing for her... I said yes ma. I didn't stop."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a team setting, she will quietly over-invest in the least-resourced or least-advocated-for client, patient, or junior colleague, even after being explicitly told to spread her attention more evenly."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "Temi believes she is the family's designated shock-absorber — the one who calculates what remains and stretches it — and this identity, formed at 14, now directly shapes a 24-year-old's decision about whether to leave the country.",
+          "explanation": "In E1, at fourteen, unprompted, she became the one counting the rice and calculating days remaining ('what is the actual quantity remaining, and how many days'). In E5, a decade later, her entire migration calculus is not personal ambition but engineered around exactly this same function for her siblings — 'the real calculation is Tayo... I can send maybe six, seven hundred pounds a month' — and she explicitly worries 'who will count what is remaining' if she leaves. The childhood role has become the adult's central life-decision framework, an unnamed thread connecting the earliest and latest experiences.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "That year taught me to look at a situation and ask, what is the actual quantity remaining, and how many days."
+            },
+            {
+              "exp": 5,
+              "quote": "if I leave, who is the one that will be at the house when my daddy's BP does that thing again. Who will count what is remaining."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "Even after achieving financial independence or living abroad, she will continue to build and maintain detailed contingency/support plans for her siblings' futures, resisting any family member's suggestion that she 'step back' from that role."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe telling someone about a crisis before it's resolved multiplies the suffering, so you withhold first and reveal only finished outcomes.",
+          "explanation": "At fourteen you lied to Tayo and Bisola about the real state of the business, hiding it inside a game rather than telling them the truth. A decade later you name the identical logic explicitly for your IELTS/UK plans — 'the moment I say it, it becomes a thing that everybody is holding... Five people are disappointed instead of one' — and you connect it yourself to the change-of-course secrecy. This belief shows up across three separate life stages, and you name it directly in the most recent one.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "So I told them we were doing a competition."
+            },
+            {
+              "exp": 5,
+              "quote": "the moment I say it, it becomes a thing that everybody is holding, and then if it doesn't work, I'm not the only one that it didn't work for"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "A pattern this consistent across three life stages, self-named at the last one, is hard to explain away; it would lower if you found a major decision where you told people early and it went fine, or raise further if the same avoidance shows up in a fourth, unrelated domain.",
+          "would_predict": "In a future romantic partnership or job change, you'll make the decision and quietly execute the first risky steps alone, telling the other person only once the outcome is secured or failure is no longer reversible."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Every turning point you describe as calm or 'quiet' was actually preceded by covert, unilateral action you hid from the person whose reaction you feared most.",
+          "explanation": "You say the inventory 'made something in my chest go down' while simultaneously building a cover story for your siblings; you frame the nursing decision as your mind going 'quiet' and your body deciding, yet you then secretly did the paperwork and hid it from your father until it was irreversible; you frame the IELTS decision around calm ('everything is steps') while hiding it from your whole family. The pattern suggests your felt calm is produced by control you've already unilaterally seized, not by absence of conflict — worth checking whether 'calm' for you actually means 'already decided and hidden.'",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "my mind just — it went quiet... I went to the cyber cafe at Ojota, that same week, and did the change of course myself... I didn't tell my daddy."
+            },
+            {
+              "exp": 5,
+              "quote": "I'm reading the NMC page and I'm calm, everything is steps, do step one do step two"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "This is an interpretation layered on top of a real recurrence; it would rise if you noticed the same calm-plus-hidden-action pattern in a moment with no secrecy at all, or fall if you can point to a calm moment that involved no concealment.",
+          "would_predict": "You'll describe feeling most settled at work right after quietly locking in a decision or fix that colleagues don't yet know about, and report anxiety specifically around the act of announcing something, not the act of deciding it."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe help from someone more powerful than you always carries an invisible bill, so you route around the person best able to help when the stakes are highest.",
+          "explanation": "During your father's medical emergency you explicitly refused to call Aunty Funmi, naming the debt logic outright ('every conversation will have that inside it'), and instead depleted your own allowance and found an unconnected referral. The same avoidance shows up again with the UK plan, where you predict Aunty Funmi 'would probably pay for the CBT on the spot' yet choose secrecy specifically to avoid that. The belief holds even when the powerful person is demonstrably willing and able, which suggests it's about the relational cost of accepting, not the money.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "she would send the money, yes, she would absolutely send it, and then for the next one year every conversation will have that inside it"
+            },
+            {
+              "exp": 5,
+              "quote": "Aunty Funmi would probably pay for the CBT on the spot, she'd be telling her prayer group the same week... It's just — I can't."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Two clear instances with the exact same reasoning stated aloud is strong; it would lower if you can recall a time you did accept help from someone more powerful without this cost calculation running.",
+          "would_predict": "At work, you'll avoid asking a senior sponsor or manager for resources or backing even when they've explicitly offered it, preferring to solve the problem with less and report success only after the fact."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Your core move — turning an overwhelming unknown into an ordered, steppable system — is the one thing you reach for, unprompted, in every crisis of your life, from a food store at 14 to a visa pathway at 24.",
+          "explanation": "You built an unrequested rationed inventory system during your father's business collapse, read the four-year nursing handbook 'like a novel' because 'when you can see the whole staircase, you can climb anything,' and built a three-scenario financial model with a currency-risk column for UK migration. In each case this system-building is what produces your sense of calm, and in each case no one asked you to do it.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I had an exercise book, one Olympic 40-leaves, and I ruled it. Item. Quantity. How many days it can carry us."
+            },
+            {
+              "exp": 5,
+              "quote": "I did three columns... I even put a column for if the pound moves."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Three unprompted instances across a decade is a strong recurrence; it would rise further if you noticed yourself doing this in a non-crisis, low-stakes context too, which would suggest it's not just a stress response.",
+          "would_predict": "Colleagues and family will bring you their most chaotic, undefined problems — not just financial ones — because you're known as the person who can turn panic into a written plan within a day."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You call yourself unemotional or 'analytical' in the same breath as describing precise, dated, sensory memories of people who hurt or moved you.",
+          "explanation": "You say 'it's not that I'm holding anything' immediately before reciting the exact dates uncles did or didn't visit; you call yourself 'a very analytical person' immediately after describing an undeliberated, bodily decision; you say 'I don't get attached' while revealing you've kept a dead patient's comb for over a year and remember the sound of a grieving son's shoes. The self-narrative of coldness or rationality is contradicted by the granularity and duration of what you retain in at least three separate instances.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "So it's not that I'm holding anything. But I know the dates. That's just how my head is."
+            },
+            {
+              "exp": 4,
+              "quote": "I don't get attached, that's the thing about me... Her comb is in my bag. The small black one. It's been there since last year."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "The contradiction is stated plainly by you in your own words three times, which is strong; it would lower if you can show that these details are just factual recall with no emotional weight attached, rather than evidence of holding on.",
+          "would_predict": "You'll describe yourself to a partner or manager as low-maintenance or unbothered by a conflict, while privately being able to recall exact dates, words, and sensory details of that same conflict months or years later."
+        },
+        {
+          "category": "core_values",
+          "headline": "You consistently give full, costly care to whoever has the least power or advocacy in the room, even when told or expected to ration it.",
+          "explanation": "You protected your younger siblings from fear the adults couldn't shield them from, and you gave Mama Ronke — a patient with 'nobody harassing for her' — full nightly care against your supervisor's direct correction ('you're doing too much... I said yes ma. I didn't stop.'). Both instances cost you something (time, energy, or the comfort of being formally right) and both target the person in the room with the least ability to demand it.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "my younger ones, Tayo and Bisola especially, they kept asking, are we going to move house, are we changing school, because they heard something"
+            },
+            {
+              "exp": 4,
+              "quote": "Mama Ronke had nobody harassing for her... I said yes ma. I didn't stop."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Two clear instances with explicit costliness stated by you; it would rise with a third example in a non-caregiving context (e.g. at work with a junior colleague), or lower if you can identify a time you rationed care exactly as instructed.",
+          "would_predict": "In a team setting, you'll quietly over-invest in the least-resourced or least-advocated-for client, patient, or junior colleague, even after being explicitly told to spread your attention more evenly."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You see yourself as the family's designated shock-absorber — the one who calculates what remains and stretches it — and this identity, formed at 14, now directly shapes your decision about whether to leave the country.",
+          "explanation": "At fourteen, unprompted, you became the one counting the rice and calculating days remaining ('what is the actual quantity remaining, and how many days'). A decade later, your entire migration calculus is not personal ambition but engineered around this same function for your siblings — 'the real calculation is Tayo... I can send maybe six, seven hundred pounds a month' — and you explicitly worry 'who will count what is remaining' if you leave. The childhood role has become the adult's central life-decision framework.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "That year taught me to look at a situation and ask, what is the actual quantity remaining, and how many days."
+            },
+            {
+              "exp": 5,
+              "quote": "if I leave, who is the one that will be at the house when my daddy's BP does that thing again. Who will count what is remaining."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "The near-identical language across a decade, unprompted in both cases, makes this hard to dismiss as coincidence; it would lower if you ultimately choose to leave and hand the role to someone else without difficulty, and rise if you resist doing so even after you're financially independent.",
+          "would_predict": "Even after achieving financial independence or living abroad, you'll continue building and maintaining detailed contingency plans for your siblings' futures, resisting any suggestion from family that you 'step back' from that role."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 2.3912,
+  "latency_ms": 179021,
+  "persona": "p05_lagos",
+  "n_experiences": 5,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T16:01:58.143164+00:00"
+}

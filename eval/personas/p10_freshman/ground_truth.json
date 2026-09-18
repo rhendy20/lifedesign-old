@@ -1,0 +1,94 @@
+{
+  "known_self": [
+    "He is the first in his family to go to college and takes the scholarship's GPA requirement very seriously",
+    "He is the family's translator and handles all official/medical logistics for his parents",
+    "His sister's lupus has been a constant since he was eleven and organizes a lot of his attention",
+    "He is uncomfortable being complimented and changes the subject when praised",
+    "He prefers concrete, practical work and chose supply chain over anything people call 'inspiring'",
+    "He'd rather be given a task than be asked how he's doing",
+    "He's aware he calls home every Sunday and asks about his sister's labs before saying hello",
+    "He thinks his own stories are 'not dramatic' and apologizes for them being small"
+  ],
+  "latent_self": [
+    {
+      "claim": "He systematically edits information downward for the people he loves and for institutions — telling technically-true partial truths to keep others calm, and he experiences this as a service rather than a lie",
+      "planted_in": [
+        1,
+        2,
+        4
+      ],
+      "how_it_shows": "Tells the scholarship panel a 'clean' version omitting the current flare; translates 'this can get away from us' as 'just for observation'; says 'buena vista' about a parking garage; admits saying 'ya se lo dije' when he hadn't relayed his mother's words"
+    },
+    {
+      "claim": "His nervous system only settles when his hands are doing physical work for someone else; stillness and being cared for produce acute distress he misreads as guilt or boredom",
+      "planted_in": [
+        1,
+        3,
+        4
+      ],
+      "how_it_shows": "Stacks chairs after the interview and notes his whole body went calm versus pressing his hands on his legs during it; two years of collating and laminating in Mr. Bagwell's room called 'the calmest I've been'; carries a stranger's futon while his own eight-minute unload leaves him standing; unpacks immediately 'because I didn't want to sit there'; fixes a blanket that is already fine"
+    },
+    {
+      "claim": "He treats every good thing he receives as provisional and immediately audits it for the grounds on which it could be revoked",
+      "planted_in": [
+        1,
+        4
+      ],
+      "how_it_shows": "Brings twelve cash dollars despite guaranteed validation; first thought on winning is that they'll take it back, looks up the income cutoff at 11pm and saves it; keeps eighty of his father's hundred dollars untouched in the tub"
+    },
+    {
+      "claim": "Warmth that is spoken aloud repels him; warmth expressed as an unremarked task, an object, or silence is what he can actually receive — and he can only recognize love in that indirect form",
+      "planted_in": [
+        1,
+        3,
+        4
+      ],
+      "how_it_shows": "'Itchy' at the college readiness lady's praise but treasures 'Alright' and a folded printout; reads Bagwell's never asking as care; reads his father's complaint about countertop joints and a hand on the neck as pride; deflects the panelist's compliment into bus schedules"
+    },
+    {
+      "claim": "He slips into second person ('you kind of just become the person who knows where stuff is') or into inventory-listing of logistics precisely at the moments where feeling is expected, and can describe rooms in detail while having no language for his own state",
+      "planted_in": [
+        1,
+        2,
+        4
+      ],
+      "how_it_shows": "Remembers carpet swirls, $12 parking, $1.75 Dr Pepper, blue folder vs red folder, the 65 bus, the exact unload window; says 'I don't know' whenever asked why; the ER emotional beat is delivered as vending machine and blanket logistics"
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "His sister's illness made him want to go into medicine or healthcare",
+      "why_false": "He explicitly rejects it and chose supply chain; the illness made him a logistician, not a caregiver-by-vocation"
+    },
+    {
+      "claim": "He resents his sister or feels overshadowed by her needs",
+      "why_false": "There is no resentment toward her anywhere; his distress is about his own uselessness when she doesn't need anything, and he's awkward with her when she's well"
+    },
+    {
+      "claim": "He is homesick and at risk of dropping out or transferring home",
+      "why_false": "His first feeling alone in the dorm was physical relief; his problem is having no tasks, not missing home, and he'll stay and over-function"
+    },
+    {
+      "claim": "Mr. Bagwell was an inspiring mentor who shaped his ambitions and beliefs",
+      "why_false": "Almost nothing was said between them; the value was a quiet room and undemanding chores, not guidance or influence on his path"
+    },
+    {
+      "claim": "He is devout and draws strength from the family's Catholic faith",
+      "why_false": "Religion appears only as his mother's gesture; he narrates it as something that calms her, not him, and never invokes it for himself"
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Money",
+      "claim": "He tracks his dining-hall paychecks to the dollar, keeps a cash reserve he refuses to spend on himself (new sheets, a fridge), quietly sends or hands money home, and will underuse benefits he's entitled to — meal swipes, textbook grants, refund checks — because he half-expects to be found ineligible"
+    },
+    {
+      "domain": "Friendships",
+      "claim": "He becomes the group's driver, planner and fixer within weeks and is widely liked, but almost nobody at college will learn about his sister's illness or his family's situation for years; he'll know everyone's schedules while giving out almost nothing, and will feel closest to people who let him help without commenting on it"
+    },
+    {
+      "domain": "His own health",
+      "claim": "He ignores his own symptoms and will not go to the campus clinic — sleep, a bad tooth, stress stomach aches get postponed indefinitely — because illness in his mind is a category that belongs to his sister and taking care of himself feels like taking a resource that isn't his"
+    }
+  ]
+}

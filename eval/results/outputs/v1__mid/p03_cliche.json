@@ -1,0 +1,3006 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "defining_beliefs",
+      "headline": "You substitute money and logistics for presence in nearly every close relationship you describe.",
+      "explanation": "Your father was physically there but checked out — he sat in the truck while others did the work. You weren't at Kayla's father's funeral, but you paid for flights, flowers, and the luncheon. You haven't visited your brother in rehab across three stints, but you autopay $4,800 a month without looking at it. The pattern holds across a parent's example, a partner's grief, and a sibling's crisis: competence and money stand in for showing up.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "I handled what I could handle from where I was.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I just autopay it on the first, I don't even look at it anymore, it just goes.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a future family health crisis or friend's emergency, you'll offer to pay for something or solve it logistically before offering to physically be there, and describe the payment as having 'handled' it."
+    },
+    {
+      "id": "i2",
+      "category": "patterns_to_explore",
+      "headline": "You describe the most exposed moment of a story, then immediately close it with a slogan.",
+      "explanation": "After describing your father sitting silently in the truck, you pivot straight to 'That's God showing you the lesson while you're still in it.' After describing eleven weeks of unpaid advocacy for Mrs. Delgado, you call it 'nothing.' After the breakup, you land on 'Comfort is the enemy... Trust the process.' The content changes across childhood, work, and romance, but the reflex — raw detail, then aphorism — doesn't.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "That's God showing you the lesson while you're still in it.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "I moved her box fan into the bedroom because she'd been sleeping in the front room... anyway. Whatever, that's nothing.",
+          "verbatim": false
+        },
+        {
+          "exp": 4,
+          "quote": "Comfort is the enemy. Comfort's where dreams go to die.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "Asked to stay on one difficult feeling for more than a minute, you'll redirect to a motivational or providential frame within roughly two sentences of naming it."
+    },
+    {
+      "id": "i3",
+      "category": "defining_beliefs",
+      "headline": "You treat confronting wrongdoing or conflict directly as not your responsibility — across fraud, a breakup, and family confusion.",
+      "explanation": "You never reported the fraud you found to corporate — 'God don't make mistakes and He doesn't need my help with the paperwork.' You didn't fight for the relationship when Kayla signaled doubt. You let your grandmother's confusion about your identity go uncorrected — 'I just let it ride. It's easier.' Each time, a language of principle covers the same move: disengaging instead of intervening.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "I just, I handled my one. I fixed my one.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "And I just, I let it ride. It's easier.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "If someone on your own sales team does something ethically questionable, you'll quietly manage the fallout rather than escalate or confront them directly."
+    },
+    {
+      "id": "i4",
+      "category": "core_values",
+      "headline": "You quietly absorb family financial burden and minimize it rather than naming it as sacrifice.",
+      "explanation": "You covered your mother's car payment for 26 months on a call-center salary without telling her it was a strain — 'that's not, like, I don't count that as anything.' You now autopay $4,800/month for your brother's rehab 'without even looking at it.' The cost is real in both cases relative to your income at the time, and in both cases you minimize it rather than naming it.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "she was two behind on it and they were calling the house, and it was three-twelve a month... I just, I set it up on my debit card",
+          "verbatim": false
+        },
+        {
+          "exp": 5,
+          "quote": "it's forty-eight hundred a month and insurance covers, like, some. And, uh, I just autopay it on the first, I don't even look at it anymore",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "You'll underreport your own financial contributions to family members when asked directly, listing them as smaller than they actually are relative to your income at the time."
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "You withhold hard information from people you say you're protecting, then reframe the withholding as protecting their peace.",
+      "explanation": "You told your parents 'grinding' instead of disclosing you'd dropped out for over a year — 'I wasn't trying to deceive anybody... protect your peace, right?' You let your grandmother believe you're your father rather than correcting her — 'I just let it ride... She's happier with him anyway.' Both are framed as kindness rather than avoidance; worth checking whether that frame holds up.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I know how that sounds but I wasn't trying to deceive anybody, I was just, I didn't want the energy in the house. Protect your peace, right?",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "Sometimes she thinks I'm my dad. And I just, I let it ride. It's easier.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a serious relationship, you'll delay telling a partner about a financial or health problem until it's already resolved or too large to hide, citing a desire to protect her."
+    },
+    {
+      "id": "i6",
+      "category": "defining_beliefs",
+      "headline": "You convert every major loss in your life into evidence of divine positioning, and this belief is the most load-bearing one across everything you've described.",
+      "explanation": "Losing the house is 'the best thing that ever happened' — 'God had to close that door.' Mike's fraud and exit from the industry is 'God removes people... you say thank you.' The breakup precedes your best sales year and 'God clears the table before He serves the meal.' Right now, 'God's been positioning me this whole time... every door that closed. Even the bad ones.' It appears in every experience without exception.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "God had to close that door.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "God's been positioning me this whole time, like, every door that closed. You know? Even the bad ones. Especially the bad ones.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "Facing your current sales miss (projected $360K against a $400K goal), you'll publicly frame it as purposeful positioning rather than analyze what operational changes might close the gap next year."
+    },
+    {
+      "id": "i7",
+      "category": "patterns_to_explore",
+      "headline": "Your belief that 'everything happens for a reason' coexists with a demonstrated need to personally engineer outcomes — the theology and the behavior may not match.",
+      "explanation": "You say loss is divinely orchestrated and not yours to fix, yet you numbered 41 moving boxes unprompted as an 11-year-old, spent 11 weeks personally unwinding Mrs. Delgado's fraud, and remotely managed a funeral's logistics down to the florist. The providence language may be a label applied after you've already personally intervened, not a description of how you actually operate.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "Nobody asked me to do that. I was just, I don't know, I was locked in.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "Took me eleven weeks and, like, forty phone calls but I got her unwound, no cost to her.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "When something goes wrong in your business or personal life, you'll act quickly and unilaterally to control the outcome before invoking a providential explanation — intervention first, theology second."
+    },
+    {
+      "id": "i8",
+      "category": "zone_of_genius",
+      "headline": "You come alive fixing one person's broken situation up close, not systems — and you keep doing it long after there's a business reason to.",
+      "explanation": "The most detailed, vivid passages you gave weren't about sales numbers — they were about fixing one person's tangible problem: numbering 41 moving boxes as a kid, the granular fix for Mrs. Delgado's AC filter and box fan, and still personally driving out for Ray's calls even though 'his inverter's been fine for four years.' You explicitly decline the systemic version of this ('stay in your lane') in favor of the individual version every time.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "I noticed her AC filter was, it was gray, it was like felt, so I went to the Ace on 43rd and got her a four-pack and changed it, and I moved her box fan into the bedroom",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "There's a guy, Ray, off Val Vista, ninety-one, his inverter's been fine for four years but he calls and I go out.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "As your team grows past nine reps, you'll keep personally taking calls from individual legacy customers rather than delegating them, even when it doesn't scale and costs you selling time."
+    },
+    {
+      "id": "i9",
+      "category": "patterns_to_explore",
+      "headline": "You consistently label withdrawal as strength — worth distinguishing from actual conflict avoidance.",
+      "explanation": "Not fighting for the relationship becomes 'I'd rather lose you standing up.' Not reporting fraud becomes 'stay in your lane, run your race.' Not correcting your grandmother becomes 'it's easier.' Every instance of non-action gets a dignified label rather than examination. This recurs across romance, work ethics, and family — a consistent self-narrative that may or may not match what's actually driving the choice not to engage.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "bro, stay in your lane, run your race, you can't carry what's not yours.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I'd rather lose you standing up.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "Asked directly whether you avoid conflict, you'll say no and cite pride or principle; someone close to you would likely describe the same behavior as disappearing rather than engaging."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "Speaker was eleven, going on twelve, in 2009."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker's father did stucco work."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Father had trucks, employees, magnet signs reading 'Ochoa Exteriors' on F-250 doors, and in 2007 was doing new-build work in Gilbert and Maricopa; the work stopped."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Speaker's mother brought home flattened produce boxes from a Fry's grocery store on Greenfield and set them by the door."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Speaker took a Sharpie and numbered all the boxes himself."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Boxes were numbered one through forty-one."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker ran out of the wide Sharpie at thirty-something boxes and switched to a skinny Sharpie for the remaining twelve."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker made a list on notebook paper of the contents of each numbered box."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Nobody asked the speaker to number the boxes or make the list."
+            },
+            {
+              "line": "L30",
+              "what_happened": "On the day of moving, the father went out to the truck and peeled the magnet signs off the doors."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Father got in the truck and sat with the AC running."
+            },
+            {
+              "line": "L32-34",
+              "what_happened": "Father sat alone in the truck in the driveway for an estimated two hours or more."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Speaker, his mother, and his tía did the rest of the loading/packing."
+            },
+            {
+              "line": "L42-43",
+              "what_happened": "Family moved to the grandmother's (Grandma Elva's) house off Hermosa Vista."
+            },
+            {
+              "line": "L44-45",
+              "what_happened": "The house had three bedrooms and held about seven people at one point, including cousins."
+            },
+            {
+              "line": "L46",
+              "what_happened": "Speaker slept in the sewing room on a daybed; the house had an evaporative (swamp) cooler."
+            },
+            {
+              "line": "L50",
+              "what_happened": "That year the Arizona Cardinals went to the Super Bowl with Larry Fitzgerald, and the family watched it in the living room on the carpet."
+            },
+            {
+              "line": "L53-55",
+              "what_happened": "Grandmother did not say anything about the situation but began making larger food portions, which nobody commented on."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L20",
+              "choice_made": "Speaker chose to number all the moving boxes himself with a Sharpie",
+              "alternatives_present_in_text": "None stated; L25 notes nobody asked him to do it"
+            },
+            {
+              "line": "L24",
+              "choice_made": "Speaker chose to make a written inventory list of box contents",
+              "alternatives_present_in_text": "None stated"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L16",
+              "quote": "I learned to move in silence before I even knew that was a thing"
+            },
+            {
+              "line": "L26",
+              "quote": "I was just, I don't know, I was locked in"
+            },
+            {
+              "line": "L27",
+              "quote": "I think some of us are just built different, I think some of us come in with that dog in us already"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L23",
+              "quote": "it bugged me that they didn't match"
+            },
+            {
+              "line": "L48",
+              "quote": "I loved it"
+            },
+            {
+              "line": "L49",
+              "quote": "I actually loved it"
+            },
+            {
+              "line": "L61",
+              "quote": "I'm grateful"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "that's the best thing that ever happened to me / I'm grateful / God had to close that door",
+              "lines": [
+                "L5",
+                "L61",
+                "L62"
+              ]
+            },
+            {
+              "phrase": "going through it",
+              "lines": [
+                "L38",
+                "L58"
+              ]
+            },
+            {
+              "phrase": "I loved it",
+              "lines": [
+                "L48",
+                "L49"
+              ]
+            },
+            {
+              "phrase": "wet hay",
+              "lines": [
+                "L46",
+                "L47"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L13-14",
+              "quote": "Stopped. Like a faucet.",
+              "note": "Speaker describes the collapse of his father's business in two short fragments before moving on"
+            },
+            {
+              "line": "L18-19",
+              "quote": "And that was the conversation. That was it.",
+              "note": "Speaker states no discussion occurred about losing the house and moves immediately to the next topic"
+            },
+            {
+              "line": "L28",
+              "quote": "Um.",
+              "note": "Filler pause between describing his own actions and introducing his father"
+            },
+            {
+              "line": "L38-40",
+              "quote": "He was going through it. Everybody's got seasons. That was his winter.",
+              "note": "Father's two-hour silent episode in the truck is described in three short generalized lines before speaker moves to the next scene"
+            },
+            {
+              "line": "L52",
+              "quote": "Um.",
+              "note": "Filler pause immediately after stating the losing year contained his best memories, before moving to next point about grandmother"
+            },
+            {
+              "line": "L64-66",
+              "quote": "Ha. Sorry. Um.",
+              "note": "Speaker laughs, apologizes, and pauses immediately after the line 'God had to close that door,' before ending the account"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Father",
+              "lines": [
+                "L11",
+                "L12",
+                "L30",
+                "L31",
+                "L32",
+                "L37",
+                "L38"
+              ],
+              "what_they_did": "Ran a stucco business with trucks and employees; business stopped in 2007-2009; peeled magnet signs off truck doors; sat alone in truck with AC running for ~2 hours on moving day"
+            },
+            {
+              "who": "Mother",
+              "lines": [
+                "L17",
+                "L36"
+              ],
+              "what_they_did": "Brought home flattened produce boxes and set them by the door; helped with the rest of the packing/loading"
+            },
+            {
+              "who": "Tía (aunt)",
+              "lines": [
+                "L36"
+              ],
+              "what_they_did": "Helped do the rest of the packing/loading"
+            },
+            {
+              "who": "Grandma Elva",
+              "lines": [
+                "L43",
+                "L46",
+                "L53",
+                "L54"
+              ],
+              "what_they_did": "Provided housing off Hermosa Vista; had an evaporative cooler; said nothing about the family's situation but began making larger food portions"
+            },
+            {
+              "who": "Cousins",
+              "lines": [
+                "L45"
+              ],
+              "what_they_did": "Also stayed in the grandmother's three-bedroom house, contributing to a household of about seven"
+            },
+            {
+              "who": "Guys on my team",
+              "lines": [
+                "L58"
+              ],
+              "what_they_did": "Say they are 'going through it' or 'in a slump' or 'can't get up for the doors'"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes hardship is proof of predestined exceptionalism, not just circumstance.",
+              "explanation": "He frames losing the house as 'the best thing that ever happened,' calls it tuition he 'paid early,' and ties it to God closing doors and 'diamonds' from pressure. This isn't just gratitude in hindsight — it's a load-bearing narrative that converts loss into evidence he's built different.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L5",
+                  "quote": "that's the best thing that ever happened to me"
+                },
+                {
+                  "exp": 1,
+                  "line": "L7",
+                  "quote": "Pressure makes diamonds."
+                },
+                {
+                  "exp": 1,
+                  "line": "L62",
+                  "quote": "God had to close that door."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In career setbacks (a lost deal, a layoff), he'll quickly reframe it as necessary and purposeful rather than sitting with the loss or examining what could be learned operationally."
+            },
+            {
+              "category": "core_values",
+              "headline": "He values taking ownership of the uncontrolled task nobody assigned, even as a child.",
+              "explanation": "With no instruction or conversation from his parents, he independently numbered 41 boxes and wrote a full inventory list. The choice cost him nothing materially but reveals a value placed on self-directed order and control when the adults around him were silent or absent.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L20",
+                  "quote": "I took the Sharpie and I did all the boxes myself"
+                },
+                {
+                  "exp": 1,
+                  "line": "L25",
+                  "quote": "Nobody asked me to do that."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "On a team project with unclear ownership, he'll be the one who silently builds the tracking system or documentation without being asked, then feels frustration if others don't match his standard."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes his family doesn't talk about hard things — they just act — and treats this as a strength.",
+              "explanation": "He explicitly names the family rule ('we're not a talk-about-it family, we're a get-it-done family') and immediately reframes it as a blessing, then narrates his father's two-hour silent breakdown in the truck with generous, minimizing language ('he was going through it... that was his winter') rather than naming it as distress.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L15",
+                  "quote": "we're not a talk-about-it family, we're a get-it-done family, which honestly, blessing"
+                },
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "He was going through it. Everybody's got seasons. That was his winter."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his own relationships or leadership, he'll default to solving/moving rather than naming emotional pain directly, and may struggle to recognize or name his own distress in real time."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He turns pain into performance language and cuts himself off right after naming its cost.",
+              "explanation": "Twice in this account he arrives at something raw — his father's silent collapse, and the idea that God taught him a lesson while his parents suffered — and each time follows immediately with a filler pause, a laugh, or an apology, then redirects to a motivational frame. Worth checking whether this deflection shows up whenever he approaches his own or others' vulnerability.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L51",
+                  "quote": "That's God showing you the lesson while you're still in it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L64",
+                  "quote": "Ha. Sorry. Um."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a conversation about a current personal struggle, he'll pivot quickly to a lesson, joke, or motivational reframe within a sentence or two of naming the actual difficulty."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He measures others' hardship against his own childhood benchmark and finds it lacking.",
+              "explanation": "He explicitly compares teammates' struggles ('I'm in a slump, I can't get up for the doors') to his own experience and dismisses them ('you don't know what going through it is'). This recurs alongside his self-description as 'built different' — worth exploring whether this comparison shows up in how he coaches, manages, or empathizes with people whose hardship doesn't match his scale.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L58",
+                  "quote": "I'm like bro, you don't know what going through it is."
+                },
+                {
+                  "exp": 1,
+                  "line": "L27",
+                  "quote": "some of us are just built different, I think some of us come in with that dog in us already"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "As a manager or mentor, he'll have low patience for reported struggles that don't meet a visible severity threshold, potentially missing early signs of burnout or difficulty in people who don't perform hardship the way he did."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes hardship is proof of predestined exceptionalism, not just circumstance.",
+              "explanation": "He frames losing the house as 'the best thing that ever happened,' calls it tuition he 'paid early,' and ties it to God closing doors and 'diamonds' from pressure. This isn't just gratitude in hindsight — it's a load-bearing narrative that converts loss into evidence he's built different.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L5",
+                  "quote": "that's the best thing that ever happened to me"
+                },
+                {
+                  "exp": 1,
+                  "line": "L7",
+                  "quote": "Pressure makes diamonds."
+                },
+                {
+                  "exp": 1,
+                  "line": "L62",
+                  "quote": "God had to close that door."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In career setbacks (a lost deal, a layoff), he'll quickly reframe it as necessary and purposeful rather than sitting with the loss or examining what could be learned operationally.",
+              "exp": 1
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He turns pain into performance language and cuts himself off right after naming its cost.",
+              "explanation": "Twice in this account he arrives at something raw — his father's silent collapse, and the idea that God taught him a lesson while his parents suffered — and each time follows immediately with a filler pause, a laugh, or an apology, then redirects to a motivational frame. Worth checking whether this deflection shows up whenever he approaches his own or others' vulnerability.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L51",
+                  "quote": "That's God showing you the lesson while you're still in it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L64",
+                  "quote": "Ha. Sorry. Um."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a conversation about a current personal struggle, he'll pivot quickly to a lesson, joke, or motivational reframe within a sentence or two of naming the actual difficulty.",
+              "exp": 1
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He measures others' hardship against his own childhood benchmark and finds it lacking.",
+              "explanation": "He explicitly compares teammates' struggles ('I'm in a slump, I can't get up for the doors') to his own experience and dismisses them ('you don't know what going through it is'). This recurs alongside his self-description as 'built different' — worth exploring whether this comparison shows up in how he coaches, manages, or empathizes with people whose hardship doesn't match his scale.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L58",
+                  "quote": "I'm like bro, you don't know what going through it is."
+                },
+                {
+                  "exp": 1,
+                  "line": "L27",
+                  "quote": "some of us are just built different, I think some of us come in with that dog in us already"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "As a manager or mentor, he'll have low patience for reported struggles that don't meet a visible severity threshold, potentially missing early signs of burnout or difficulty in people who don't perform hardship the way he did.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He values taking ownership of the uncontrolled task nobody assigned, even as a child.",
+              "reason": "generic",
+              "note": "A resourceful, orderly kid taking initiative during a family crisis is a common trait, not a distinctive value claim; the 'would_predict' about a tracking system is a generic conscientiousness prediction anyone could offer."
+            },
+            {
+              "headline": "He believes his family doesn't talk about hard things — they just act — and treats this as a strength.",
+              "reason": "restated",
+              "note": "He explicitly states this himself almost verbatim ('we're not a talk-about-it family, we're a get-it-done family, which honestly, blessing') — the candidate adds no inference beyond what he already said."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "He believes hardship is proof of predestined exceptionalism, not just circumstance.",
+            "explanation": "He frames losing the house as 'the best thing that ever happened,' calls it tuition he 'paid early,' and ties it to God closing doors and 'diamonds' from pressure. This isn't just gratitude in hindsight — it's a load-bearing narrative that converts loss into evidence he's built different.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L5",
+                "quote": "that's the best thing that ever happened to me"
+              },
+              {
+                "exp": 1,
+                "line": "L7",
+                "quote": "Pressure makes diamonds."
+              },
+              {
+                "exp": 1,
+                "line": "L62",
+                "quote": "God had to close that door."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In career setbacks (a lost deal, a layoff), he'll quickly reframe it as necessary and purposeful rather than sitting with the loss or examining what could be learned operationally.",
+            "exp": 1
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He turns pain into performance language and cuts himself off right after naming its cost.",
+            "explanation": "Twice in this account he arrives at something raw — his father's silent collapse, and the idea that God taught him a lesson while his parents suffered — and each time follows immediately with a filler pause, a laugh, or an apology, then redirects to a motivational frame. Worth checking whether this deflection shows up whenever he approaches his own or others' vulnerability.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L51",
+                "quote": "That's God showing you the lesson while you're still in it."
+              },
+              {
+                "exp": 1,
+                "line": "L64",
+                "quote": "Ha. Sorry. Um."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In a conversation about a current personal struggle, he'll pivot quickly to a lesson, joke, or motivational reframe within a sentence or two of naming the actual difficulty.",
+            "exp": 1
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He measures others' hardship against his own childhood benchmark and finds it lacking.",
+            "explanation": "He explicitly compares teammates' struggles ('I'm in a slump, I can't get up for the doors') to his own experience and dismisses them ('you don't know what going through it is'). This recurs alongside his self-description as 'built different' — worth exploring whether this comparison shows up in how he coaches, manages, or empathizes with people whose hardship doesn't match his scale.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L58",
+                "quote": "I'm like bro, you don't know what going through it is."
+              },
+              {
+                "exp": 1,
+                "line": "L27",
+                "quote": "some of us are just built different, I think some of us come in with that dog in us already"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "As a manager or mentor, he'll have low patience for reported struggles that don't meet a visible severity threshold, potentially missing early signs of burnout or difficulty in people who don't perform hardship the way he did.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L8",
+              "what_happened": "Did two semesters at ASU, Tempe."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Enrolled in business / pre-business, which required testing in."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Got a 1.6 GPA the second semester and took three withdrawals."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Worked nights at a call center off Elliot and 101 doing DirecTV outbound, 5pm to 1am, with an 8am microeconomics class in a 200-person auditorium; stopped going to that class."
+            },
+            {
+              "line": "L19",
+              "what_happened": "First manager was named Renee, described as a chain-smoker, four-foot-eleven, who used to say 'if they're still talking they're still buying.'"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Was earning about $800-900 on a good week with spiffs at age 19 in Mesa."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Mother's Kia Sorento car payment was two months behind and creditors were calling the house; payment was $312/month; set it up on his debit card."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Paid his mother's car payment for approximately 26 months."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Stopped paying when mother got a job at a dialysis facility."
+            },
+            {
+              "line": "L37",
+              "what_happened": "Parents believed he was still enrolled in school for about a year or more."
+            },
+            {
+              "line": "L39",
+              "what_happened": "At Christmas, when parents asked about classes, he responded 'oh, you know, grinding.'"
+            },
+            {
+              "line": "L46",
+              "what_happened": "His father had recently gotten back on his feet doing repairs for a property management company."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Completed a geology class (GLG 101) with an A, including a field trip to the Superstition Mountains."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Professor (name forgotten, described as having a big beard) explained the mountain was the collapsed and uplifted interior of a volcano."
+            },
+            {
+              "line": "L55",
+              "what_happened": "States that six years later he is out-earning every person who sat with him in that auditorium."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L16",
+              "choice_made": "Stopped attending 8am microeconomics class.",
+              "alternatives_present_in_text": "None stated."
+            },
+            {
+              "line": "L27",
+              "choice_made": "Set up mother's car payment on his own debit card.",
+              "alternatives_present_in_text": "None stated."
+            },
+            {
+              "line": "L39",
+              "choice_made": "Told parents 'grinding' rather than disclosing he had stopped attending school.",
+              "alternatives_present_in_text": "None stated; describes wanting to avoid telling them directly (L42)."
+            },
+            {
+              "line": "L55",
+              "choice_made": "Describes leaving school as 'I opted out, I bet on myself.'",
+              "alternatives_present_in_text": "Continuing enrollment at ASU (implied by context of dropping/withdrawing)."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L3",
+              "quote": "I don't even say dropping out, I say I opted out"
+            },
+            {
+              "line": "L42",
+              "quote": "I wasn't trying to deceive anybody"
+            },
+            {
+              "line": "L57",
+              "quote": "Delusional confidence."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L14",
+              "quote": "I wish."
+            },
+            {
+              "line": "L42",
+              "quote": "I didn't want the energy in the house"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "the numbers don't tell the story / numbers never tell the story",
+              "lines": [
+                "L12"
+              ]
+            },
+            {
+              "phrase": "grinding",
+              "lines": [
+                "L39",
+                "L40"
+              ]
+            },
+            {
+              "phrase": "opted out",
+              "lines": [
+                "L3",
+                "L55"
+              ]
+            },
+            {
+              "phrase": "Um",
+              "lines": [
+                "L7",
+                "L22",
+                "L26",
+                "L35",
+                "L45",
+                "L54"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L28",
+              "quote": "It wasn't like a big moment.",
+              "note": "Moves past the decision to take over his mother's car payment without elaboration."
+            },
+            {
+              "line": "L33",
+              "quote": "I don't count that as anything, that's just what you do, that's family, right?",
+              "note": "Dismisses the significance of the 26-month payment arrangement immediately after stating it."
+            },
+            {
+              "line": "L48",
+              "quote": "What else.",
+              "note": "Transitions abruptly to a new topic (the geology class) after the section on parents/deception."
+            },
+            {
+              "line": "L52",
+              "quote": "Doesn't matter.",
+              "note": "Cuts off further reflection on the geology/mountain story immediately after stating he still thinks about it."
+            },
+            {
+              "line": "L56",
+              "quote": "So.",
+              "note": "Brief transition after the claim about out-earning classmates, moving quickly to closing statements."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Mother",
+              "lines": [
+                "L27",
+                "L32",
+                "L37",
+                "L39"
+              ],
+              "what_they_did": "Was two months behind on Kia Sorento payment ($312/month); later got a job at a dialysis facility; believed son was still enrolled in school; asked about classes at Christmas."
+            },
+            {
+              "who": "Father",
+              "lines": [
+                "L37",
+                "L46"
+              ],
+              "what_they_did": "Believed son was still enrolled in school; had recently gotten back on his feet doing repairs for a property management company."
+            },
+            {
+              "who": "Renee (first manager at call center)",
+              "lines": [
+                "L19",
+                "L20"
+              ],
+              "what_they_did": "Said 'if they're still talking they're still buying'; described as a chain-smoker, four-foot-eleven; speaker states he still uses her phrase."
+            },
+            {
+              "who": "Geology professor (name forgotten)",
+              "lines": [
+                "L49"
+              ],
+              "what_they_did": "Led field trip to the Superstition Mountains and explained the mountain's volcanic geological history."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "He quietly took over his mother's car payment for 26 months rather than let his family's financial stress compound, without treating it as noteworthy.",
+              "explanation": "When his mother fell behind on her car payment, he put it on his own debit card for 26 months while working nights and barely earning $800-900/week himself. He then immediately minimized it as 'just what you do, that's family,' showing the value was acted on, not performed.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L27",
+                  "quote": "she was two behind on it and they were calling the house, and it was three-twelve a month, and I just, I set it up on my debit card"
+                },
+                {
+                  "exp": 2,
+                  "line": "L33",
+                  "quote": "that's not, like, I don't count that as anything, that's just what you do, that's family, right?"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his own family/partnership finances, he will quietly absorb costs for people he loves rather than negotiate or disclose the burden, even at his own expense."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes hard evidence of struggle (grades, debt, withdrawals) doesn't reflect the real story, so he discounts institutional or numeric measures of himself.",
+              "explanation": "He immediately reframes his 1.6 GPA and three withdrawals with 'the numbers don't tell the story, the numbers never tell the story,' then goes on to reframe dropping out as 'opting out' and 'betting on himself.' This is a recurring interpretive move, not a one-off comment.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L10",
+                  "quote": "I got a 1.6 the second semester and I took three W's"
+                },
+                {
+                  "exp": 2,
+                  "line": "L12",
+                  "quote": "the numbers don't tell the story, the numbers never tell the story"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In his career, he will dismiss negative performance metrics or external evaluations as not capturing his real effort or trajectory, especially when they conflict with his self-narrative."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He avoids direct disclosure with his parents when the truth might add stress, substituting a technically-true but misleading answer.",
+              "explanation": "He told his parents 'grinding' at Christmas instead of revealing he'd stopped attending classes, and separately chose not to tell his father about needing help because he 'wasn't about to walk in there and hand him one more thing.' Both moments show him protecting others from bad news by withholding rather than communicating directly, which he frames as protecting peace rather than deception.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L39",
+                  "quote": "at Christmas they'd ask how classes were and I'd go, oh, you know, grinding"
+                },
+                {
+                  "exp": 2,
+                  "line": "L46",
+                  "quote": "my dad had just gotten back on his feet-ish... and I wasn't about to walk in there and hand him one more thing"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In close relationships or leadership roles, he may withhold difficult information from people he's protecting, only for it to surface later as a larger trust issue than the original problem."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He absorbed and still runs on floor-level sales wisdom from a call center, treating tactical, people-reading language as core operating knowledge.",
+              "explanation": "He credits the call center as where he 'learned everything' and still quotes his manager Renee's line verbatim years later, suggesting an unusual pull toward practical persuasion/sales craft over formal education. The energy and specificity he brings to this memory (compared to the flat retelling of his ASU failure) signals where he's genuinely engaged.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L18",
+                  "quote": "Everything I do now I learned on that floor."
+                },
+                {
+                  "exp": 2,
+                  "line": "L20",
+                  "quote": "I still use that."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In his current work, he will gravitate toward and excel at direct persuasion, sales, or negotiation tasks over process- or credential-based work, and will mentor others using memorable one-liners rather than formal frameworks."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "He quietly took over his mother's car payment for 26 months rather than let his family's financial stress compound, without treating it as noteworthy.",
+              "explanation": "When his mother fell behind on her car payment, he put it on his own debit card for 26 months while working nights and barely earning $800-900/week himself. He then immediately minimized it as 'just what you do, that's family,' showing the value was acted on, not performed.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L27",
+                  "quote": "she was two behind on it and they were calling the house, and it was three-twelve a month, and I just, I set it up on my debit card"
+                },
+                {
+                  "exp": 2,
+                  "line": "L33",
+                  "quote": "that's not, like, I don't count that as anything, that's just what you do, that's family, right?"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his own family/partnership finances, he will quietly absorb costs for people he loves rather than negotiate or disclose the burden, even at his own expense.",
+              "exp": 2
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He avoids direct disclosure with his parents when the truth might add stress, substituting a technically-true but misleading answer.",
+              "explanation": "He told his parents 'grinding' at Christmas instead of revealing he'd stopped attending classes, and separately chose not to tell his father about needing help because he 'wasn't about to walk in there and hand him one more thing.' Both moments show him protecting others from bad news by withholding rather than communicating directly, which he frames as protecting peace rather than deception.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L39",
+                  "quote": "at Christmas they'd ask how classes were and I'd go, oh, you know, grinding"
+                },
+                {
+                  "exp": 2,
+                  "line": "L46",
+                  "quote": "my dad had just gotten back on his feet-ish... and I wasn't about to walk in there and hand him one more thing"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In close relationships or leadership roles, he may withhold difficult information from people he's protecting, only for it to surface later as a larger trust issue than the original problem.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes hard evidence of struggle (grades, debt, withdrawals) doesn't reflect the real story, so he discounts institutional or numeric measures of himself.",
+              "reason": "restated",
+              "note": "He explicitly says 'the numbers don't tell the story, the numbers never tell the story' — the candidate just repackages his own stated words as an inferred belief."
+            },
+            {
+              "headline": "He absorbed and still runs on floor-level sales wisdom from a call center, treating tactical, people-reading language as core operating knowledge.",
+              "reason": "ungrounded",
+              "note": "Only one quoted line ('if they're still talking they're still buying') supports this; calling it a 'zone of genius' with claims about mentoring style and career gravitation is unsupported speculation beyond what's in the transcript."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "He quietly took over his mother's car payment for 26 months rather than let his family's financial stress compound, without treating it as noteworthy.",
+            "explanation": "When his mother fell behind on her car payment, he put it on his own debit card for 26 months while working nights and barely earning $800-900/week himself. He then immediately minimized it as 'just what you do, that's family,' showing the value was acted on, not performed.",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L27",
+                "quote": "she was two behind on it and they were calling the house, and it was three-twelve a month, and I just, I set it up on my debit card"
+              },
+              {
+                "exp": 2,
+                "line": "L33",
+                "quote": "that's not, like, I don't count that as anything, that's just what you do, that's family, right?"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In his own family/partnership finances, he will quietly absorb costs for people he loves rather than negotiate or disclose the burden, even at his own expense.",
+            "exp": 2
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He avoids direct disclosure with his parents when the truth might add stress, substituting a technically-true but misleading answer.",
+            "explanation": "He told his parents 'grinding' at Christmas instead of revealing he'd stopped attending classes, and separately chose not to tell his father about needing help because he 'wasn't about to walk in there and hand him one more thing.' Both moments show him protecting others from bad news by withholding rather than communicating directly, which he frames as protecting peace rather than deception.",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L39",
+                "quote": "at Christmas they'd ask how classes were and I'd go, oh, you know, grinding"
+              },
+              {
+                "exp": 2,
+                "line": "L46",
+                "quote": "my dad had just gotten back on his feet-ish... and I wasn't about to walk in there and hand him one more thing"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In close relationships or leadership roles, he may withhold difficult information from people he's protecting, only for it to surface later as a larger trust issue than the original problem.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L5",
+              "what_happened": "In 2021, speaker's first full year selling solar, worked for a dealer (unnamed) under a manager referred to as \"Big Mike.\""
+            },
+            {
+              "line": "L6",
+              "what_happened": "Description: Big Mike was six-five, from Long Island, drove a Denali, wore a Cuban link chain."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker states first quarter earnings were twelve thousand dollars; that year's total was one hundred ninety-eight thousand dollars."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Big Mike said the phrase: \"the sale's made in the driveway, not at the table.\""
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker says he still repeats this phrase to \"his guys\" every Monday."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Big Mike required knocking a hundred doors before being allowed to eat."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker logged door-knock counts (94–110 per day) in the Notes app that summer and states the notes still exist, never deleted."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker states \"docs\" issues started occurring — DocuSigns returning \"clean and fast\" on deals."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker states a teammate named Jarrett had \"grandma-type customers\" whose deals closed around 10pm."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Speaker states \"I'm not gonna get into it.\""
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker labels the matter \"Compliance stuff.\""
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker states the matter \"got handled eventually\" and Mike is no longer in the solar industry."
+            },
+            {
+              "line": "L38-L44",
+              "what_happened": "A customer, Mrs. Delgado, age 81, in Maryvale (off Indian School), called the office, was transferred around, and eventually got the speaker's cell number; she was crying; her bill increased instead of decreasing; her system was undersized for her usage; there was a lien on her title she didn't understand; her signature appeared on documents she said she did not sign."
+            },
+            {
+              "line": "L45-L46",
+              "what_happened": "Speaker drove to her house and stayed from approximately 2pm until dark."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Mrs. Delgado showed him pictures of her husband, who was a machinist, reportedly at Reynolds, and gave him a grocery bag of lemons."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Speaker noticed her AC filter was gray/felt, bought a four-pack of filters at an Ace hardware store on 43rd, changed the filter, and moved her box fan from the front room to the bedroom."
+            },
+            {
+              "line": "L53",
+              "what_happened": "Speaker states it took eleven weeks and about forty phone calls to \"unwind\" her contract, at no cost to her."
+            },
+            {
+              "line": "L55-L57",
+              "what_happened": "Speaker states he never officially reported the issue to corporate."
+            },
+            {
+              "line": "L58-L59",
+              "what_happened": "Speaker states, \"I just, I handled my one. I fixed my one.\""
+            },
+            {
+              "line": "L64-L65",
+              "what_happened": "Speaker states he still has Mrs. Delgado's phone number saved."
+            },
+            {
+              "line": "L67",
+              "what_happened": "Speaker states Mrs. Delgado died, believed to be in 2023."
+            },
+            {
+              "line": "L68",
+              "what_happened": "Her daughter texted the speaker."
+            },
+            {
+              "line": "L71-L72",
+              "what_happened": "Speaker states, \"That year taught me that the product is not the product. You're the product.\""
+            },
+            {
+              "line": "L73",
+              "what_happened": "Speaker states Mike also used to say that phrase."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L30",
+              "choice_made": "Speaker declines to elaborate on the compliance/fraud details (\"I'm not gonna get into it\")",
+              "alternatives_present_in_text": "None explicitly stated as considered"
+            },
+            {
+              "line": "L55-L59",
+              "choice_made": "Speaker did not report the fraud to corporate; instead personally resolved Mrs. Delgado's case only",
+              "alternatives_present_in_text": "L60: \"people are like, oh you should've blown the whistle\" — presented as an alternative course others suggested"
+            },
+            {
+              "line": "L45",
+              "choice_made": "Speaker drove to Mrs. Delgado's house personally",
+              "alternatives_present_in_text": "none stated"
+            },
+            {
+              "line": "L49",
+              "choice_made": "Speaker bought and changed her AC filter and moved her fan",
+              "alternatives_present_in_text": "none stated"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L58-L59",
+              "quote": "I just, I handled my one. I fixed my one."
+            },
+            {
+              "line": "L60",
+              "quote": "bro, stay in your lane, run your race, you can't carry what's not yours"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L44",
+              "quote": "she's crying"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "Um",
+              "lines": [
+                "L2",
+                "L4",
+                "L13",
+                "L18",
+                "L23",
+                "L33",
+                "L37",
+                "L51",
+                "L54",
+                "L63",
+                "L69"
+              ]
+            },
+            {
+              "phrase": "the product is not the product / You're the product",
+              "lines": [
+                "L71",
+                "L72",
+                "L73"
+              ]
+            },
+            {
+              "phrase": "handled/fixed my one",
+              "lines": [
+                "L58",
+                "L59"
+              ]
+            },
+            {
+              "phrase": "God removes/God don't make mistakes",
+              "lines": [
+                "L34",
+                "L62"
+              ]
+            },
+            {
+              "phrase": "genius",
+              "lines": [
+                "L74",
+                "L75"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L26-L32",
+              "quote": "there started being, uh, docs... I'm not gonna get into it. Compliance stuff. It got handled eventually",
+              "note": "Speaker moves quickly past details of the fraud/compliance issue, declining to specify what happened or how it was 'handled'"
+            },
+            {
+              "line": "L49-L50",
+              "quote": "anyway. Whatever, that's nothing.",
+              "note": "Speaker narrates changing the AC filter and moving the fan in detail, then immediately dismisses the detail as insignificant"
+            },
+            {
+              "line": "L55-L57",
+              "quote": "I never — okay, I never actually reported anything. To, like, corporate. Officially.",
+              "note": "Statement delivered with restarts/pauses (dashes, 'okay,' broken into three short lines)"
+            },
+            {
+              "line": "L66-L67",
+              "quote": "She, uh. She passed in, I want to say '23.",
+              "note": "Death of Mrs. Delgado stated briefly with hedged/uncertain phrasing ('I want to say'), then moves on"
+            },
+            {
+              "line": "L74-L75",
+              "quote": "Man was a genius. Whatever he is now, he was a genius.",
+              "note": "Speaker glosses over Mike's departure from the industry and current status without specifying what happened to him"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Big Mike (manager)",
+              "lines": [
+                "L5",
+                "L6",
+                "L7",
+                "L9",
+                "L14",
+                "L19",
+                "L73",
+                "L74",
+                "L75"
+              ],
+              "what_they_did": "Managed speaker's sales team; described as six-five, from Long Island, drove a Denali, wore a Cuban link; coined sayings (\"the sale's made in the driveway, not at the table\"; \"you're the product\"); required 100 doors knocked before eating; is no longer in the solar industry (L32)"
+            },
+            {
+              "who": "Jarrett (teammate)",
+              "lines": [
+                "L27"
+              ],
+              "what_they_did": "Had customers described as \"grandma-type\" whose deals were closing around 10pm"
+            },
+            {
+              "who": "Mrs. Delgado",
+              "lines": [
+                "L38",
+                "L39",
+                "L40",
+                "L41",
+                "L42",
+                "L43",
+                "L44",
+                "L47",
+                "L48",
+                "L64",
+                "L65",
+                "L67"
+              ],
+              "what_they_did": "81-year-old customer in Maryvale; called the office crying about billing/lien/signature issues; showed speaker photos of her husband; gave him lemons; died in approximately 2023"
+            },
+            {
+              "who": "Mrs. Delgado's husband",
+              "lines": [
+                "L48"
+              ],
+              "what_they_did": "Described as a machinist, reportedly at Reynolds"
+            },
+            {
+              "who": "Mrs. Delgado's daughter",
+              "lines": [
+                "L68"
+              ],
+              "what_they_did": "Texted the speaker (context implies after Mrs. Delgado's death)"
+            },
+            {
+              "who": "Unnamed people/critics",
+              "lines": [
+                "L60"
+              ],
+              "what_they_did": "Told speaker \"you should've blown the whistle\""
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "He prioritizes making an individual person whole over exposing systemic wrongdoing.",
+              "explanation": "When he discovered fraud affecting multiple customers (Jarrett's clients closing at 10pm, Mrs. Delgado's forged signature), he chose to personally fix only Mrs. Delgado's case rather than report to corporate, despite others telling him to blow the whistle. This cost him the moral high ground with peers ('people are like, oh you should've') but he chose direct, personal repair over institutional accountability.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L58-L59",
+                  "quote": "I just, I handled my one. I fixed my one."
+                },
+                {
+                  "exp": 3,
+                  "line": "L55-L57",
+                  "quote": "I never — okay, I never actually reported anything. To, like, corporate. Officially."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a workplace conflict involving a friend or family member, he'll resolve the immediate harm quietly rather than escalate through formal channels, even when escalation might prevent future harm to others."
+            },
+            {
+              "category": "core_values",
+              "headline": "He values full, present attention to a person over efficient transaction.",
+              "explanation": "He stayed with an 81-year-old customer from 2pm until dark, spent most of the visit not discussing the business problem at all, and did small unglamorous acts of care (changing an AC filter, moving a fan) that had nothing to do with resolving her contract. He calls this 'nothing,' suggesting it's such an automatic value that he doesn't register it as notable.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L45-L46",
+                  "quote": "I drove out there. And I sat with her for — I mean I was there from like two in the afternoon until it got dark."
+                },
+                {
+                  "exp": 3,
+                  "line": "L49-L50",
+                  "quote": "I noticed her AC filter was, it was gray... anyway. Whatever, that's nothing."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a family caregiving situation, he'll show up for unglamorous, unscheduled tasks (fixing something broken, sitting for hours) without being asked, and will minimize it afterward when others praise it."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes outcomes and justice are ultimately God's responsibility, not his to engineer.",
+              "explanation": "He invokes a fatalistic/providential framework twice — 'God removes people' about Mike's downfall, and 'God don't make mistakes and He doesn't need my help with the paperwork' to justify not reporting the fraud. This belief functions as permission to disengage from systemic accountability while still feeling morally settled.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L34-L36",
+                  "quote": "God removes people. He really does. Sometimes He does it for you and sometimes He does it to you and either way you say thank you."
+                },
+                {
+                  "exp": 3,
+                  "line": "L62",
+                  "quote": "God don't make mistakes and He doesn't need my help with the paperwork"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When facing a decision about confronting a wrong committed by someone close to him, he'll defer to 'letting it play out' rather than intervening directly, citing faith rather than risk-aversion as the reason."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes his own credibility and character, not the product, is what he's actually selling.",
+              "explanation": "He repeats a mentor's line — 'the product is not the product, you're the product' — as something he still teaches weekly, and frames his entire formative year through it. This suggests an internalized belief that trust and self-presentation are the real mechanism of success, which likely explains both his door-knocking discipline and his instinct to personally repair Mrs. Delgado's trust rather than route it through a system.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L71-L72",
+                  "quote": "That year taught me that the product is not the product. You're the product."
+                },
+                {
+                  "exp": 3,
+                  "line": "L16-L17",
+                  "quote": "I still say that to my guys. Every Monday."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In building or leading a team, he'll invest disproportionate energy in personal credibility and relationship repair over process fixes or documentation."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He is unusually skilled at, and energized by, one-on-one relational repair with people in distress.",
+              "explanation": "Given a legal and emotional mess (a confused, crying 81-year-old with a fraudulent contract), he didn't just solve the paperwork — he read the room, noticed her sleeping in the wrong room, fixed her AC filter, let her talk about her late husband, and spent hours there. The level of unprompted, granular attentiveness (filter, fan, lemons, photos) points to genuine aptitude, not obligation.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L47",
+                  "quote": "we didn't even talk about the panels for most of it"
+                },
+                {
+                  "exp": 3,
+                  "line": "L49",
+                  "quote": "I noticed her AC filter was, it was gray, it was like felt, so I went to the Ace on 43rd and got her a four-pack and changed it"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In future customer or team conflicts, he'll be the person others hand off the emotionally difficult, high-stakes individual case to, because he'll go far beyond the transactional fix."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He narrates acts of significant personal sacrifice or moral weight, then immediately minimizes them.",
+              "explanation": "He calls eleven weeks and forty phone calls of unpaid advocacy, plus hours of a workday, 'nothing' and 'whatever' right after describing it in vivid detail; he also rushes past the fraud investigation ('I'm not gonna get into it') and Mike's downfall ('whatever he is now'). This pattern of detailed-then-dismissed narration is worth him checking — is he uncomfortable being seen as morally significant, or avoiding the harder question of what happened to Mike and the other victims?",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L49-L50",
+                  "quote": "I moved her box fan into the bedroom... anyway. Whatever, that's nothing."
+                },
+                {
+                  "exp": 3,
+                  "line": "L30-L32",
+                  "quote": "I'm not gonna get into it. Compliance stuff. It got handled eventually"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked directly about times he's gone above and beyond for someone, he'll downplay or under-report his own involvement, even in contexts where owning it would help him (e.g., a performance review or reference)."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "He prioritizes making an individual person whole over exposing systemic wrongdoing.",
+              "explanation": "When he discovered fraud affecting multiple customers (Jarrett's clients closing at 10pm, Mrs. Delgado's forged signature), he chose to personally fix only Mrs. Delgado's case rather than report to corporate, despite others telling him to blow the whistle. This cost him the moral high ground with peers ('people are like, oh you should've') but he chose direct, personal repair over institutional accountability.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L58-L59",
+                  "quote": "I just, I handled my one. I fixed my one."
+                },
+                {
+                  "exp": 3,
+                  "line": "L55-L57",
+                  "quote": "I never — okay, I never actually reported anything. To, like, corporate. Officially."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a workplace conflict involving a friend or family member, he'll resolve the immediate harm quietly rather than escalate through formal channels, even when escalation might prevent future harm to others.",
+              "exp": 3
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes outcomes and justice are ultimately God's responsibility, not his to engineer.",
+              "explanation": "He invokes a fatalistic/providential framework twice — 'God removes people' about Mike's downfall, and 'God don't make mistakes and He doesn't need my help with the paperwork' to justify not reporting the fraud. This belief functions as permission to disengage from systemic accountability while still feeling morally settled.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L34-L36",
+                  "quote": "God removes people. He really does. Sometimes He does it for you and sometimes He does it to you and either way you say thank you."
+                },
+                {
+                  "exp": 3,
+                  "line": "L62",
+                  "quote": "God don't make mistakes and He doesn't need my help with the paperwork"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When facing a decision about confronting a wrong committed by someone close to him, he'll defer to 'letting it play out' rather than intervening directly, citing faith rather than risk-aversion as the reason.",
+              "exp": 3
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He narrates acts of significant personal sacrifice or moral weight, then immediately minimizes them.",
+              "explanation": "He calls eleven weeks and forty phone calls of unpaid advocacy, plus hours of a workday, 'nothing' and 'whatever' right after describing it in vivid detail; he also rushes past the fraud investigation ('I'm not gonna get into it') and Mike's downfall ('whatever he is now'). This pattern of detailed-then-dismissed narration is worth him checking — is he uncomfortable being seen as morally significant, or avoiding the harder question of what happened to Mike and the other victims?",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L49-L50",
+                  "quote": "I moved her box fan into the bedroom... anyway. Whatever, that's nothing."
+                },
+                {
+                  "exp": 3,
+                  "line": "L30-L32",
+                  "quote": "I'm not gonna get into it. Compliance stuff. It got handled eventually"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked directly about times he's gone above and beyond for someone, he'll downplay or under-report his own involvement, even in contexts where owning it would help him (e.g., a performance review or reference).",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He values full, present attention to a person over efficient transaction.",
+              "reason": "flattering",
+              "note": "Restates the anecdote's obvious surface content (sat with her, fixed her filter) as an 'insight' with no falsifiable claim beyond what he already narrated; reads as praise for being caring."
+            },
+            {
+              "headline": "He believes his own credibility and character, not the product, is what he's actually selling.",
+              "reason": "restated",
+              "note": "He literally says this in his own words twice ('the product is not the product, you're the product'; 'I still say that to my guys'). The candidate just repeats his stated maxim back to him as a discovered belief."
+            },
+            {
+              "headline": "He is unusually skilled at, and energized by, one-on-one relational repair with people in distress.",
+              "reason": "flattering",
+              "note": "Single incident, not a demonstrated pattern of others seeking him out for this; dressed-up praise for one nice story rather than evidence of exceptional, energizing capability across contexts."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "He prioritizes making an individual person whole over exposing systemic wrongdoing.",
+            "explanation": "When he discovered fraud affecting multiple customers (Jarrett's clients closing at 10pm, Mrs. Delgado's forged signature), he chose to personally fix only Mrs. Delgado's case rather than report to corporate, despite others telling him to blow the whistle. This cost him the moral high ground with peers ('people are like, oh you should've') but he chose direct, personal repair over institutional accountability.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L58-L59",
+                "quote": "I just, I handled my one. I fixed my one."
+              },
+              {
+                "exp": 3,
+                "line": "L55-L57",
+                "quote": "I never — okay, I never actually reported anything. To, like, corporate. Officially."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In a workplace conflict involving a friend or family member, he'll resolve the immediate harm quietly rather than escalate through formal channels, even when escalation might prevent future harm to others.",
+            "exp": 3
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "He believes outcomes and justice are ultimately God's responsibility, not his to engineer.",
+            "explanation": "He invokes a fatalistic/providential framework twice — 'God removes people' about Mike's downfall, and 'God don't make mistakes and He doesn't need my help with the paperwork' to justify not reporting the fraud. This belief functions as permission to disengage from systemic accountability while still feeling morally settled.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L34-L36",
+                "quote": "God removes people. He really does. Sometimes He does it for you and sometimes He does it to you and either way you say thank you."
+              },
+              {
+                "exp": 3,
+                "line": "L62",
+                "quote": "God don't make mistakes and He doesn't need my help with the paperwork"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "When facing a decision about confronting a wrong committed by someone close to him, he'll defer to 'letting it play out' rather than intervening directly, citing faith rather than risk-aversion as the reason.",
+            "exp": 3
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He narrates acts of significant personal sacrifice or moral weight, then immediately minimizes them.",
+            "explanation": "He calls eleven weeks and forty phone calls of unpaid advocacy, plus hours of a workday, 'nothing' and 'whatever' right after describing it in vivid detail; he also rushes past the fraud investigation ('I'm not gonna get into it') and Mike's downfall ('whatever he is now'). This pattern of detailed-then-dismissed narration is worth him checking — is he uncomfortable being seen as morally significant, or avoiding the harder question of what happened to Mike and the other victims?",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L49-L50",
+                "quote": "I moved her box fan into the bedroom... anyway. Whatever, that's nothing."
+              },
+              {
+                "exp": 3,
+                "line": "L30-L32",
+                "quote": "I'm not gonna get into it. Compliance stuff. It got handled eventually"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "When asked directly about times he's gone above and beyond for someone, he'll downplay or under-report his own involvement, even in contexts where owning it would help him (e.g., a performance review or reference).",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L4",
+              "what_happened": "Speaker names the relationship subject: Kayla."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Relationship lasted three years, almost four."
+            },
+            {
+              "line": "L6",
+              "what_happened": "States Kayla is a dental hygienist in Chandler."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Kayla's father had pancreatic cancer, diagnosed and died about eight months later, in September."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker was in Cabo at the time."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker was in Cabo for a 'President's Club qualifier'; dealer flies out top fifteen; speaker was ranked thirteenth going into the last week."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker flew Kayla's sister in from Denver via Southwest and booked it; a florist sent a get-well arrangement to the funeral home instead of the correct order; speaker called the florist and it was corrected same day."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Speaker paid for the post-funeral luncheon at the church hall by giving Kayla's mother his card number over the phone."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Kayla never asked speaker to come to Cabo or return."
+            },
+            {
+              "line": "L38",
+              "what_happened": "After speaker returned, Kayla was 'quieter.'"
+            },
+            {
+              "line": "L39",
+              "what_happened": "This quieter period lasted about five months."
+            },
+            {
+              "line": "L40",
+              "what_happened": "In February, Kayla said she'd been thinking [about ending the relationship]; speaker said 'okay.'"
+            },
+            {
+              "line": "L46-L48",
+              "what_happened": "Speaker kept the dog, Nacho, a chiweenie with one and a half eyes, about eleven years old; Kayla got him originally but her apartment in Ocotillo doesn't allow dogs, so he stays with speaker who has a yard."
+            },
+            {
+              "line": "L51",
+              "what_happened": "The dog had four teeth removed in March, costing $1,400."
+            },
+            {
+              "line": "L55-L59",
+              "what_happened": "Speaker texts Kayla about the dog about once a month; she usually responds with a thumbs-up."
+            },
+            {
+              "line": "L66",
+              "what_happened": "Speaker states 2024 was his best year ever, by about forty percent."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L24",
+              "choice_made": "Speaker stayed in Cabo to close deals for President's Club qualification rather than return",
+              "alternatives_present_in_text": "Returning to be present during her father's death was an implied alternative, not stated as considered"
+            },
+            {
+              "line": "L28-L29",
+              "choice_made": "Speaker arranged and paid for sister's flight, handled the florist error, and paid for the luncheon remotely",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L41",
+              "choice_made": "Speaker said 'okay' and did not fight the breakup",
+              "alternatives_present_in_text": "L42 references 'begging' as the alternative he rejected"
+            },
+            {
+              "line": "L46",
+              "choice_made": "Speaker kept the dog",
+              "alternatives_present_in_text": "None stated; framed as following from Kayla's apartment restriction"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L15",
+              "quote": "My season is, I'm building."
+            },
+            {
+              "line": "L16",
+              "quote": "you can't ask a guy who's building to come inside and sit down"
+            },
+            {
+              "line": "L27",
+              "quote": "I took care of it."
+            },
+            {
+              "line": "L31",
+              "quote": "I handled what I could handle from where I was."
+            },
+            {
+              "line": "L42",
+              "quote": "I'd rather lose you standing up"
+            },
+            {
+              "line": "L52",
+              "quote": "He's the homie."
+            },
+            {
+              "line": "L63",
+              "quote": "I was too comfortable."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L28",
+              "quote": "I called and I went off on them"
+            },
+            {
+              "line": "L70",
+              "quote": "That one still, uh."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "Um.",
+              "lines": [
+                "L3",
+                "L7",
+                "L17",
+                "L21",
+                "L26",
+                "L32",
+                "L37",
+                "L43",
+                "L54",
+                "L60"
+              ]
+            },
+            {
+              "phrase": "she never asked / never once asked",
+              "lines": [
+                "L33",
+                "L35"
+              ]
+            },
+            {
+              "phrase": "I took care of it / I handled what I could handle",
+              "lines": [
+                "L27",
+                "L31"
+              ]
+            },
+            {
+              "phrase": "building",
+              "lines": [
+                "L15",
+                "L16"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L22",
+              "quote": "the thing that ended it, technically, was — her dad had cancer, pancreatic, and it went fast, like eight months from the scan, and, uh, he passed in September",
+              "note": "Speaker moves quickly through the father's diagnosis and death in a single run-on sentence before pivoting to his own Cabo situation in the next line."
+            },
+            {
+              "line": "L40",
+              "quote": "she said she'd been thinking and I said okay",
+              "note": "The breakup conversation itself is compressed into one short sentence with no elaboration on what was said or felt."
+            },
+            {
+              "line": "L70-L73",
+              "quote": "That one still, uh. Whatever. It's all part of it. Trust the process.",
+              "note": "Speaker begins a sentence about the experience still affecting him, cuts it off with 'Whatever,' and moves to closing aphorisms without completing the thought."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Kayla",
+              "lines": [
+                "L4",
+                "L6",
+                "L12",
+                "L33",
+                "L38",
+                "L40",
+                "L55",
+                "L59"
+              ],
+              "what_they_did": "Was in a three-to-four-year relationship with speaker; wanted a stable domestic routine (Sundays, Costco, meal prep, in bed by ten); did not ask speaker to come to Cabo or return; became quieter after his return; after five months said she'd been thinking and ended the relationship; now responds to his texts about the dog with a thumbs-up."
+            },
+            {
+              "who": "Kayla's father",
+              "lines": [
+                "L22"
+              ],
+              "what_they_did": "Was diagnosed with pancreatic cancer and died about eight months later, in September."
+            },
+            {
+              "who": "Kayla's sister",
+              "lines": [
+                "L28"
+              ],
+              "what_they_did": "Was flown in from Denver by speaker (via Southwest) around the time of the father's death."
+            },
+            {
+              "who": "Kayla's mother",
+              "lines": [
+                "L29"
+              ],
+              "what_they_did": "Received speaker's card number over the phone to pay for the post-funeral luncheon."
+            },
+            {
+              "who": "The florist",
+              "lines": [
+                "L28"
+              ],
+              "what_they_did": "Sent a get-well arrangement to the funeral home in error; speaker called and it was corrected same day."
+            },
+            {
+              "who": "Nacho (the dog)",
+              "lines": [
+                "L46",
+                "L47",
+                "L48",
+                "L50",
+                "L51",
+                "L53"
+              ],
+              "what_they_did": "Originally Kayla's dog; now lives with speaker due to her apartment's no-pet policy; had four teeth removed in March; has a permanent spot on speaker's couch."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes career opportunity has a single, non-repeatable window that justifies missing personal/family moments.",
+              "explanation": "He frames the President's Club qualifier as a one-shot chance ('You get one window') and uses it to explain staying in Cabo instead of returning during a family death, generalizing it as something 'everybody who's ever gotten anywhere understands.' This is an operating assumption about how success works, not just a description of that week.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L24",
+                  "quote": "if I don't close I don't go and if I don't go I'm not in the room with the guys who are in the room"
+                },
+                {
+                  "exp": 4,
+                  "line": "L25",
+                  "quote": "You get one window."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In career decisions, he will consistently choose high-stakes professional opportunities over family or relational presence, framing the trade-off as universal law rather than a personal choice."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He substitutes money and logistics for physical presence when someone he loves is grieving.",
+              "explanation": "Rather than returning for the funeral, he flew in the sister, fixed the florist error, and paid for the luncheon remotely, repeating 'I took care of it' / 'I handled what I could handle from where I was' as if these were equivalent to being there. The recurrence of this substitution — competence and money standing in for presence — is worth checking against other relationships.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L27",
+                  "quote": "I took care of it."
+                },
+                {
+                  "exp": 4,
+                  "line": "L31",
+                  "quote": "I handled what I could handle from where I was."
+                },
+                {
+                  "exp": 4,
+                  "line": "L29",
+                  "quote": "I paid for the, uh, the luncheon after, the thing at the church hall, I just gave her mom my card over the phone."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other close relationships under strain, he will offer financial or logistical help as a way to avoid showing up in person, and may not notice the difference until the relationship quietly cools."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes fighting for a relationship once someone has decided to leave makes you weak, so withdrawal is the only dignified response.",
+              "explanation": "When Kayla said she'd been thinking, he immediately agreed and did not push back, explaining this with a general rule ('you begging just makes you small') rather than anything specific to her. This reframes passivity as strength, suggesting a belief that protects him from the vulnerability of pursuit.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L41",
+                  "quote": "And I didn't fight it."
+                },
+                {
+                  "exp": 4,
+                  "line": "L42",
+                  "quote": "if somebody's already decided, you begging just makes you small, and I'd rather lose you standing up"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future conflicts or breakups, he will disengage quickly at the first sign the other person has doubts, rather than asking questions or repairing, and will frame the disengagement as pride rather than avoidance."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He narrates painful personal loss and quickly redirects into achievement and providence narratives.",
+              "explanation": "He rushes through the father's death and the breakup in compressed sentences, then pivots to 'Comfort is the enemy' and his best sales year, framing the loss as something God orchestrated for his growth. The pattern of skipping the felt cost and landing on a redemptive aphorism recurs at least twice in this single account (L22, L70-73) and is worth him examining.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L64",
+                  "quote": "Comfort is the enemy."
+                },
+                {
+                  "exp": 4,
+                  "line": "L70",
+                  "quote": "That one still, uh."
+                },
+                {
+                  "exp": 4,
+                  "line": "L72",
+                  "quote": "It's all part of it. Trust the process."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked directly about other losses or failures, he will move quickly to a lesson-learned or growth framing and resist sitting with what the loss actually cost him emotionally."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Under crisis, he is unusually effective at rapid, remote logistical problem-solving.",
+              "explanation": "From a distance he arranged a flight, caught and fixed a vendor error same-day, and covered a payment by phone — all while at a work event, showing a fast, decisive operational competence he clearly reaches for under pressure. This isn't just a value ('caring') but a demonstrated capability he executes fluently.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L28",
+                  "quote": "I flew her sister in from Denver, I booked it, Southwest, and I sent the — there was a whole thing with the flowers... I called and I went off on them, and I got it fixed same day."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he will be the person colleagues call to fix a logistical crisis fast, and he'll gravitate toward solving problems with money and coordination rather than direct emotional involvement."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "He substitutes money and logistics for physical presence when someone he loves is grieving.",
+              "explanation": "Rather than returning for the funeral, he flew in the sister, fixed the florist error, and paid for the luncheon remotely, repeating 'I took care of it' / 'I handled what I could handle from where I was' as if these were equivalent to being there. The recurrence of this substitution — competence and money standing in for presence — is worth checking against other relationships.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L27",
+                  "quote": "I took care of it."
+                },
+                {
+                  "exp": 4,
+                  "line": "L31",
+                  "quote": "I handled what I could handle from where I was."
+                },
+                {
+                  "exp": 4,
+                  "line": "L29",
+                  "quote": "I paid for the, uh, the luncheon after, the thing at the church hall, I just gave her mom my card over the phone."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other close relationships under strain, he will offer financial or logistical help as a way to avoid showing up in person, and may not notice the difference until the relationship quietly cools.",
+              "exp": 4
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes fighting for a relationship once someone has decided to leave makes you weak, so withdrawal is the only dignified response.",
+              "explanation": "When Kayla said she'd been thinking, he immediately agreed and did not push back, explaining this with a general rule ('you begging just makes you small') rather than anything specific to her. This reframes passivity as strength, suggesting a belief that protects him from the vulnerability of pursuit.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L41",
+                  "quote": "And I didn't fight it."
+                },
+                {
+                  "exp": 4,
+                  "line": "L42",
+                  "quote": "if somebody's already decided, you begging just makes you small, and I'd rather lose you standing up"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future conflicts or breakups, he will disengage quickly at the first sign the other person has doubts, rather than asking questions or repairing, and will frame the disengagement as pride rather than avoidance.",
+              "exp": 4
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He narrates painful personal loss and quickly redirects into achievement and providence narratives.",
+              "explanation": "He rushes through the father's death and the breakup in compressed sentences, then pivots to 'Comfort is the enemy' and his best sales year, framing the loss as something God orchestrated for his growth. The pattern of skipping the felt cost and landing on a redemptive aphorism recurs at least twice in this single account (L22, L70-73) and is worth him examining.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L64",
+                  "quote": "Comfort is the enemy."
+                },
+                {
+                  "exp": 4,
+                  "line": "L70",
+                  "quote": "That one still, uh."
+                },
+                {
+                  "exp": 4,
+                  "line": "L72",
+                  "quote": "It's all part of it. Trust the process."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked directly about other losses or failures, he will move quickly to a lesson-learned or growth framing and resist sitting with what the loss actually cost him emotionally.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes career opportunity has a single, non-repeatable window that justifies missing personal/family moments.",
+              "reason": "restated",
+              "note": "He explicitly states this belief himself ('You get one window,' 'everybody who's ever gotten anywhere understands') — it's not an inference, it's his own stated rationale."
+            },
+            {
+              "headline": "Under crisis, he is unusually effective at rapid, remote logistical problem-solving.",
+              "reason": "flattering",
+              "note": "A single crisis-response anecdote dressed as a 'zone of genius'; no evidence of a pattern across contexts or that this is what he's energized by/known for, and it reads as praise for handling a florist mix-up and a phone payment."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "He substitutes money and logistics for physical presence when someone he loves is grieving.",
+            "explanation": "Rather than returning for the funeral, he flew in the sister, fixed the florist error, and paid for the luncheon remotely, repeating 'I took care of it' / 'I handled what I could handle from where I was' as if these were equivalent to being there. The recurrence of this substitution — competence and money standing in for presence — is worth checking against other relationships.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L27",
+                "quote": "I took care of it."
+              },
+              {
+                "exp": 4,
+                "line": "L31",
+                "quote": "I handled what I could handle from where I was."
+              },
+              {
+                "exp": 4,
+                "line": "L29",
+                "quote": "I paid for the, uh, the luncheon after, the thing at the church hall, I just gave her mom my card over the phone."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In other close relationships under strain, he will offer financial or logistical help as a way to avoid showing up in person, and may not notice the difference until the relationship quietly cools.",
+            "exp": 4
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "He believes fighting for a relationship once someone has decided to leave makes you weak, so withdrawal is the only dignified response.",
+            "explanation": "When Kayla said she'd been thinking, he immediately agreed and did not push back, explaining this with a general rule ('you begging just makes you small') rather than anything specific to her. This reframes passivity as strength, suggesting a belief that protects him from the vulnerability of pursuit.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L41",
+                "quote": "And I didn't fight it."
+              },
+              {
+                "exp": 4,
+                "line": "L42",
+                "quote": "if somebody's already decided, you begging just makes you small, and I'd rather lose you standing up"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In future conflicts or breakups, he will disengage quickly at the first sign the other person has doubts, rather than asking questions or repairing, and will frame the disengagement as pride rather than avoidance.",
+            "exp": 4
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He narrates painful personal loss and quickly redirects into achievement and providence narratives.",
+            "explanation": "He rushes through the father's death and the breakup in compressed sentences, then pivots to 'Comfort is the enemy' and his best sales year, framing the loss as something God orchestrated for his growth. The pattern of skipping the felt cost and landing on a redemptive aphorism recurs at least twice in this single account (L22, L70-73) and is worth him examining.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L64",
+                "quote": "Comfort is the enemy."
+              },
+              {
+                "exp": 4,
+                "line": "L70",
+                "quote": "That one still, uh."
+              },
+              {
+                "exp": 4,
+                "line": "L72",
+                "quote": "It's all part of it. Trust the process."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "When asked directly about other losses or failures, he will move quickly to a lesson-learned or growth framing and resist sitting with what the loss actually cost him emotionally.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L6",
+              "what_happened": "He gets up at 3:40."
+            },
+            {
+              "line": "L10",
+              "what_happened": "He states he is awake at approximately 2:15 most nights."
+            },
+            {
+              "line": "L11",
+              "what_happened": "He states he doesn't sleep great."
+            },
+            {
+              "line": "L13",
+              "what_happened": "He states he has been up (awake) since he was a kid."
+            },
+            {
+              "line": "L15",
+              "what_happened": "He posts (videos) at that early hour."
+            },
+            {
+              "line": "L16",
+              "what_happened": "He does his videos at around 4-4:15, usually in the truck, in the garage."
+            },
+            {
+              "line": "L17",
+              "what_happened": "He states he has 11,200 followers on TikTok and about 3,000 on Instagram."
+            },
+            {
+              "line": "L18",
+              "what_happened": "He states he has never made a dollar from his social media, has no course."
+            },
+            {
+              "line": "L22",
+              "what_happened": "He states one video reached 284,000 views, the most-viewed day of his life."
+            },
+            {
+              "line": "L22",
+              "what_happened": "He states he went and did a sales knock afterward and got zero sits."
+            },
+            {
+              "line": "L28",
+              "what_happened": "He bought a four-bed, two-story house with a pool in Queen Creek in November."
+            },
+            {
+              "line": "L29",
+              "what_happened": "The house is mostly empty; he has a bed, couch, TV, and gym equipment in the third bedroom; two rooms have nothing in them."
+            },
+            {
+              "line": "L29",
+              "what_happened": "He states his \"boys\" mock him about the empty rooms."
+            },
+            {
+              "line": "L31",
+              "what_happened": "He states he told his mom there's a room for her whenever she's ready."
+            },
+            {
+              "line": "L32-33",
+              "what_happened": "He states she is not moving; she lives twelve minutes from a dialysis center in Mesa."
+            },
+            {
+              "line": "L37",
+              "what_happened": "His brother Devin is in a treatment program in Prescott."
+            },
+            {
+              "line": "L38",
+              "what_happened": "This is stated as the third time (in a program)."
+            },
+            {
+              "line": "L40",
+              "what_happened": "The program costs $4,800/month; insurance covers some of it."
+            },
+            {
+              "line": "L41",
+              "what_happened": "He states he autopays it on the first and doesn't look at it."
+            },
+            {
+              "line": "L44-45",
+              "what_happened": "He states he has not been up to see him (Devin)."
+            },
+            {
+              "line": "L46",
+              "what_happened": "He states the drive is about a hundred minutes each way; Sundays are unavailable because of his grandma."
+            },
+            {
+              "line": "L47",
+              "what_happened": "His grandmother, Elva, is in a memory care facility off Brown Road; he visits Sundays, brings her a glass-bottle Coke from a Mexican store, and does the crossword in the Republic with her, doing most of it himself while she does the parts she can."
+            },
+            {
+              "line": "L48",
+              "what_happened": "He states she sometimes thinks he is his dad."
+            },
+            {
+              "line": "L49",
+              "what_happened": "He states he lets it ride (does not correct her)."
+            },
+            {
+              "line": "L53-54",
+              "what_happened": "He checks on former customers; one named Ray, off Val Vista, age 91, whose inverter has been fine for four years, but Ray calls and he goes out."
+            },
+            {
+              "line": "L60",
+              "what_happened": "He states he is at 112 accounts personally, manages nine people, has a goal of $400K, and will probably reach approximately $360K+."
+            },
+            {
+              "line": "L60",
+              "what_happened": "He states this outcome is a miss and states he will own it."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L7-8",
+              "choice_made": "Rising at 3:40 rather than 5am",
+              "alternatives_present_in_text": "The \"5am club\" is named explicitly as the compared alternative."
+            },
+            {
+              "line": "L41-42",
+              "choice_made": "Continuing to autopay for his brother's program without reviewing the charge",
+              "alternatives_present_in_text": "He references others' framing: \"people say you're enabling.\""
+            },
+            {
+              "line": "L44-46",
+              "choice_made": "Not visiting his brother in Prescott; visiting his grandmother on Sundays instead",
+              "alternatives_present_in_text": "Sunday is described as the only available day, allocated to his grandmother rather than travel to see Devin."
+            },
+            {
+              "line": "L49",
+              "choice_made": "Not correcting his grandmother when she thinks he is his dad",
+              "alternatives_present_in_text": "No alternative stated in text other than not correcting her."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L18",
+              "quote": "I'm not selling a course, I don't have a course, I've never made a dollar off it"
+            },
+            {
+              "line": "L42",
+              "quote": "I say no, I'm investing"
+            },
+            {
+              "line": "L60",
+              "quote": "that's a miss and I'm gonna own it"
+            },
+            {
+              "line": "L69-70",
+              "quote": "Blessed. Genuinely."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L69",
+              "quote": "Blessed"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "Um",
+              "lines": [
+                "L2",
+                "L5",
+                "L14",
+                "L25",
+                "L30",
+                "L36",
+                "L43",
+                "L52",
+                "L55",
+                "L61",
+                "L66"
+              ]
+            },
+            {
+              "phrase": "Uh",
+              "lines": [
+                "L5",
+                "L9",
+                "L21",
+                "L26",
+                "L39",
+                "L56",
+                "L59",
+                "L71"
+              ]
+            },
+            {
+              "phrase": "That's a miss",
+              "lines": [
+                "L60"
+              ]
+            },
+            {
+              "phrase": "Zero",
+              "lines": [
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "phrase": "Especially the bad ones / Even the bad ones",
+              "lines": [
+                "L64",
+                "L65"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L44-45",
+              "quote": "I haven't, uh, I haven't been up there. To see him.",
+              "note": "Statement about not visiting his brother is broken into short fragments and immediately followed by a shift to explaining the schedule conflict."
+            },
+            {
+              "line": "L50-51",
+              "quote": "It's easier. She's happier with him anyway, ha.",
+              "note": "Statement about his grandmother mistaking him for his father is followed by a short laugh notation and quick move to the next topic."
+            },
+            {
+              "line": "L56-57",
+              "quote": "Uh. What was I — yeah.",
+              "note": "He loses his place and redirects back to the stated topic without further comment on prior material."
+            },
+            {
+              "line": "L67-68",
+              "quote": "I don't know. That's, uh, that's where I'm at.",
+              "note": "Closing lines are short and trail off before ending the segment."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Mom",
+              "lines": [
+                "L31",
+                "L32",
+                "L33"
+              ],
+              "what_they_did": "Was offered a room in his house; is not moving from Mesa; lives twelve minutes from a dialysis center."
+            },
+            {
+              "who": "Devin (brother)",
+              "lines": [
+                "L37",
+                "L38",
+                "L40",
+                "L44"
+              ],
+              "what_they_did": "Is in a treatment program in Prescott for the third time; program cost is autopaid by speaker; speaker has not visited him there."
+            },
+            {
+              "who": "Elva (grandmother)",
+              "lines": [
+                "L47",
+                "L48"
+              ],
+              "what_they_did": "Lives in a memory care facility off Brown Road; does the crossword with speaker on Sundays; sometimes thinks he is his (the speaker's) father."
+            },
+            {
+              "who": "Ray",
+              "lines": [
+                "L54"
+              ],
+              "what_they_did": "Former customer, age 91, off Val Vista; calls the speaker and speaker goes out to check on him."
+            },
+            {
+              "who": "\"my boys\"",
+              "lines": [
+                "L29"
+              ],
+              "what_they_did": "Mock/clown him about the two empty rooms in his house."
+            },
+            {
+              "who": "\"people\"",
+              "lines": [
+                "L42"
+              ],
+              "what_they_did": "Say he is \"enabling\" his brother by paying for the program."
+            },
+            {
+              "who": "\"everybody\"",
+              "lines": [
+                "L18"
+              ],
+              "what_they_did": "Assume he is trying to be an influencer."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "He allocates his single available free day to his grandmother rather than the 100-minute drive to see his brother in treatment.",
+              "explanation": "Given a scarce resource (Sundays), he chose presence with Elva over visiting Devin, even framing it as the reason he 'hasn't been up there.' The choice under real constraint reveals what he protects: consistent, in-person care for someone who is already declining, over a harder relational repair.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L44-46",
+                  "quote": "I haven't, uh, I haven't been up there. To see him. ... Sundays are the only — because Sundays I've got my grandma."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In friendships/community, he will consistently show up for long-standing, low-drama relationships (old customers, elders) while avoiding harder, higher-conflict relational repairs even when he says he prioritizes family."
+            },
+            {
+              "category": "core_values",
+              "headline": "He keeps paying for his brother's third rehab stint without reviewing the cost, choosing to be wrong on the side of loyalty rather than protect himself from being 'enabling.'",
+              "explanation": "He names the criticism directly ('people say you're enabling') and explicitly rejects it, choosing continued financial commitment despite a track record of relapse (third time) and no in-person visits. This is a costly, values-driven choice, not a stated belief.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L41-42",
+                  "quote": "I just autopay it on the first, I don't even look at it anymore, it just goes. And people say you're enabling, and I say no, I'm investing"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In finances and stewardship, he will keep funding people he loves even when the return is uncertain or the advice from others says to stop."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes that if he is not visibly working hardest of anyone, he is falling behind.",
+              "explanation": "His dismissal of the '5am club' as a 'participation trophy' and his framing of his sleeplessness as unremarkable ('it's not that impressive') shows a baseline assumption that ordinary effort doesn't count — only excess does. This same lens appears in how he treats a huge viral win as needing to be immediately offset with hustle (the knock).",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L8",
+                  "quote": "Everybody's doing the 5am club, that's, you're already behind, the 5am club is the participation trophy of the morning."
+                },
+                {
+                  "exp": 5,
+                  "line": "L10",
+                  "quote": "so it's not, you know, it's not that impressive"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In habits and discipline, he will resist rest or recovery periods, reframing any slower period as falling behind rather than as recovery."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes success and failure are ultimately not fully his to control, but part of a larger plan, which lets him tolerate a big miss without collapsing.",
+              "explanation": "After naming a real financial miss ($360K vs $400K goal), he immediately pivots to 'everything happens for a reason' and God 'positioning' him even through closed doors. This belief functions as a coping frame that lets him own the miss without dwelling on it.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L60",
+                  "quote": "that's a miss and I'm gonna own it"
+                },
+                {
+                  "exp": 5,
+                  "line": "L62-65",
+                  "quote": "everything happens for a reason, and I really do believe God's been positioning me this whole time, like, every door that closed... Even the bad ones. Especially the bad ones."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In faith and spirituality, he will interpret career setbacks as redirection rather than personal failure, and rarely seek to analyze what went wrong mechanically."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He repeatedly chooses not to correct or confront painful truths in close relationships, letting things 'ride' rather than address them directly.",
+              "explanation": "He lets his grandmother believe he's his father ('I just let it ride... it's easier'), avoids visiting his brother despite paying for his care, and never mentions confronting his own sleep problem despite having it since childhood. Across three different relationships he consistently avoids the harder, direct engagement in favor of accommodation or distance — worth checking whether this is comfort with passive care versus active discomfort with confrontation.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L49-50",
+                  "quote": "And I just, I let it ride. It's easier."
+                },
+                {
+                  "exp": 5,
+                  "line": "L44-45",
+                  "quote": "I haven't, uh, I haven't been up there. To see him."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In communication and conflict, he will avoid direct confrontation with people he loves, preferring to manage the relationship logistically (money, routine visits) rather than have hard conversations."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He turns raw, unfiltered early-morning thought into content people respond to, describing it as simply 'where the thoughts go' rather than a strategy.",
+              "explanation": "He produces video content daily at 4am with no monetization motive or course to sell, purely as an outlet, and one video reached 284,000 views — a scale disproportionate to his follower count, suggesting a natural resonance in how he articulates things rather than a built system.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L19-20",
+                  "quote": "It's just, um, it's just where the thoughts go. You gotta pour it somewhere."
+                },
+                {
+                  "exp": 5,
+                  "line": "L22",
+                  "quote": "I had one do 284,000 which was, uh, that was the most-viewed day of my life"
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "In passions and interests, he will keep creating without a monetization plan, resistant to turning the outlet into a formal business even when others push him to."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "He keeps paying for his brother's third rehab stint without reviewing the cost, choosing to be wrong on the side of loyalty rather than protect himself from being 'enabling.'",
+              "explanation": "He names the criticism directly ('people say you're enabling') and explicitly rejects it, choosing continued financial commitment despite a track record of relapse (third time) and no in-person visits. This is a costly, values-driven choice, not a stated belief.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L41-42",
+                  "quote": "I just autopay it on the first, I don't even look at it anymore, it just goes. And people say you're enabling, and I say no, I'm investing"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In finances and stewardship, he will keep funding people he loves even when the return is uncertain or the advice from others says to stop.",
+              "exp": 5
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He repeatedly chooses not to correct or confront painful truths in close relationships, letting things 'ride' rather than address them directly.",
+              "explanation": "He lets his grandmother believe he's his father ('I just let it ride... it's easier'), avoids visiting his brother despite paying for his care, and structures Sundays so the harder trip never happens. Across two different relationships he consistently avoids the harder, direct engagement in favor of accommodation or distance — worth checking whether this is comfort with passive care versus active discomfort with confrontation.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L49-50",
+                  "quote": "And I just, I let it ride. It's easier."
+                },
+                {
+                  "exp": 5,
+                  "line": "L44-46",
+                  "quote": "I haven't, uh, I haven't been up there. To see him. ... Sundays are the only — because Sundays I've got my grandma."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In communication and conflict, he will avoid direct confrontation with people he loves, preferring to manage the relationship logistically (money, routine visits) rather than have hard conversations.",
+              "exp": 5
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He allocates his single available free day to his grandmother rather than the 100-minute drive to see his brother in treatment.",
+              "reason": "restated",
+              "note": "This is just the pattern-to-explore candidate's evidence recast as a values claim; the speaker already stated the Sunday/grandma tradeoff plainly, and framing it as a settled 'value' rather than an open question duplicates the surviving pattern candidate."
+            },
+            {
+              "headline": "He believes that if he is not visibly working hardest of anyone, he is falling behind.",
+              "reason": "ungrounded",
+              "note": "The quotes are a joke about the '5am club' and an offhand comment about his own sleep; neither actually supports a generalized belief that ordinary effort doesn't count — this is overreached from a one-line quip."
+            },
+            {
+              "headline": "He believes success and failure are ultimately not fully his to control, but part of a larger plan, which lets him tolerate a big miss without collapsing.",
+              "reason": "restated",
+              "note": "He directly states 'everything happens for a reason' and explains the coping mechanism himself; there's no inference here beyond what he said in his own words."
+            },
+            {
+              "headline": "He turns raw, unfiltered early-morning thought into content people respond to, describing it as simply 'where the thoughts go' rather than a strategy.",
+              "reason": "flattering",
+              "note": "One viral video against low average metrics isn't evidence of a 'genius'; this reads as praise for content creation dressed as analysis, and the 'where the thoughts go' line is just restated, not interpreted."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "He keeps paying for his brother's third rehab stint without reviewing the cost, choosing to be wrong on the side of loyalty rather than protect himself from being 'enabling.'",
+            "explanation": "He names the criticism directly ('people say you're enabling') and explicitly rejects it, choosing continued financial commitment despite a track record of relapse (third time) and no in-person visits. This is a costly, values-driven choice, not a stated belief.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L41-42",
+                "quote": "I just autopay it on the first, I don't even look at it anymore, it just goes. And people say you're enabling, and I say no, I'm investing"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In finances and stewardship, he will keep funding people he loves even when the return is uncertain or the advice from others says to stop.",
+            "exp": 5
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He repeatedly chooses not to correct or confront painful truths in close relationships, letting things 'ride' rather than address them directly.",
+            "explanation": "He lets his grandmother believe he's his father ('I just let it ride... it's easier'), avoids visiting his brother despite paying for his care, and structures Sundays so the harder trip never happens. Across two different relationships he consistently avoids the harder, direct engagement in favor of accommodation or distance — worth checking whether this is comfort with passive care versus active discomfort with confrontation.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L49-50",
+                "quote": "And I just, I let it ride. It's easier."
+              },
+              {
+                "exp": 5,
+                "line": "L44-46",
+                "quote": "I haven't, uh, I haven't been up there. To see him. ... Sundays are the only — because Sundays I've got my grandma."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In communication and conflict, he will avoid direct confrontation with people he loves, preferring to manage the relationship logistically (money, routine visits) rather than have hard conversations.",
+            "exp": 5
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "He treats presence as fundamentally substitutable — by money, by logistics, or by narrative — across every close relationship he describes.",
+          "explanation": "In E1 his father was physically present but checked out (sat in the truck for two hours) while the boy did the labor of grief himself; in E4 he was physically absent from Kayla's father's funeral but substituted flights, flowers, and a credit card ('I took care of it... I handled what I could handle from where I was'); in E5 he funds his brother's rehab via autopay but hasn't visited in three stints ('I haven't, uh, I haven't been up there'). The recurring shape is that competence and money stand in for showing up, across a parent's modeling, a partner's grief, and a sibling's crisis.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I handled what I could handle from where I was."
+            },
+            {
+              "exp": 5,
+              "quote": "I just autopay it on the first, I don't even look at it anymore, it just goes."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a future family health crisis or friend's emergency, he will offer to pay for something or logistically solve it before offering to physically be there, and will describe the payment as having 'handled' the situation."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "He habitually narrates the most emotionally exposed moment of a story, then immediately reaches for a slogan or reframe that closes the door on it.",
+          "explanation": "After describing his father sitting silently in the truck, he pivots straight to 'That's God showing you the lesson while you're still in it' (E1); after describing eleven weeks of unpaid advocacy for Mrs. Delgado he calls it 'nothing' (E3); after the breakup he lands on 'Comfort is the enemy... Trust the process' (E4). The pattern holds across three separate experiences spanning childhood, work, and romance — the content changes but the reflex (raw detail → aphorism) doesn't.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "That's God showing you the lesson while you're still in it."
+            },
+            {
+              "exp": 3,
+              "quote": "I moved her box fan into the bedroom because she'd been sleeping in the front room... anyway. Whatever, that's nothing."
+            },
+            {
+              "exp": 4,
+              "quote": "Comfort is the enemy. Comfort's where dreams go to die."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a therapy-style or coaching conversation asked to stay on one difficult feeling for more than a minute, he will redirect to a motivational or providential frame within roughly two sentences of naming the feeling."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "He believes direct confrontation of wrongdoing or conflict is not his responsibility to carry — a belief that spans institutional fraud, a breakup, and family estrangement.",
+          "explanation": "He declines to report fraud to corporate ('I never actually reported anything... God don't make mistakes and He doesn't need my help with the paperwork,' E3), declines to fight for the relationship when Kayla signals doubt ('I didn't fight it... you begging just makes you small,' E4), and lets his grandmother's confusion about his identity go uncorrected ('I just let it ride. It's easier,' E5). In each case the language of principle ('stay in your lane,' 'lose you standing up,' 'easier') covers the same underlying move: disengaging rather than intervening.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I just, I handled my one. I fixed my one."
+            },
+            {
+              "exp": 5,
+              "quote": "And I just, I let it ride. It's easier."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "When a direct report or team member on his own sales team does something ethically questionable, he will quietly manage the immediate fallout rather than escalate or confront them directly."
+        },
+        {
+          "category": "core_values",
+          "headline": "He quietly and repeatedly absorbs family financial burden without disclosure or negotiation, treating invisibility as part of the sacrifice.",
+          "explanation": "He covered his mother's car payment for 26 months on a call-center salary without telling her it was a strain ('that's not, like, I don't count that as anything,' E2), and now autopays $4,800/month for his brother's rehab 'without even looking at it' (E5). The cost is real in both cases (26 months on a $800-900/week income; a fourth rehab stint funded despite relapse pattern) and in both cases he explicitly minimizes or reframes it rather than naming it as sacrifice.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "she was two behind on it and they were calling the house, and it was three-twelve a month... I just, I set it up on my debit card"
+            },
+            {
+              "exp": 5,
+              "quote": "it's forty-eight hundred a month and insurance covers, like, some. And, uh, I just autopay it on the first, I don't even look at it anymore"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "He will underreport his own financial contributions to family members when asked directly (e.g. in a financial planning conversation), listing them as smaller or less significant than they actually are relative to his income at the time."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "He withholds hard information from the people he's protecting, then reframes the withholding as protecting their peace — a pattern that recurs with his parents and his grandmother.",
+          "explanation": "He told his parents 'grinding' instead of disclosing he'd dropped out for over a year ('I wasn't trying to deceive anybody... protect your peace,' E2), and lets his grandmother believe he is his father rather than correcting her ('I just let it ride... She's happier with him anyway,' E5). Both are framed as kindness or ease rather than avoidance, worth checking whether the frame is accurate or self-protective.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I know how that sounds but I wasn't trying to deceive anybody, I was just, I didn't want the energy in the house. Protect your peace, right?"
+            },
+            {
+              "exp": 5,
+              "quote": "Sometimes she thinks I'm my dad. And I just, I let it ride. It's easier."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a serious relationship, he will delay telling a partner about a financial or health problem until it's already resolved or too large to hide, citing a desire to protect her rather than a discomfort with the conversation itself."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "He believes closed doors and lost people are proof of divine positioning, and uses this belief to convert every major loss in his life into evidence of his trajectory.",
+          "explanation": "Losing the house is 'the best thing that ever happened' and 'God had to close that door' (E1); Mike's fraud and exit from the industry is 'God removes people... you say thank you' (E3); the breakup precedes his best sales year and 'I think God clears the table before He serves the meal' (E4); and in the present he says 'God's been positioning me this whole time... every door that closed. Even the bad ones' (E5). This is the single most load-bearing belief across all five accounts — it appears in every experience without exception.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "God had to close that door."
+            },
+            {
+              "exp": 5,
+              "quote": "God's been positioning me this whole time, like, every door that closed. You know? Even the bad ones. Especially the bad ones."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "When facing his current sales miss (projected $360K against a $400K goal, E5), he will publicly frame it as purposeful positioning rather than analyze what operational changes might close the gap next year."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "His stated belief that 'everything happens for a reason' coexists with a demonstrated need to personally engineer outcomes rather than let things unfold — a live contradiction between his theology and his behavior.",
+          "explanation": "He says loss and misfortune are divinely orchestrated and not his to fix (E1, E3), yet in practice he numbered 41 moving boxes unprompted as an 11-year-old (E1), drove out to Maryvale and spent a full day unwinding Mrs. Delgado's fraud himself over 11 weeks (E3), and remotely managed a funeral's logistics down to the florist (E4). The providence language may function less as a description of how he actually operates and more as a retrospective label applied after he has already personally intervened.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "Nobody asked me to do that. I was just, I don't know, I was locked in."
+            },
+            {
+              "exp": 3,
+              "quote": "Took me eleven weeks and, like, forty phone calls but I got her unwound, no cost to her."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "contradiction",
+          "would_predict": "When something goes wrong in his business or personal life, he will act quickly and unilaterally to control the outcome before invoking a providential explanation for why it happened — the intervention will come first, the theology second."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "He is exceptionally energized by, and sought out for, hands-on repair of a specific person's broken situation — not systems-level fixing, but one relationship or one household at a time.",
+          "explanation": "The most vivid, detail-rich passages in the entire set are not about sales numbers but about fixing one person's tangible problem: numbering and inventorying 41 moving boxes as a child (E1), the granular description of Mrs. Delgado's AC filter, box fan, and lemons (E3), and continuing to personally service old customers like Ray 'off Val Vista, ninety-one, his inverter's been fine for four years but he calls and I go out' (E5) long after there's a business reason to. He explicitly declines the systemic version of this ('you should've blown the whistle... stay in your lane') in favor of the individual version every time.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I noticed her AC filter was, it was gray, it was like felt, so I went to the Ace on 43rd and got her a four-pack and changed it, and I moved her box fan into the bedroom"
+            },
+            {
+              "exp": 5,
+              "quote": "There's a guy, Ray, off Val Vista, ninety-one, his inverter's been fine for four years but he calls and I go out."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "As his team grows (he now manages nine reps, E5), he will keep personally taking calls from individual legacy customers rather than delegating them, even when it doesn't scale and costs him selling time."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "He consistently frames withdrawal or non-escalation as strength ('standing up,' 'staying in your lane,' 'letting it ride'), which may be worth distinguishing from actual conflict avoidance.",
+          "explanation": "Whether it's not fighting for the relationship (E4: 'I'd rather lose you standing up'), not reporting fraud (E3: 'stay in your lane, run your race'), or not correcting his grandmother (E5: 'it's easier'), every instance of non-action is given a dignified label rather than examined as a default. The recurrence across three unrelated domains — romance, ethics at work, family — suggests a consistent self-narrative that may or may not match what's actually driving the choice not to engage.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "bro, stay in your lane, run your race, you can't carry what's not yours."
+            },
+            {
+              "exp": 4,
+              "quote": "I'd rather lose you standing up."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "If asked directly whether he avoids conflict, he will say no and cite pride or principle; a third party close to him (a girlfriend, a business partner) would likely describe the same behavior as him disappearing rather than engaging when things get hard."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "You substitute money and logistics for presence in nearly every close relationship you describe.",
+          "explanation": "Your father was physically there but checked out — he sat in the truck while others did the work. You weren't at Kayla's father's funeral, but you paid for flights, flowers, and the luncheon. You haven't visited your brother in rehab across three stints, but you autopay $4,800 a month without looking at it. The pattern holds across a parent's example, a partner's grief, and a sibling's crisis: competence and money stand in for showing up.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I handled what I could handle from where I was."
+            },
+            {
+              "exp": 5,
+              "quote": "I just autopay it on the first, I don't even look at it anymore, it just goes."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: a future crisis where you show up physically despite the option to pay your way out. Would lower: if this pattern turns out to reflect logistics (distance, work) rather than a consistent preference.",
+          "would_predict": "In a future family health crisis or friend's emergency, you'll offer to pay for something or solve it logistically before offering to physically be there, and describe the payment as having 'handled' it."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You describe the most exposed moment of a story, then immediately close it with a slogan.",
+          "explanation": "After describing your father sitting silently in the truck, you pivot straight to 'That's God showing you the lesson while you're still in it.' After describing eleven weeks of unpaid advocacy for Mrs. Delgado, you call it 'nothing.' After the breakup, you land on 'Comfort is the enemy... Trust the process.' The content changes across childhood, work, and romance, but the reflex — raw detail, then aphorism — doesn't.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "That's God showing you the lesson while you're still in it."
+            },
+            {
+              "exp": 3,
+              "quote": "I moved her box fan into the bedroom because she'd been sleeping in the front room... anyway. Whatever, that's nothing."
+            },
+            {
+              "exp": 4,
+              "quote": "Comfort is the enemy. Comfort's where dreams go to die."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: staying with a difficult feeling past the point of reflex in a live conversation. Would lower: if this only shows up in retrospective storytelling, not in real time.",
+          "would_predict": "Asked to stay on one difficult feeling for more than a minute, you'll redirect to a motivational or providential frame within roughly two sentences of naming it."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You treat confronting wrongdoing or conflict directly as not your responsibility — across fraud, a breakup, and family confusion.",
+          "explanation": "You never reported the fraud you found to corporate — 'God don't make mistakes and He doesn't need my help with the paperwork.' You didn't fight for the relationship when Kayla signaled doubt. You let your grandmother's confusion about your identity go uncorrected — 'I just let it ride. It's easier.' Each time, a language of principle covers the same move: disengaging instead of intervening.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I just, I handled my one. I fixed my one."
+            },
+            {
+              "exp": 5,
+              "quote": "And I just, I let it ride. It's easier."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise: a documented instance of you directly confronting someone in authority. Would lower: if these three cases share a situational reason (industry norms, grief, dementia) rather than a general stance.",
+          "would_predict": "If someone on your own sales team does something ethically questionable, you'll quietly manage the fallout rather than escalate or confront them directly."
+        },
+        {
+          "category": "core_values",
+          "headline": "You quietly absorb family financial burden and minimize it rather than naming it as sacrifice.",
+          "explanation": "You covered your mother's car payment for 26 months on a call-center salary without telling her it was a strain — 'that's not, like, I don't count that as anything.' You now autopay $4,800/month for your brother's rehab 'without even looking at it.' The cost is real in both cases relative to your income at the time, and in both cases you minimize it rather than naming it.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "she was two behind on it and they were calling the house, and it was three-twelve a month... I just, I set it up on my debit card"
+            },
+            {
+              "exp": 5,
+              "quote": "it's forty-eight hundred a month and insurance covers, like, some. And, uh, I just autopay it on the first, I don't even look at it anymore"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: hearing you underreport these contributions when asked directly in a financial context. Would lower: if you've disclosed the true scale of these costs to anyone close to you.",
+          "would_predict": "You'll underreport your own financial contributions to family members when asked directly, listing them as smaller than they actually are relative to your income at the time."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You withhold hard information from people you say you're protecting, then reframe the withholding as protecting their peace.",
+          "explanation": "You told your parents 'grinding' instead of disclosing you'd dropped out for over a year — 'I wasn't trying to deceive anybody... protect your peace, right?' You let your grandmother believe you're your father rather than correcting her — 'I just let it ride... She's happier with him anyway.' Both are framed as kindness rather than avoidance; worth checking whether that frame holds up.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I know how that sounds but I wasn't trying to deceive anybody, I was just, I didn't want the energy in the house. Protect your peace, right?"
+            },
+            {
+              "exp": 5,
+              "quote": "Sometimes she thinks I'm my dad. And I just, I let it ride. It's easier."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise: a case where the withheld information caused real harm once revealed. Would lower: if disclosure in each case genuinely would have made things worse for the other person, not just for you.",
+          "would_predict": "In a serious relationship, you'll delay telling a partner about a financial or health problem until it's already resolved or too large to hide, citing a desire to protect her."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You convert every major loss in your life into evidence of divine positioning, and this belief is the most load-bearing one across everything you've described.",
+          "explanation": "Losing the house is 'the best thing that ever happened' — 'God had to close that door.' Mike's fraud and exit from the industry is 'God removes people... you say thank you.' The breakup precedes your best sales year and 'God clears the table before He serves the meal.' Right now, 'God's been positioning me this whole time... every door that closed. Even the bad ones.' It appears in every experience without exception.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "God had to close that door."
+            },
+            {
+              "exp": 5,
+              "quote": "God's been positioning me this whole time, like, every door that closed. You know? Even the bad ones. Especially the bad ones."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: this frame appearing even when the outcome hasn't resolved favorably yet. Would lower: an instance where you sit with a loss as just a loss, without reframing it.",
+          "would_predict": "Facing your current sales miss (projected $360K against a $400K goal), you'll publicly frame it as purposeful positioning rather than analyze what operational changes might close the gap next year."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Your belief that 'everything happens for a reason' coexists with a demonstrated need to personally engineer outcomes — the theology and the behavior may not match.",
+          "explanation": "You say loss is divinely orchestrated and not yours to fix, yet you numbered 41 moving boxes unprompted as an 11-year-old, spent 11 weeks personally unwinding Mrs. Delgado's fraud, and remotely managed a funeral's logistics down to the florist. The providence language may be a label applied after you've already personally intervened, not a description of how you actually operate.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "Nobody asked me to do that. I was just, I don't know, I was locked in."
+            },
+            {
+              "exp": 3,
+              "quote": "Took me eleven weeks and, like, forty phone calls but I got her unwound, no cost to her."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise: a case where you genuinely let something unfold without intervening and still called it providence. Would lower: if you can point to real instances of stepping back and trusting the outcome without acting.",
+          "would_predict": "When something goes wrong in your business or personal life, you'll act quickly and unilaterally to control the outcome before invoking a providential explanation — intervention first, theology second."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "You come alive fixing one person's broken situation up close, not systems — and you keep doing it long after there's a business reason to.",
+          "explanation": "The most detailed, vivid passages you gave weren't about sales numbers — they were about fixing one person's tangible problem: numbering 41 moving boxes as a kid, the granular fix for Mrs. Delgado's AC filter and box fan, and still personally driving out for Ray's calls even though 'his inverter's been fine for four years.' You explicitly decline the systemic version of this ('stay in your lane') in favor of the individual version every time.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I noticed her AC filter was, it was gray, it was like felt, so I went to the Ace on 43rd and got her a four-pack and changed it, and I moved her box fan into the bedroom"
+            },
+            {
+              "exp": 5,
+              "quote": "There's a guy, Ray, off Val Vista, ninety-one, his inverter's been fine for four years but he calls and I go out."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: continuing this behavior even as your team scales further. Would lower: if you start delegating these legacy calls as your business grows.",
+          "would_predict": "As your team grows past nine reps, you'll keep personally taking calls from individual legacy customers rather than delegating them, even when it doesn't scale and costs you selling time."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You consistently label withdrawal as strength — worth distinguishing from actual conflict avoidance.",
+          "explanation": "Not fighting for the relationship becomes 'I'd rather lose you standing up.' Not reporting fraud becomes 'stay in your lane, run your race.' Not correcting your grandmother becomes 'it's easier.' Every instance of non-action gets a dignified label rather than examination. This recurs across romance, work ethics, and family — a consistent self-narrative that may or may not match what's actually driving the choice not to engage.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "bro, stay in your lane, run your race, you can't carry what's not yours."
+            },
+            {
+              "exp": 4,
+              "quote": "I'd rather lose you standing up."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise: a third party (partner, colleague) describing you as disappearing rather than engaging under pressure. Would lower: an instance where you did escalate or fight for something and it's simply absent from these five accounts.",
+          "would_predict": "Asked directly whether you avoid conflict, you'll say no and cite pride or principle; someone close to you would likely describe the same behavior as disappearing rather than engaging."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 4.7542,
+  "latency_ms": 182407,
+  "persona": "p03_cliche",
+  "n_experiences": 5,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T16:11:25.953052+00:00"
+}

@@ -1,0 +1,3261 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "patterns_to_explore",
+      "headline": "You say 'I'm not a work person' in nearly the same words across 26 years, and each time you say it, the story right next to it proves the opposite.",
+      "explanation": "In 1999 you open with 'I don't even consider myself a work person, I want that on the record, my family is my whole entire thing' right before telling the story of the patient who made you (E1 L3). In 2005, mid-divorce, you say it again almost word for word, right after admitting the walkthrough ritual with your team is 'what I got laying around' when asked what shaped you (E2 L52-57). In 2025 you're still saying it — 'my family is the priority, period, it always has been, I'm not one of these people that's married to a hospital' — right after describing arriving two and a half hours late to your son's birthday because you stayed for a colleague in a parking deck (E5 L51, L46). The claim hasn't moved in 26 years. The evidence against it has only piled up.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I don't even consider myself a work person, I want that on the record, my family is my whole entire thing, always has been.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "My family is the priority, period, it always has been, I'm not one of these people that's married to a hospital.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "If you tracked a normal week's time and emotional bandwidth honestly, work would consume more of it than family, even on weeks you'd call unremarkable."
+    },
+    {
+      "id": "i2",
+      "category": "core_values",
+      "headline": "You override authority figures' explicit clinical calls every single time your read of the situation disagrees with theirs, and you're willing to take the professional hit for it.",
+      "explanation": "In 1999 a resident tells you to 'go sit down' — you sit for ninety seconds and act anyway (E1 L29-34). In 2005 a fellow questions whether you should even be the one calling it, in front of the attending, after you'd already pushed your clinical read (E2 L32-33). In 2020 an administrator tells you to 'trust the process' and your team later calls you 'rigid' for isolating a patient anyway (E4 L27-29). In 2025 you ask a physician for more resuscitation time past his stated stopping point (E5 L34-36). Four different types of authority, 26 years, same response each time — this reads as a stable operating stance, not a one-off.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "he says, \"She's anxious. Everybody in this hallway is anxious. Go sit down for a minute, you look tired.\"",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "the word they used was rigid",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a non-clinical dispute — a school meeting, a contractor disagreement — you'll refuse to defer to credentialed authority once you believe you have the better read of the facts."
+    },
+    {
+      "id": "i3",
+      "category": "zone_of_genius",
+      "headline": "Under the worst pressure in the room, your instinct is to narrate your own reasoning out loud to whoever's junior, turning crisis into someone else's training.",
+      "explanation": "This shows up almost identically 26 years apart: in 1999 with Nicole ('I'm talking the whole time to the girl who was orienting with me... you're gonna see this again,' E1 L46) and in 2025 with Brianna, where you name it directly as a technique — 'that's a trick... it works on anybody' — that has since spread to Brianna's own patients (E5 L19-21, L27). Same behavior, decades apart, now with visible downstream impact on someone else's practice.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "Because if you're teaching it you're not shaking. That's just — that's just efficient.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I don't care what they scored. You talk to 'em.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "You'll keep gravitating toward informal mentoring without needing a title for it, and junior colleagues will remember you less for your clinical calls than for how you talked them through the worst moments."
+    },
+    {
+      "id": "i4",
+      "category": "defining_beliefs",
+      "headline": "You talk directly to the dying and the effectively-dead even though you say flatly they can't hear you — and you can't explain why you keep doing it.",
+      "explanation": "With the motorcycle patient you wash his face and apologize 'probably forty times' while insisting 'I know he can't hear me... I'm not out here being mystical' (E3 L23-27). With the drowned child you narrate comfort — 'I'm sorry it's so cold in here' — to a body starved of oxygen, and frame it as something you teach rather than something private ('you talk to 'em,' E5 L23-25). Both times you call it procedural or pragmatic, yet it costs you time you don't strictly need to spend, and when asked directly why, you land on 'Isn't that — I don't know' (E3 L48). You're doing something you can't name a reason for, twice, a decade apart.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "I know he can't hear me. I'm not — I'm a nurse, I know what a GCS of three is, alright? I'm not out here being mystical. It's just something I do.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "hey baby girl, we got you, I'm sorry, I'm sorry it's so cold in here, we're gonna warm you up.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "At a family funeral or hospice bedside outside work, you'll speak directly to the dying person past the point others consider useful, and you'll deflect if asked why."
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "When something devastating happens, you describe the aftermath through small domestic images — a driveway, a bowl of cereal, a cold garage — almost never through a direct statement of feeling.",
+      "explanation": "After the ruptured ectopic, you don't say you were shaken — you say you sat in the driveway 'for like fifteen minutes... Just sitting' (E1 L55-56). After the 18-year-old's death, mid-divorce, you don't describe grief — you say you 'sat on the floor of the kitchen and ate a bowl of cereal at like eight in the morning with the blinds closed' (E2 L51). During COVID, six weeks of undressing in a cold garage to avoid touching your kids stands in for whatever you felt about the risk (E4 L42). The pattern holds across every account of something devastating — it reads as a reporting style, not an absence of feeling.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I sat in the driveway on Hollywood Road for like fifteen minutes before I went in. Just sitting.",
+          "verbatim": false
+        },
+        {
+          "exp": 2,
+          "quote": "I sat on the floor of the kitchen and ate a bowl of cereal at like eight in the morning with the blinds closed.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "In a direct conversation about how you're feeling — with a partner, a therapist — you'll redirect to what you did or where you were rather than name an emotion, even when pressed."
+    },
+    {
+      "id": "i6",
+      "category": "patterns_to_explore",
+      "headline": "The people you call 'good' — your mother, Dre — are consistently the ones absorbing childcare during your highest-stakes work moments, which raises the question of whether your 'family first' claim only holds because someone else is covering the gap.",
+      "explanation": "In 1999 your mother has baby Jaylen while you're dealing with the hemorrhaging patient (E1 L55). In 2020 you credit Dre explicitly — 'he do more than I do half the time honestly' (E3 L34) — while you're undressing in the garage nightly and refusing leave (E4 L46-50). You don't name this as a debt, but it recurs as the structural condition underneath the 'family first' claim.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "Dre had the kids fed, he had did the whole — he's good like that, he's a good man, he do more than I do half the time honestly.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "And Dre said to me one night, he said, \"You could take a leave. They got leave.\" And I said who's gonna take seventeen and eighteen.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "low",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "If asked directly about your marriage's division of labor, you'll minimize your own dependence on Dre's caregiving and frame your work absences as exceptions rather than a standing arrangement he enables."
+    },
+    {
+      "id": "i7",
+      "category": "core_values",
+      "headline": "You keep turning down the role that would let you stop absorbing the worst cases yourself — and when you finally take it, you use it to take on more of the worst cases, not fewer.",
+      "explanation": "You 'kept turning down charge... they asked me like three times' before 2014 (E3 L3-5), and only take it in 2020 for a defensive reason — to protect the department from a scared charge nurse — then immediately undercut the position's purpose by taking the highest-risk assignment yourself instead of floating (E4 L3-21). Formal authority isn't something you seem to want for itself; it's something you'll use as a tool to keep doing the hands-on work you already value.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "I kept turning down charge, they asked me like three times. Not 'cause I'm humble, I just didn't want the meetings.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "Charge nurse ain't supposed to have a patient assignment, that's the whole point of charge... But I took 'em.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "You'll decline further promotions — management, administration — that move you away from direct patient contact, even with more pay or influence attached."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker's first year as an RN at Grady, 1999."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker corrects her age from twenty to twenty-two, references already having Jaylen."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker placed on nights in the trauma side as a new grad because the unit was short-staffed."
+            },
+            {
+              "line": "L11",
+              "what_happened": "A Black woman, approximately thirty-five, came in reporting stomach pain."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Triage placed her in the hallway on a stretcher due to patient volume."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Speaker noticed the patient's color during rounds."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Patient was gray around the mouth."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Patient's blood pressure was approximately 98/60."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Patient's heart rate kept increasing."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Heart rate readings: 106, 112, 118."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Heart rate increased by about eight each time speaker checked."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Speaker went to the resident."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker told Dr. Kessler the patient's rate was climbing and something was going on."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Dr. Kessler did not look up when responding."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Dr. Kessler said everybody in the hallway is anxious."
+            },
+            {
+              "line": "L29",
+              "what_happened": "Dr. Kessler told her to go sit down for a minute, said she looked tired."
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker went and sat down."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Speaker sat for about ninety seconds."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker obtained a beta HCG test on the patient without a physician order, using a standing protocol that did not technically apply."
+            },
+            {
+              "line": "L35",
+              "what_happened": "Speaker got ultrasound tech Clarence, who owed her for covering his lateness three times that month."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Clarence performed the ultrasound; findings showed free fluid throughout the abdomen."
+            },
+            {
+              "line": "L37",
+              "what_happened": "Diagnosis was ruptured ectopic pregnancy."
+            },
+            {
+              "line": "L38",
+              "what_happened": "Patient was bleeding into her abdomen while in the hallway."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker placed two large-bore IVs, one in each antecubital vein."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker ordered type and cross."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker called the OR directly without asking the resident."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Speaker lowered the head of the bed."
+            },
+            {
+              "line": "L46",
+              "what_happened": "Speaker talked through the process with Nicole, an orienting trainee, describing the patient's tight abdomen."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Patient was taken to the OR at approximately 0347 and survived."
+            },
+            {
+              "line": "L51",
+              "what_happened": "Dr. Kessler said nothing to the speaker afterward."
+            },
+            {
+              "line": "L53",
+              "what_happened": "Kessler began reading her charting carefully after the incident."
+            },
+            {
+              "line": "L55",
+              "what_happened": "Speaker drove home after her shift; her mother had been watching Jaylen, who had been up half the night with an ear issue."
+            },
+            {
+              "line": "L55",
+              "what_happened": "Speaker sat in the driveway on Hollywood Road for about fifteen minutes before going inside."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker went inside, did childcare tasks, slept two hours, and returned to work."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L32",
+              "choice_made": "Speaker went and sat down as instructed",
+              "alternatives_present_in_text": "Could have continued to press the resident or escalate immediately instead of complying"
+            },
+            {
+              "line": "L34",
+              "choice_made": "Speaker ordered a beta HCG without a physician order under a standing protocol she says did not technically apply",
+              "alternatives_present_in_text": "Could have waited for physician order or continued to seek Kessler's authorization"
+            },
+            {
+              "line": "L44",
+              "choice_made": "Speaker called the OR directly rather than going through the resident",
+              "alternatives_present_in_text": "Could have routed the call/decision through Dr. Kessler"
+            },
+            {
+              "line": "L46",
+              "choice_made": "Speaker narrated her actions to Nicole while performing them",
+              "alternatives_present_in_text": "Could have worked silently without teaching in the moment"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L3",
+              "quote": "I don't even consider myself a work person"
+            },
+            {
+              "line": "L3",
+              "quote": "my family is my whole entire thing, always has been"
+            },
+            {
+              "line": "L27",
+              "quote": "it's not that I hold onto things, I'm really not like that"
+            },
+            {
+              "line": "L47",
+              "quote": "if you're teaching it you're not shaking"
+            },
+            {
+              "line": "L48",
+              "quote": "that's just efficient"
+            },
+            {
+              "line": "L58",
+              "quote": "I've never been one of these women that lives for a job"
+            },
+            {
+              "line": "L60",
+              "quote": "I just — I know what I know, and when I know it I'm not gonna sit down"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L28",
+              "quote": "anxious"
+            },
+            {
+              "line": "L39",
+              "quote": "scared"
+            },
+            {
+              "line": "L40",
+              "quote": "I didn't have room for scared"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "go sit down",
+              "lines": [
+                "L27",
+                "L29",
+                "L31",
+                "L32"
+              ]
+            },
+            {
+              "phrase": "she lived",
+              "lines": [
+                "L49",
+                "L50"
+              ]
+            },
+            {
+              "phrase": "that's just",
+              "lines": [
+                "L48"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L39",
+              "quote": "I remember the thing I felt was not — people think you feel scared. I didn't have room for scared.",
+              "note": "Speaker names an expected emotion (scared) then immediately states she did not experience or make space for it, moving directly to describing procedural steps."
+            },
+            {
+              "line": "L54",
+              "quote": "Which, that's its own kind of apology I guess.",
+              "note": "Speaker offers a brief interpretive aside about Kessler's behavior and moves on without elaboration."
+            },
+            {
+              "line": "L55-56",
+              "quote": "I remember sitting in the driveway on Hollywood Road for like fifteen minutes before I went in. Just sitting.",
+              "note": "Speaker states the sitting twice briefly without describing what occurred during it, then moves to next action."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Dr. Kessler",
+              "lines": [
+                "L20",
+                "L21",
+                "L24",
+                "L27",
+                "L28",
+                "L29",
+                "L51",
+                "L53"
+              ],
+              "what_they_did": "Resident who ate sunflower seeds and spit them in a cup; when told the patient's heart rate was climbing, did not look up, said the patient and others in the hallway were anxious, and told speaker to go sit down; afterward said nothing to speaker but began reading her charting carefully."
+            },
+            {
+              "who": "Clarence",
+              "lines": [
+                "L35",
+                "L36"
+              ],
+              "what_they_did": "Ultrasound tech who owed speaker for covering his lateness three times that month; performed the ultrasound showing free fluid in the abdomen."
+            },
+            {
+              "who": "Nicole",
+              "lines": [
+                "L46"
+              ],
+              "what_they_did": "Was orienting with speaker; speaker talked her through the patient's condition and actions during the emergency."
+            },
+            {
+              "who": "Speaker's mother",
+              "lines": [
+                "L55"
+              ],
+              "what_they_did": "Watched Jaylen while speaker worked the night shift."
+            },
+            {
+              "who": "Jaylen",
+              "lines": [
+                "L7",
+                "L55"
+              ],
+              "what_they_did": "Speaker's child; had been up half the night with an ear issue."
+            },
+            {
+              "who": "The patient (unnamed woman)",
+              "lines": [
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L16",
+                "L17",
+                "L36",
+                "L37",
+                "L38",
+                "L49",
+                "L50"
+              ],
+              "what_they_did": "Came in reporting stomach pain, was placed in hallway, showed declining vital signs, was found to have a ruptured ectopic pregnancy with abdominal free fluid, was taken to OR and survived."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "She acts on her own clinical judgment even when it means bypassing authority and protocol.",
+              "explanation": "After being dismissed by Kessler and told to sit down, she complied only briefly, then ordered a test without authorization and called the OR directly rather than routing through the resident. This is a value protected at real professional risk, not just a stated preference.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "I went and got a beta HCG off her, which, I didn't have an order... I sent it under a standing protocol that did not technically apply"
+                },
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "Get the OR on the phone, don't ask the resident, call the OR"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work, she will override a manager's directive or skip the 'proper channel' when she believes she's right and the stakes are high, accepting the risk to her own standing."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She reads subtle physiological deterioration before it becomes obvious, and teaches it in real time under pressure.",
+              "explanation": "She caught a fatal deterioration from color and trending vitals alone, when triage and a physician missed it, and simultaneously narrated the diagnostic reasoning to a trainee while acting. This combination of pattern-recognition and live teaching under crisis is not a taught skill but a distinct capability she reaches for instinctively.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L13",
+                  "quote": "something about her just — her color was off"
+                },
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "I'm talking the whole time to the girl who was orienting with me, Nicole, I'm saying, see how her belly's tight, feel right here"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In any high-stakes work situation involving a junior colleague, she will spontaneously narrate her decision-making aloud as a teaching act rather than working silently to just get through it."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes that showing composure and moving to action is what earns you the right to be heard, since being right the first time wasn't enough.",
+              "explanation": "Despite having correct clinical evidence, she was dismissed instantly by Kessler; only after she acted decisively and was proven right did his behavior shift (reading her charting carefully). She frames feeling scared as something she has no room for, suggesting she operates on the belief that composed action is the only currency that changes how she's treated.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "I didn't have room for scared"
+                },
+                {
+                  "exp": 1,
+                  "line": "L53",
+                  "quote": "He just started reading my charting real careful after that"
+                },
+                {
+                  "exp": 1,
+                  "line": "L54",
+                  "quote": "that's its own kind of apology I guess"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future conflicts where she is dismissed or undermined, she will rarely demand acknowledgment or apology, instead letting results speak and quietly noting the other person's changed behavior as sufficient vindication."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She narrates emotional moments briefly then moves past them without staying in them.",
+              "explanation": "She names feeling scared only to immediately foreclose it ('I didn't have room for scared'), and describes sitting in the driveway for fifteen minutes twice but gives no content to what happened during that sitting before moving to the next action. This pattern of naming-then-deflecting recurs at two distinct emotional junctures in one story.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "people think you feel scared. I didn't have room for scared"
+                },
+                {
+                  "exp": 1,
+                  "line": "L55-56",
+                  "quote": "I remember sitting in the driveway on Hollywood Road for like fifteen minutes before I went in. Just sitting."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked directly about difficult emotional experiences in other life areas (marriage, parenting), she will similarly name a feeling and quickly redirect to action or logistics rather than elaborating on the internal experience."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "She acts on her own clinical judgment even when it means bypassing authority and protocol.",
+              "explanation": "After being dismissed by Kessler and told to sit down, she complied only briefly, then ordered a test without authorization and called the OR directly rather than routing through the resident. This is a value protected at real professional risk, not just a stated preference.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "I went and got a beta HCG off her, which, I didn't have an order... I sent it under a standing protocol that did not technically apply"
+                },
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "Get the OR on the phone, don't ask the resident, call the OR"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work, she will override a manager's directive or skip the 'proper channel' when she believes she's right and the stakes are high, accepting the risk to her own standing.",
+              "exp": 1
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She reads subtle physiological deterioration before it becomes obvious, and teaches it in real time under pressure.",
+              "explanation": "She caught a fatal deterioration from color and trending vitals alone, when triage and a physician missed it, and simultaneously narrated the diagnostic reasoning to a trainee while acting. This combination of pattern-recognition and live teaching under crisis is not a taught skill but a distinct capability she reaches for instinctively.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L13",
+                  "quote": "something about her just — her color was off"
+                },
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "I'm talking the whole time to the girl who was orienting with me, Nicole, I'm saying, see how her belly's tight, feel right here"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In any high-stakes work situation involving a junior colleague, she will spontaneously narrate her decision-making aloud as a teaching act rather than working silently to just get through it.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She believes that showing composure and moving to action is what earns you the right to be heard, since being right the first time wasn't enough.",
+              "reason": "ungrounded",
+              "note": "Kessler reading her charting more carefully is thin, ambiguous evidence for a belief about 'earning the right to be heard' — it's a stretch dressed as an inferred rule; the 'no room for scared' line is about task-focus under crisis, not a belief about earning credibility."
+            },
+            {
+              "headline": "She narrates emotional moments briefly then moves past them without staying in them.",
+              "reason": "unfalsifiable",
+              "note": "Sitting silently in a driveway after a night shift with a sick baby waiting is ordinary exhaustion, not evidence of a deflection pattern; there's no second clearly comparable instance, and any brief emotional mention followed by action would confirm this, making it unfalsifiable."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "She acts on her own clinical judgment even when it means bypassing authority and protocol.",
+            "explanation": "After being dismissed by Kessler and told to sit down, she complied only briefly, then ordered a test without authorization and called the OR directly rather than routing through the resident. This is a value protected at real professional risk, not just a stated preference.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L34",
+                "quote": "I went and got a beta HCG off her, which, I didn't have an order... I sent it under a standing protocol that did not technically apply"
+              },
+              {
+                "exp": 1,
+                "line": "L44",
+                "quote": "Get the OR on the phone, don't ask the resident, call the OR"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "At work, she will override a manager's directive or skip the 'proper channel' when she believes she's right and the stakes are high, accepting the risk to her own standing.",
+            "exp": 1
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "She reads subtle physiological deterioration before it becomes obvious, and teaches it in real time under pressure.",
+            "explanation": "She caught a fatal deterioration from color and trending vitals alone, when triage and a physician missed it, and simultaneously narrated the diagnostic reasoning to a trainee while acting. This combination of pattern-recognition and live teaching under crisis is not a taught skill but a distinct capability she reaches for instinctively.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L13",
+                "quote": "something about her just — her color was off"
+              },
+              {
+                "exp": 1,
+                "line": "L46",
+                "quote": "I'm talking the whole time to the girl who was orienting with me, Nicole, I'm saying, see how her belly's tight, feel right here"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In any high-stakes work situation involving a junior colleague, she will spontaneously narrate her decision-making aloud as a teaching act rather than working silently to just get through it.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L2",
+              "what_happened": "States the year as 2005, possibly 2006."
+            },
+            {
+              "line": "L3",
+              "what_happened": "Timeframe coincides with the end of her marriage to Marcus."
+            },
+            {
+              "line": "L9",
+              "what_happened": "She is working nights at Grady; EMS calls in four patients from one scene."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Patients had gunshot wounds."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Incident occurred at an apartment complex off Cleveland Ave."
+            },
+            {
+              "line": "L12",
+              "what_happened": "States that in trauma, when there are multiple patients, the charge nurse assigns staff to patients."
+            },
+            {
+              "line": "L13",
+              "what_happened": "She was not yet charge nurse; describes herself as four or five years into the job."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Renata, the charge nurse, assigns her to bay two."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Bay two patient was an eighteen-year-old with a chest wound and blood pressure of 70/palp."
+            },
+            {
+              "line": "L16-L19",
+              "what_happened": "She states she asked for bay two, saying \"give me two,\" while looking at the assignment board."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Describes the other three patients: one extremity wound, one graze, one who coded in the transport truck."
+            },
+            {
+              "line": "L26-L30",
+              "what_happened": "Identifies the surgery fellow that night as Dr. Ghaffari, correcting an initial misremembering of the name."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Ghaffari states the patient is stable enough for CT."
+            },
+            {
+              "line": "L32",
+              "what_happened": "She states the patient is not stable, citing neck veins and a pressure increase of eight points after two transfusion units."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Ghaffari asks the attending, \"Is she the one calling it?\""
+            },
+            {
+              "line": "L36",
+              "what_happened": "Patient taken to CT."
+            },
+            {
+              "line": "L37",
+              "what_happened": "Patient arrested in the scanner."
+            },
+            {
+              "line": "L38-L40",
+              "what_happened": "Chest was opened (thoracotomy) in the hallway outside radiology."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Patient's pulse was restored for approximately nine minutes, then lost."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Patient was eighteen years old."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Patient's mother arrived wearing her work polo shirt."
+            },
+            {
+              "line": "L44-L48",
+              "what_happened": "After the event, she gathered newer staff and led a step-by-step walkthrough of the case."
+            },
+            {
+              "line": "L46",
+              "what_happened": "She told staff: \"what did we see at the door, what did we do, what would we do different, don't none of y'all carry this home.\""
+            },
+            {
+              "line": "L47",
+              "what_happened": "One staff member began crying; she told her, \"no ma'am, we're not doing that yet, we're gonna finish the walkthrough first.\""
+            },
+            {
+              "line": "L48-L49",
+              "what_happened": "The walkthrough was completed; the staff member cried afterward."
+            },
+            {
+              "line": "L50",
+              "what_happened": "States that when she got home, Marcus's belongings were mostly moved out, her son Jaylen was at her mother's house, and her daughter Kiana, an infant, was in a crib."
+            },
+            {
+              "line": "L51",
+              "what_happened": "She sat on the kitchen floor and ate a bowl of cereal around 8am with the blinds closed."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L16-L19",
+              "choice_made": "Asked to be assigned to bay two (\"give me two\") after reviewing the board",
+              "alternatives_present_in_text": "Could have taken/been assigned another patient; three other patients existed (extremity wound, graze, one coded in truck)"
+            },
+            {
+              "line": "L32",
+              "choice_made": "Verbally challenged the surgery fellow's assessment that the patient was stable enough for CT",
+              "alternatives_present_in_text": "Could have deferred to the fellow's clinical call without objection"
+            },
+            {
+              "line": "L44-L47",
+              "choice_made": "Led staff through a procedural walkthrough before allowing emotional processing",
+              "alternatives_present_in_text": "Could have allowed immediate crying/emotional reaction first, as one staff member began to do"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L5",
+              "quote": "I don't be sitting around picking at it"
+            },
+            {
+              "line": "L7",
+              "quote": "the patient expired, let's move"
+            },
+            {
+              "line": "L21",
+              "quote": "That's not arrogance"
+            },
+            {
+              "line": "L22",
+              "quote": "I've trained half that department"
+            },
+            {
+              "line": "L24",
+              "quote": "I'd rather be in it"
+            },
+            {
+              "line": "L25",
+              "quote": "In it, I can breathe"
+            },
+            {
+              "line": "L52",
+              "quote": "I'm not a work person"
+            },
+            {
+              "line": "L53",
+              "quote": "I really am not"
+            },
+            {
+              "line": "L54",
+              "quote": "I don't even think about work when I'm off"
+            },
+            {
+              "line": "L54",
+              "quote": "I come in the house and I'm done"
+            }
+          ],
+          "emotion_words": [],
+          "repetitions": [
+            {
+              "phrase": "give me two / bay two",
+              "lines": [
+                "L14",
+                "L16",
+                "L17",
+                "L19"
+              ]
+            },
+            {
+              "phrase": "Is she the one calling it",
+              "lines": [
+                "L33"
+              ]
+            },
+            {
+              "phrase": "I'm not a work person / I really am not",
+              "lines": [
+                "L52",
+                "L53"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L5-L7",
+              "quote": "that's not really a story... I don't be sitting around picking at it... the patient expired, let's move",
+              "note": "Moves quickly past the divorce, declines to elaborate, and shifts immediately into the hospital narrative."
+            },
+            {
+              "line": "L42-L43",
+              "quote": "He was eighteen. His mama came and she had on her work polo, she had came straight from wherever.",
+              "note": "States the patient's death and mother's arrival in brief, sequential sentences without elaboration before moving to the next scene."
+            },
+            {
+              "line": "L50-L51",
+              "quote": "And then I went home, and Marcus's stuff was already mostly out the house...I sat on the floor of the kitchen and ate a bowl of cereal",
+              "note": "Lists home circumstances (Marcus's belongings gone, children's locations) and the cereal-eating scene in quick succession without pausing on any one detail."
+            },
+            {
+              "line": "L55-L57",
+              "quote": "the stuff that happens to you at work is the stuff that — I don't know. You asked what shaped me. That's just what I got laying around.",
+              "note": "Sentence trails off (\"I don't know\") before shifting to a summarizing, closing statement."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Marcus",
+              "lines": [
+                "L3",
+                "L4",
+                "L50"
+              ],
+              "what_they_did": "Was finishing divorce with speaker around 2005/2006; by the night in question, his belongings were mostly moved out of the house."
+            },
+            {
+              "who": "Renata",
+              "lines": [
+                "L14"
+              ],
+              "what_they_did": "As charge nurse, assigned speaker to bay two."
+            },
+            {
+              "who": "Dr. Ghaffari",
+              "lines": [
+                "L26",
+                "L28",
+                "L30",
+                "L31",
+                "L33"
+              ],
+              "what_they_did": "Surgery fellow who stated the patient was stable enough for CT; asked the attending \"Is she the one calling it?\" in response to speaker's objection."
+            },
+            {
+              "who": "The attending",
+              "lines": [
+                "L26",
+                "L33",
+                "L36"
+              ],
+              "what_they_did": "Wanted to take the patient straight upstairs; was addressed by Ghaffari's question; patient was ultimately taken to CT."
+            },
+            {
+              "who": "Eighteen-year-old patient (bay two)",
+              "lines": [
+                "L15",
+                "L32",
+                "L36",
+                "L37",
+                "L41",
+                "L42"
+              ],
+              "what_they_did": "Had chest wound and pressure of 70/palp; was taken to CT, arrested in scanner, received chest-opening resuscitation in hallway, regained pulse for ~9 minutes, then died; was eighteen."
+            },
+            {
+              "who": "Patient's mother",
+              "lines": [
+                "L43"
+              ],
+              "what_they_did": "Arrived at the hospital wearing her work polo shirt."
+            },
+            {
+              "who": "New staff/\"new girls\"",
+              "lines": [
+                "L44",
+                "L46",
+                "L47",
+                "L48",
+                "L49"
+              ],
+              "what_they_did": "Were gathered by speaker after the event for a walkthrough; one began crying and was asked to wait until the walkthrough finished, then cried afterward."
+            },
+            {
+              "who": "Jaylen (son)",
+              "lines": [
+                "L50"
+              ],
+              "what_they_did": "Was at speaker's mother's house that night."
+            },
+            {
+              "who": "Kiana (daughter)",
+              "lines": [
+                "L50"
+              ],
+              "what_they_did": "Was an infant, in a crib, at the time."
+            },
+            {
+              "who": "Dre (current husband)",
+              "lines": [
+                "L54"
+              ],
+              "what_they_did": "Referenced as someone who can attest that speaker doesn't think about work when off duty."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "zone_of_genius",
+              "headline": "Yoli is exceptional at, and energised by, being inside the highest-stakes moment rather than observing it.",
+              "explanation": "She actively requested the most critical patient ('give me two') over three other options, and explains this not as duty but as a need: 'I'd rather be in it. In it, I can breathe.' This is a capability she is drawn toward under pressure, not merely dutiful compliance.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L17",
+                  "quote": "I said \"give me two.\" I remember saying it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L24",
+                  "quote": "I'd rather be in it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L25",
+                  "quote": "In it, I can breathe."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career, she will seek out roles or moments with direct crisis ownership (charge nurse, incident command) rather than supervisory/advisory positions, and will feel restless or anxious when relegated to a watching/reviewing role."
+            },
+            {
+              "category": "core_values",
+              "headline": "She values clinical judgment and speaking it aloud over deferring to hierarchy, even when it invites open challenge to her authority.",
+              "explanation": "Despite not yet holding the charge title, she directly contradicted a surgery fellow's stable/CT call with specific clinical reasoning, prompting him to publicly question her standing ('Is she the one calling it?'). She chose to press the point rather than let rank settle the disagreement.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L32",
+                  "quote": "he's not stable, look at his neck veins, look at — his pressure came up eight points off two units, that's not stable, that's transfused."
+                },
+                {
+                  "exp": 1,
+                  "line": "L33",
+                  "quote": "Is she the one calling it?"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In workplace conflict, she will voice a dissenting professional opinion to someone senior when she believes she's right, even at risk of being publicly undermined or embarrassed."
+            },
+            {
+              "category": "core_values",
+              "headline": "She protects her team's processing of trauma by sequencing procedure before emotion, even when it means delaying someone's visible distress.",
+              "explanation": "When a staff member began crying mid-debrief, she chose to hold off the emotional release until the walkthrough was finished, actively structuring the moment rather than letting it unfold naturally. This is a deliberate choice under emotional pressure, not just a habit.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "what did we see at the door, what did we do, what would we do different, don't none of y'all carry this home"
+                },
+                {
+                  "exp": 1,
+                  "line": "L47",
+                  "quote": "no ma'am, we're not doing that yet, we're gonna finish the walkthrough first"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In mentoring or parenting contexts, she will prioritize completing a structured process (a plan, a lesson, a debrief) before allowing space for feelings, even when someone is visibly upset."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes that being on the outside of a crisis, unable to intervene, is more intolerable to her than being in the crisis itself.",
+              "explanation": "She names a specific fear ('you're standing on the outside of a room and you can see the whole entire thing going sideways and can't nobody hear you') as the operating reason she seeks the hardest case, not adrenaline or heroism. This positions helplessness, not danger, as her core aversion.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L23",
+                  "quote": "you're standing on the outside of a room and you can see the whole entire thing going sideways and can't nobody hear you"
+                },
+                {
+                  "exp": 1,
+                  "line": "L20",
+                  "quote": "I didn't want to be standing there watching somebody else do it wrong"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Outside work, she will struggle to stay passive when someone she cares about is struggling (e.g., a child's problem), often stepping in to take control rather than watching them fail or flounder."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Yoli moves quickly past personal loss by compressing it into brief, sequential facts, both with her divorce and with the patient's death.",
+              "explanation": "She dismisses elaborating on her marriage ending ('that's not really a story... let's move') and narrates the patient's death and her own night alone in short, unembellished statements before trailing off ('I don't know'). The pattern of clipping emotional material short recurs across both the relational and clinical loss in this single account, worth her checking whether this is efficient coping or something going unprocessed.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L7",
+                  "quote": "the patient expired, let's move"
+                },
+                {
+                  "exp": 1,
+                  "line": "L42",
+                  "quote": "He was eighteen."
+                },
+                {
+                  "exp": 1,
+                  "line": "L51",
+                  "quote": "I sat on the floor of the kitchen and ate a bowl of cereal at like eight in the morning with the blinds closed"
+                },
+                {
+                  "exp": 1,
+                  "line": "L56",
+                  "quote": "I don't know. You asked what shaped me."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In conversations about other significant losses (career setbacks, family conflict), she will similarly narrate events factually and briskly, resisting invitations to dwell on emotional impact until directly pressed."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She insists she isn't a 'work person' while describing work as the primary material that shaped her identity.",
+              "explanation": "She explicitly states she doesn't think about work when off duty and calls herself not a work person, yet in the same breath identifies this exact work event as the defining experience she has 'laying around' when asked what shaped her. This contradiction between stated identity and the evidence she reaches for is worth her examining.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L52",
+                  "quote": "I'm not a work person"
+                },
+                {
+                  "exp": 1,
+                  "line": "L54",
+                  "quote": "I don't even think about work when I'm off"
+                },
+                {
+                  "exp": 1,
+                  "line": "L56",
+                  "quote": "You asked what shaped me."
+                },
+                {
+                  "exp": 1,
+                  "line": "L57",
+                  "quote": "That's just what I got laying around."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked about identity or life-defining moments in other domains (family, faith), she will default back to work stories as her most vivid reference point, despite framing work as secondary to who she is."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "zone_of_genius",
+              "headline": "Yoli is exceptional at, and energised by, being inside the highest-stakes moment rather than observing it.",
+              "explanation": "She actively requested the most critical patient ('give me two') over three other options, and explains this not as duty but as a need: 'I'd rather be in it. In it, I can breathe.' This is a capability she is drawn toward under pressure, not merely dutiful compliance.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L17",
+                  "quote": "I said \"give me two.\" I remember saying it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L24",
+                  "quote": "I'd rather be in it."
+                },
+                {
+                  "exp": 1,
+                  "line": "L25",
+                  "quote": "In it, I can breathe."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career, she will seek out roles or moments with direct crisis ownership (charge nurse, incident command) rather than supervisory/advisory positions, and will feel restless or anxious when relegated to a watching/reviewing role.",
+              "exp": 2
+            },
+            {
+              "category": "core_values",
+              "headline": "She values clinical judgment and speaking it aloud over deferring to hierarchy, even when it invites open challenge to her authority.",
+              "explanation": "Despite not yet holding the charge title, she directly contradicted a surgery fellow's stable/CT call with specific clinical reasoning, prompting him to publicly question her standing ('Is she the one calling it?'). She chose to press the point rather than let rank settle the disagreement.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L32",
+                  "quote": "he's not stable, look at his neck veins, look at — his pressure came up eight points off two units, that's not stable, that's transfused."
+                },
+                {
+                  "exp": 1,
+                  "line": "L33",
+                  "quote": "Is she the one calling it?"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In workplace conflict, she will voice a dissenting professional opinion to someone senior when she believes she's right, even at risk of being publicly undermined or embarrassed.",
+              "exp": 2
+            },
+            {
+              "category": "core_values",
+              "headline": "She protects her team's processing of trauma by sequencing procedure before emotion, even when it means delaying someone's visible distress.",
+              "explanation": "When a staff member began crying mid-debrief, she chose to hold off the emotional release until the walkthrough was finished, actively structuring the moment rather than letting it unfold naturally. This is a deliberate choice under emotional pressure, not just a habit.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "what did we see at the door, what did we do, what would we do different, don't none of y'all carry this home"
+                },
+                {
+                  "exp": 1,
+                  "line": "L47",
+                  "quote": "no ma'am, we're not doing that yet, we're gonna finish the walkthrough first"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In mentoring or parenting contexts, she will prioritize completing a structured process (a plan, a lesson, a debrief) before allowing space for feelings, even when someone is visibly upset.",
+              "exp": 2
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She insists she isn't a 'work person' while reaching for a work event as the defining experience that shaped her.",
+              "explanation": "She explicitly states she doesn't think about work when off duty and calls herself not a work person, yet in the same breath identifies this exact work event as the material she has 'laying around' when asked what shaped her. This contradiction between stated identity and the evidence she reaches for is worth her examining.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L52",
+                  "quote": "I'm not a work person"
+                },
+                {
+                  "exp": 1,
+                  "line": "L54",
+                  "quote": "I don't even think about work when I'm off"
+                },
+                {
+                  "exp": 1,
+                  "line": "L56",
+                  "quote": "You asked what shaped me."
+                },
+                {
+                  "exp": 1,
+                  "line": "L57",
+                  "quote": "That's just what I got laying around."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked about identity or life-defining moments in other domains (family, faith), she will default back to work stories as her most vivid reference point, despite framing work as secondary to who she is.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She believes that being on the outside of a crisis, unable to intervene, is more intolerable to her than being in the crisis itself.",
+              "reason": "restated",
+              "note": "This just re-describes L23/L20 in belief language rather than adding an inference beyond what she already said outright."
+            },
+            {
+              "headline": "Yoli moves quickly past personal loss by compressing it into brief, sequential facts, both with her divorce and with the patient's death.",
+              "reason": "ungrounded",
+              "note": "She explicitly names her clipped divorce narration as a deliberate choice ('I don't be sitting around picking at it'), and the patient-death recounting is actually quite detailed (L26-L49); the 'compression' claim conflates a stated preference with an unproven pattern, and the cereal/blinds line is vivid, not clipped."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "zone_of_genius",
+            "headline": "Yoli is exceptional at, and energised by, being inside the highest-stakes moment rather than observing it.",
+            "explanation": "She actively requested the most critical patient ('give me two') over three other options, and explains this not as duty but as a need: 'I'd rather be in it. In it, I can breathe.' This is a capability she is drawn toward under pressure, not merely dutiful compliance.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L17",
+                "quote": "I said \"give me two.\" I remember saying it."
+              },
+              {
+                "exp": 1,
+                "line": "L24",
+                "quote": "I'd rather be in it."
+              },
+              {
+                "exp": 1,
+                "line": "L25",
+                "quote": "In it, I can breathe."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In her career, she will seek out roles or moments with direct crisis ownership (charge nurse, incident command) rather than supervisory/advisory positions, and will feel restless or anxious when relegated to a watching/reviewing role.",
+            "exp": 2
+          },
+          {
+            "category": "core_values",
+            "headline": "She values clinical judgment and speaking it aloud over deferring to hierarchy, even when it invites open challenge to her authority.",
+            "explanation": "Despite not yet holding the charge title, she directly contradicted a surgery fellow's stable/CT call with specific clinical reasoning, prompting him to publicly question her standing ('Is she the one calling it?'). She chose to press the point rather than let rank settle the disagreement.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L32",
+                "quote": "he's not stable, look at his neck veins, look at — his pressure came up eight points off two units, that's not stable, that's transfused."
+              },
+              {
+                "exp": 1,
+                "line": "L33",
+                "quote": "Is she the one calling it?"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In workplace conflict, she will voice a dissenting professional opinion to someone senior when she believes she's right, even at risk of being publicly undermined or embarrassed.",
+            "exp": 2
+          },
+          {
+            "category": "core_values",
+            "headline": "She protects her team's processing of trauma by sequencing procedure before emotion, even when it means delaying someone's visible distress.",
+            "explanation": "When a staff member began crying mid-debrief, she chose to hold off the emotional release until the walkthrough was finished, actively structuring the moment rather than letting it unfold naturally. This is a deliberate choice under emotional pressure, not just a habit.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L46",
+                "quote": "what did we see at the door, what did we do, what would we do different, don't none of y'all carry this home"
+              },
+              {
+                "exp": 1,
+                "line": "L47",
+                "quote": "no ma'am, we're not doing that yet, we're gonna finish the walkthrough first"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In mentoring or parenting contexts, she will prioritize completing a structured process (a plan, a lesson, a debrief) before allowing space for feelings, even when someone is visibly upset.",
+            "exp": 2
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She insists she isn't a 'work person' while reaching for a work event as the defining experience that shaped her.",
+            "explanation": "She explicitly states she doesn't think about work when off duty and calls herself not a work person, yet in the same breath identifies this exact work event as the material she has 'laying around' when asked what shaped her. This contradiction between stated identity and the evidence she reaches for is worth her examining.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L52",
+                "quote": "I'm not a work person"
+              },
+              {
+                "exp": 1,
+                "line": "L54",
+                "quote": "I don't even think about work when I'm off"
+              },
+              {
+                "exp": 1,
+                "line": "L56",
+                "quote": "You asked what shaped me."
+              },
+              {
+                "exp": 1,
+                "line": "L57",
+                "quote": "That's just what I got laying around."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "When asked about identity or life-defining moments in other domains (family, faith), she will default back to work stories as her most vivid reference point, despite framing work as secondary to who she is.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "In 2014, speaker had just moved to south campus, was not yet charge nurse, had been asked to take charge role about three times and turned it down."
+            },
+            {
+              "line": "L6",
+              "what_happened": "A 22-year-old man came in on a Sunday after a motorcycle accident, no helmet, field condition described as bad."
+            },
+            {
+              "line": "L7",
+              "what_happened": "A head bleed was visible on the scout film."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Neuro was called and was coming from downtown; the patient's family was in Rockdale County trying to get there."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Staff determined within the first ten minutes that the patient was not going to survive/recover."
+            },
+            {
+              "line": "L11",
+              "what_happened": "The room emptied out at a certain point."
+            },
+            {
+              "line": "L13",
+              "what_happened": "The room emptied because there was nothing more to do for this patient, while fourteen other patients in the department needed care."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Speaker told their tech to go help Ronda in room twelve."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Speaker was left alone with the patient."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Speaker cleaned the patient."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker used warm water to wash gravel and road debris from the patient's face and ear, and combed his hair with her fingers."
+            },
+            {
+              "line": "L20-L21",
+              "what_happened": "Speaker talked to the patient out loud while cleaning him."
+            },
+            {
+              "line": "L22-L23",
+              "what_happened": "Speaker said 'baby, I'm sorry' and apologized about not getting to him sooner, about his neck, and about moving his head."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker said sorry approximately forty times."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker states she knows what a GCS of three is."
+            },
+            {
+              "line": "L29",
+              "what_happened": "The patient's mother arrived and asked if he said anything; speaker told her no, but that he wasn't by himself."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Speaker finished her shift."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker arrived home; Dre had fed the kids."
+            },
+            {
+              "line": "L35-L37",
+              "what_happened": "Malachi was three or four years old; Kiana was approximately ten or eleven."
+            },
+            {
+              "line": "L38-L39",
+              "what_happened": "The kids wanted speaker to watch a show with them, and she watched it."
+            },
+            {
+              "line": "L40",
+              "what_happened": "Speaker did not say anything about her day."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker's sister Cheryl called that week; the two had had a falling out about their mother's house."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker saw Cheryl's name on the phone and let the call go to voicemail."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker and Cheryl still talk to this day and see each other at Thanksgiving, but never discussed the falling out again."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L4-L5",
+              "choice_made": "Turned down charge position multiple times",
+              "alternatives_present_in_text": "Accepting the charge role, which was offered about three times"
+            },
+            {
+              "line": "L14",
+              "choice_made": "Sent tech to help Ronda in room twelve",
+              "alternatives_present_in_text": "Keeping the tech in the room with her and the patient"
+            },
+            {
+              "line": "L22-L24",
+              "choice_made": "Spoke aloud to the patient, apologizing repeatedly",
+              "alternatives_present_in_text": "Cleaning the patient in silence"
+            },
+            {
+              "line": "L29",
+              "choice_made": "Told the mother 'he wasn't by himself'",
+              "alternatives_present_in_text": "Telling her only 'no ma'am' without the additional statement"
+            },
+            {
+              "line": "L40-L41",
+              "choice_made": "Did not talk about her day at home; watched the show with her kids",
+              "alternatives_present_in_text": "Telling her family about the day's events"
+            },
+            {
+              "line": "L42",
+              "choice_made": "Let Cheryl's call go to voicemail",
+              "alternatives_present_in_text": "Answering the call"
+            },
+            {
+              "line": "L43",
+              "choice_made": "Never revisited the falling out with Cheryl in conversation",
+              "alternatives_present_in_text": "Addressing or discussing the falling out directly"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L4",
+              "quote": "Not 'cause I'm humble"
+            },
+            {
+              "line": "L26",
+              "quote": "I'm a nurse, I know what a GCS of three is"
+            },
+            {
+              "line": "L27",
+              "quote": "I'm not out here being mystical"
+            },
+            {
+              "line": "L28",
+              "quote": "It's just something I do"
+            },
+            {
+              "line": "L41",
+              "quote": "I never bring that in the house"
+            },
+            {
+              "line": "L49",
+              "quote": "soft in a place people can't see"
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L22",
+              "quote": "I'm sorry"
+            },
+            {
+              "line": "L23",
+              "quote": "I'm sorry, I'm sorry we didn't get you sooner, I'm sorry about your neck"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "I'm sorry",
+              "lines": [
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "phrase": "the room empties out",
+              "lines": [
+                "L11",
+                "L13"
+              ]
+            },
+            {
+              "phrase": "you don't dig / never went back and said nothing",
+              "lines": [
+                "L43",
+                "L45"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L48",
+                "L50"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L32-L33",
+              "quote": "And then, um. Then I finished my shift.",
+              "note": "Speaker moves directly from the moment with the patient to finishing the shift without describing anything in between."
+            },
+            {
+              "line": "L40",
+              "quote": "I didn't say nothing about my day.",
+              "note": "Speaker states directly that the day's events were not discussed at home, without elaboration."
+            },
+            {
+              "line": "L42-L43",
+              "quote": "I saw her name on the phone and I let it go to voicemail... we never went back and said nothing about it.",
+              "note": "Speaker mentions the falling out and unanswered call, then moves to stating the current relationship status without describing what happened in between."
+            },
+            {
+              "line": "L48-L52",
+              "quote": "Isn't that — I don't know... I think she just be saying stuff. Anyway.",
+              "note": "Speaker raises Patrice's comment and moves past it with 'I don't know' and 'anyway' without further discussion."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Neuro team",
+              "lines": [
+                "L8"
+              ],
+              "what_they_did": "Was called and was en route from downtown"
+            },
+            {
+              "who": "Patient's family",
+              "lines": [
+                "L8"
+              ],
+              "what_they_did": "Was in Rockdale County trying to get to the hospital"
+            },
+            {
+              "who": "Speaker's tech",
+              "lines": [
+                "L14"
+              ],
+              "what_they_did": "Was sent to help Ronda in room twelve"
+            },
+            {
+              "who": "Ronda",
+              "lines": [
+                "L14"
+              ],
+              "what_they_did": "Referenced as being in room twelve, needing help"
+            },
+            {
+              "who": "Patient's mother",
+              "lines": [
+                "L19",
+                "L29"
+              ],
+              "what_they_did": "Was coming to see her son; asked speaker if he said anything"
+            },
+            {
+              "who": "Dre",
+              "lines": [
+                "L34"
+              ],
+              "what_they_did": "Fed the kids; described as doing more than speaker does half the time"
+            },
+            {
+              "who": "Malachi",
+              "lines": [
+                "L35"
+              ],
+              "what_they_did": "Was three or four years old, wanted to watch a show"
+            },
+            {
+              "who": "Kiana",
+              "lines": [
+                "L35-L36"
+              ],
+              "what_they_did": "Was approximately ten or eleven, wanted to watch a show"
+            },
+            {
+              "who": "Cheryl (sister)",
+              "lines": [
+                "L42-L43"
+              ],
+              "what_they_did": "Had a falling out with speaker about their mother's house; called that week; call was not answered; relationship continues at gatherings like Thanksgiving without revisiting the falling out"
+            },
+            {
+              "who": "Patrice (friend)",
+              "lines": [
+                "L49"
+              ],
+              "what_they_did": "Told speaker she is 'soft in a place people can't see'"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "She protects the dignity of the dying even when no one will ever know she did it.",
+              "explanation": "With no medical benefit possible and everyone else pulled to patients who could still be saved, she chose to clean gravel from a dying man's face and comb his hair so his mother would see her son, not a wreck. The cost was real time and emotional labor spent on someone triage logic said didn't need it.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L19",
+                  "quote": "I got warm water and I washed his face and I combed his hair with my fingers because his mama was coming"
+                },
+                {
+                  "exp": 3,
+                  "line": "L13",
+                  "quote": "there's fourteen other people out there who there IS something to do for, and that's correct, that's triage"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In caregiving or eldercare situations, she will prioritize a person's appearance/dignity even when it doesn't change the medical outcome."
+            },
+            {
+              "category": "core_values",
+              "headline": "She will give a grieving parent one true thing rather than a comforting lie.",
+              "explanation": "When the mother asked if her son said anything, she didn't fabricate a comforting final word — she gave the smallest true fact she had. This suggests she values honesty even inside compassion, choosing truth-with-tenderness over easier fiction.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L29",
+                  "quote": "I said no ma'am but he wasn't by himself"
+                },
+                {
+                  "exp": 3,
+                  "line": "L31",
+                  "quote": "That was the one true thing I could give her"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In difficult family or work conversations, she avoids reassuring lies even when a lie would be easier in the moment."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She is unusually skilled at creating meaning and ritual in moments of medical futility.",
+              "explanation": "Once treatment stopped mattering, she didn't disengage — she built a private ritual (washing, combing, apologizing forty times) that turned clinical helplessness into care. This is a distinct capability from clinical skill, and it's the part of the story she says she's 'always done,' suggesting it's instinctive rather than trained.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L16-L17",
+                  "quote": "I do this thing. I've always done it."
+                },
+                {
+                  "exp": 3,
+                  "line": "L24",
+                  "quote": "I said it probably forty times"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "She will be the person others quietly hand off end-of-life or crisis-adjacent moments to, even outside formal nursing roles (e.g., family deaths, hospice situations)."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes suffering shouldn't be exported to the people she loves.",
+              "explanation": "She went home, watched a show with her kids, and said nothing about her day, then let her sister's call about an unresolved conflict go to voicemail rather than reopen it — both moments show a rule that hard things stay contained rather than distributed to family. She frames this as normal ('that's just not how we do') rather than as a cost.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L41",
+                  "quote": "I never bring that in the house"
+                },
+                {
+                  "exp": 3,
+                  "line": "L44-L45",
+                  "quote": "That's just not how we do. In my family you don't dig."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her marriage or friendships, she will underreport her own distress and others will have to guess when something is wrong."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She may process grief and conflict by going silent and 'covering it over' rather than resolving it.",
+              "explanation": "The same night she absorbed a patient's death without telling her family, she also avoided her sister's call about an unresolved rift — two different griefs handled the same way, by containment rather than conversation. It's worth asking whether this coping style leaves things quietly unresolved rather than actually healed.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L40",
+                  "quote": "I didn't say nothing about my day"
+                },
+                {
+                  "exp": 3,
+                  "line": "L42-L43",
+                  "quote": "I saw her name on the phone and I let it go to voicemail... we never went back and said nothing about it"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will describe other unresolved relationship ruptures (beyond Cheryl) that are technically 'fine' but were never actually talked through."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She deflects when someone names something tender in her, rather than sitting with it.",
+              "explanation": "When her friend Patrice offers a real observation about her ('soft in a place people can't see'), she responds with 'I don't know' and 'I think she just be saying stuff,' echoing the same deflecting 'I don't know' used earlier about the meaning of her own ritual. This pattern of deflecting self-insight is worth her checking, especially since she also avoids charge-nurse promotions and hard conversations with her sister.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L49-L51",
+                  "quote": "My friend Patrice says I'm soft in a place people can't see. I don't know what that means. I think she just be saying stuff."
+                },
+                {
+                  "exp": 3,
+                  "line": "L48",
+                  "quote": "Isn't that — I don't know."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In feedback conversations (performance reviews, therapy, close friendships), she will minimize or deflect accurate observations about her inner life rather than explore them."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "She protects the dignity of the dying even when no one will ever know she did it.",
+              "explanation": "With no medical benefit possible and everyone else pulled to patients who could still be saved, she chose to clean gravel from a dying man's face and comb his hair so his mother would see her son, not a wreck. The cost was real time and emotional labor spent on someone triage logic said didn't need it.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L19",
+                  "quote": "I got warm water and I washed his face and I combed his hair with my fingers because his mama was coming"
+                },
+                {
+                  "exp": 3,
+                  "line": "L13",
+                  "quote": "there's fourteen other people out there who there IS something to do for, and that's correct, that's triage"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In caregiving or eldercare situations, she will prioritize a person's appearance/dignity even when it doesn't change the medical outcome.",
+              "exp": 3
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes suffering shouldn't be exported to the people she loves.",
+              "explanation": "She went home, watched a show with her kids, and said nothing about her day, then let her sister's call about an unresolved conflict go to voicemail rather than reopen it — both moments show a rule that hard things stay contained rather than distributed to family. She frames this as normal ('that's just not how we do') rather than as a cost.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L41",
+                  "quote": "I never bring that in the house"
+                },
+                {
+                  "exp": 3,
+                  "line": "L44-L45",
+                  "quote": "That's just not how we do. In my family you don't dig."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her marriage or friendships, she will underreport her own distress and others will have to guess when something is wrong.",
+              "exp": 3
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She may process grief and conflict by going silent and 'covering it over' rather than resolving it.",
+              "explanation": "The same night she absorbed a patient's death without telling her family, she also avoided her sister's call about an unresolved rift — two different griefs handled the same way, by containment rather than conversation. It's worth asking whether this coping style leaves things quietly unresolved rather than actually healed.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L40",
+                  "quote": "I didn't say nothing about my day"
+                },
+                {
+                  "exp": 3,
+                  "line": "L42-L43",
+                  "quote": "I saw her name on the phone and I let it go to voicemail... we never went back and said nothing about it"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will describe other unresolved relationship ruptures (beyond Cheryl) that are technically 'fine' but were never actually talked through.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She will give a grieving parent one true thing rather than a comforting lie.",
+              "reason": "restated",
+              "note": "She explicitly says 'that was the one true thing I could give her' — the insight just repeats her own framing back to her."
+            },
+            {
+              "headline": "She is unusually skilled at creating meaning and ritual in moments of medical futility.",
+              "reason": "flattering",
+              "note": "Dresses the same act already covered under core_values as a 'genius,' with no evidence she's exceptional relative to other nurses or that others come to her for this specifically — it's asserted, not shown."
+            },
+            {
+              "headline": "She deflects when someone names something tender in her, rather than sitting with it.",
+              "reason": "unfalsifiable",
+              "note": "Built on a two-line shrug ('I don't know,' 'she just be saying stuff') stretched into a cross-context deflection pattern (promotions, sister, feedback) with no second concrete instance of her deflecting insight — speculative chaining, not two grounded moments."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "She protects the dignity of the dying even when no one will ever know she did it.",
+            "explanation": "With no medical benefit possible and everyone else pulled to patients who could still be saved, she chose to clean gravel from a dying man's face and comb his hair so his mother would see her son, not a wreck. The cost was real time and emotional labor spent on someone triage logic said didn't need it.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L19",
+                "quote": "I got warm water and I washed his face and I combed his hair with my fingers because his mama was coming"
+              },
+              {
+                "exp": 3,
+                "line": "L13",
+                "quote": "there's fourteen other people out there who there IS something to do for, and that's correct, that's triage"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In caregiving or eldercare situations, she will prioritize a person's appearance/dignity even when it doesn't change the medical outcome.",
+            "exp": 3
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "She believes suffering shouldn't be exported to the people she loves.",
+            "explanation": "She went home, watched a show with her kids, and said nothing about her day, then let her sister's call about an unresolved conflict go to voicemail rather than reopen it — both moments show a rule that hard things stay contained rather than distributed to family. She frames this as normal ('that's just not how we do') rather than as a cost.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L41",
+                "quote": "I never bring that in the house"
+              },
+              {
+                "exp": 3,
+                "line": "L44-L45",
+                "quote": "That's just not how we do. In my family you don't dig."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In her marriage or friendships, she will underreport her own distress and others will have to guess when something is wrong.",
+            "exp": 3
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She may process grief and conflict by going silent and 'covering it over' rather than resolving it.",
+            "explanation": "The same night she absorbed a patient's death without telling her family, she also avoided her sister's call about an unresolved rift — two different griefs handled the same way, by containment rather than conversation. It's worth asking whether this coping style leaves things quietly unresolved rather than actually healed.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L40",
+                "quote": "I didn't say nothing about my day"
+              },
+              {
+                "exp": 3,
+                "line": "L42-L43",
+                "quote": "I saw her name on the phone and I let it go to voicemail... we never went back and said nothing about it"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "She will describe other unresolved relationship ruptures (beyond Cheryl) that are technically 'fine' but were never actually talked through.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "In March 2020 speaker became charge nurse."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Debra left the charge position; a replacement nurse was put in who was described as good and smart but scared."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker said 'Give it to me,' taking on the charge role."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Rooms 17 and 18 were negative pressure rooms where all suspected COVID cases were sent."
+            },
+            {
+              "line": "L10",
+              "what_happened": "An administrator from the third floor came down and said staff needed to 'be mindful of utilization' on N95 masks."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Policy stated one N95 mask per nurse per shift."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker told the administrator nurses were entering that room eleven or twelve times a shift."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Administrator responded they were 'looking at clustering care.'"
+            },
+            {
+              "line": "L17",
+              "what_happened": "Administrator said, \"Yolanda, I need you to trust the process,\" and speaker said okay."
+            },
+            {
+              "line": "L18",
+              "what_happened": "Speaker took over patient assignment for rooms 17 and 18 herself."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker did this every shift."
+            },
+            {
+              "line": "L20",
+              "what_happened": "This continued for about six weeks."
+            },
+            {
+              "line": "L25",
+              "what_happened": "In May, a patient in room 18 was classified by others as a low-suspicion rule-out, there for a hip issue."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker said to put her in the negative pressure room."
+            },
+            {
+              "line": "L29",
+              "what_happened": "The patient tested positive two days later after being moved to the ortho floor, and four staff members on that floor were infected."
+            },
+            {
+              "line": "L31",
+              "what_happened": "One infected staff member was Miss Gwen from environmental services, age 68."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Miss Gwen was on a ventilator for nineteen days."
+            },
+            {
+              "line": "L33",
+              "what_happened": "No one from administration said anything to the speaker about the outcome."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Speaker's son Jaylen was grown and living in Columbus at the time."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Daughter Kiana was doing school on a computer at the kitchen table; son Dre was home because his shop was closed."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker undressed in the garage nightly, placed scrubs in a bag, and went directly to the shower without contact with family."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker did not hug her children for six weeks."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Dre told speaker, \"You could take a leave. They got leave.\""
+            },
+            {
+              "line": "L46",
+              "what_happened": "Speaker responded by asking who would take rooms 17 and 18."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Dre looked at speaker and went to bed."
+            },
+            {
+              "line": "L50",
+              "what_happened": "Speaker states she does not pursue management track, does her shifts, and goes home."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L6",
+              "choice_made": "Speaker took the charge nurse position ('Give it to me')",
+              "alternatives_present_in_text": "Leaving the scared nurse in the role; not stepping up"
+            },
+            {
+              "line": "L18",
+              "choice_made": "Speaker took patient assignment in rooms 17 and 18 herself despite charge nurses not typically having assignments",
+              "alternatives_present_in_text": "Staying at the board/floating as charge nurses are 'supposed to'; letting a younger nurse take the rooms"
+            },
+            {
+              "line": "L27",
+              "choice_made": "Speaker said to put the hip patient in the negative pressure room",
+              "alternatives_present_in_text": "Following the low-suspicion classification and placing her elsewhere, as others recommended"
+            },
+            {
+              "line": "L46",
+              "choice_made": "Speaker did not take a leave and continued working rooms 17 and 18",
+              "alternatives_present_in_text": "Taking a leave, as Dre suggested and as was available"
+            },
+            {
+              "line": "L50",
+              "choice_made": "Speaker does her shifts and goes home rather than pursuing management track",
+              "alternatives_present_in_text": "Doing 'the extra,' pursuing management track"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L36",
+              "quote": "I'm really not somebody who needs a pat on the head."
+            },
+            {
+              "line": "L48",
+              "quote": "Family is first for me, though."
+            },
+            {
+              "line": "L49",
+              "quote": "That's — I've always been clear on that."
+            },
+            {
+              "line": "L51",
+              "quote": "I know some people can't separate it."
+            },
+            {
+              "line": "L52",
+              "quote": "I can."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L4",
+              "quote": "she was scared"
+            },
+            {
+              "line": "L4",
+              "quote": "when the charge nurse is scared the whole department is scared"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "clustering care",
+              "lines": [
+                "L13",
+                "L14"
+              ]
+            },
+            {
+              "phrase": "trust the process",
+              "lines": [
+                "L17",
+                "L38"
+              ]
+            },
+            {
+              "phrase": "seventeen and eighteen / 17 and 18",
+              "lines": [
+                "L9",
+                "L12",
+                "L18",
+                "L25",
+                "L27",
+                "L46"
+              ]
+            },
+            {
+              "phrase": "Four",
+              "lines": [
+                "L29",
+                "L30"
+              ]
+            },
+            {
+              "phrase": "Nineteen days",
+              "lines": [
+                "L31",
+                "L32"
+              ]
+            },
+            {
+              "phrase": "Six weeks",
+              "lines": [
+                "L20",
+                "L43",
+                "L44"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L2",
+              "quote": "Everybody got a COVID story, mine's not special, but you asked.",
+              "note": "Speaker minimizes the account before beginning it."
+            },
+            {
+              "line": "L35",
+              "quote": "And I didn't need 'em to.",
+              "note": "Statement moves quickly past the absence of acknowledgment from administration without elaboration."
+            },
+            {
+              "line": "L47",
+              "quote": "And he just kind of looked at me and went to bed.",
+              "note": "Exchange with Dre about taking leave ends abruptly with no further discussion recorded."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Debra",
+              "lines": [
+                "L4"
+              ],
+              "what_they_did": "Left the charge nurse position, prompting a replacement to be brought in."
+            },
+            {
+              "who": "Unnamed replacement nurse",
+              "lines": [
+                "L4"
+              ],
+              "what_they_did": "Was put in as charge; described as good, smart, but scared, which affected the department."
+            },
+            {
+              "who": "Admin woman from third floor (\"blazer lady\")",
+              "lines": [
+                "L10",
+                "L13",
+                "L17",
+                "L34"
+              ],
+              "what_they_did": "Told staff to be mindful of N95 utilization, proposed 'clustering care,' told speaker to 'trust the process,' and said nothing after the infection outcome."
+            },
+            {
+              "who": "Unnamed staff/coworkers",
+              "lines": [
+                "L28"
+              ],
+              "what_they_did": "Called speaker's decision to isolate the patient 'rigid.'"
+            },
+            {
+              "who": "Patient in room 18",
+              "lines": [
+                "L25",
+                "L29"
+              ],
+              "what_they_did": "Was classified as low-suspicion rule-out, was moved to ortho floor, and tested positive two days later."
+            },
+            {
+              "who": "Four staff members on ortho floor",
+              "lines": [
+                "L29"
+              ],
+              "what_they_did": "Were infected after the patient was moved to their floor."
+            },
+            {
+              "who": "Miss Gwen",
+              "lines": [
+                "L31"
+              ],
+              "what_they_did": "Environmental services worker, age 68, infected and placed on a ventilator for nineteen days."
+            },
+            {
+              "who": "Jaylen",
+              "lines": [
+                "L41"
+              ],
+              "what_they_did": "Was grown and living in Columbus at the time."
+            },
+            {
+              "who": "Kiana",
+              "lines": [
+                "L42"
+              ],
+              "what_they_did": "Did school on the computer at the kitchen table."
+            },
+            {
+              "who": "Dre",
+              "lines": [
+                "L42",
+                "L45",
+                "L47"
+              ],
+              "what_they_did": "Was home because his shop was closed; told speaker she could take a leave; looked at her and went to bed after her response."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "Yolanda protects her staff's physical safety even when it means violating role norms and defying administrative authority.",
+              "explanation": "She broke the explicit charge-nurse rule of not carrying a patient assignment, and did so for six weeks straight, specifically to keep junior nurses out of the highest-risk rooms. This was a repeated, costly choice (unpaid extra labor, role violation, family separation) not just a stated preference.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L18",
+                  "quote": "And then I went and I took seventeen and eighteen myself."
+                },
+                {
+                  "exp": 4,
+                  "line": "L24",
+                  "quote": "I wasn't gonna stand at the board and watch a twenty-six-year-old go in there with a paper bag on her face."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a future leadership role, she will personally absorb the worst task on a team rather than delegate it downward, even at cost to her own advancement."
+            },
+            {
+              "category": "core_values",
+              "headline": "Yolanda will defy a direct instruction from authority when she judges it endangers people, and she does not need vindication afterward.",
+              "explanation": "She overrode the 'rigid' label and the admin's low-suspicion classification, isolating a patient against consensus, and when proven right by a serious outcome (four infections, one near-fatal), she explicitly did not seek acknowledgment. This is a value made visible through cost — being called rigid, getting no credit — not a claim about herself.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L27",
+                  "quote": "I said put her in the negative pressure."
+                },
+                {
+                  "exp": 4,
+                  "line": "L35",
+                  "quote": "And I didn't need 'em to."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "She will make an unpopular safety or ethical call in a work setting and not raise it again for validation even if she's later proven correct."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Yolanda reads risk and fear in a room faster and more accurately than the formal systems meant to track it, and acts on it immediately.",
+              "explanation": "She diagnosed that a scared charge nurse would destabilize the whole department before any policy addressed it, then correctly overrode a clinical classification ('rule-out, low suspicion') based on her own judgment, which proved right when the patient turned positive. This is a distinct capability from her stated value of protecting people — it's the accurate perception underneath the protective action.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L4",
+                  "quote": "when the charge nurse is scared the whole department is scared, it comes down the ceiling like gas"
+                },
+                {
+                  "exp": 4,
+                  "line": "L26",
+                  "quote": "And I said no."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future team settings, others will seek her out specifically to gut-check a decision before committing resources, even outside her formal authority."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Yolanda believes formal authority and process are frequently disconnected from ground-truth risk, and defaults to trusting her own on-the-ground judgment over institutional directives.",
+              "explanation": "The administrator's credibility is repeatedly undercut in her telling (clipboard, loud blazers, 'never clustered anything in her life'), and Yolanda's counter-judgment was vindicated by outcome while the institution offered no correction or acknowledgment afterward. This operating assumption explains both her defiance at L27 and her flat dismissal of the admin's language as empty.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L15",
+                  "quote": "She had never clustered anything in her life."
+                },
+                {
+                  "exp": 4,
+                  "line": "L33",
+                  "quote": "Nobody from admin ever said nothing to me about it."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will be skeptical of new workplace policies or leadership directives until she has personally verified them against what she observes on the ground."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Yolanda believes that career advancement requires a tradeoff against family that she is unwilling to make, so she keeps herself capped rather than risk that boundary.",
+              "explanation": "She frames not pursuing management as a clean, settled choice ('I've always been clear on that... I can separate it'), yet the same period shows her taking on far more than her formal role required, working herself past exhaustion and away from her kids for six weeks. The stated belief and the demonstrated behavior are in tension worth naming as belief rather than fact.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L50",
+                  "quote": "That's why I don't go for the management track, I don't do the extra, I do my shifts and I come home."
+                },
+                {
+                  "exp": 4,
+                  "line": "L43",
+                  "quote": "Six weeks I didn't hug my kids."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will turn down a promotion or leadership opportunity in the future citing family, even in situations where the actual time cost would be comparable to what she already voluntarily takes on."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Yolanda repeatedly takes on the most dangerous or demanding task herself rather than delegate or ask for relief, even when an easier option is directly offered to her.",
+              "explanation": "She took the charge role nobody wanted, then took the two worst rooms herself for six weeks against her own job description, and when her husband directly offered her a sanctioned way out (leave), she refused it without discussion. The pattern of self-selecting the hardest load recurs across at least three moments in this one story and is worth her examining — is this protection of others, avoidance of vulnerability, or both?",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L6",
+                  "quote": "So I said fine. Give it to me."
+                },
+                {
+                  "exp": 4,
+                  "line": "L46",
+                  "quote": "And I said who's gonna take seventeen and eighteen."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In a future high-stress team situation, she will decline offered help or relief and instead quietly absorb more of the burden herself — worth checking whether this is sustainable or costs her health over time."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "Yolanda breaks role rules to physically shield junior staff from the worst risk, absorbing it herself for weeks rather than delegating down.",
+              "explanation": "She broke the explicit charge-nurse rule of not carrying a patient assignment, and did so for six weeks straight, specifically to keep junior nurses out of the highest-risk rooms. This was a repeated, costly choice (unpaid extra labor, role violation, family separation) not just a stated preference.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L18",
+                  "quote": "And then I went and I took seventeen and eighteen myself."
+                },
+                {
+                  "exp": 4,
+                  "line": "L24",
+                  "quote": "I wasn't gonna stand at the board and watch a twenty-six-year-old go in there with a paper bag on her face."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a future leadership role, she will personally absorb the worst task on a team rather than delegate it downward, even at cost to her own advancement.",
+              "exp": 4
+            },
+            {
+              "category": "core_values",
+              "headline": "Yolanda overrides authority when she judges lives are at stake, then drops the matter entirely once proven right rather than seeking credit or a reckoning.",
+              "explanation": "She overrode the 'rigid' label and the admin's low-suspicion classification, isolating a patient against consensus, and when proven right by a serious outcome (four infections, one near-fatal), she explicitly did not seek acknowledgment or raise it with the admin again. This is a value made visible through cost — being called rigid, getting no credit — not a claim about herself.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L27",
+                  "quote": "I said put her in the negative pressure."
+                },
+                {
+                  "exp": 4,
+                  "line": "L35",
+                  "quote": "And I didn't need 'em to."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "She will make an unpopular safety or ethical call in a work setting and not raise it again for validation even if she's later proven correct.",
+              "exp": 4
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "Yolanda treats institutional directives as suspect relative to her own ground-level read, and expects no correction or accountability from above even when vindicated.",
+              "explanation": "The administrator's credibility is repeatedly undercut in her telling (clipboard, loud blazers, 'never clustered anything in her life'), and Yolanda's counter-judgment was vindicated by outcome while the institution offered no correction or acknowledgment afterward. This operating assumption explains both her defiance at L27 and her flat dismissal of the admin's language as empty.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L15",
+                  "quote": "She had never clustered anything in her life."
+                },
+                {
+                  "exp": 4,
+                  "line": "L33",
+                  "quote": "Nobody from admin ever said nothing to me about it."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will be skeptical of new workplace policies or leadership directives until she has personally verified them against what she observes on the ground.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Yolanda reads risk and fear in a room faster and more accurately than the formal systems meant to track it, and acts on it immediately.",
+              "reason": "ungrounded",
+              "note": "Only one real instance of predictive judgment (the rule-out patient); the fear-diagnosis line is an observation about a colleague, not a demonstrated repeatable skill others seek her out for — 'would_predict' invents a claim about others consulting her that isn't in the transcript."
+            },
+            {
+              "headline": "Yolanda believes that career advancement requires a tradeoff against family that she is unwilling to make, so she keeps herself capped rather than risk that boundary.",
+              "reason": "restated",
+              "note": "She already states this exact belief plainly at L48-52 ('Family is first... that's why I don't go for management'); the tension noted is interesting but the core claim is just repeating her own words back as insight."
+            },
+            {
+              "headline": "Yolanda repeatedly takes on the most dangerous or demanding task herself rather than delegate or ask for relief, even when an easier option is directly offered to her.",
+              "reason": "restated",
+              "note": "This is just a restatement/summary of events she already narrated explicitly and self-awarely (taking charge, taking the rooms, refusing leave) — she's not unaware of this pattern, she explained her reasoning for each instance in the same breath."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "Yolanda breaks role rules to physically shield junior staff from the worst risk, absorbing it herself for weeks rather than delegating down.",
+            "explanation": "She broke the explicit charge-nurse rule of not carrying a patient assignment, and did so for six weeks straight, specifically to keep junior nurses out of the highest-risk rooms. This was a repeated, costly choice (unpaid extra labor, role violation, family separation) not just a stated preference.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L18",
+                "quote": "And then I went and I took seventeen and eighteen myself."
+              },
+              {
+                "exp": 4,
+                "line": "L24",
+                "quote": "I wasn't gonna stand at the board and watch a twenty-six-year-old go in there with a paper bag on her face."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In a future leadership role, she will personally absorb the worst task on a team rather than delegate it downward, even at cost to her own advancement.",
+            "exp": 4
+          },
+          {
+            "category": "core_values",
+            "headline": "Yolanda overrides authority when she judges lives are at stake, then drops the matter entirely once proven right rather than seeking credit or a reckoning.",
+            "explanation": "She overrode the 'rigid' label and the admin's low-suspicion classification, isolating a patient against consensus, and when proven right by a serious outcome (four infections, one near-fatal), she explicitly did not seek acknowledgment or raise it with the admin again. This is a value made visible through cost — being called rigid, getting no credit — not a claim about herself.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L27",
+                "quote": "I said put her in the negative pressure."
+              },
+              {
+                "exp": 4,
+                "line": "L35",
+                "quote": "And I didn't need 'em to."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "She will make an unpopular safety or ethical call in a work setting and not raise it again for validation even if she's later proven correct.",
+            "exp": 4
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "Yolanda treats institutional directives as suspect relative to her own ground-level read, and expects no correction or accountability from above even when vindicated.",
+            "explanation": "The administrator's credibility is repeatedly undercut in her telling (clipboard, loud blazers, 'never clustered anything in her life'), and Yolanda's counter-judgment was vindicated by outcome while the institution offered no correction or acknowledgment afterward. This operating assumption explains both her defiance at L27 and her flat dismissal of the admin's language as empty.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L15",
+                "quote": "She had never clustered anything in her life."
+              },
+              {
+                "exp": 4,
+                "line": "L33",
+                "quote": "Nobody from admin ever said nothing to me about it."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "She will be skeptical of new workplace policies or leadership directives until she has personally verified them against what she observes on the ground.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "Speaker got a new graduate nurse, Brianna."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Brianna is described as twenty-three, from Albany."
+            },
+            {
+              "line": "L5",
+              "what_happened": "A five-year-old girl was brought in after a near-drowning, from an apartment complex pool that wasn't supposed to be open in March."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Medics had regained a pulse/rhythm but the child was posturing."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker placed Brianna at the head of the bed with her."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker states some other charge nurses would remove new nurses from the room in such situations."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker positioned Brianna and told her to put hands on."
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker instructed Brianna to hold a tube at eighteen at the lip and not move, while speaker narrated what everyone in the room was doing."
+            },
+            {
+              "line": "L13",
+              "what_happened": "Speaker narrated the entire resuscitation process."
+            },
+            {
+              "line": "L14-L18",
+              "what_happened": "Speaker identified each team member and their role aloud: respiratory setting rate, Dr. Osei looking at the gas, Ronda managing drips, speaker watching the clock and Brianna."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Brianna's hands were shaking at first, then stopped."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker leaned over the child and spoke to her, apologizing for the cold and saying they would warm her up."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Brianna reacted with a surprised look; speaker told her to talk to patients regardless of their score."
+            },
+            {
+              "line": "L26",
+              "what_happened": "Brianna began talking to patients too."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker states she now hears Brianna doing this with her own patients."
+            },
+            {
+              "line": "L28-L29",
+              "what_happened": "The child was transferred to PICU; speaker heard the child walked out with some deficits."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Dr. Osei said they should stop due to prolonged downtime; speaker asked for eight more minutes, citing the child's core temperature of twenty-nine degrees."
+            },
+            {
+              "line": "L35-L36",
+              "what_happened": "Dr. Osei agreed to eight minutes; the child's pulse returned at minute six."
+            },
+            {
+              "line": "L40",
+              "what_happened": "This event occurred on a Thursday, which was Malachi's birthday."
+            },
+            {
+              "line": "L41-L43",
+              "what_happened": "Speaker states Malachi turned fifteen (initially said fourteen, then corrected)."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker had told Dre she would be home at seven-thirty, off work at seven, a twenty-two minute drive."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Speaker arrived home at approximately nine-fifty."
+            },
+            {
+              "line": "L46",
+              "what_happened": "After the incident, speaker debriefed with Brianna, completed incident review paperwork, and sat with Ronda in the parking deck because Ronda was upset about something unrelated."
+            },
+            {
+              "line": "L47",
+              "what_happened": "When speaker arrived home, the cake had been cut and a corner piece with the flower was saved for her."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Malachi said \"It's cool, Ma\" in response to speaker's apology."
+            },
+            {
+              "line": "L49",
+              "what_happened": "They watched something together."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L7-L8",
+              "choice_made": "Speaker put Brianna at the head of the bed and did not send her out of the room.",
+              "alternatives_present_in_text": "L9: other charge nurses would send new nurses out of the room."
+            },
+            {
+              "line": "L34",
+              "choice_made": "Speaker asked Dr. Osei for eight more minutes of resuscitation.",
+              "alternatives_present_in_text": "L34: Dr. Osei suggested stopping due to prolonged down time."
+            },
+            {
+              "line": "L46",
+              "choice_made": "Speaker stayed to debrief with Brianna, complete paperwork, and sit with Ronda in the parking deck.",
+              "alternatives_present_in_text": "L44: speaker had told Dre she would be home at seven-thirty."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L10",
+              "quote": "I don't do that."
+            },
+            {
+              "line": "L24-L25",
+              "quote": "I don't care what they scored. You talk to 'em."
+            },
+            {
+              "line": "L27",
+              "quote": "I don't take credit for that."
+            },
+            {
+              "line": "L38",
+              "quote": "I'm not saying that to be — it's just what happened."
+            },
+            {
+              "line": "L51",
+              "quote": "My family is the priority, period, it always has been, I'm not one of these people that's married to a hospital."
+            },
+            {
+              "line": "L52",
+              "quote": "I just happen to have some stories from there because that's where things happen to be happening."
+            },
+            {
+              "line": "L53",
+              "quote": "If you asked me what I'm proudest of it'd be my kids, hands down, no question."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L4",
+              "quote": "scared of everything"
+            },
+            {
+              "line": "L22",
+              "quote": "I'm sorry, I'm sorry it's so cold in here"
+            },
+            {
+              "line": "L48",
+              "quote": "baby I'm sorry"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "I'm sorry",
+              "lines": [
+                "L22",
+                "L48"
+              ]
+            },
+            {
+              "phrase": "you talk to 'em",
+              "lines": [
+                "L23",
+                "L25"
+              ]
+            },
+            {
+              "phrase": "minute six",
+              "lines": [
+                "L36",
+                "L37",
+                "L55"
+              ]
+            },
+            {
+              "phrase": "it's cool",
+              "lines": [
+                "L48"
+              ]
+            },
+            {
+              "phrase": "fifteen",
+              "lines": [
+                "L42",
+                "L43"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L30-L32",
+              "quote": "Which. Mm. Yeah.",
+              "note": "Speaker trails off with short fragments after stating the child walked out with deficits, before moving to next topic."
+            },
+            {
+              "line": "L41-L43",
+              "quote": "he turned — he was fourteen? Fifteen. Fifteen.",
+              "note": "Speaker corrects herself on son's age immediately after stating it."
+            },
+            {
+              "line": "L54",
+              "quote": "But yeah.",
+              "note": "Short transitional phrase moving away from statement about family being the priority, back to the hospital story."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Brianna",
+              "lines": [
+                "L3",
+                "L4",
+                "L7",
+                "L9",
+                "L11",
+                "L12",
+                "L19",
+                "L23",
+                "L26",
+                "L27",
+                "L46"
+              ],
+              "what_they_did": "New grad nurse; was placed at head of bed, held tube, hands shook then stopped, later began talking to patients, was debriefed with after the event."
+            },
+            {
+              "who": "Dr. Osei",
+              "lines": [
+                "L15",
+                "L16",
+                "L33",
+                "L34",
+                "L35",
+                "L36"
+              ],
+              "what_they_did": "Looked at the gas; said they should stop due to downtime; agreed to eight more minutes."
+            },
+            {
+              "who": "Ronda",
+              "lines": [
+                "L17",
+                "L46"
+              ],
+              "what_they_did": "Managed drips during the resuscitation; was upset about something unrelated afterward, sat with by speaker in parking deck."
+            },
+            {
+              "who": "the five-year-old girl",
+              "lines": [
+                "L5",
+                "L6",
+                "L22",
+                "L28",
+                "L29"
+              ],
+              "what_they_did": "Near-drowning patient; was posturing; spoken to by speaker; transferred to PICU; later walked out with some deficits."
+            },
+            {
+              "who": "Dre",
+              "lines": [
+                "L44"
+              ],
+              "what_they_did": "Was told by speaker she would be home at seven-thirty."
+            },
+            {
+              "who": "Malachi",
+              "lines": [
+                "L40",
+                "L41",
+                "L48"
+              ],
+              "what_they_did": "Turned fifteen on the day of the incident; said \"It's cool, Ma\" when speaker arrived home late and apologized."
+            },
+            {
+              "who": "family/they",
+              "lines": [
+                "L47"
+              ],
+              "what_they_did": "Left speaker a corner piece of cake with the flower, described as always saved for her."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "zone_of_genius",
+              "headline": "She can regulate a panicking novice under life-or-death pressure by giving them a physical task and a running narration.",
+              "explanation": "Rather than removing Brianna from the room, she gave her hands-on work and talked through every role in real time, and Brianna's shaking stopped because, as the speaker puts it, 'you can't shake and listen at the same time.' This is a deliberate, replicable technique, not luck — she names it as 'a trick' that 'works on anybody,' and it's now visibly propagated (Brianna does it with her own patients).",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L7",
+                  "quote": "I put Brianna at the head of the bed with me."
+                },
+                {
+                  "exp": 5,
+                  "line": "L19-L21",
+                  "quote": "Brianna's hands were shaking at first and then they stopped, because you can't shake and listen at the same time. That's just — that's a trick."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In work settings outside the ER, she'll be the one leaders ask to onboard or steady a terrified new hire during a high-stakes first assignment rather than shield them from it."
+            },
+            {
+              "category": "core_values",
+              "headline": "She holds that patients should be talked to as people regardless of clinical prognosis, and enforces this as a rule even for trainees.",
+              "explanation": "She didn't just talk to the dying child herself; she turned to Brianna and issued it as an instruction — 'I don't care what they scored. You talk to 'em' — making it a transmissible standard, not a private habit. This costs her something: it requires extra emotional exposure and modeling under time pressure and clinical crisis.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L22",
+                  "quote": "hey baby girl, we got you, I'm sorry, I'm sorry it's so cold in here, we're gonna warm you up"
+                },
+                {
+                  "exp": 5,
+                  "line": "L24-L25",
+                  "quote": "I don't care what they scored. You talk to 'em."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In leadership or mentoring contexts, she will insist on treating people as full human beings even when it's inefficient or when others argue the outcome is already determined."
+            },
+            {
+              "category": "core_values",
+              "headline": "She will override a superior's clinical judgment and push past prescribed stopping points when she believes it's not yet time to give up.",
+              "explanation": "When Dr. Osei called for stopping due to prolonged downtime, she didn't defer — she asked for eight more minutes and gave a clinical rationale to justify it, and was right (the child came back at minute six). This is a choice made under real pressure — professional hierarchy and clinical risk — not just a stated belief.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L34",
+                  "quote": "give me eight more minutes, I said her core temp is twenty-nine degrees, she's not dead till she's warm and dead"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other high-stakes work decisions, she will push back on authority when she has domain conviction, even at risk of friction, rather than defer to rank."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She narrates her family as the unquestioned priority but her account keeps drifting back to, and lingering in, the hospital story.",
+              "explanation": "She states plainly that family is 'the priority, period' and what she's proudest of, yet immediately follows with a rushed 'But yeah' back to the resuscitation, and the whole story is framed as being interrupted by staying late for Brianna, the paperwork, and Ronda — three separate choices to delay going home on her son's birthday. Worth her checking whether the felt hierarchy matches the lived allocation of her time and attention.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L51",
+                  "quote": "My family is the priority, period, it always has been, I'm not one of these people that's married to a hospital."
+                },
+                {
+                  "exp": 5,
+                  "line": "L46",
+                  "quote": "I had to debrief with Brianna, and then I had to do the incident review paperwork, and then Ronda was upset about something else entirely and I sat with her in the parking deck"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked directly about work-life balance in other contexts, she'll assert family comes first while describing recent instances where she stayed late for colleagues or duty."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes she must personally absorb the emotional aftermath of her team's crises before she's free to go home.",
+              "explanation": "After the resuscitation ended, she didn't just complete required paperwork — she also sat with Ronda in a parking deck for something 'entirely' unrelated, on her own son's birthday, after already being late. This suggests an internalized rule that her role includes staying until everyone else's emotional needs are handled, not just the clinical task.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L46",
+                  "quote": "Ronda was upset about something else entirely and I sat with her in the parking deck"
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "She will regularly extend her own workday or personal time to caretake colleagues' emotional states, and will describe this as unavoidable rather than as a boundary she could set."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "zone_of_genius",
+              "headline": "She can regulate a panicking novice under life-or-death pressure by giving them a physical task and a running narration.",
+              "explanation": "Rather than removing Brianna from the room, she gave her hands-on work and talked through every role in real time, and Brianna's shaking stopped because, as the speaker puts it, 'you can't shake and listen at the same time.' This is a deliberate, replicable technique, not luck — she names it as 'a trick' that 'works on anybody,' and it's now visibly propagated (Brianna does it with her own patients).",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L7",
+                  "quote": "I put Brianna at the head of the bed with me."
+                },
+                {
+                  "exp": 5,
+                  "line": "L19-L21",
+                  "quote": "Brianna's hands were shaking at first and then they stopped, because you can't shake and listen at the same time. That's just — that's a trick."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In work settings outside the ER, she'll be the one leaders ask to onboard or steady a terrified new hire during a high-stakes first assignment rather than shield them from it.",
+              "exp": 5
+            },
+            {
+              "category": "core_values",
+              "headline": "She will override a superior's clinical judgment and push past prescribed stopping points when she believes it's not yet time to give up.",
+              "explanation": "When Dr. Osei called for stopping due to prolonged downtime, she didn't defer — she asked for eight more minutes and gave a clinical rationale to justify it, and was right (the child came back at minute six). This is a choice made under real pressure — professional hierarchy and clinical risk — not just a stated belief.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L34",
+                  "quote": "give me eight more minutes, I said her core temp is twenty-nine degrees, she's not dead till she's warm and dead"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other high-stakes work decisions, she will push back on authority when she has domain conviction, even at risk of friction, rather than defer to rank.",
+              "exp": 5
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She narrates her family as the unquestioned priority but her account keeps drifting back to, and lingering in, the hospital story.",
+              "explanation": "She states plainly that family is 'the priority, period' and what she's proudest of, yet immediately follows with a rushed 'But yeah' back to the resuscitation, and the whole story is framed as being interrupted by staying late for Brianna, the paperwork, and Ronda — three separate choices to delay going home on her son's birthday. Worth her checking whether the felt hierarchy matches the lived allocation of her time and attention.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L51",
+                  "quote": "My family is the priority, period, it always has been, I'm not one of these people that's married to a hospital."
+                },
+                {
+                  "exp": 5,
+                  "line": "L46",
+                  "quote": "I had to debrief with Brianna, and then I had to do the incident review paperwork, and then Ronda was upset about something else entirely and I sat with her in the parking deck"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked directly about work-life balance in other contexts, she'll assert family comes first while describing recent instances where she stayed late for colleagues or duty.",
+              "exp": 5
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She holds that patients should be talked to as people regardless of clinical prognosis, and enforces this as a rule even for trainees.",
+              "reason": "restated",
+              "note": "She directly says 'I don't care what they scored, you talk to 'em' — the candidate just repeats her own explicit statement as if it were inferred."
+            },
+            {
+              "headline": "She believes she must personally absorb the emotional aftermath of her team's crises before she's free to go home.",
+              "reason": "unfalsifiable",
+              "note": "Built on a single instance (sitting with Ronda once); no second occurrence cited, so this is speculation dressed as a belief rather than a demonstrated recurring rule."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "zone_of_genius",
+            "headline": "She can regulate a panicking novice under life-or-death pressure by giving them a physical task and a running narration.",
+            "explanation": "Rather than removing Brianna from the room, she gave her hands-on work and talked through every role in real time, and Brianna's shaking stopped because, as the speaker puts it, 'you can't shake and listen at the same time.' This is a deliberate, replicable technique, not luck — she names it as 'a trick' that 'works on anybody,' and it's now visibly propagated (Brianna does it with her own patients).",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L7",
+                "quote": "I put Brianna at the head of the bed with me."
+              },
+              {
+                "exp": 5,
+                "line": "L19-L21",
+                "quote": "Brianna's hands were shaking at first and then they stopped, because you can't shake and listen at the same time. That's just — that's a trick."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In work settings outside the ER, she'll be the one leaders ask to onboard or steady a terrified new hire during a high-stakes first assignment rather than shield them from it.",
+            "exp": 5
+          },
+          {
+            "category": "core_values",
+            "headline": "She will override a superior's clinical judgment and push past prescribed stopping points when she believes it's not yet time to give up.",
+            "explanation": "When Dr. Osei called for stopping due to prolonged downtime, she didn't defer — she asked for eight more minutes and gave a clinical rationale to justify it, and was right (the child came back at minute six). This is a choice made under real pressure — professional hierarchy and clinical risk — not just a stated belief.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L34",
+                "quote": "give me eight more minutes, I said her core temp is twenty-nine degrees, she's not dead till she's warm and dead"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In other high-stakes work decisions, she will push back on authority when she has domain conviction, even at risk of friction, rather than defer to rank.",
+            "exp": 5
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She narrates her family as the unquestioned priority but her account keeps drifting back to, and lingering in, the hospital story.",
+            "explanation": "She states plainly that family is 'the priority, period' and what she's proudest of, yet immediately follows with a rushed 'But yeah' back to the resuscitation, and the whole story is framed as being interrupted by staying late for Brianna, the paperwork, and Ronda — three separate choices to delay going home on her son's birthday. Worth her checking whether the felt hierarchy matches the lived allocation of her time and attention.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L51",
+                "quote": "My family is the priority, period, it always has been, I'm not one of these people that's married to a hospital."
+              },
+              {
+                "exp": 5,
+                "line": "L46",
+                "quote": "I had to debrief with Brianna, and then I had to do the incident review paperwork, and then Ronda was upset about something else entirely and I sat with her in the parking deck"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "When asked directly about work-life balance in other contexts, she'll assert family comes first while describing recent instances where she stayed late for colleagues or duty.",
+            "exp": 5
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "patterns_to_explore",
+          "headline": "Across every decade of her career, she says 'I'm not a work person' in the same breath as describing the most defining moment of her life, and the pattern intensifies rather than resolves over time.",
+          "explanation": "In 1999 she opens by declaring 'I don't even consider myself a work person' before delivering the story she says made her (E1 L3). In 2005 she repeats it almost verbatim mid-divorce, immediately after admitting the walkthrough ritual is 'what I got laying around' when asked what shaped her (E2 L52-57). By 2025 the disclaimer is still there, now paired with concrete evidence of arriving nearly two and a half hours late to her son's birthday because she stayed for a colleague's emotional crisis in a parking deck (E5 L46, L51). The claim hasn't changed in 26 years while the stack of work-precedence evidence has only grown; worth her checking whether 'not a work person' is a belief about herself she's protecting rather than a description that fits.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I don't even consider myself a work person, I want that on the record, my family is my whole entire thing, always has been."
+            },
+            {
+              "exp": 5,
+              "quote": "My family is the priority, period, it always has been, I'm not one of these people that's married to a hospital."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "contradiction",
+          "would_predict": "If asked to log a week of actual time and attention rather than stated priorities, work will consume more of her discretionary emotional bandwidth than family, even during weeks she'd describe as normal."
+        },
+        {
+          "category": "core_values",
+          "headline": "She repeatedly overrides a named authority figure's explicit clinical call, and is willing to be professionally humiliated for it, across her entire career.",
+          "explanation": "In 1999 a resident tells her to 'go sit down' and she complies for ninety seconds before acting anyway (E1 L29-34). In 2005 a fellow openly questions her legitimacy in front of the attending ('Is she the one calling it?') and she'd already pressed the clinical point before that (E2 L32-33). In 2020 an administrator tells her to 'trust the process' and calls her rigid, and she isolates the patient anyway (E4 L27-29). In 2025 she asks a physician for more resuscitation time against his stated stopping point (E5 L34-36). The recurrence across 26 years and four different types of authority (resident, fellow, administrator, attending) suggests this isn't situational but a stable operating stance.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "he says, \"She's anxious. Everybody in this hallway is anxious. Go sit down for a minute, you look tired.\""
+            },
+            {
+              "exp": 4,
+              "quote": "the word they used was rigid"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a non-clinical setting — a school meeting about her kids, a dispute with a contractor — she will similarly refuse to defer to a credentialed authority once she believes she has the better read of the facts."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Her signature move under maximum crisis is to narrate her own reasoning out loud to a junior person while acting, turning the worst moment in the room into someone else's training.",
+          "explanation": "This shows up almost identically in 1999 with Nicole ('I'm talking the whole time to the girl who was orienting with me... you're gonna see this again,' E1 L46) and in 2025 with Brianna, where she explicitly names it as a technique ('that's a trick... it works on anybody,' E5 L19-21) that has since propagated to Brianna's own patients (E5 L27). Twenty-six years apart, same behavior, now with visible downstream impact — this is a distinct, replicable capability rather than an incidental habit.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "Because if you're teaching it you're not shaking. That's just — that's just efficient."
+            },
+            {
+              "exp": 5,
+              "quote": "I don't care what they scored. You talk to 'em."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "She will naturally gravitate toward informal mentoring even without a title for it, and will be remembered by junior colleagues less for her clinical calls than for how she talked them through the worst moments."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "She believes that speaking directly and physically to the dying or dead-in-effect matters even though she is explicit that they cannot hear or benefit — a belief she holds despite calling herself unsentimental.",
+          "explanation": "With the motorcycle patient she washes his face and apologizes to him 'probably forty times' while stating flatly 'I know he can't hear me... I'm not out here being mystical' (E3 L23-27). With the drowned child she again narrates comfort ('I'm sorry it's so cold in here') to a body whose brain is starved of oxygen, and treats it as instructional rather than instinctive-only ('you talk to 'em,' E5 L23-25). She frames the act as pragmatic/procedural both times, yet it costs her real time she doesn't need to spend and she can't fully explain why she does it ('Isn't that — I don't know,' E3 L48) — the disowned belief is that the ritual is for someone (herself, the family, the room) even when she insists it isn't mystical.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I know he can't hear me. I'm not — I'm a nurse, I know what a GCS of three is, alright? I'm not out here being mystical. It's just something I do."
+            },
+            {
+              "exp": 5,
+              "quote": "hey baby girl, we got you, I'm sorry, I'm sorry it's so cold in here, we're gonna warm you up."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "At a family funeral or hospice bedside outside work, she will speak directly to the dying person even past the point others consider it useful, and will deflect if asked why."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "She names emotional cost almost exclusively through small domestic images — a driveway, a bowl of cereal, blinds closed, a garage in the cold — rather than through direct statements of feeling, and this holds across every experience where something devastating happened.",
+          "explanation": "After the ruptured ectopic she doesn't say she was shaken; she says she sat in the driveway 'for like fifteen minutes... Just sitting' (E1 L55-56). After the 18-year-old's death mid-divorce she doesn't describe grief; she says she 'sat on the floor of the kitchen and ate a bowl of cereal at like eight in the morning with the blinds closed' (E2 L51). In 2020 the six weeks of undressing in a cold garage to avoid touching her kids stands in for whatever she felt about the risk (E4 L42). The pattern is consistent enough to be a reporting style, not an absence of feeling — worth her noticing that she has a vocabulary for procedure and almost none for naming affect directly.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I sat in the driveway on Hollywood Road for like fifteen minutes before I went in. Just sitting."
+            },
+            {
+              "exp": 2,
+              "quote": "I sat on the floor of the kitchen and ate a bowl of cereal at like eight in the morning with the blinds closed."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a direct conversation about how she's feeling (with a partner, a therapist), she will redirect to what she did or where she was rather than name an emotion, even when pressed."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "The people she describes as 'good' or credits with holding things together at home (her mother, Dre) are consistently the ones absorbing childcare during her highest-stakes work moments, raising the question of whether her stated even-handedness about family and work is possible only because someone else is covering the gap.",
+          "explanation": "In 1999 her mother has baby Jaylen while she's dealing with the hemorrhaging patient (E1 L55). In 2020 she credits Dre explicitly — 'he do more than I do half the time honestly' (E3 L34) — while she is simultaneously undressing in the garage nightly and refusing leave (E4 L46-50). This isn't named as a debt by her, but it recurs as the structural condition that makes her 'family first' claim function at all.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "Dre had the kids fed, he had did the whole — he's good like that, he's a good man, he do more than I do half the time honestly."
+            },
+            {
+              "exp": 4,
+              "quote": "And Dre said to me one night, he said, \"You could take a leave. They got leave.\" And I said who's gonna take seventeen and eighteen."
+            }
+          ],
+          "confidence": "low",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "If asked directly about her marriage's division of labor, she will minimize her own dependence on Dre's caregiving and frame her work absences as exceptions rather than as a standing arrangement he enables."
+        },
+        {
+          "category": "core_values",
+          "headline": "She consistently declines the role that would let her stop absorbing the worst cases herself, even when the role is repeatedly offered to her.",
+          "explanation": "She 'kept turning down charge... they asked me like three times' before 2014 (E3 L3-5), and only takes it in 2020 for a defensive reason — to protect the department from a scared charge nurse — immediately undermining the position's purpose by taking the highest-risk assignment herself instead of floating (E4 L3-21). The through-line is that formal authority is something she avoids until it becomes a tool to keep doing the hands-on absorption she already values, not something she wants for its own sake.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I kept turning down charge, they asked me like three times. Not 'cause I'm humble, I just didn't want the meetings."
+            },
+            {
+              "exp": 4,
+              "quote": "Charge nurse ain't supposed to have a patient assignment, that's the whole point of charge... But I took 'em."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "She will decline further promotions (management, administration) that move her away from direct patient contact, even if they come with more pay or influence."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "patterns_to_explore",
+          "headline": "You say 'I'm not a work person' in nearly the same words across 26 years, and each time you say it, the story right next to it proves the opposite.",
+          "explanation": "In 1999 you open with 'I don't even consider myself a work person, I want that on the record, my family is my whole entire thing' right before telling the story of the patient who made you (E1 L3). In 2005, mid-divorce, you say it again almost word for word, right after admitting the walkthrough ritual with your team is 'what I got laying around' when asked what shaped you (E2 L52-57). In 2025 you're still saying it — 'my family is the priority, period, it always has been, I'm not one of these people that's married to a hospital' — right after describing arriving two and a half hours late to your son's birthday because you stayed for a colleague in a parking deck (E5 L51, L46). The claim hasn't moved in 26 years. The evidence against it has only piled up.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I don't even consider myself a work person, I want that on the record, my family is my whole entire thing, always has been."
+            },
+            {
+              "exp": 5,
+              "quote": "My family is the priority, period, it always has been, I'm not one of these people that's married to a hospital."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "A week of logged actual time and attention, rather than stated priorities, would confirm or break this — if work doesn't outpace family on an ordinary week, this softens considerably.",
+          "would_predict": "If you tracked a normal week's time and emotional bandwidth honestly, work would consume more of it than family, even on weeks you'd call unremarkable."
+        },
+        {
+          "category": "core_values",
+          "headline": "You override authority figures' explicit clinical calls every single time your read of the situation disagrees with theirs, and you're willing to take the professional hit for it.",
+          "explanation": "In 1999 a resident tells you to 'go sit down' — you sit for ninety seconds and act anyway (E1 L29-34). In 2005 a fellow questions whether you should even be the one calling it, in front of the attending, after you'd already pushed your clinical read (E2 L32-33). In 2020 an administrator tells you to 'trust the process' and your team later calls you 'rigid' for isolating a patient anyway (E4 L27-29). In 2025 you ask a physician for more resuscitation time past his stated stopping point (E5 L34-36). Four different types of authority, 26 years, same response each time — this reads as a stable operating stance, not a one-off.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "he says, \"She's anxious. Everybody in this hallway is anxious. Go sit down for a minute, you look tired.\""
+            },
+            {
+              "exp": 4,
+              "quote": "the word they used was rigid"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would strengthen with an example outside clinical settings; would weaken if you can point to times you deferred and it mattered.",
+          "would_predict": "In a non-clinical dispute — a school meeting, a contractor disagreement — you'll refuse to defer to credentialed authority once you believe you have the better read of the facts."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Under the worst pressure in the room, your instinct is to narrate your own reasoning out loud to whoever's junior, turning crisis into someone else's training.",
+          "explanation": "This shows up almost identically 26 years apart: in 1999 with Nicole ('I'm talking the whole time to the girl who was orienting with me... you're gonna see this again,' E1 L46) and in 2025 with Brianna, where you name it directly as a technique — 'that's a trick... it works on anybody' — that has since spread to Brianna's own patients (E5 L19-21, L27). Same behavior, decades apart, now with visible downstream impact on someone else's practice.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "Because if you're teaching it you're not shaking. That's just — that's just efficient."
+            },
+            {
+              "exp": 5,
+              "quote": "I don't care what they scored. You talk to 'em."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would strengthen with more examples from other junior colleagues over the years; already strong given the 26-year span and named recognition of it as a technique.",
+          "would_predict": "You'll keep gravitating toward informal mentoring without needing a title for it, and junior colleagues will remember you less for your clinical calls than for how you talked them through the worst moments."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You talk directly to the dying and the effectively-dead even though you say flatly they can't hear you — and you can't explain why you keep doing it.",
+          "explanation": "With the motorcycle patient you wash his face and apologize 'probably forty times' while insisting 'I know he can't hear me... I'm not out here being mystical' (E3 L23-27). With the drowned child you narrate comfort — 'I'm sorry it's so cold in here' — to a body starved of oxygen, and frame it as something you teach rather than something private ('you talk to 'em,' E5 L23-25). Both times you call it procedural or pragmatic, yet it costs you time you don't strictly need to spend, and when asked directly why, you land on 'Isn't that — I don't know' (E3 L48). You're doing something you can't name a reason for, twice, a decade apart.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I know he can't hear me. I'm not — I'm a nurse, I know what a GCS of three is, alright? I'm not out here being mystical. It's just something I do."
+            },
+            {
+              "exp": 5,
+              "quote": "hey baby girl, we got you, I'm sorry, I'm sorry it's so cold in here, we're gonna warm you up."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise with a third instance or a direct answer to 'why' from you; would lower if you have a clear practical explanation not captured here.",
+          "would_predict": "At a family funeral or hospice bedside outside work, you'll speak directly to the dying person past the point others consider useful, and you'll deflect if asked why."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "When something devastating happens, you describe the aftermath through small domestic images — a driveway, a bowl of cereal, a cold garage — almost never through a direct statement of feeling.",
+          "explanation": "After the ruptured ectopic, you don't say you were shaken — you say you sat in the driveway 'for like fifteen minutes... Just sitting' (E1 L55-56). After the 18-year-old's death, mid-divorce, you don't describe grief — you say you 'sat on the floor of the kitchen and ate a bowl of cereal at like eight in the morning with the blinds closed' (E2 L51). During COVID, six weeks of undressing in a cold garage to avoid touching your kids stands in for whatever you felt about the risk (E4 L42). The pattern holds across every account of something devastating — it reads as a reporting style, not an absence of feeling.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I sat in the driveway on Hollywood Road for like fifteen minutes before I went in. Just sitting."
+            },
+            {
+              "exp": 2,
+              "quote": "I sat on the floor of the kitchen and ate a bowl of cereal at like eight in the morning with the blinds closed."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise with a direct instance of you naming an emotion under pressure; would lower if this is just how you tell stories rather than how you actually process things.",
+          "would_predict": "In a direct conversation about how you're feeling — with a partner, a therapist — you'll redirect to what you did or where you were rather than name an emotion, even when pressed."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "The people you call 'good' — your mother, Dre — are consistently the ones absorbing childcare during your highest-stakes work moments, which raises the question of whether your 'family first' claim only holds because someone else is covering the gap.",
+          "explanation": "In 1999 your mother has baby Jaylen while you're dealing with the hemorrhaging patient (E1 L55). In 2020 you credit Dre explicitly — 'he do more than I do half the time honestly' (E3 L34) — while you're undressing in the garage nightly and refusing leave (E4 L46-50). You don't name this as a debt, but it recurs as the structural condition underneath the 'family first' claim.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "Dre had the kids fed, he had did the whole — he's good like that, he's a good man, he do more than I do half the time honestly."
+            },
+            {
+              "exp": 4,
+              "quote": "And Dre said to me one night, he said, \"You could take a leave. They got leave.\" And I said who's gonna take seventeen and eighteen."
+            }
+          ],
+          "confidence": "low",
+          "scope": "cross",
+          "confidence_note": "Would raise with a direct account of how labor is actually divided at home; would lower if Dre's own account shows more of a mutual, chosen arrangement than a gap you're not naming.",
+          "would_predict": "If asked directly about your marriage's division of labor, you'll minimize your own dependence on Dre's caregiving and frame your work absences as exceptions rather than a standing arrangement he enables."
+        },
+        {
+          "category": "core_values",
+          "headline": "You keep turning down the role that would let you stop absorbing the worst cases yourself — and when you finally take it, you use it to take on more of the worst cases, not fewer.",
+          "explanation": "You 'kept turning down charge... they asked me like three times' before 2014 (E3 L3-5), and only take it in 2020 for a defensive reason — to protect the department from a scared charge nurse — then immediately undercut the position's purpose by taking the highest-risk assignment yourself instead of floating (E4 L3-21). Formal authority isn't something you seem to want for itself; it's something you'll use as a tool to keep doing the hands-on work you already value.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "I kept turning down charge, they asked me like three times. Not 'cause I'm humble, I just didn't want the meetings."
+            },
+            {
+              "exp": 4,
+              "quote": "Charge nurse ain't supposed to have a patient assignment, that's the whole point of charge... But I took 'em."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise with a clear instance of you being offered and declining a higher, non-clinical role; would lower if you accept a management track at some point without a defensive reason attached.",
+          "would_predict": "You'll decline further promotions — management, administration — that move you away from direct patient contact, even with more pay or influence attached."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 1.8059,
+  "latency_ms": 198448,
+  "persona": "p09_contradiction",
+  "n_experiences": 5,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T16:05:16.602231+00:00"
+}

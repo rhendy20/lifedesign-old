@@ -1,0 +1,97 @@
+{
+  "known_self": [
+    "He is the quiet one in his family; he knows he's a poor talker and jokes about it.",
+    "His brother Wellington was killed at 19 and it is the central fact of his life story.",
+    "He became extremely organized and responsible after that death — writing things down, managing times and money.",
+    "He is exhausted almost all the time and works overtime routinely.",
+    "He came to the Assembleia de Deus through a person, not through doctrine, and admits he barely knows the Bible.",
+    "He refuses to speak badly of his ex-wife and blames his own absence for the marriage ending.",
+    "He is over-protective of his daughter's commute and safety, and she teases him for it.",
+    "He says the phrase 'everything's resolved, praise God' compulsively and knows it's become a family joke.",
+    "He openly admits he talked his daughter out of the exchange program and that it was wrong of him."
+  ],
+  "latent_self": [
+    {
+      "claim": "He metabolizes fear and grief by converting them into timetables, distances and route arithmetic — numbers are where his feeling goes, and the more frightened he is the more precisely he counts.",
+      "planted_in": [
+        1,
+        4,
+        5
+      ],
+      "how_it_shows": "Looks at the clock before his mother's face; recites the 51-minute ambulance wait and alternative hospital routes; counts eleven heads mid-robbery; walks his daughter's commute three times and measures the 80 metres of wall."
+    },
+    {
+      "claim": "He gives away money he does not have and then systematically lies to cover the shortfall — the concealment matters to him as much as the giving, and he lets others be blamed rather than be seen sacrificing.",
+      "planted_in": [
+        2,
+        3,
+        5
+      ],
+      "how_it_shows": "Secretly sent his ex-wife money and invented the sold-sofa story while letting his mother insult her; emptied his pay into a church collection and told his daughter he'd already eaten; eats badly for weeks rather than open the envelope."
+    },
+    {
+      "claim": "He narrates other people's inner lives with confident, generous specificity, but every time the subject turns to his own feelings he cuts off mid-sentence and substitutes an object or a chore.",
+      "planted_in": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "how_it_shows": "Explains what Wellington believed about the van, what Simone felt about the walls, what the robber was realising; but at his own grief he goes to the shoes and the supermarket bag, to the fluorescent tube, says 'it's not useful' about his own despair, and describes his shaking hands as an external event."
+    },
+    {
+      "claim": "He avoids the physical sites of his losses rather than the people or the memories, and rationalises the detours as convenience — these are the only places where his otherwise obsessive economy of minutes is abandoned without complaint.",
+      "planted_in": [
+        1,
+        2,
+        4
+      ],
+      "how_it_shows": "Won't cross the square where his brother died ('the bakery and pharmacy are on the same walk'); refuses Terminal Capelinha for a 25-minute-longer route because of the pastel; abandons the lucrative night line right after the robbery and calls it a school-hours decision; nearly says 'Capelinha' as his own stop and corrects himself."
+    },
+    {
+      "claim": "He experiences rest as something shameful that must be disguised or stolen, yet all his moments of genuine tenderness and safety occur in darkness or half-sleep, watched over by someone else.",
+      "planted_in": [
+        3,
+        4,
+        5
+      ],
+      "how_it_shows": "Sleeping upright at dawn prayer is his best rest and he confesses it as a sin; refuses the day off after the robbery ('if I'm home I'm just going to be home'); the toddler standing by his bed in the dark; standing a minute in his daughter's doorway at 12:40am; scolds her for leaving the hall light on."
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "He is doctrinally rigid and judges others by evangelical moral standards.",
+      "why_false": "He explicitly can't navigate the Bible after eleven years; church is structure, rest and one old man's kindness, not belief-policing — he never condemns anyone in five transcripts, including a man who robbed him."
+    },
+    {
+      "claim": "He carries unresolved resentment toward his ex-wife for abandoning them.",
+      "why_false": "He defends her unprompted, funds her in secret, absorbs his mother's insults on her behalf, and locates all blame in his own absence."
+    },
+    {
+      "claim": "His brother's murder left him fearful for his own safety and hyper-alert to threats against himself.",
+      "why_false": "He is notably unconcerned about his own body — drives on through an armed robbery thinking only about where the danger lands, refuses medical-style care. The fear is entirely displaced onto other people, especially his daughter."
+    },
+    {
+      "claim": "He is ambitious for his daughter to escape the periphery and would push her out into the world.",
+      "why_false": "He says this loudly and then actively sabotaged the one paid opportunity to leave; his behaviour is containment dressed as aspiration."
+    },
+    {
+      "claim": "He is lonely and looking for a new partner or wife.",
+      "why_false": "Romantic partnership never appears as a want anywhere; his emotional life is organised around tasks, older male protectors and his daughter — the absence is structural, not longing."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Health / medical care",
+      "claim": "He has untreated physical problems — likely blood pressure, back and eyesight — that he hides from the company and from his daughter; he'll postpone any appointment that costs a shift, and the only thing that would get him to a doctor is Beatriz noticing and insisting, or a required occupational exam he can't dodge."
+    },
+    {
+      "domain": "Money",
+      "claim": "He keeps cash physically hidden in the house rather than banked, avoids credit cards and formal loans, and would sooner borrow from a person he can look in the face (a colleague, a church brother) than from an institution; he keeps at least one earmarked envelope that he refuses to break into even in an emergency, and nobody in his household knows the true state of his finances."
+    },
+    {
+      "domain": "Friendships",
+      "claim": "He has no friendships that exist outside a shared task or shared place — garage, church, the route. He never initiates social contact, never invites anyone to his home, and his closest bonds are with older men who approach him first and don't ask him questions; he would do an enormous favour for any of them and would not ask one in return."
+    }
+  ]
+}

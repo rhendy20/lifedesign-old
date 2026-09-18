@@ -1,0 +1,93 @@
+{
+  "known_self": [
+    "Says constantly that her family is her first priority and that she is 'not a work person'.",
+    "Believes she is not one to hold grudges or 'pick at' the past — she prefers to 'move on' from her divorce and family conflicts.",
+    "Knows she is a teacher of younger nurses and takes pride in training 'half the department'.",
+    "Has repeatedly turned down management/charge promotions and says it's because she hates meetings.",
+    "Knows she is willing to confront doctors and administrators when she thinks she's right.",
+    "Says she never brings work home and can separate the two cleanly.",
+    "Describes her husband Dre as a good man who does more of the home labor than she does.",
+    "Considers herself practical and unsentimental, 'not mystical', clinically grounded."
+  ],
+  "latent_self": [
+    {
+      "claim": "She regulates her own terror by converting it into instruction — narrating, teaching, and sequencing out loud is a self-soothing mechanism she mistakes for pedagogy.",
+      "planted_in": [
+        1,
+        2,
+        5
+      ],
+      "how_it_shows": "Explicitly: 'if you're teaching it you're not shaking'; makes a crying nurse finish the walkthrough before crying; narrates the entire resuscitation to a new grad and says 'you can't shake and listen at the same time'."
+    },
+    {
+      "claim": "She systematically assigns herself the sickest/most dangerous patient while calling it efficiency or mentorship; she cannot tolerate watching from outside a room.",
+      "planted_in": [
+        2,
+        4
+      ],
+      "how_it_shows": "Asks for bay two when charge assigns her elsewhere; takes rooms 17 and 18 herself for six weeks while in charge, offering a true-but-secondary rationale about vent experience."
+    },
+    {
+      "claim": "She keeps a precise, decades-long ledger of every time she was doubted and later vindicated — full names, exact quotes, years — while insisting she doesn't hold onto things.",
+      "planted_in": [
+        1,
+        2,
+        4
+      ],
+      "how_it_shows": "Spells out 'Kessler' and quotes him verbatim 26 years later right after saying she's not like that; recalls 'Is she the one calling it?'; repeats 'trust the process' with a 'mm-hmm'; cites 'minute six' twice."
+    },
+    {
+      "claim": "She performs verbal repair — apology, tenderness, explanation — only toward people who cannot respond (unconscious, dying, dead), and avoids it entirely with living intimates.",
+      "planted_in": [
+        3,
+        5
+      ],
+      "how_it_shows": "Says sorry 'forty times' to a brain-dead young man, then lets her sister's call go to voicemail and never reopens the feud; apologizes to a hypothermic five-year-old, then gets a flat 'I'm sorry, baby' from her son that he waves off."
+    },
+    {
+      "claim": "Her memory is timestamped and quantified for work (0347, minute six, eighteen at the lip, nineteen days on a vent) and vague and approximated for her own family (children's ages, her own age, dates).",
+      "planted_in": [
+        1,
+        3,
+        5
+      ],
+      "how_it_shows": "Exact clock times and numbers at work versus 'he was three or four, somewhere in there', 'Kiana was I guess ten? Eleven? I'd have to do the math', 'he turned — he was fourteen? Fifteen.'"
+    }
+  ],
+  "decoys": [
+    {
+      "claim": "She is burned out and quietly wants to leave nursing.",
+      "why_false": "Every story shows her energized and lit up in the resuscitation room; her avoidance is of administration and meetings, not of clinical work."
+    },
+    {
+      "claim": "Her divorce is an unhealed wound that drives her behavior.",
+      "why_false": "She genuinely dismisses it in a line and it carries no charge; her unresolved material is professional doubt and unspoken family repair, not Marcus."
+    },
+    {
+      "claim": "She lacks confidence or defers to physicians because of her early experience being dismissed.",
+      "why_false": "At twenty-two she broke protocol and went around the resident; she has overridden doctors in three separate decades."
+    },
+    {
+      "claim": "She's deeply religious and frames her work as a calling from God.",
+      "why_false": "No prayer, no scripture, no providence anywhere; her comfort ritual is procedural and physical (washing a face, sequencing steps), and she explicitly disclaims being 'mystical'."
+    },
+    {
+      "claim": "She's a natural delegator and leader who empowers her staff.",
+      "why_false": "She hoards the hardest assignments and clears the room so she can do it herself; her 'teaching' happens with her own hands already on the patient."
+    }
+  ],
+  "domain_predictions": [
+    {
+      "domain": "Money",
+      "claim": "She handles the family's practical money reactively and keeps no real budget or retirement plan, but she will know to the dollar what she is owed in unpaid overtime or differential and will pursue it with payroll for months."
+    },
+    {
+      "domain": "Health",
+      "claim": "She defers her own medical care indefinitely — skipped mammograms, an untreated knee or blood pressure issue she self-manages — while being rigorous and immediate about everyone else's symptoms."
+    },
+    {
+      "domain": "Friendships",
+      "claim": "Her closest relationships are almost entirely with current or former coworkers, maintained through shared shifts and food rather than conversation; when a friendship ruptures she doesn't address it, she just keeps showing up until it's 'covered over'."
+    }
+  ]
+}

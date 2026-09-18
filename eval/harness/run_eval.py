@@ -52,7 +52,7 @@ def main():
         if target.exists():
             return f"{pid}: exists, skipped"
         corpus = load_corpus(PERSONAS / pid / "experiences")
-        pipe = Pipeline(llm, args.gen, resolve_model(args.tier), workers=args.stage_workers)
+        pipe = Pipeline(llm, args.gen, resolve_model(args.tier), workers=args.stage_workers, label=pid)
         out = pipe.run(corpus)
         out.update({"persona": pid, "n_experiences": len(corpus), "condition": cond,
                     "frozen_at": datetime.now(timezone.utc).isoformat()})

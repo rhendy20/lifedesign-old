@@ -62,19 +62,30 @@ class LLMResult:
         return extract_json(self.text)
 
 
+def _sanitize_json(t: str) -> str:
+    # Models occasionally emit escapes that are legal in Python/JS but not JSON (\' most often), or trailing commas.
+    t = re.sub(r"\\'", "'", t)
+    t = re.sub(r",\s*([}\]])", r"\1", t)
+    return t
+
+
 def extract_json(text: str):
+    """Parse the first JSON object/array in the reply. Tolerates code fences (closed or truncated),
+    preambles, \\' escapes and trailing commas. Raises ValueError if nothing parses."""
     t = text.strip()
     fence = re.search(r"```(?:json)?\s*(.*?)```", t, re.S)
     if fence:
         t = fence.group(1).strip()
-    for opener, closer in (("{", "}"), ("[", "]")):
-        start = t.find(opener)
-        end = t.rfind(closer)
-        if start != -1 and end > start:
-            try:
-                return json.loads(t[start:end + 1])
-            except json.JSONDecodeError:
-                continue
+    else:
+        t = re.sub(r"^```(?:json)?\s*", "", t)
+    for candidate in (t, _sanitize_json(t)):
+        for opener, closer in (("{", "}"), ("[", "]")):
+            start, end = candidate.find(opener), candidate.rfind(closer)
+            if start != -1 and end > start:
+                try:
+                    return json.loads(candidate[start:end + 1])
+                except json.JSONDecodeError:
+                    continue
     raise ValueError(f"No JSON found in model reply: {text[:300]!r}")
 
 
@@ -91,22 +102,40 @@ class LLM:
 
     # ---- public -----------------------------------------------------------------
     def complete(self, model: str, system: str, user: str, *, max_tokens: int = 4000,
-                 tag: str = "", temperature: Optional[float] = None, retries: int = 3) -> LLMResult:
+                 tag: str = "", temperature: Optional[float] = None, retries: int = 3,
+                 thinking: int = 0, sink: Optional[list] = None) -> LLMResult:
+        """`thinking` is the extended-thinking token budget; 0 disables it. Engine stages run with 0 so the
+        prompt architecture is what is measured (and calls are ~10x cheaper and faster); the judge uses a budget."""
         model = resolve_model(model)
         self._check_ceiling()
         last_err = None
         for attempt in range(retries):
             try:
                 if self.backend == "sdk":
-                    res = self._complete_sdk(model, system, user, max_tokens, temperature)
+                    res = self._complete_sdk(model, system, user, max_tokens, temperature, thinking)
                 else:
-                    res = self._complete_cli(model, system, user)
+                    res = self._complete_cli(model, system, user, thinking)
                 self._record(res, tag)
+                if sink is not None:
+                    sink.append(res)
                 return res
             except Exception as e:  # noqa: BLE001 — retry on any transport error
                 last_err = e
                 time.sleep(2 * (attempt + 1))
         raise RuntimeError(f"LLM call failed after {retries} attempts: {last_err}")
+
+    def complete_json(self, model: str, system: str, user: str, **kw):
+        """complete() then parse JSON; if the reply is not parseable, ask a cheap model to re-emit it as strict JSON.
+        The repair call is content-preserving and is logged under tag '<tag>:json-repair'."""
+        res = self.complete(model, system, user, **kw)
+        try:
+            return res.json()
+        except ValueError:
+            fix = self.complete("cheap", "You convert text into strictly valid JSON. Output the same content as valid JSON only. "
+                                "No commentary. Do not add, drop or reword fields. Escape quotes correctly.",
+                                res.text, max_tokens=kw.get("max_tokens", 8000), tag=f"{kw.get('tag', '')}:json-repair",
+                                sink=kw.get("sink"))
+            return fix.json()
 
     def spent_usd(self) -> float:
         if not self.ledger_path or not self.ledger_path.exists():
@@ -120,11 +149,13 @@ class LLM:
         return total
 
     # ---- backends -----------------------------------------------------------------
-    def _complete_sdk(self, model, system, user, max_tokens, temperature) -> LLMResult:
+    def _complete_sdk(self, model, system, user, max_tokens, temperature, thinking) -> LLMResult:
         t0 = time.time()
-        kwargs = dict(model=model, max_tokens=max_tokens, system=system,
+        kwargs = dict(model=model, max_tokens=max_tokens + thinking, system=system,
                       messages=[{"role": "user", "content": user}])
-        if temperature is not None:
+        if thinking:
+            kwargs["thinking"] = {"type": "enabled", "budget_tokens": thinking}
+        elif temperature is not None:
             kwargs["temperature"] = temperature
         msg = self._client.messages.create(**kwargs)
         text = "".join(getattr(b, "text", "") for b in msg.content)
@@ -132,8 +163,9 @@ class LLM:
                          output_tokens=msg.usage.output_tokens, cost_usd=0.0,
                          latency_ms=int((time.time() - t0) * 1000), backend="sdk")
 
-    def _complete_cli(self, model, system, user) -> LLMResult:
+    def _complete_cli(self, model, system, user, thinking) -> LLMResult:
         env = {k: v for k, v in os.environ.items() if k not in _PARENT_SESSION_VARS}
+        env["MAX_THINKING_TOKENS"] = str(int(thinking))  # 0 disables extended thinking in the CLI
         cmd = [
             "claude", "-p", "--model", model, "--session-id", str(uuid.uuid4()),
             "--output-format", "json", "--max-turns", "1", "--tools", "",

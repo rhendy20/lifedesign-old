@@ -1,0 +1,12 @@
+{
+  "name": "Dallin Rasmussen",
+  "age": 34,
+  "sex": "male",
+  "occupation": "Founder/CEO of a small B2B software company (scheduling and dispatch software for home-service contractors)",
+  "culture_context": "Utah County, LDS (Latter-day Saint) upbringing and current practice; served a Portuguese-speaking mission in southern Brazil; business degree from a Utah university; 'Silicon Slopes' startup world; married with three young kids in a suburb south of Salt Lake",
+  "id": "p08_near_founder",
+  "archetype": "near_founder_control",
+  "spec": "A 34-year-old man in Utah who served a two-year religious mission abroad in his early twenties, got a business degree, spent several years in sales and customer success at a fast-growing startup with quick promotions, then left to start his own company. Married with young children. This life shape intentionally resembles a common founder profile; do not make him unusually interesting. Give him ordinary contradictions.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.3324435
+}

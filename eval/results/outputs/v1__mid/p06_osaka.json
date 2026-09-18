@@ -1,0 +1,2945 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "defining_beliefs",
+      "headline": "You believe an unresolved account — financial, emotional, or relational — is intolerable and must be closed by you, personally, regardless of whose responsibility it is.",
+      "explanation": "As a child you could not 'bear' the open line in your grandmother's notebook and closed it yourself. Decades later, widowed, you name the same logic explicitly — 'An open line, as I say' — while racing through 206 households of condolence bookkeeping in eleven days, and then independently close your husband's ancestral grave rather than let it fall into disrepair after your death. The vocabulary itself ('open line') recurs verbatim across a sixty-year gap, marking this as a stable operating rule, not a mood.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "I have never in my life been comfortable with an open line.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "An open line, as I say.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In any collaborative or family project with an ambiguous or unfinished obligation, you will quietly take ownership of closing it yourself rather than delegate or leave it pending, even when it is not formally yours to resolve."
+    },
+    {
+      "id": "i2",
+      "category": "patterns_to_explore",
+      "headline": "You consistently meet grief and loss with immediate, high-functioning administrative work, and only much later — if ever — name what that substituted for.",
+      "explanation": "After sitting with your dying colleague Fujita-sensei in the hospital, you ran a routine staff meeting the next Tuesday and call that autumn's timetable your best work, adding 'I don't know what to do with that information.' After your husband's death you built a spreadsheet for 206 households in eleven days, calling the work 'almost pleasant,' and report you still haven't cried four years on. The recurrence spans two decades and two different losses, and in both cases you flag the strangeness yourself without resolving it.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "I conducted a staff meeting the following Tuesday about the sports festival equipment.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I made a spreadsheet. Two hundred and six households. I did it in eleven days... I don't think I have cried about Hiroshi.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "Facing a future major loss or crisis, you will again reach first for a structured, task-based response (lists, schedules, paperwork) before — or instead of — any direct emotional processing, and may need a physical trigger (like the fallen thermos) to access feeling at all."
+    },
+    {
+      "id": "i3",
+      "category": "defining_beliefs",
+      "headline": "You believe real standing and closeness are earned through being needed for unglamorous work, not granted through visibility, titles, or disclosure.",
+      "explanation": "You chose the 'difficult' Nishinari posting because there 'you were simply needed' rather than handed things, twice declined the principal's exam despite being sought out, preferring to be 'a pair of hands' rather than 'a face,' and in your marriage valued a husband who 'will not tell me anything about himself' as restful rather than withholding. Across career and marriage, you repeatedly choose the load-bearing, backstage position over the credentialed or disclosed one.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "you were not, ah, you were not handed things, you were simply needed",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I am not a face, I am a pair of hands.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "here is a man who will tell me the truth about water and will not tell me anything about himself, and I thought that would be restful",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In the neighborhood association and future community roles, you will keep declining the chair title while remaining the indispensable operational hand, and will resist any role that requires you to represent or explain yourself publicly."
+    },
+    {
+      "id": "i4",
+      "category": "patterns_to_explore",
+      "headline": "You make major unilateral decisions, then deliver them to the people they affect as already settled — a move you frame as autonomy but that recurs precisely where the relationship most requires consultation.",
+      "explanation": "You filed your transfer without telling your husband, choosing to 'want the thing to be done and then to be told about,' and decades later arranged your husband's entire hakajimai — temple, stonemason, permits — before informing his brother, then deflected his hurt with a line you admit 'was not true.' The pattern holds across marriage and widowhood, with the same shape: decide alone, announce, absorb the other person's reaction rather than share the decision.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I wanted the thing to be done and then to be told about.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I arranged the whole of it before I told anybody... He said, you might have consulted. And I said, I am consulting you now.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "In future decisions involving shared or joint stakes (the chōnaikai chairship, disposition of the house or estate), you will likely research and finalize a plan solo and present it as decided rather than open it for genuine joint deliberation, even when others have a legitimate claim to input."
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "You habitually offer a modest or self-deprecating cover story for a decision, privately mark it as incomplete or untrue, and never correct the public record — a gap you notice but do not close, unlike almost every other 'open line' in your life.",
+      "explanation": "You admit your stated reason for declining the principal's exam 'was a lie' and that you have 'never once corrected the impression, so perhaps I should examine that.' You do the same thing with community leadership, telling everyone you're 'not suited to standing in front of people' while functionally running the association, and with loneliness, saying 'yes, thank you' to sympathy you don't fully feel before going home and opening the windows. This is the one category of 'open line' — about your own capability and desires — that you leave open, in contrast to your fierce intolerance of open lines everywhere else.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "I have never once corrected the impression, so perhaps I should examine that",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I tell everyone I'm not suited to standing in front of people.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "When offered future recognition or leadership opportunities (an award, a formal title, public credit for the association's work), you will again deflect with a modest or health-related excuse rather than state your actual reasons, and will privately register the gap without acting to close it."
+    },
+    {
+      "id": "i6",
+      "category": "core_values",
+      "headline": "You protect other people's dignity over your own claim to credit or comfort, even at real personal cost, across strangers, colleagues, and family.",
+      "explanation": "As a child you lied to Mrs. Kishi ('my grandmother sends this back') specifically to spare her the shame of a direct gift, at the cost of your own truthfulness. Decades later you chose 'a better dinner' over confronting your husband about his passed-over promotion, protecting his dignity over your own need to discuss it, and you kept your dying colleague's ordeal completely private, ensuring 'nobody knew' rather than seeking support for yourself. In each case the cost is borne by you (lying, silence, isolation) so that someone else does not have to feel exposed.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "my grandmother sends this back, which was — that was a lie, obviously.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "I said nothing to him. I made a better dinner that week.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I did not want anybody to know.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In future caregiving or community situations (e.g., a neighbor's hardship, a friend's failure), you will act to quietly resolve or soften the situation without naming it publicly or asking the person to acknowledge your help, prioritizing their dignity over your own visibility."
+    },
+    {
+      "id": "i7",
+      "category": "patterns_to_explore",
+      "headline": "The word 'restful' recurs at the exact sites where you describe relationships or arrangements that outsiders read as deprivation — worth checking whether 'restful' is your word for 'safe from being required to perform intimacy.'",
+      "explanation": "You call your marriage to a man who reveals nothing 'restful' for forty years, and independently call being underestimated as unsuited to public leadership 'restful' when it lets Ueda-san take the chair while you do the real work. Both usages follow the same structure: a role or relationship that could be read as lesser or withheld is instead reframed by you, unprompted, as restful — a pattern that recurs across marriage and community life and deserves your own scrutiny.",
+      "evidence": [
+        {
+          "exp": 3,
+          "quote": "And it was restful. For forty years it was restful.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I tell everyone I'm not suited to standing in front of people. They all agree very readily. It's restful.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "You will describe any future relationship or arrangement that spares you from being seen, known, or publicly evaluated as 'restful,' and will resist well-meaning attempts (from friends, colleagues, or a therapist) to reframe those arrangements as loss."
+    },
+    {
+      "id": "i8",
+      "category": "zone_of_genius",
+      "headline": "Your greatest energy and pride come from constructing invisible, precise systems that others depend on without knowing your role — the timetable, the notebook, the spreadsheet, the kairanban order.",
+      "explanation": "You name the class timetable as producing a feeling stronger than your wedding, and independently, in old age, throw the same appetite at reorganizing the neighborhood circulation order that 'had been going the wrong way around the block... for nineteen years' and building the disaster drill roster — unpaid, uncredited, self-initiated work matching the structural-puzzle profile first seeded in your grandmother's notebook. The through-line is not organization as a skill but organization as the site of your most alive feeling.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "I felt — I have never felt anything like it. Not at my wedding.",
+          "verbatim": true
+        },
+        {
+          "exp": 5,
+          "quote": "I rewrote the kairanban circulation order because it was going the wrong way around the block and had been for nineteen years",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "Offered a new unpaid or informal project with no title attached — organizing an archive, fixing a broken scheduling system, auditing an association's records — you will accept eagerly and invest disproportionate energy in getting the structure exactly right, more than you would for a role with a title but no puzzle."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L3",
+              "what_happened": "The family lived in a nagaya (row house) in Ikuno; neighbors, the Tanakas, were audible through the wall."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Speaker's father worked a metal press."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Father crushed two fingers on his left hand, approximately autumn 1963, and was home for a long time afterward."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Father sat with his hand wrapped, looking at the alley."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker's grandmother (father's mother), who lived with them, did piecework sewing."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Grandmother sewed trouser hems and later collars for a uniform company."
+            },
+            {
+              "line": "L11",
+              "what_happened": "The sewing machine was positioned by the window for light."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Grandmother kept a cheap notebook with a persimmon-colored cover, recording what was given and what was owed in the community."
+            },
+            {
+              "line": "L20",
+              "what_happened": "The notebook recorded contributions given at funerals in the lane."
+            },
+            {
+              "line": "L21",
+              "what_happened": "The notebook recorded contributions given at births."
+            },
+            {
+              "line": "L23",
+              "what_happened": "Mrs. Kishi brought three eggs on the day the father was injured."
+            },
+            {
+              "line": "L24",
+              "what_happened": "The entry recorded was: 'Three eggs, Kishi-san, October.'"
+            },
+            {
+              "line": "L26",
+              "what_happened": "Speaker states they learned kanji from copying the notebook."
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker sat beside the machine and copied the names in the notebook."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Mr. Kishi's son got into unspecified trouble; men came to the house."
+            },
+            {
+              "line": "L31",
+              "what_happened": "The Kishi family disappeared overnight."
+            },
+            {
+              "line": "L33",
+              "what_happened": "The notebook contained a line recording money (about two thousand yen) that grandmother had lent Mrs. Kishi."
+            },
+            {
+              "line": "L34",
+              "what_happened": "After the Kishis left, the loan entry remained unresolved/open in the notebook."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Grandmother said 'well, that's that,' did not cross out the entry, and continued hemming trousers."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Speaker learned from a girl at school that the Kishis had moved to Hirano near the market; took money saved from New Year's gifts and errands, kept in a tin; told grandmother they were going to the shrine; walked to Hirano."
+            },
+            {
+              "line": "L42",
+              "what_happened": "The walk took about two hours; speaker got lost near the river."
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker found the Kishis and gave Mrs. Kishi an envelope of money, saying 'my grandmother sends this back.'"
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker states this statement to Mrs. Kishi was a lie."
+            },
+            {
+              "line": "L46",
+              "what_happened": "Mrs. Kishi cried; speaker left."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Speaker told no one about this for about a month."
+            },
+            {
+              "line": "L49",
+              "what_happened": "Grandmother called speaker over one evening, having apparently heard about it from someone in the lane, and opened the notebook."
+            },
+            {
+              "line": "L50",
+              "what_happened": "Grandmother wrote in the notebook: 'Kishi-san, settled, Sumie.'"
+            },
+            {
+              "line": "L51",
+              "what_happened": "Grandmother closed the notebook, gave speaker a rice cracker; no discussion occurred."
+            },
+            {
+              "line": "L52",
+              "what_happened": "The matter was never discussed again, for the rest of grandmother's life."
+            },
+            {
+              "line": "L53",
+              "what_happened": "Grandmother died in 1971."
+            },
+            {
+              "line": "L54",
+              "what_happened": "Speaker's brother got a new futon that winter; speaker did not."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L41",
+              "choice_made": "Speaker took saved money and walked to Hirano to deliver it to the Kishis, telling grandmother a cover story about going to the shrine",
+              "alternatives_present_in_text": "None stated; speaker does not mention considering telling grandmother the truth or not acting at all"
+            },
+            {
+              "line": "L44",
+              "choice_made": "Speaker told Mrs. Kishi the money was from the grandmother rather than from themselves",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L47",
+              "choice_made": "Speaker told no one about the repayment for about a month",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L36",
+              "choice_made": "Grandmother left the debt entry open rather than crossing it out",
+              "alternatives_present_in_text": "None stated"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L38",
+              "quote": "I'm not saying I was a good child."
+            },
+            {
+              "line": "L39",
+              "quote": "It wasn't kindness."
+            },
+            {
+              "line": "L41",
+              "quote": "I was a saving sort of child"
+            },
+            {
+              "line": "L46",
+              "quote": "I was extremely uncomfortable"
+            },
+            {
+              "line": "L62",
+              "quote": "I had the temperament."
+            },
+            {
+              "line": "L63",
+              "quote": "I have never in my life been comfortable with an open line."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L37",
+              "quote": "I could not bear it."
+            },
+            {
+              "line": "L46",
+              "quote": "Mrs. Kishi cried and I was extremely uncomfortable"
+            },
+            {
+              "line": "L54",
+              "quote": "I remember being furious about that"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "open line / open",
+              "lines": [
+                "L35",
+                "L40",
+                "L63"
+              ]
+            },
+            {
+              "phrase": "sat",
+              "lines": [
+                "L6",
+                "L8",
+                "L36"
+              ]
+            },
+            {
+              "phrase": "notebook",
+              "lines": [
+                "L15",
+                "L17",
+                "L32",
+                "L49"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L18",
+              "quote": "Not money exactly.",
+              "note": "Speaker states this then immediately corrects/qualifies it in the next line."
+            },
+            {
+              "line": "L19",
+              "quote": "I mean money also, but.",
+              "note": "Sentence left incomplete, trailing off before returning to main narrative."
+            },
+            {
+              "line": "L30",
+              "quote": "I never knew exactly what",
+              "note": "Speaker states lack of knowledge about the son's trouble and moves on without elaborating."
+            },
+            {
+              "line": "L56",
+              "quote": "we had a canary at some point, I don't know where the canary came from",
+              "note": "Introduced and left unexplained, immediately followed by redirection back to main topic."
+            },
+            {
+              "line": "L59",
+              "quote": "Not the poverty. Everyone was poor, that isn't a story.",
+              "note": "Topic of poverty raised then dismissed as not the point, without further description."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Father",
+              "lines": [
+                "L4",
+                "L5",
+                "L6",
+                "L7",
+                "L8"
+              ],
+              "what_they_did": "Worked a metal press; crushed two fingers in 1963; stayed home a long while; sat and looked at the alley."
+            },
+            {
+              "who": "Grandmother (father's mother, Sumie)",
+              "lines": [
+                "L9",
+                "L10",
+                "L11",
+                "L12",
+                "L14",
+                "L17",
+                "L25",
+                "L36",
+                "L49",
+                "L50",
+                "L51",
+                "L53"
+              ],
+              "what_they_did": "Lived with the family; did piecework sewing; kept the notebook of given/owed items; wrote names beautifully; left the Kishi debt line open after they disappeared; later wrote 'Kishi-san, settled' after hearing what speaker did; gave speaker a rice cracker; never discussed the matter; died in 1971."
+            },
+            {
+              "who": "Mrs. Kishi",
+              "lines": [
+                "L23",
+                "L33",
+                "L43",
+                "L45",
+                "L46"
+              ],
+              "what_they_did": "Brought three eggs when father was injured; borrowed about two thousand yen from grandmother; received the repaid envelope from speaker; cried."
+            },
+            {
+              "who": "Mr. Kishi's son",
+              "lines": [
+                "L29",
+                "L30"
+              ],
+              "what_they_did": "Got into unspecified trouble that brought men to the house."
+            },
+            {
+              "who": "The Kishi family",
+              "lines": [
+                "L28",
+                "L31",
+                "L41"
+              ],
+              "what_they_did": "Disappeared overnight; later found to have relocated to Hirano near the market."
+            },
+            {
+              "who": "A girl at school",
+              "lines": [
+                "L41"
+              ],
+              "what_they_did": "Told speaker that the Kishis had gone to Hirano."
+            },
+            {
+              "who": "Speaker's brother",
+              "lines": [
+                "L54"
+              ],
+              "what_they_did": "Got a new futon that winter."
+            },
+            {
+              "who": "The Tanakas",
+              "lines": [
+                "L3"
+              ],
+              "what_they_did": "Neighbors who would say 'bless you' through the wall if someone sneezed."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "As a child, she treated an unresolved debt as more urgent than her own comfort or safety.",
+              "explanation": "She walked two hours alone, using her own saved money, to close a debt that wasn't hers to close, and lied to give it credibility. This was a real cost (time, money, risk of getting lost, discomfort) paid to resolve something that caused her genuine distress, not something she was asked to do.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "I had money, from New Year, and from running errands, I had kept it in a tin... and I walked"
+                },
+                {
+                  "exp": 1,
+                  "line": "L37",
+                  "quote": "I could not bear it."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career, she would go out of her way to settle a colleague's unresolved obligation or unpaid favor even when it's not her responsibility and no one would notice if she didn't."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She has an exceptional, energised capacity for tracking unspoken social ledgers — who owes whom, what was given, what remains unreciprocated.",
+              "explanation": "She didn't just observe the notebook, she absorbed its logic so completely that an open line became physically unbearable to her ('I couldn't look at the page'). This is not a taught skill but an innate sensitivity she names as her defining trait and explicitly claims as temperament, not virtue.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L61",
+                  "quote": "there is an account being kept, of what people have done for each other, and that somebody has to keep it"
+                },
+                {
+                  "exp": 1,
+                  "line": "L62",
+                  "quote": "I had the temperament."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work, she would be the one others rely on to remember who covered for whom, who still hasn't been thanked, or which favors are unbalanced within a team."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She operates on the belief that reciprocity must be recorded and closed, or it festers as a moral wound.",
+              "explanation": "She reframes the notebook's function beyond bookkeeping into a moral necessity ('somebody has to keep it'), and her lifelong statement that she's 'never been comfortable with an open line' shows this belief still governs her, decades later, independent of the original context.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L63",
+                  "quote": "I have never in my life been comfortable with an open line."
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "the line was open and I couldn't look at the page"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In relationships, she would find it hard to let a friend do her an unreturned favor and would proactively seek ways to repay it, even unprompted."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She insists her repayment of the Kishi debt 'wasn't kindness,' distancing herself from a compassionate motive despite acting in a clearly caring way — worth checking whether she habitually reframes caring acts as something else.",
+              "explanation": "Twice in the account she resists a warm interpretation of her own action — denying she was 'a good child' and specifically denying it was 'kindness' — even though objectively she comforted a family and closed their shame. This self-distancing from emotional motive, paired with her framing it purely as intolerance of disorder, recurs enough to be worth her attention rather than settled fact.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "I'm not saying I was a good child."
+                },
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "It wasn't kindness."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In close relationships, she may perform caring acts for others but attribute them to duty or discomfort with disorder rather than allowing herself to be seen as compassionate — worth checking whether she deflects credit or warmth when thanked."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "As a child, she treated an unresolved debt as more urgent than her own comfort or safety.",
+              "explanation": "She walked two hours alone, using her own saved money, to close a debt that wasn't hers to close, and lied to give it credibility. This was a real cost (time, money, risk of getting lost, discomfort) paid to resolve something that caused her genuine distress, not something she was asked to do.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L41",
+                  "quote": "I had money, from New Year, and from running errands, I had kept it in a tin... and I walked"
+                },
+                {
+                  "exp": 1,
+                  "line": "L37",
+                  "quote": "I could not bear it."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career, she would go out of her way to settle a colleague's unresolved obligation or unpaid favor even when it's not her responsibility and no one would notice if she didn't.",
+              "exp": 1
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She insists her repayment of the Kishi debt 'wasn't kindness,' distancing herself from a compassionate motive despite acting in a clearly caring way — worth checking whether she habitually reframes caring acts as something else.",
+              "explanation": "Twice in the account she resists a warm interpretation of her own action — denying she was 'a good child' and specifically denying it was 'kindness' — even though objectively she comforted a family and closed their shame. This self-distancing from emotional motive, paired with her framing it purely as intolerance of disorder, recurs enough to be worth her attention rather than settled fact.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "I'm not saying I was a good child."
+                },
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "It wasn't kindness."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In close relationships, she may perform caring acts for others but attribute them to duty or discomfort with disorder rather than allowing herself to be seen as compassionate — worth checking whether she deflects credit or warmth when thanked.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She has an exceptional, energised capacity for tracking unspoken social ledgers — who owes whom, what was given, what remains unreciprocated.",
+              "reason": "restated",
+              "note": "This is essentially L61-L62 restated as analysis ('there is an account being kept... I had the temperament') — the speaker already named this explicitly as her own insight."
+            },
+            {
+              "headline": "She operates on the belief that reciprocity must be recorded and closed, or it festers as a moral wound.",
+              "reason": "restated",
+              "note": "Nearly a direct paraphrase of L63 ('I have never in my life been comfortable with an open line'), which the speaker states as her own explicit conclusion, not an inferred belief."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "As a child, she treated an unresolved debt as more urgent than her own comfort or safety.",
+            "explanation": "She walked two hours alone, using her own saved money, to close a debt that wasn't hers to close, and lied to give it credibility. This was a real cost (time, money, risk of getting lost, discomfort) paid to resolve something that caused her genuine distress, not something she was asked to do.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L41",
+                "quote": "I had money, from New Year, and from running errands, I had kept it in a tin... and I walked"
+              },
+              {
+                "exp": 1,
+                "line": "L37",
+                "quote": "I could not bear it."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In her career, she would go out of her way to settle a colleague's unresolved obligation or unpaid favor even when it's not her responsibility and no one would notice if she didn't.",
+            "exp": 1
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She insists her repayment of the Kishi debt 'wasn't kindness,' distancing herself from a compassionate motive despite acting in a clearly caring way — worth checking whether she habitually reframes caring acts as something else.",
+            "explanation": "Twice in the account she resists a warm interpretation of her own action — denying she was 'a good child' and specifically denying it was 'kindness' — even though objectively she comforted a family and closed their shame. This self-distancing from emotional motive, paired with her framing it purely as intolerance of disorder, recurs enough to be worth her attention rather than settled fact.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L38",
+                "quote": "I'm not saying I was a good child."
+              },
+              {
+                "exp": 1,
+                "line": "L39",
+                "quote": "It wasn't kindness."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In close relationships, she may perform caring acts for others but attribute them to duty or discomfort with disorder rather than allowing herself to be seen as compassionate — worth checking whether she deflects credit or warmth when thanked.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker became a teacher, stating it was one of three options available to women (1978–1989 period referenced)."
+            },
+            {
+              "line": "L3",
+              "what_happened": "Speaker chose social studies as a specialization; most women were in home economics or Japanese; faculty adviser asked twice if she was certain."
+            },
+            {
+              "line": "L6",
+              "what_happened": "First posting was in 1978 at a junior high school in Suminoe."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Women teachers made tea every morning, poured it at staff meetings, and washed cups afterward; this was an unwritten norm."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker performed this tea duty for twelve years."
+            },
+            {
+              "line": "L15",
+              "what_happened": "A colleague named Kuroda-sensei, two years younger than the speaker, is introduced."
+            },
+            {
+              "line": "L16",
+              "what_happened": "In her fourth year, speaker prepared for the third-year homeroom assignment (exam-prep role), including a folder with interview schedule for parents and other materials."
+            },
+            {
+              "line": "L17",
+              "what_happened": "In March, the principal told her Kuroda-kun would take the third year and she would support him, citing that a young man needs the experience and that she 'may have circumstances.'"
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker was twenty-six years old at the time."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Speaker responded, 'I understand.'"
+            },
+            {
+              "line": "L21",
+              "what_happened": "Speaker said, 'Thank you for telling me directly.'"
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker gave Kuroda-kun the folder."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Kuroda-kun used the folder for approximately six years, per speaker's belief."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker began reading transfer regulations (municipal transfer system documents)."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker learned of a category of schools designated as requiring particular support ('difficult schools') that a teacher could volunteer for, which almost nobody volunteered for."
+            },
+            {
+              "line": "L33",
+              "what_happened": "In autumn 1988, speaker filed a transfer request."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker married in 1982; she filed the transfer request without mentioning it to her husband."
+            },
+            {
+              "line": "L39",
+              "what_happened": "The transfer was decided in February; that evening at dinner speaker told husband she would move to a school in Nishinari in April, with a forty-minute commute."
+            },
+            {
+              "line": "L40",
+              "what_happened": "Husband put down his chopsticks and said, 'ah, is that so.'"
+            },
+            {
+              "line": "L42",
+              "what_happened": "Husband asked whether she would need to change trains at Tennōji."
+            },
+            {
+              "line": "L43",
+              "what_happened": "That exchange was the entire discussion of the transfer."
+            },
+            {
+              "line": "L52-53",
+              "what_happened": "Speaker worked at the Nishinari school for eight years; the windows were broken more than once and a boy threatened her with a chair."
+            },
+            {
+              "line": "L57",
+              "what_happened": "Speaker made tea at the Nishinari school as well."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L3",
+              "choice_made": "Chose social studies as her subject area",
+              "alternatives_present_in_text": "home economics or Japanese (where most women were)"
+            },
+            {
+              "line": "L22",
+              "choice_made": "Gave Kuroda-kun the folder with her prepared plan",
+              "alternatives_present_in_text": "none stated"
+            },
+            {
+              "line": "L28-33",
+              "choice_made": "Read transfer regulations and filed a request to a 'difficult school' category",
+              "alternatives_present_in_text": "none stated; noted 'almost nobody volunteered' for these schools"
+            },
+            {
+              "line": "L34",
+              "choice_made": "Filed the transfer request without telling her husband beforehand",
+              "alternatives_present_in_text": "could have mentioned it to him first"
+            },
+            {
+              "line": "L38",
+              "choice_made": "Wanted the decision made and then communicated, rather than discussed in advance",
+              "alternatives_present_in_text": "implied alternative: discussing it with husband before deciding"
+            },
+            {
+              "line": "L57-59",
+              "choice_made": "Made tea at the Nishinari school",
+              "alternatives_present_in_text": "contrasted with making tea at first posting; speaker states this instance was because she 'wanted it'"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L4-5",
+              "quote": "I said I was certain. I was not certain about very much else but I was certain about that."
+            },
+            {
+              "line": "L12-13",
+              "quote": "I did not object... I have read things since where women say they objected and perhaps they did, but I did not."
+            },
+            {
+              "line": "L27",
+              "quote": "I did not."
+            },
+            {
+              "line": "L47",
+              "quote": "I did not find it sad."
+            },
+            {
+              "line": "L48",
+              "quote": "I found it — I don't know the word."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L26",
+              "quote": "crushed"
+            },
+            {
+              "line": "L26",
+              "quote": "wept"
+            },
+            {
+              "line": "L45-46",
+              "quote": "sad"
+            },
+            {
+              "line": "L50",
+              "quote": "God."
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "I did not",
+              "lines": [
+                "L12",
+                "L27",
+                "L47"
+              ]
+            },
+            {
+              "phrase": "certain",
+              "lines": [
+                "L3",
+                "L4",
+                "L5"
+              ]
+            },
+            {
+              "phrase": "the tea / poured the tea / made the tea",
+              "lines": [
+                "L7",
+                "L8",
+                "L9",
+                "L10",
+                "L14",
+                "L54",
+                "L57",
+                "L58"
+              ]
+            },
+            {
+              "phrase": "the folder",
+              "lines": [
+                "L16",
+                "L22",
+                "L23"
+              ]
+            },
+            {
+              "phrase": "Tennōji / forty minutes",
+              "lines": [
+                "L39",
+                "L41",
+                "L44"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L43-44",
+              "quote": "That was the entire discussion of it. He asked about the transfer at Tennōji.",
+              "note": "Speaker states the entire conversation about a major life decision (job transfer) was limited to a question about train transfers, then moves directly to the next topic."
+            },
+            {
+              "line": "L48-49",
+              "quote": "I found it — I don't know the word.",
+              "note": "Speaker begins to name an emotional response to the marital dynamic, stops, states she lacks the word, then moves to describing the arrangement instead."
+            },
+            {
+              "line": "L59",
+              "quote": "it is not a difference you can explain to anybody, and I've stopped trying",
+              "note": "Speaker raises a distinction (why she made tea at Nishinari vs. earlier) and declines to elaborate further, ending the account there."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Faculty adviser",
+              "lines": [
+                "L3"
+              ],
+              "what_they_did": "Asked speaker twice if she was certain about choosing social studies."
+            },
+            {
+              "who": "Kuroda-sensei/Kuroda-kun",
+              "lines": [
+                "L15",
+                "L17",
+                "L22",
+                "L24"
+              ],
+              "what_they_did": "Two years younger colleague who was given the third-year homeroom assignment instead of speaker; received her prepared folder; used it for about six years."
+            },
+            {
+              "who": "The principal",
+              "lines": [
+                "L17"
+              ],
+              "what_they_did": "Told speaker that Kuroda-kun would take the third-year role and she would support him, citing his need for experience and her possible future 'circumstances.'"
+            },
+            {
+              "who": "Husband",
+              "lines": [
+                "L34",
+                "L36",
+                "L39",
+                "L40",
+                "L42",
+                "L43",
+                "L44"
+              ],
+              "what_they_did": "Was not told about the transfer request beforehand; upon being told, responded 'ah, is that so,' and asked whether she would need to change trains at Tennōji; described by speaker as 'not that kind of man' who would have forbidden it."
+            },
+            {
+              "who": "Younger women (unspecified)",
+              "lines": [
+                "L46"
+              ],
+              "what_they_did": "Told speaker that the dinner exchange with her husband was 'sad.'"
+            },
+            {
+              "who": "A boy (student, unnamed)",
+              "lines": [
+                "L53"
+              ],
+              "what_they_did": "Threatened speaker with a chair at the Nishinari school."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes recognition must be seized through unglamorous, unclaimed territory rather than granted by those in power.",
+              "explanation": "After losing the homeroom role to a younger man for reasons of gender, she did not appeal or protest but instead studied transfer regulations to find a category 'almost nobody volunteered' for, reasoning that there she would be 'needed' rather than 'handed things.' This is a general theory of how she gets standing, not a one-off reaction.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L31-32",
+                  "quote": "if you volunteered you were not, ah, you were not handed things, you were simply needed. You walked in and you were needed on the first morning."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career narrative more broadly, she likely gravitates toward under-resourced or unwanted assignments over prestigious ones as a way to establish authority."
+            },
+            {
+              "category": "core_values",
+              "headline": "She protects her autonomy by deciding first and informing second, even in her marriage.",
+              "explanation": "She filed a major transfer request without telling her husband, explicitly choosing to 'want the thing to be done and then to be told about' rather than deliberated jointly, and defends this as something that suited them rather than something sad. This is a value enacted at real relational cost — she anticipated the disagreement inherent to discussion and chose to bypass it.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L37-38",
+                  "quote": "I did not want the conversation. I wanted the thing to be done and then to be told about."
+                },
+                {
+                  "exp": 2,
+                  "line": "L49",
+                  "quote": "It was the arrangement we had and it suited us and I would not have wanted him poking about in it, asking me was I sure"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other major life decisions (financial, family, health), she likely acts unilaterally first and frames the outcome to her partner as settled rather than open for input."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She repeatedly reframes moments others read as painful or sad as ones she 'did not' feel that way about, without naming what she did feel.",
+              "explanation": "Three times she denies the expected emotional response — not crushed, not weeping, not sad — but each time stops short of naming the actual feeling ('I found it — I don't know the word'). This pattern recurs across the folder loss and the marital dinner scene, worth her checking whether the denial is accurate or protective.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L26-27",
+                  "quote": "People hear that and they think I was, ah, crushed, or that I went home and wept. I did not."
+                },
+                {
+                  "exp": 2,
+                  "line": "L47-48",
+                  "quote": "I did not find it sad. I found it — I don't know the word."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When asked directly about difficult emotional experiences in other domains (health, loss), she likely describes what she did instead of what she felt, and deflects when pressed for the feeling itself."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She excels at converting institutional rules and bureaucracy into leverage others overlook.",
+              "explanation": "Rather than confronting the principal or her colleague, she turned to 'very dull documents' — transfer regulations — and found an overlooked category that gave her exactly the standing she'd been denied. This is not merely persistence; it's a specific talent for finding systemic leverage in overlooked technical detail.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L28-31",
+                  "quote": "I began to read the transfer regulations. The municipal transfer system. Very dull documents. And I learned that there was a category, schools designated as requiring particular support"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In work contexts, she likely reads policy or procedural documents others skip and finds options or exceptions that reshape her position within a system."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes standing must be seized through unglamorous, unclaimed territory rather than granted by those in power.",
+              "explanation": "After losing the homeroom role to a younger man for reasons of gender, she did not appeal or protest but instead studied transfer regulations to find a category 'almost nobody volunteered' for, reasoning that there she would be 'needed' rather than 'handed things.' This is a general theory of how she gets standing, not a one-off reaction.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L31-32",
+                  "quote": "if you volunteered you were not, ah, you were not handed things, you were simply needed. You walked in and you were needed on the first morning."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In her career narrative more broadly, she likely gravitates toward under-resourced or unwanted assignments over prestigious ones as a way to establish authority.",
+              "exp": 2
+            },
+            {
+              "category": "core_values",
+              "headline": "She protects her autonomy by deciding first and informing second, even in her marriage.",
+              "explanation": "She filed a major transfer request without telling her husband, explicitly choosing to 'want the thing to be done and then to be told about' rather than deliberated jointly, and defends this as something that suited them rather than something sad. This is a value enacted at real relational cost — she anticipated the disagreement inherent to discussion and chose to bypass it.",
+              "evidence": [
+                {
+                  "exp": 2,
+                  "line": "L37-38",
+                  "quote": "I did not want the conversation. I wanted the thing to be done and then to be told about."
+                },
+                {
+                  "exp": 2,
+                  "line": "L49",
+                  "quote": "It was the arrangement we had and it suited us and I would not have wanted him poking about in it, asking me was I sure"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other major life decisions (financial, family, health), she likely acts unilaterally first and frames the outcome to her partner as settled rather than open for input.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She repeatedly reframes moments others read as painful or sad as ones she 'did not' feel that way about, without naming what she did feel.",
+              "reason": "restated",
+              "note": "She herself flags this explicitly ('I found it — I don't know the word... it is not a difference you can explain to anybody') — the candidate just repackages her own stated self-observation as an outside insight."
+            },
+            {
+              "headline": "She excels at converting institutional rules and bureaucracy into leverage others overlook.",
+              "reason": "restated",
+              "note": "Nearly identical claim to the surviving defining_belief about seizing standing through unclaimed territory — this is the same insight restated as a skill rather than a belief, and duplicates the stronger surviving candidate."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "She believes standing must be seized through unglamorous, unclaimed territory rather than granted by those in power.",
+            "explanation": "After losing the homeroom role to a younger man for reasons of gender, she did not appeal or protest but instead studied transfer regulations to find a category 'almost nobody volunteered' for, reasoning that there she would be 'needed' rather than 'handed things.' This is a general theory of how she gets standing, not a one-off reaction.",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L31-32",
+                "quote": "if you volunteered you were not, ah, you were not handed things, you were simply needed. You walked in and you were needed on the first morning."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In her career narrative more broadly, she likely gravitates toward under-resourced or unwanted assignments over prestigious ones as a way to establish authority.",
+            "exp": 2
+          },
+          {
+            "category": "core_values",
+            "headline": "She protects her autonomy by deciding first and informing second, even in her marriage.",
+            "explanation": "She filed a major transfer request without telling her husband, explicitly choosing to 'want the thing to be done and then to be told about' rather than deliberated jointly, and defends this as something that suited them rather than something sad. This is a value enacted at real relational cost — she anticipated the disagreement inherent to discussion and chose to bypass it.",
+            "evidence": [
+              {
+                "exp": 2,
+                "line": "L37-38",
+                "quote": "I did not want the conversation. I wanted the thing to be done and then to be told about."
+              },
+              {
+                "exp": 2,
+                "line": "L49",
+                "quote": "It was the arrangement we had and it suited us and I would not have wanted him poking about in it, asking me was I sure"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In other major life decisions (financial, family, health), she likely acts unilaterally first and frames the outcome to her partner as settled rather than open for input.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "It was a miai (an arranged marriage meeting)."
+            },
+            {
+              "line": "L3",
+              "what_happened": "The meeting took place in 1981 in a hotel in Umeda; there was a photograph album; his mother did most of the talking."
+            },
+            {
+              "line": "L4",
+              "what_happened": "His name was Hiroshi."
+            },
+            {
+              "line": "L5",
+              "what_happened": "He was an engineer with the municipal waterworks bureau and explained the filtration system at the Kunijima plant at length."
+            },
+            {
+              "line": "L6",
+              "what_happened": "The go-between made faces at him to stop."
+            },
+            {
+              "line": "L11",
+              "what_happened": "They married the following spring (1982)."
+            },
+            {
+              "line": "L12",
+              "what_happened": "His mother came to live with them in 1989 after his father died and stayed eleven years; the speaker nursed her at the end; around year six they reached an understanding that his mother managed the kitchen and the speaker managed everything outside the door."
+            },
+            {
+              "line": "L13",
+              "what_happened": "The speaker cried at the mother-in-law's funeral."
+            },
+            {
+              "line": "L19",
+              "what_happened": "In the early years there was an expectation about children; his mother made sideways remarks about the Nakamuras' grandchild; the speaker responded 'oh, is that so, how nice.'"
+            },
+            {
+              "line": "L20",
+              "what_happened": "The speaker was thirty-five, then forty; eventually no one asked about children anymore; the speaker noticed on a Tuesday that no one had asked in a year and bought a melon on the way home."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Hiroshi fished."
+            },
+            {
+              "line": "L25",
+              "what_happened": "From about 1990 onward, every Sunday he went to Wakayama or the Yodo River with two men from the bureau, returned at 4pm smelling of the sun, and cleaned the rods on newspaper in the genkan."
+            },
+            {
+              "line": "L27",
+              "what_happened": "On Sundays the speaker graded papers, read, went to the department store and looked at things she did not buy, and sat in the house with the windows open and no one in it."
+            },
+            {
+              "line": "L33",
+              "what_happened": "They spoke about the rain, his knee, and whether the hedge wanted cutting."
+            },
+            {
+              "line": "L34",
+              "what_happened": "In forty years he did not ask about her work except regarding the commute."
+            },
+            {
+              "line": "L35",
+              "what_happened": "She did not ask him about the bureau."
+            },
+            {
+              "line": "L36",
+              "what_happened": "In 1994 he was passed over for section chief; she learned this from his colleague's wife at a New Year gathering, two months after it happened."
+            },
+            {
+              "line": "L37",
+              "what_happened": "She said nothing to him about it."
+            },
+            {
+              "line": "L38",
+              "what_happened": "She made a better dinner that week."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Her friend Fujita-sensei, a home economics teacher, used to ask, 'Yoshida-san, does your husband know you at all.'"
+            },
+            {
+              "line": "L42",
+              "what_happened": "The speaker would answer, 'he knows the hedge wants cutting.'"
+            },
+            {
+              "line": "L44",
+              "what_happened": "Fujita-sensei had a laugh where she put her hand flat on the table."
+            },
+            {
+              "line": "L51",
+              "what_happened": "Around 2005, Ōtsuka-sensei said to her, 'sensei, you have given up so much.'"
+            },
+            {
+              "line": "L53",
+              "what_happened": "The speaker replied, 'thank you for your concern.'"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L37",
+              "choice_made": "Said nothing to Hiroshi about learning he was passed over for section chief.",
+              "alternatives_present_in_text": "None stated explicitly; implied alternative is confronting or discussing it with him."
+            },
+            {
+              "line": "L38",
+              "choice_made": "Made a better dinner that week.",
+              "alternatives_present_in_text": "None stated explicitly."
+            },
+            {
+              "line": "L53",
+              "choice_made": "Responded to Ōtsuka-sensei with 'thank you for your concern.'",
+              "alternatives_present_in_text": "Not stated; the speaker describes feeling angry but this was her spoken response."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L7",
+              "quote": "I liked it."
+            },
+            {
+              "line": "L28",
+              "quote": "I have never told anyone that Sunday was my favorite day and that it was my favorite day because he was not there."
+            },
+            {
+              "line": "L52",
+              "quote": "I was quite angry, actually, which is not like me."
+            },
+            {
+              "line": "L54",
+              "quote": "I have given up things."
+            },
+            {
+              "line": "L56",
+              "quote": "Not one of the ones she meant."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L13",
+              "quote": "I cried, which surprised me"
+            },
+            {
+              "line": "L29",
+              "quote": "That sounds terrible."
+            },
+            {
+              "line": "L52",
+              "quote": "I was so — I was quite angry, actually"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "restful",
+              "lines": [
+                "L8",
+                "L9",
+                "L10"
+              ]
+            },
+            {
+              "phrase": "It didn't / We didn't",
+              "lines": [
+                "L17",
+                "L18"
+              ]
+            },
+            {
+              "phrase": "Not one of the ones she meant / not the ones she meant",
+              "lines": [
+                "L56",
+                "L57"
+              ]
+            },
+            {
+              "phrase": "assumed",
+              "lines": [
+                "L49",
+                "L50"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L12",
+              "quote": "and — well, I nursed her at the end, and I will say only that we came to an understanding somewhere around year six",
+              "note": "Speaker moves quickly past the nursing period and does not elaborate on it."
+            },
+            {
+              "line": "L16-L18",
+              "quote": "The question of children. It didn't. We didn't.",
+              "note": "Speaker interrupts herself, restarts, and uses truncated, incomplete sentences on the topic of children."
+            },
+            {
+              "line": "L45-L46",
+              "quote": "Ah — I've gone off. Sorry.",
+              "note": "Speaker interrupts her own narration and apologizes, cutting off the preceding line of thought."
+            },
+            {
+              "line": "L57",
+              "quote": "Not one of the ones she meant.",
+              "note": "Speaker ends on this line without specifying what she did give up."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Hiroshi's mother",
+              "lines": [
+                "L3",
+                "L12",
+                "L19"
+              ],
+              "what_they_did": "Did most of the talking at the miai; came to live with them in 1989 for eleven years; made sideways remarks about the Nakamuras' grandchild."
+            },
+            {
+              "who": "Hiroshi",
+              "lines": [
+                "L4",
+                "L5",
+                "L24",
+                "L25",
+                "L31",
+                "L33",
+                "L34",
+                "L36"
+              ],
+              "what_they_did": "Explained the filtration system at length during the miai; fished every Sunday with two colleagues; spoke about rain/knee/hedge; did not ask about her work beyond commute; was passed over for section chief in 1994."
+            },
+            {
+              "who": "The go-between",
+              "lines": [
+                "L6"
+              ],
+              "what_they_did": "Made faces at Hiroshi to stop talking."
+            },
+            {
+              "who": "Hiroshi's colleague's wife",
+              "lines": [
+                "L36"
+              ],
+              "what_they_did": "Told the speaker at a New Year gathering that Hiroshi had been passed over for section chief."
+            },
+            {
+              "who": "Fujita-sensei",
+              "lines": [
+                "L41",
+                "L43",
+                "L44"
+              ],
+              "what_they_did": "Asked whether the speaker's husband knew her at all; laughed with her hand flat on the table."
+            },
+            {
+              "who": "Ōtsuka-sensei",
+              "lines": [
+                "L51"
+              ],
+              "what_they_did": "Told the speaker, around 2005, 'sensei, you have given up so much.'"
+            },
+            {
+              "who": "Younger colleagues",
+              "lines": [
+                "L50"
+              ],
+              "what_they_did": "Assumed the speaker was enduring something."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes privacy and separateness, not shared disclosure, is what makes a marriage restful and sustainable.",
+              "explanation": "She explicitly frames Hiroshi's refusal to reveal himself as the reason she liked him, and repeats 'restful' three times to describe forty years of a marriage built on parallel silence rather than intimacy. This is an operating assumption about what makes closeness work, held against the outside assumption (voiced by Fujita-sensei and her colleagues) that a marriage requires mutual knowing.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L8",
+                  "quote": "here is a man who will tell me the truth about water and will not tell me anything about himself, and I thought that would be restful"
+                },
+                {
+                  "exp": 3,
+                  "line": "L10",
+                  "quote": "For forty years it was restful."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In friendships or work relationships, she will resist or feel drained by requests for emotional disclosure, and will read low-demand, task-focused relationships as more trustworthy than emotionally expressive ones."
+            },
+            {
+              "category": "core_values",
+              "headline": "She protects the marriage's unspoken bargain of non-interference even when it costs her real information and closeness.",
+              "explanation": "When she learned Hiroshi had been passed over for promotion, she chose silence and a better dinner over confronting him or even mentioning it, and she names this as 'the language we had.' The choice cost her the chance to comfort or be comforted, but she still defends it as 'a real language... it was not nothing,' showing she values the integrity of their private system over emotional transparency.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L37",
+                  "quote": "I said nothing to him."
+                },
+                {
+                  "exp": 3,
+                  "line": "L40",
+                  "quote": "it was a real language, I want to be clear, it was not nothing, it was simply not the language in the television dramas"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In conflict at work or with family, she will address problems through indirect action (a gesture, a changed behavior) rather than direct verbal confrontation, even when directness would resolve things faster."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She may have built a private, protected self (Sundays alone, unspoken griefs about children) that she has never disclosed even to people close to her.",
+              "explanation": "She admits she has 'never told anyone' that Sunday was her favorite day because her husband was absent, and separately she deflects Ōtsuka-sensei's sympathy about what she's 'given up' without saying what she actually lost. Two distinct moments show a pattern of maintaining a private ledger of feeling that she does not share, worth exploring: what would it cost her to name it, and to whom would she tell it first.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L28",
+                  "quote": "I have never told anyone that Sunday was my favorite day and that it was my favorite day because he was not there"
+                },
+                {
+                  "exp": 3,
+                  "line": "L56",
+                  "quote": "Not one of the ones she meant."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In coaching or reflective conversations, she will describe emotionally significant events factually and briskly, then stop short of naming the feeling itself unless directly and gently pressed."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "She reframes situations others read as loss or compromise into ones of quiet, self-authored contentment.",
+              "explanation": "Multiple people around her — younger colleagues, Ōtsuka-sensei, Fujita-sensei — assumed she was enduring a diminished life, but she consistently reinterprets the same facts (silence, separateness, unasked questions) as things she chose and values. This is not just a value she holds but a distinctive cognitive move she performs well and seems energized by, evident in the sharpness and readiness of her rebuttals.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L48",
+                  "quote": "I think it is that I learned a person can be happy inside a shape that from the outside looks like a compromise."
+                },
+                {
+                  "exp": 3,
+                  "line": "L52",
+                  "quote": "I was so — I was quite angry, actually, which is not like me"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "When others pity or underestimate a choice she's made (career, living situation, relationships), she will push back firmly and offer an alternate framing rather than accepting the sympathy."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes privacy and separateness, not shared disclosure, is what makes a marriage restful and sustainable.",
+              "explanation": "She explicitly frames Hiroshi's refusal to reveal himself as the reason she liked him, and repeats 'restful' three times to describe forty years of a marriage built on parallel silence rather than intimacy. This is an operating assumption about what makes closeness work, held against the outside assumption (voiced by Fujita-sensei and her colleagues) that a marriage requires mutual knowing.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L8",
+                  "quote": "here is a man who will tell me the truth about water and will not tell me anything about himself, and I thought that would be restful"
+                },
+                {
+                  "exp": 3,
+                  "line": "L10",
+                  "quote": "For forty years it was restful."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In friendships or work relationships, she will resist or feel drained by requests for emotional disclosure, and will read low-demand, task-focused relationships as more trustworthy than emotionally expressive ones.",
+              "exp": 3
+            },
+            {
+              "category": "core_values",
+              "headline": "She protects the marriage's unspoken bargain of non-interference even when it costs her real information and closeness.",
+              "explanation": "When she learned Hiroshi had been passed over for promotion, she chose silence and a better dinner over confronting him or even mentioning it, and she names this as 'the language we had.' The choice cost her the chance to comfort or be comforted, but she still defends it as 'a real language... it was not nothing,' showing she values the integrity of their private system over emotional transparency.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L37",
+                  "quote": "I said nothing to him."
+                },
+                {
+                  "exp": 3,
+                  "line": "L40",
+                  "quote": "it was a real language, I want to be clear, it was not nothing, it was simply not the language in the television dramas"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In conflict at work or with family, she will address problems through indirect action (a gesture, a changed behavior) rather than direct verbal confrontation, even when directness would resolve things faster.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She may have built a private, protected self (Sundays alone, unspoken griefs about children) that she has never disclosed even to people close to her.",
+              "reason": "restated",
+              "note": "She already states directly 'I have never told anyone that Sunday was my favorite day' — the candidate just repackages her own explicit admission as a discovered pattern rather than surfacing something unnamed."
+            },
+            {
+              "headline": "She reframes situations others read as loss or compromise into ones of quiet, self-authored contentment.",
+              "reason": "restated",
+              "note": "This is exactly what she says herself at L48 ('I learned a person can be happy inside a shape that from the outside looks like a compromise') — not an inference beyond her own words, and 'zone_of_genius' is unsupported since there's no evidence of skill or energy beyond this one narrative, just a recurring stance."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "She believes privacy and separateness, not shared disclosure, is what makes a marriage restful and sustainable.",
+            "explanation": "She explicitly frames Hiroshi's refusal to reveal himself as the reason she liked him, and repeats 'restful' three times to describe forty years of a marriage built on parallel silence rather than intimacy. This is an operating assumption about what makes closeness work, held against the outside assumption (voiced by Fujita-sensei and her colleagues) that a marriage requires mutual knowing.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L8",
+                "quote": "here is a man who will tell me the truth about water and will not tell me anything about himself, and I thought that would be restful"
+              },
+              {
+                "exp": 3,
+                "line": "L10",
+                "quote": "For forty years it was restful."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In friendships or work relationships, she will resist or feel drained by requests for emotional disclosure, and will read low-demand, task-focused relationships as more trustworthy than emotionally expressive ones.",
+            "exp": 3
+          },
+          {
+            "category": "core_values",
+            "headline": "She protects the marriage's unspoken bargain of non-interference even when it costs her real information and closeness.",
+            "explanation": "When she learned Hiroshi had been passed over for promotion, she chose silence and a better dinner over confronting him or even mentioning it, and she names this as 'the language we had.' The choice cost her the chance to comfort or be comforted, but she still defends it as 'a real language... it was not nothing,' showing she values the integrity of their private system over emotional transparency.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L37",
+                "quote": "I said nothing to him."
+              },
+              {
+                "exp": 3,
+                "line": "L40",
+                "quote": "it was a real language, I want to be clear, it was not nothing, it was simply not the language in the television dramas"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In conflict at work or with family, she will address problems through indirect action (a gesture, a changed behavior) rather than direct verbal confrontation, even when directness would resolve things faster.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Became kyōtō (vice-principal) in 2003."
+            },
+            {
+              "line": "L2",
+              "what_happened": "Worked at a school in Higashisumiyoshi, then one more school, retired in 2016."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Desk faced the door."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Principal's office was behind her with a door that closed; her desk faced the door so everything coming into the school passed her."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Made the class schedule over three nights in February, with windows dark and a thermos."
+            },
+            {
+              "line": "L20",
+              "what_happened": "Sakai-san from the Board of Education visited in 2008 and again in 2011 about the principal's examination."
+            },
+            {
+              "line": "L23",
+              "what_happened": "She declined."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Declined twice."
+            },
+            {
+              "line": "L25",
+              "what_happened": "First time cited mother-in-law's affairs as reason; second time cited husband's health, specifically stating his health was fine and he had a knee issue."
+            },
+            {
+              "line": "L36",
+              "what_happened": "A third-year student named Kawabata stopped attending school in November; she went to his apartment block in the evening four times before anyone opened the door."
+            },
+            {
+              "line": "L37",
+              "what_happened": "\"We got him through.\""
+            },
+            {
+              "line": "L38",
+              "what_happened": "He came to the graduation."
+            },
+            {
+              "line": "L39",
+              "what_happened": "He is now forty, sends a New Year card, works with trucks."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Fujita-sensei, a home economics teacher who had worked with her at the Nishinari school, became ill in spring 2011 and died in October."
+            },
+            {
+              "line": "L45",
+              "what_happened": "Fujita-sensei's family was from Wakayama."
+            },
+            {
+              "line": "L46",
+              "what_happened": "It rained sideways at the funeral; persimmons were orange against grey; the sister apologized repeatedly for the road."
+            },
+            {
+              "line": "L47",
+              "what_happened": "She held Fujita-sensei's hand in the hospital in September; noted a burn mark on the wrist from a steam tray years earlier."
+            },
+            {
+              "line": "L48",
+              "what_happened": "She conducted a staff meeting the following Tuesday about sports festival equipment."
+            },
+            {
+              "line": "L49",
+              "what_happened": "\"Nobody knew.\""
+            }
+          ],
+          "choices": [
+            {
+              "line": "L23",
+              "choice_made": "Declined the Board of Education's invitation to sit the principal's examination.",
+              "alternatives_present_in_text": "Sitting the principal's examination, becoming principal."
+            },
+            {
+              "line": "L25",
+              "choice_made": "Gave mother-in-law's affairs as the first reason for declining, and husband's health as the second reason.",
+              "alternatives_present_in_text": "Could have given a different or more direct reason."
+            },
+            {
+              "line": "L28",
+              "choice_made": "Has told people over the years that she \"hadn't the strength for it\" and that she is \"not a face\" but \"a pair of hands.\"",
+              "alternatives_present_in_text": "Not stated as an alternative explanation offered."
+            },
+            {
+              "line": "L51",
+              "choice_made": "\"I did not want anybody to know\" (about her state after Fujita-sensei's death).",
+              "alternatives_present_in_text": "Could have told colleagues or postponed the meeting."
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L29",
+              "quote": "I am not a face, I am a pair of hands."
+            },
+            {
+              "line": "L5",
+              "quote": "The vice-principal is the one who knows where everything is."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L16",
+              "quote": "I felt — I have never felt anything like it."
+            },
+            {
+              "line": "L18",
+              "quote": "that's a dreadful thing to say"
+            },
+            {
+              "line": "L42",
+              "quote": "I am tired of the faces people make"
+            },
+            {
+              "line": "L10",
+              "quote": "a shameful thing"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "I have never",
+              "lines": [
+                "L16",
+                "L53"
+              ]
+            },
+            {
+              "phrase": "enough",
+              "lines": [
+                "L40",
+                "L42"
+              ]
+            },
+            {
+              "phrase": "the timetable",
+              "lines": [
+                "L10",
+                "L52"
+              ]
+            },
+            {
+              "phrase": "face",
+              "lines": [
+                "L29",
+                "L42"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L36",
+              "quote": "the situation was bad, I won't go into it",
+              "note": "Speaker states she will not elaborate on the details of Kawabata's home situation."
+            },
+            {
+              "line": "L45",
+              "quote": "In Wakayama, that's where her family were.",
+              "note": "Brief factual note inserted quickly before returning to funeral description."
+            },
+            {
+              "line": "L53",
+              "quote": "I've never said it out loud until just now.",
+              "note": "Statement placed at the very end, immediately following the disclosure about the February timetable, with no further elaboration."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Sakai-san (Board of Education)",
+              "lines": [
+                "L20",
+                "L21",
+                "L22"
+              ],
+              "what_they_did": "Came to see her in 2008 and 2011 about sitting the principal's examination; the Board was counting women toward targets."
+            },
+            {
+              "who": "Kawabata (student)",
+              "lines": [
+                "L36",
+                "L37",
+                "L38",
+                "L39"
+              ],
+              "what_they_did": "Stopped attending school in November of his third year; was eventually reintegrated (\"got him through\"); attended graduation; now forty, sends New Year cards, works with trucks."
+            },
+            {
+              "who": "Kawabata's mother",
+              "lines": [
+                "L36"
+              ],
+              "what_they_did": "Did not open the door on the first several visits; situation described as \"bad,\" not detailed."
+            },
+            {
+              "who": "Fujita-sensei",
+              "lines": [
+                "L44",
+                "L47"
+              ],
+              "what_they_did": "Home economics teacher, colleague from the Nishinari school; became ill in spring 2011, died in October; had a burn mark on her wrist from a steam tray years earlier."
+            },
+            {
+              "who": "Fujita-sensei's sister",
+              "lines": [
+                "L46"
+              ],
+              "what_they_did": "Kept apologizing for the road at the funeral."
+            },
+            {
+              "who": "Mr. So-and-so (unnamed teacher)",
+              "lines": [
+                "L12",
+                "L13"
+              ],
+              "what_they_did": "Could not take first period because of his mother, a scheduling constraint in the timetable."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "zone_of_genius",
+              "headline": "Her deepest, most alive experience of competence comes from invisible, structural work — the timetable — not from visible leadership or acclaim.",
+              "explanation": "She calls the timetable 'a shameful thing' to admit to, then says making it produced a feeling stronger than her wedding, and later returns to it again as the site of her 'best work.' The repetition of 'the timetable' across L10 and L52, paired with unmatched emotional language, marks this as a genius, not just a skill.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L10",
+                  "quote": "the work I loved most in thirty-eight years was the timetable"
+                },
+                {
+                  "exp": 4,
+                  "line": "L16",
+                  "quote": "I felt — I have never felt anything like it. Not at my wedding."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In retirement or new projects, she gravitates toward solving complex logistical/constraint puzzles (finances, schedules, systems) over roles requiring public visibility, and feels most energized there."
+            },
+            {
+              "category": "core_values",
+              "headline": "She chose staying close to the operational center of the school over the advancement and visibility of becoming principal.",
+              "explanation": "Her desk was positioned so 'everything that came into the school came past me' (L8), and she twice declined promotion to principal even when the Board was actively recruiting women for the role. The pattern of choosing proximity to the actual work over status is a value acted on at real cost — twice refusing career advancement.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L8",
+                  "quote": "everything that came into the school came past me"
+                },
+                {
+                  "exp": 4,
+                  "line": "L23",
+                  "quote": "And I declined."
+                },
+                {
+                  "exp": 4,
+                  "line": "L24",
+                  "quote": "Twice."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In work settings, she will choose roles with hands-on control over outcomes even when offered more prestigious, front-facing positions."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "She believes she is not suited to be 'the face' of anything, only the hands that make things work behind it.",
+              "explanation": "She explicitly states 'I am not a face, I am a pair of hands' (L29) as her explanation for declining the principalship, and this self-concept recurs when she says she is 'tired of the faces people make' (L42) about her sacrifices. This operating assumption about her own nature shapes her career choices across years, not just one decision.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L29",
+                  "quote": "I am not a face, I am a pair of hands"
+                },
+                {
+                  "exp": 4,
+                  "line": "L30",
+                  "quote": "That is what I say."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "She will decline public-facing recognition or leadership opportunities in other domains (community, family), even when qualified, preferring supporting roles."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She gives a socially acceptable reason for a hard decision, then privately flags it as untrue or incomplete, without ever correcting it publicly.",
+              "explanation": "She admits the husband's-health reason for declining the exam 'was a lie' (L26) and separately notices that her 'pair of hands' explanation lets people nod sympathetically so 'the conversation ends,' and that she has 'never once corrected the impression' (L31). This is a recurring move — offering a palatable cover story and noticing, but not acting on, its incompleteness — worth her examining directly.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L26",
+                  "quote": "So that was a lie."
+                },
+                {
+                  "exp": 4,
+                  "line": "L31",
+                  "quote": "I have never once corrected the impression, so perhaps I should examine that"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other relationships or decisions, she likely offers a plausible, sympathy-inducing explanation that ends discussion rather than the fuller or harder truth, and later privately recognizes the gap."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She responds to profound personal loss by immediately returning to routine, competent duty, and only much later notices what that cost or revealed.",
+              "explanation": "After holding her dying colleague's hand in September, she conducted a mundane staff meeting the following Tuesday and ensured 'nobody knew' (L48–L49); she also connects this same autumn to producing her 'best' timetable, and says she 'doesn't know what to do with that information' and has 'never said it out loud until just now' (L52–L53). This pairing of grief with unusually high functioning, followed by delayed, unresolved reflection, recurs across the episode and warrants her own attention.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L48",
+                  "quote": "I conducted a staff meeting the following Tuesday about the sports festival equipment."
+                },
+                {
+                  "exp": 4,
+                  "line": "L52",
+                  "quote": "the timetable that February was the best one I ever made, and I don't know what to do with that information"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Under future personal loss or stress, she will likely default to structured, task-oriented work as a coping mechanism, and only name the emotional cost much later, if at all."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "zone_of_genius",
+              "headline": "Her deepest, most alive experience of competence comes from invisible, structural work — the timetable — not from visible leadership or acclaim.",
+              "explanation": "She calls the timetable 'a shameful thing' to admit to, then says making it produced a feeling stronger than her wedding, and later returns to it again as the site of her 'best work.' The repetition of 'the timetable' across L10 and L52, paired with unmatched emotional language, marks this as a genius, not just a skill.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L10",
+                  "quote": "the work I loved most in thirty-eight years was the timetable"
+                },
+                {
+                  "exp": 4,
+                  "line": "L16",
+                  "quote": "I felt — I have never felt anything like it. Not at my wedding."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In retirement or new projects, she gravitates toward solving complex logistical/constraint puzzles (finances, schedules, systems) over roles requiring public visibility, and feels most energized there.",
+              "exp": 4
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She gives a socially acceptable reason for a hard decision, then privately flags it as untrue or incomplete, without ever correcting it publicly.",
+              "explanation": "She admits the husband's-health reason for declining the exam 'was a lie' (L26) and separately notices that her 'pair of hands' explanation lets people nod sympathetically so 'the conversation ends,' and that she has 'never once corrected the impression' (L31). This is a recurring move — offering a palatable cover story and noticing, but not acting on, its incompleteness — worth her examining directly.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L26",
+                  "quote": "So that was a lie."
+                },
+                {
+                  "exp": 4,
+                  "line": "L31",
+                  "quote": "I have never once corrected the impression, so perhaps I should examine that"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In other relationships or decisions, she likely offers a plausible, sympathy-inducing explanation that ends discussion rather than the fuller or harder truth, and later privately recognizes the gap.",
+              "exp": 4
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "She responds to profound personal loss by immediately returning to routine, competent duty, and only much later notices what that cost or revealed.",
+              "explanation": "After holding her dying colleague's hand in September, she conducted a mundane staff meeting the following Tuesday and ensured 'nobody knew' (L48–L49); she also connects this same autumn to producing her 'best' timetable, and says she 'doesn't know what to do with that information' and has 'never said it out loud until just now' (L52–L53). This pairing of grief with unusually high functioning, followed by delayed, unresolved reflection, recurs across the episode and warrants her own attention.",
+              "evidence": [
+                {
+                  "exp": 4,
+                  "line": "L48",
+                  "quote": "I conducted a staff meeting the following Tuesday about the sports festival equipment."
+                },
+                {
+                  "exp": 4,
+                  "line": "L52",
+                  "quote": "the timetable that February was the best one I ever made, and I don't know what to do with that information"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Under future personal loss or stress, she will likely default to structured, task-oriented work as a coping mechanism, and only name the emotional cost much later, if at all.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "She chose staying close to the operational center of the school over the advancement and visibility of becoming principal.",
+              "reason": "restated",
+              "note": "She already explicitly explains this choice herself (L23-L30, 'I am not a face, I am a pair of hands') — the claim just repackages her own stated reasoning as inferred insight."
+            },
+            {
+              "headline": "She believes she is not suited to be 'the face' of anything, only the hands that make things work behind it.",
+              "reason": "restated",
+              "note": "This is a near-verbatim restatement of her own words ('I am not a face, I am a pair of hands') rather than an inferred belief beneath what she said."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "zone_of_genius",
+            "headline": "Her deepest, most alive experience of competence comes from invisible, structural work — the timetable — not from visible leadership or acclaim.",
+            "explanation": "She calls the timetable 'a shameful thing' to admit to, then says making it produced a feeling stronger than her wedding, and later returns to it again as the site of her 'best work.' The repetition of 'the timetable' across L10 and L52, paired with unmatched emotional language, marks this as a genius, not just a skill.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L10",
+                "quote": "the work I loved most in thirty-eight years was the timetable"
+              },
+              {
+                "exp": 4,
+                "line": "L16",
+                "quote": "I felt — I have never felt anything like it. Not at my wedding."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In retirement or new projects, she gravitates toward solving complex logistical/constraint puzzles (finances, schedules, systems) over roles requiring public visibility, and feels most energized there.",
+            "exp": 4
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She gives a socially acceptable reason for a hard decision, then privately flags it as untrue or incomplete, without ever correcting it publicly.",
+            "explanation": "She admits the husband's-health reason for declining the exam 'was a lie' (L26) and separately notices that her 'pair of hands' explanation lets people nod sympathetically so 'the conversation ends,' and that she has 'never once corrected the impression' (L31). This is a recurring move — offering a palatable cover story and noticing, but not acting on, its incompleteness — worth her examining directly.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L26",
+                "quote": "So that was a lie."
+              },
+              {
+                "exp": 4,
+                "line": "L31",
+                "quote": "I have never once corrected the impression, so perhaps I should examine that"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In other relationships or decisions, she likely offers a plausible, sympathy-inducing explanation that ends discussion rather than the fuller or harder truth, and later privately recognizes the gap.",
+            "exp": 4
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "She responds to profound personal loss by immediately returning to routine, competent duty, and only much later notices what that cost or revealed.",
+            "explanation": "After holding her dying colleague's hand in September, she conducted a mundane staff meeting the following Tuesday and ensured 'nobody knew' (L48–L49); she also connects this same autumn to producing her 'best' timetable, and says she 'doesn't know what to do with that information' and has 'never said it out loud until just now' (L52–L53). This pairing of grief with unusually high functioning, followed by delayed, unresolved reflection, recurs across the episode and warrants her own attention.",
+            "evidence": [
+              {
+                "exp": 4,
+                "line": "L48",
+                "quote": "I conducted a staff meeting the following Tuesday about the sports festival equipment."
+              },
+              {
+                "exp": 4,
+                "line": "L52",
+                "quote": "the timetable that February was the best one I ever made, and I don't know what to do with that information"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "Under future personal loss or stress, she will likely default to structured, task-oriented work as a coping mechanism, and only name the emotional cost much later, if at all.",
+            "exp": 4
+          }
+        ]
+      },
+      {
+        "exp": 5,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker's husband died in June 2022."
+            },
+            {
+              "line": "L2",
+              "what_happened": "Cause was pancreatic (illness/cancer)."
+            },
+            {
+              "line": "L3",
+              "what_happened": "Four months elapsed between diagnosis and death."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker lists administrative tasks after death: wake, funeral, seventh day, forty-ninth day, recording kōden envelopes (name and amount), arranging return gifts at half value, listing catalogue recipients, notifying pension office, ward office, water, telephone, bank, seal registration."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker made a spreadsheet."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Two hundred and six households were involved."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker completed the task in eleven days."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Sister-in-law told her, 'Sumie-san, you should rest'; speaker said thank you and did not rest."
+            },
+            {
+              "line": "L15",
+              "what_happened": "Speaker states she does not think she has cried about Hiroshi."
+            },
+            {
+              "line": "L17",
+              "what_happened": "Four years have passed."
+            },
+            {
+              "line": "L18",
+              "what_happened": "About eight months after the death, a thermos he used for fishing fell out of a cupboard and hit the floor; speaker sat down on the kitchen floor."
+            },
+            {
+              "line": "L19",
+              "what_happened": "She did not cry."
+            },
+            {
+              "line": "L20",
+              "what_happened": "She sat about twenty minutes, then got up and made tea."
+            },
+            {
+              "line": "L21",
+              "what_happened": "She gave the fishing rods to men from the bureau."
+            },
+            {
+              "line": "L22",
+              "what_happened": "His chair went to the recycling shop within two months."
+            },
+            {
+              "line": "L25",
+              "what_happened": "His family's grave is in Tottori, four hours each way; at the third anniversary visit the stones behind it were falling over and no one tends them."
+            },
+            {
+              "line": "L26",
+              "what_happened": "His brother is seventy-nine, lives in Kobe, and cannot climb the steps to the grave."
+            },
+            {
+              "line": "L27",
+              "what_happened": "They have no children; speaker states there will be no one to tend the grave after her death, specifically by the year 2050."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker performed hakajimai (grave closing)."
+            },
+            {
+              "line": "L30",
+              "what_happened": "Process described: priest withdraws the spirit, stone is removed, remains are relocated; she placed the remains in a columbarium in Abeno, eleven minutes from her house by bicycle."
+            },
+            {
+              "line": "L31",
+              "what_happened": "She arranged the entire process (temple, stonemason, permits from the village office, new location) before telling anyone."
+            },
+            {
+              "line": "L32",
+              "what_happened": "She telephoned his brother and told him it was arranged for October 12th, asking him to come if able."
+            },
+            {
+              "line": "L33",
+              "what_happened": "He was very upset."
+            },
+            {
+              "line": "L34",
+              "what_happened": "He said, 'you might have consulted.'"
+            },
+            {
+              "line": "L35",
+              "what_happened": "She replied, 'I am consulting you now.'"
+            },
+            {
+              "line": "L37",
+              "what_happened": "He came to the memorial meal and, taking her hand, said 'thank you for doing what I could not do.'"
+            },
+            {
+              "line": "L38",
+              "what_happened": "The chōnaikai (neighborhood association) asked her to be chair."
+            },
+            {
+              "line": "L39",
+              "what_happened": "This request occurred three times."
+            },
+            {
+              "line": "L40",
+              "what_happened": "She rewrote the kairanban circulation order (which had been going the wrong way around the block for nineteen years), built the disaster drill roster, and does the accounts for the summer festival."
+            },
+            {
+              "line": "L41",
+              "what_happened": "Ueda-san is chair."
+            },
+            {
+              "line": "L42",
+              "what_happened": "Ueda-san cannot operate a spreadsheet and telephones her on Sunday evenings."
+            },
+            {
+              "line": "L43",
+              "what_happened": "She tells everyone she is not suited to standing in front of people."
+            },
+            {
+              "line": "L44",
+              "what_happened": "People agree readily when she says this."
+            },
+            {
+              "line": "L47",
+              "what_happened": "She goes to Kyoto on Tuesdays, usually."
+            },
+            {
+              "line": "L48",
+              "what_happened": "She started swimming on Thursdays at the ward pool, at age seventy-one, wearing a swimming cap."
+            },
+            {
+              "line": "L49",
+              "what_happened": "There is a standing soba place near Tennōji where she eats alone at the counter; the master knows she takes extra spring onion."
+            },
+            {
+              "line": "L50",
+              "what_happened": "Last autumn she went to Hagi alone for three nights, told nobody, and on the second evening ate a whole grilled fish and drank a small bottle of beer while looking at the water."
+            },
+            {
+              "line": "L52",
+              "what_happened": "She states the house is very quiet."
+            },
+            {
+              "line": "L53",
+              "what_happened": "People say to her, 'you must be lonely, Yoshida-san'; she replies 'yes, thank you,' then goes home and opens all the windows."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L10",
+              "choice_made": "Did not rest despite sister-in-law's suggestion",
+              "alternatives_present_in_text": "Resting, as suggested by sister-in-law"
+            },
+            {
+              "line": "L21",
+              "choice_made": "Gave the fishing rods to the men from the bureau",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L22",
+              "choice_made": "Sent his chair to the recycling shop within two months",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L28",
+              "choice_made": "Performed hakajimai, closing the grave",
+              "alternatives_present_in_text": "Leaving the grave as is, per L25-27 concerns about no one to maintain it"
+            },
+            {
+              "line": "L30",
+              "choice_made": "Chose a columbarium in Abeno, eleven minutes from her house by bicycle",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L31",
+              "choice_made": "Arranged the entire process before telling anyone",
+              "alternatives_present_in_text": "Consulting family/brother first, per brother's later objection at L34"
+            },
+            {
+              "line": "L43",
+              "choice_made": "Tells others she is not suited to standing in front of people",
+              "alternatives_present_in_text": "Accepting the chōnaikai chair position, offered three times per L38-39"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L14",
+              "quote": "It was work with a clear edge to it and I was extremely good at it."
+            },
+            {
+              "line": "L43",
+              "quote": "I'm not suited to standing in front of people."
+            }
+          ],
+          "emotion_words": [
+            {
+              "line": "L12",
+              "quote": "it was almost pleasant"
+            },
+            {
+              "line": "L33",
+              "quote": "very upset"
+            },
+            {
+              "line": "L45",
+              "quote": "It's restful."
+            },
+            {
+              "line": "L53",
+              "quote": "lonely"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "mercy",
+              "lines": [
+                "L3",
+                "L3"
+              ]
+            },
+            {
+              "phrase": "of course",
+              "lines": [
+                "L51",
+                "L52"
+              ]
+            },
+            {
+              "phrase": "alone / by myself",
+              "lines": [
+                "L49",
+                "L50"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L19",
+              "quote": "And then it didn't.",
+              "note": "Speaker states the anticipated crying did not occur, stated in four words, no further elaboration before moving to next action."
+            },
+            {
+              "line": "L20",
+              "quote": "I sat there about twenty minutes and then I got up and made the tea.",
+              "note": "Transitions directly from the sitting episode to a specific subsequent action without additional description of what occurred in between."
+            },
+            {
+              "line": "L36",
+              "quote": "Which — ha.",
+              "note": "Brief interjection following the statement about the phrase 'not being true,' then continues to next sentence without elaboration."
+            },
+            {
+              "line": "L50",
+              "quote": "I thought, ah.",
+              "note": "Sentence ends without specifying the content of the thought."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Sister-in-law",
+              "lines": [
+                "L10"
+              ],
+              "what_they_did": "Told speaker 'Sumie-san, you should rest.'"
+            },
+            {
+              "who": "Husband's brother",
+              "lines": [
+                "L26",
+                "L32",
+                "L33",
+                "L34",
+                "L37"
+              ],
+              "what_they_did": "Is seventy-nine, lives in Kobe, cannot climb grave steps; was telephoned after arrangements were made; was very upset; said 'you might have consulted'; came to the memorial meal and thanked her, saying 'thank you for doing what I could not do.'"
+            },
+            {
+              "who": "Chōnaikai (neighborhood association)",
+              "lines": [
+                "L38",
+                "L39"
+              ],
+              "what_they_did": "Asked her to be chair three times."
+            },
+            {
+              "who": "Ueda-san",
+              "lines": [
+                "L41",
+                "L42"
+              ],
+              "what_they_did": "Is the chair; cannot operate a spreadsheet; telephones her on Sunday evenings."
+            },
+            {
+              "who": "People generally",
+              "lines": [
+                "L44",
+                "L53"
+              ],
+              "what_they_did": "Agree readily when she says she's not suited to standing in front of people; say to her 'you must be lonely, Yoshida-san.'"
+            },
+            {
+              "who": "Soba shop master",
+              "lines": [
+                "L49"
+              ],
+              "what_they_did": "Knows she takes extra spring onion."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Sumie believes she has to earn permission to grieve through work rather than access it directly.",
+              "explanation": "She completed massive administrative labor in eleven days, felt it as 'almost pleasant,' and then explicitly states four years later she has still not cried. The thermos episode shows the grief arriving and being physically interrupted by a return to task ('I sat there about twenty minutes and then I got up and made the tea'), suggesting work functions as a substitute channel rather than a pause before grief.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L9",
+                  "quote": "I did it in eleven days."
+                },
+                {
+                  "exp": 5,
+                  "line": "L15",
+                  "quote": "I don't think I have cried about Hiroshi."
+                },
+                {
+                  "exp": 5,
+                  "line": "L20",
+                  "quote": "I sat there about twenty minutes and then I got up and made the tea."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In future health or emotional crises, she will reach for logistics and problem-solving first, and will be slow or resistant to seeking emotional support or therapy even when others suggest it."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Sumie repeatedly disclaims competence or need for company right before or after acting in a highly competent, self-sufficient way.",
+              "explanation": "She tells everyone she's 'not suited to standing in front of people' while functionally running the neighborhood association behind the scenes, and she says 'yes, thank you' to being called lonely then goes home and opens all the windows rather than correcting the assumption. The mismatch between stated self-image and demonstrated behavior recurs across at least two contexts (community leadership and solitude) and is worth her checking whether the disclaimers protect something.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L43",
+                  "quote": "I tell everyone I'm not suited to standing in front of people."
+                },
+                {
+                  "exp": 5,
+                  "line": "L40",
+                  "quote": "I have written their rules — I rewrote the kairanban circulation order"
+                },
+                {
+                  "exp": 5,
+                  "line": "L53",
+                  "quote": "I say yes, thank you, and then I go home and open all the windows"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In work settings, she will decline formal leadership titles while continuing to do the substantive work that makes the nominal leader dependent on her, as with Ueda-san."
+            },
+            {
+              "category": "core_values",
+              "headline": "Sumie values decisive, private action over consensus, even when it costs her relationship goodwill with family.",
+              "explanation": "She arranged the entire hakajimai — temple, stonemason, permits, new location — before telling her brother-in-law, knowing it would upset him, and her deflecting reply ('I am consulting you now') which she admits 'was not true' shows she chose to absorb the conflict rather than delay or share the decision. This was a real cost: he was 'very upset' and confronted her directly.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L31",
+                  "quote": "I arranged the whole of it before I told anybody."
+                },
+                {
+                  "exp": 5,
+                  "line": "L34",
+                  "quote": "He said, you might have consulted."
+                },
+                {
+                  "exp": 5,
+                  "line": "L35",
+                  "quote": "And I said, I am consulting you now."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In major family or financial decisions, she will research and finalize a plan alone before presenting it to relatives as a fait accompli, rather than seeking input during the decision process."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Sumie is exceptional at and energised by taking chaotic, high-stakes logistics and imposing a clear system on them.",
+              "explanation": "She names the spreadsheet task itself as 'almost pleasant' and 'work with a clear edge to it,' and independently identifies and fixes a nineteen-year-old procedural error in the neighborhood circulation order. Others come to her specifically for this — Ueda-san, the nominal chair, calls her weekly because he 'cannot operate a spreadsheet.'",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L14",
+                  "quote": "It was work with a clear edge to it and I was extremely good at it."
+                },
+                {
+                  "exp": 5,
+                  "line": "L40",
+                  "quote": "I rewrote the kairanban circulation order because it was going the wrong way around the block and had been for nineteen years"
+                },
+                {
+                  "exp": 5,
+                  "line": "L42",
+                  "quote": "he cannot operate a spreadsheet and he telephones me on Sunday evenings"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In any new domain requiring administrative untangling (e.g., insurance, estate, community projects), she will be the one who volunteers to build the system others rely on without formal recognition."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "Sumie values decisive, private action over consensus, even when it costs her relationship goodwill with family.",
+              "explanation": "She arranged the entire hakajimai — temple, stonemason, permits, new location — before telling her brother-in-law, knowing it would upset him, and her deflecting reply ('I am consulting you now') which she admits 'was not true' shows she chose to absorb the conflict rather than delay or share the decision. This was a real cost: he was 'very upset' and confronted her directly.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L31",
+                  "quote": "I arranged the whole of it before I told anybody."
+                },
+                {
+                  "exp": 5,
+                  "line": "L34",
+                  "quote": "He said, you might have consulted."
+                },
+                {
+                  "exp": 5,
+                  "line": "L35",
+                  "quote": "And I said, I am consulting you now."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In major family or financial decisions, she will research and finalize a plan alone before presenting it to relatives as a fait accompli, rather than seeking input during the decision process.",
+              "exp": 5
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Sumie repeatedly disclaims competence or need for company right before or after acting in a highly competent, self-sufficient way.",
+              "explanation": "She tells everyone she's 'not suited to standing in front of people' while functionally running the neighborhood association behind the scenes, and she says 'yes, thank you' to being called lonely then goes home and opens all the windows rather than correcting the assumption. The mismatch between stated self-image and demonstrated behavior recurs across at least two contexts (community leadership and solitude) and is worth her checking whether the disclaimers protect something.",
+              "evidence": [
+                {
+                  "exp": 5,
+                  "line": "L43",
+                  "quote": "I tell everyone I'm not suited to standing in front of people."
+                },
+                {
+                  "exp": 5,
+                  "line": "L40",
+                  "quote": "I have written their rules — I rewrote the kairanban circulation order"
+                },
+                {
+                  "exp": 5,
+                  "line": "L53",
+                  "quote": "I say yes, thank you, and then I go home and open all the windows"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In work settings, she will decline formal leadership titles while continuing to do the substantive work that makes the nominal leader dependent on her, as with Ueda-san.",
+              "exp": 5
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Sumie believes she has to earn permission to grieve through work rather than access it directly.",
+              "reason": "unfalsifiable",
+              "note": "She already says explicitly 'the work was there' and describes the thermos moment herself; the 'earn permission' framing adds unfalsifiable therapy interpretation to a self-narrated event rather than a new grounded claim."
+            },
+            {
+              "headline": "Sumie is exceptional at and energised by taking chaotic, high-stakes logistics and imposing a clear system on them.",
+              "reason": "restated",
+              "note": "She directly states 'it was work with a clear edge to it and I was extremely good at it' — the candidate just repackages her own words as an inferred insight."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "Sumie values decisive, private action over consensus, even when it costs her relationship goodwill with family.",
+            "explanation": "She arranged the entire hakajimai — temple, stonemason, permits, new location — before telling her brother-in-law, knowing it would upset him, and her deflecting reply ('I am consulting you now') which she admits 'was not true' shows she chose to absorb the conflict rather than delay or share the decision. This was a real cost: he was 'very upset' and confronted her directly.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L31",
+                "quote": "I arranged the whole of it before I told anybody."
+              },
+              {
+                "exp": 5,
+                "line": "L34",
+                "quote": "He said, you might have consulted."
+              },
+              {
+                "exp": 5,
+                "line": "L35",
+                "quote": "And I said, I am consulting you now."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In major family or financial decisions, she will research and finalize a plan alone before presenting it to relatives as a fait accompli, rather than seeking input during the decision process.",
+            "exp": 5
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Sumie repeatedly disclaims competence or need for company right before or after acting in a highly competent, self-sufficient way.",
+            "explanation": "She tells everyone she's 'not suited to standing in front of people' while functionally running the neighborhood association behind the scenes, and she says 'yes, thank you' to being called lonely then goes home and opens all the windows rather than correcting the assumption. The mismatch between stated self-image and demonstrated behavior recurs across at least two contexts (community leadership and solitude) and is worth her checking whether the disclaimers protect something.",
+            "evidence": [
+              {
+                "exp": 5,
+                "line": "L43",
+                "quote": "I tell everyone I'm not suited to standing in front of people."
+              },
+              {
+                "exp": 5,
+                "line": "L40",
+                "quote": "I have written their rules — I rewrote the kairanban circulation order"
+              },
+              {
+                "exp": 5,
+                "line": "L53",
+                "quote": "I say yes, thank you, and then I go home and open all the windows"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In work settings, she will decline formal leadership titles while continuing to do the substantive work that makes the nominal leader dependent on her, as with Ueda-san.",
+            "exp": 5
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "She believes an unresolved account — financial, emotional, or relational — is intolerable and must be closed by her, personally, regardless of whose responsibility it is.",
+          "explanation": "As a child she could not 'bear' the open line in her grandmother's notebook and closed it herself (E1). Decades later, widowed, she names the same logic explicitly — 'An open line, as I say' — while racing through 206 households of condolence bookkeeping in eleven days, and then independently closes her husband's ancestral grave rather than let it fall into disrepair after her death (E5). The vocabulary itself ('open line') recurs verbatim across a sixty-year gap, marking this as a stable operating rule, not a mood.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I have never in my life been comfortable with an open line."
+            },
+            {
+              "exp": 5,
+              "quote": "An open line, as I say."
+            }
+          ],
+          "confidence": "high",
+          "kind": "unnamed_constant",
+          "would_predict": "In any collaborative or family project with an ambiguous or unfinished obligation, she will quietly take ownership of closing it herself rather than delegate or leave it pending, even when it is not formally hers to resolve."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "She consistently meets grief and loss with immediate, high-functioning administrative work, and only much later — if ever — names what that substituted for.",
+          "explanation": "After sitting with her dying colleague Fujita-sensei in the hospital, she ran a routine staff meeting the next Tuesday and calls that autumn's timetable her best work, adding 'I don't know what to do with that information' (E4). After her husband's death she built a spreadsheet for 206 households in eleven days, calling the work 'almost pleasant,' and reports she still hasn't cried four years on (E5). The recurrence spans two decades and two different losses, and in both cases she flags the strangeness herself without resolving it.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I conducted a staff meeting the following Tuesday about the sports festival equipment."
+            },
+            {
+              "exp": 5,
+              "quote": "I made a spreadsheet. Two hundred and six households. I did it in eleven days... I don't think I have cried about Hiroshi."
+            }
+          ],
+          "confidence": "high",
+          "kind": "recurrence",
+          "would_predict": "Facing a future major loss or crisis, she will again reach first for a structured, task-based response (lists, schedules, paperwork) before — or instead of — any direct emotional processing, and may need a physical trigger (like the fallen thermos) to access feeling at all."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "She believes real standing and closeness are earned through being needed for unglamorous work, not granted through visibility, titles, or disclosure.",
+          "explanation": "She chose the 'difficult' Nishinari posting because there 'you were simply needed' rather than handed things (E2), twice declined the principal's exam despite being sought out, preferring to be 'a pair of hands' rather than 'a face' (E4), and in her marriage valued a husband who 'will not tell me anything about himself' as restful rather than withholding (E3). Across career and marriage, she repeatedly chooses the load-bearing, backstage position over the credentialed or disclosed one.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "you were not, ah, you were not handed things, you were simply needed"
+            },
+            {
+              "exp": 4,
+              "quote": "I am not a face, I am a pair of hands."
+            },
+            {
+              "exp": 3,
+              "quote": "here is a man who will tell me the truth about water and will not tell me anything about himself, and I thought that would be restful"
+            }
+          ],
+          "confidence": "high",
+          "kind": "recurrence",
+          "would_predict": "In the neighborhood association and future community roles, she will keep declining the chair title while remaining the indispensable operational hand (as already shown with Ueda-san in E5), and will resist any role that requires her to represent or explain herself publicly."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "She makes major unilateral decisions, then delivers them to the people they affect as already settled — a move she frames as autonomy but that recurs precisely where the relationship most requires consultation.",
+          "explanation": "She filed her transfer without telling her husband, choosing to 'want the thing to be done and then to be told about' (E2), and decades later arranged her husband's entire hakajimai — temple, stonemason, permits — before informing his brother, then deflected his hurt with a line she admits 'was not true' (E5). The pattern holds across marriage and widowhood, with the same shape: decide alone, announce, absorb the other person's reaction rather than share the decision.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I wanted the thing to be done and then to be told about."
+            },
+            {
+              "exp": 5,
+              "quote": "I arranged the whole of it before I told anybody... He said, you might have consulted. And I said, I am consulting you now."
+            }
+          ],
+          "confidence": "high",
+          "kind": "recurrence",
+          "would_predict": "In future decisions involving shared or joint stakes (the chōnaikai chairship, disposition of the house or estate), she will likely research and finalize a plan solo and present it as decided rather than open it for genuine joint deliberation, even when others have a legitimate claim to input."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "She habitually offers a modest or self-deprecating cover story for a decision, privately marks it as incomplete or untrue, and never corrects the public record — a gap she notices but does not close, unlike almost every other 'open line' in her life.",
+          "explanation": "She admits her stated reason for declining the principal's exam 'was a lie' and that she has 'never once corrected the impression, so perhaps I should examine that' (E4). She does the same thing with community leadership, telling everyone she's 'not suited to standing in front of people' while functionally running the association (E5), and with loneliness, saying 'yes, thank you' to sympathy she doesn't fully feel before going home and opening the windows (E5). This is the one category of 'open line' — about her own capability and desires — that she leaves open, in contrast to her fierce intolerance of open lines everywhere else (E1, E5).",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I have never once corrected the impression, so perhaps I should examine that"
+            },
+            {
+              "exp": 5,
+              "quote": "I tell everyone I'm not suited to standing in front of people."
+            }
+          ],
+          "confidence": "medium",
+          "kind": "contradiction",
+          "would_predict": "When offered future recognition or leadership opportunities (an award, a formal title, public credit for the association's work), she will again deflect with a modest or health-related excuse rather than state her actual reasons, and will privately register the gap without acting to close it."
+        },
+        {
+          "category": "core_values",
+          "headline": "She protects other people's dignity over her own claim to credit or comfort, even at real personal cost, across strangers, colleagues, and family.",
+          "explanation": "As a child she lied to Mrs. Kishi ('my grandmother sends this back') specifically to spare her the shame of a direct gift, at the cost of her own truthfulness (E1). Decades later she chose 'a better dinner' over confronting her husband about his passed-over promotion, protecting his dignity over her own need to discuss it (E3), and she kept her dying colleague's ordeal completely private, ensuring 'nobody knew' rather than seeking support for herself (E4). In each case the cost is borne by her (lying, silence, isolation) so that someone else does not have to feel exposed.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "my grandmother sends this back, which was — that was a lie, obviously."
+            },
+            {
+              "exp": 3,
+              "quote": "I said nothing to him. I made a better dinner that week."
+            },
+            {
+              "exp": 4,
+              "quote": "I did not want anybody to know."
+            }
+          ],
+          "confidence": "high",
+          "kind": "recurrence",
+          "would_predict": "In future caregiving or community situations (e.g., a neighbor's hardship, a friend's failure), she will act to quietly resolve or soften the situation without naming it publicly or asking the person to acknowledge her help, prioritizing their dignity over her own visibility."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "The word 'restful' recurs at the exact sites where she describes relationships or arrangements that outsiders read as deprivation — worth checking whether 'restful' is her word for 'safe from being required to perform intimacy.'",
+          "explanation": "She calls her marriage to a man who reveals nothing 'restful' for forty years (E3), and independently calls being underestimated as unsuited to public leadership 'restful' when it lets Ueda-san take the chair while she does the real work (E5). Both usages follow the same structure: a role or relationship that could be read as lesser or withheld is instead reframed by her, unprompted, as restful — a pattern that recurs across marriage and community life and deserves her own scrutiny.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "And it was restful. For forty years it was restful."
+            },
+            {
+              "exp": 5,
+              "quote": "I tell everyone I'm not suited to standing in front of people. They all agree very readily. It's restful."
+            }
+          ],
+          "confidence": "medium",
+          "kind": "recurrence",
+          "would_predict": "She will describe any future relationship or arrangement that spares her from being seen, known, or publicly evaluated as 'restful,' and will resist well-meaning attempts (from friends, colleagues, or a therapist) to reframe those arrangements as loss."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Her greatest energy and pride come from constructing invisible, precise systems that others depend on without knowing her role — the timetable, the notebook, the spreadsheet, the kairanban order.",
+          "explanation": "She names the class timetable as producing a feeling stronger than her wedding (E4), and independently, in old age, throws the same appetite at reorganizing the neighborhood circulation order that 'had been going the wrong way around the block... for nineteen years' and building the disaster drill roster (E5) — unpaid, uncredited, self-initiated work matching the structural-puzzle profile first seeded in her grandmother's notebook (E1). The through-line is not organization as a skill but organization as the site of her most alive feeling.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I felt — I have never felt anything like it. Not at my wedding."
+            },
+            {
+              "exp": 5,
+              "quote": "I rewrote the kairanban circulation order because it was going the wrong way around the block and had been for nineteen years"
+            }
+          ],
+          "confidence": "high",
+          "kind": "recurrence",
+          "would_predict": "Offered a new unpaid or informal project with no title attached — organizing an archive, fixing a broken scheduling system, auditing an association's records — she will accept eagerly and invest disproportionate energy in getting the structure exactly right, more than she would for a role with a title but no puzzle."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe an unresolved account — financial, emotional, or relational — is intolerable and must be closed by you, personally, regardless of whose responsibility it is.",
+          "explanation": "As a child you could not 'bear' the open line in your grandmother's notebook and closed it yourself. Decades later, widowed, you name the same logic explicitly — 'An open line, as I say' — while racing through 206 households of condolence bookkeeping in eleven days, and then independently close your husband's ancestral grave rather than let it fall into disrepair after your death. The vocabulary itself ('open line') recurs verbatim across a sixty-year gap, marking this as a stable operating rule, not a mood.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "I have never in my life been comfortable with an open line."
+            },
+            {
+              "exp": 5,
+              "quote": "An open line, as I say."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would strengthen with another instance outside family/money contexts; would weaken if a future account is left deliberately open without visible discomfort.",
+          "would_predict": "In any collaborative or family project with an ambiguous or unfinished obligation, you will quietly take ownership of closing it yourself rather than delegate or leave it pending, even when it is not formally yours to resolve."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You consistently meet grief and loss with immediate, high-functioning administrative work, and only much later — if ever — name what that substituted for.",
+          "explanation": "After sitting with your dying colleague Fujita-sensei in the hospital, you ran a routine staff meeting the next Tuesday and call that autumn's timetable your best work, adding 'I don't know what to do with that information.' After your husband's death you built a spreadsheet for 206 households in eleven days, calling the work 'almost pleasant,' and report you still haven't cried four years on. The recurrence spans two decades and two different losses, and in both cases you flag the strangeness yourself without resolving it.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I conducted a staff meeting the following Tuesday about the sports festival equipment."
+            },
+            {
+              "exp": 5,
+              "quote": "I made a spreadsheet. Two hundred and six households. I did it in eleven days... I don't think I have cried about Hiroshi."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise with a third instance; would lower if you report crying or another direct emotional release following a future loss without needing a physical trigger.",
+          "would_predict": "Facing a future major loss or crisis, you will again reach first for a structured, task-based response (lists, schedules, paperwork) before — or instead of — any direct emotional processing, and may need a physical trigger (like the fallen thermos) to access feeling at all."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe real standing and closeness are earned through being needed for unglamorous work, not granted through visibility, titles, or disclosure.",
+          "explanation": "You chose the 'difficult' Nishinari posting because there 'you were simply needed' rather than handed things, twice declined the principal's exam despite being sought out, preferring to be 'a pair of hands' rather than 'a face,' and in your marriage valued a husband who 'will not tell me anything about himself' as restful rather than withholding. Across career and marriage, you repeatedly choose the load-bearing, backstage position over the credentialed or disclosed one.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "you were not, ah, you were not handed things, you were simply needed"
+            },
+            {
+              "exp": 4,
+              "quote": "I am not a face, I am a pair of hands."
+            },
+            {
+              "exp": 3,
+              "quote": "here is a man who will tell me the truth about water and will not tell me anything about himself, and I thought that would be restful"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise with an example from outside work/marriage (e.g., friendship); would lower if you accept a visible title without deflection in the future.",
+          "would_predict": "In the neighborhood association and future community roles, you will keep declining the chair title while remaining the indispensable operational hand, and will resist any role that requires you to represent or explain yourself publicly."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You make major unilateral decisions, then deliver them to the people they affect as already settled — a move you frame as autonomy but that recurs precisely where the relationship most requires consultation.",
+          "explanation": "You filed your transfer without telling your husband, choosing to 'want the thing to be done and then to be told about,' and decades later arranged your husband's entire hakajimai — temple, stonemason, permits — before informing his brother, then deflected his hurt with a line you admit 'was not true.' The pattern holds across marriage and widowhood, with the same shape: decide alone, announce, absorb the other person's reaction rather than share the decision.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I wanted the thing to be done and then to be told about."
+            },
+            {
+              "exp": 5,
+              "quote": "I arranged the whole of it before I told anybody... He said, you might have consulted. And I said, I am consulting you now."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise with a third example involving someone other than a spouse or in-law; would lower if you genuinely open a future joint decision (like the chōnaikai chairship) to shared deliberation before acting.",
+          "would_predict": "In future decisions involving shared or joint stakes (the chōnaikai chairship, disposition of the house or estate), you will likely research and finalize a plan solo and present it as decided rather than open it for genuine joint deliberation, even when others have a legitimate claim to input."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You habitually offer a modest or self-deprecating cover story for a decision, privately mark it as incomplete or untrue, and never correct the public record — a gap you notice but do not close, unlike almost every other 'open line' in your life.",
+          "explanation": "You admit your stated reason for declining the principal's exam 'was a lie' and that you have 'never once corrected the impression, so perhaps I should examine that.' You do the same thing with community leadership, telling everyone you're 'not suited to standing in front of people' while functionally running the association, and with loneliness, saying 'yes, thank you' to sympathy you don't fully feel before going home and opening the windows. This is the one category of 'open line' — about your own capability and desires — that you leave open, in contrast to your fierce intolerance of open lines everywhere else.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I have never once corrected the impression, so perhaps I should examine that"
+            },
+            {
+              "exp": 5,
+              "quote": "I tell everyone I'm not suited to standing in front of people."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise if you continue declining recognition with the same deflection in a future instance; would lower if you ever state your actual reasons directly and correct the impression.",
+          "would_predict": "When offered future recognition or leadership opportunities (an award, a formal title, public credit for the association's work), you will again deflect with a modest or health-related excuse rather than state your actual reasons, and will privately register the gap without acting to close it."
+        },
+        {
+          "category": "core_values",
+          "headline": "You protect other people's dignity over your own claim to credit or comfort, even at real personal cost, across strangers, colleagues, and family.",
+          "explanation": "As a child you lied to Mrs. Kishi ('my grandmother sends this back') specifically to spare her the shame of a direct gift, at the cost of your own truthfulness. Decades later you chose 'a better dinner' over confronting your husband about his passed-over promotion, protecting his dignity over your own need to discuss it, and you kept your dying colleague's ordeal completely private, ensuring 'nobody knew' rather than seeking support for yourself. In each case the cost is borne by you (lying, silence, isolation) so that someone else does not have to feel exposed.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "my grandmother sends this back, which was — that was a lie, obviously."
+            },
+            {
+              "exp": 3,
+              "quote": "I said nothing to him. I made a better dinner that week."
+            },
+            {
+              "exp": 4,
+              "quote": "I did not want anybody to know."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise with a fourth example spanning a different relationship type; would lower if you ever choose to expose an uncomfortable truth to protect your own standing instead.",
+          "would_predict": "In future caregiving or community situations (e.g., a neighbor's hardship, a friend's failure), you will act to quietly resolve or soften the situation without naming it publicly or asking the person to acknowledge your help, prioritizing their dignity over your own visibility."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "The word 'restful' recurs at the exact sites where you describe relationships or arrangements that outsiders read as deprivation — worth checking whether 'restful' is your word for 'safe from being required to perform intimacy.'",
+          "explanation": "You call your marriage to a man who reveals nothing 'restful' for forty years, and independently call being underestimated as unsuited to public leadership 'restful' when it lets Ueda-san take the chair while you do the real work. Both usages follow the same structure: a role or relationship that could be read as lesser or withheld is instead reframed by you, unprompted, as restful — a pattern that recurs across marriage and community life and deserves your own scrutiny.",
+          "evidence": [
+            {
+              "exp": 3,
+              "quote": "And it was restful. For forty years it was restful."
+            },
+            {
+              "exp": 5,
+              "quote": "I tell everyone I'm not suited to standing in front of people. They all agree very readily. It's restful."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise with a third 'restful' instance in a different domain; would lower if you use 'restful' to describe a fully visible, mutual relationship in the future.",
+          "would_predict": "You will describe any future relationship or arrangement that spares you from being seen, known, or publicly evaluated as 'restful,' and will resist well-meaning attempts (from friends, colleagues, or a therapist) to reframe those arrangements as loss."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Your greatest energy and pride come from constructing invisible, precise systems that others depend on without knowing your role — the timetable, the notebook, the spreadsheet, the kairanban order.",
+          "explanation": "You name the class timetable as producing a feeling stronger than your wedding, and independently, in old age, throw the same appetite at reorganizing the neighborhood circulation order that 'had been going the wrong way around the block... for nineteen years' and building the disaster drill roster — unpaid, uncredited, self-initiated work matching the structural-puzzle profile first seeded in your grandmother's notebook. The through-line is not organization as a skill but organization as the site of your most alive feeling.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "I felt — I have never felt anything like it. Not at my wedding."
+            },
+            {
+              "exp": 5,
+              "quote": "I rewrote the kairanban circulation order because it was going the wrong way around the block and had been for nineteen years"
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise with a fresh example in a domain outside work and neighborhood administration; would lower if a future titled role with no puzzle attached produces equal enthusiasm.",
+          "would_predict": "Offered a new unpaid or informal project with no title attached — organizing an archive, fixing a broken scheduling system, auditing an association's records — you will accept eagerly and invest disproportionate energy in getting the structure exactly right, more than you would for a role with a title but no puzzle."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 4.653,
+  "latency_ms": 172439,
+  "persona": "p06_osaka",
+  "n_experiences": 5,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T16:11:15.989745+00:00"
+}

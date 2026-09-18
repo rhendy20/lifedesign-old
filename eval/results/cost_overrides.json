@@ -1,0 +1,15 @@
+{
+  "_note": "Per-experience cost/latency for conditions run before per-persona tagging existed (the pipeline's cost field for these was inflated by parallel runs). Derived from ledger windows: v0__mid = all 47 baseline calls of the clean run; v1__mid = the clean retry window (3 personas, 15 experiences, 51 calls). CLI list-price basis.",
+  "v0__mid": {
+    "calls": 49,
+    "n_exp": 47,
+    "usd_per_exp": 0.0185,
+    "model_s_per_exp": 12.1
+  },
+  "v1__mid": {
+    "calls": 52,
+    "n_exp": 15,
+    "usd_per_exp": 0.1446,
+    "model_s_per_exp": 66.7
+  }
+}

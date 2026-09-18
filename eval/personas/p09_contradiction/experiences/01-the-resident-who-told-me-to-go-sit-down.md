@@ -1,0 +1,19 @@
+# The resident who told me to go sit down
+
+_1999, first year as an RN at Grady_
+
+Okay so. Um. I'ma start with Grady because everybody who knows me knows Grady made me, but see I don't even consider myself a work person, I want that on the record, my family is my whole entire thing, always has been. But you asked for an experience so. Grady. Nineteen ninety-nine. I'm twenty years old — no, hold on, I'm twenty-one, twenty-two, I had Jaylen already so, yeah, twenty-two. Baby nurse. Like, fresh, my badge still had that new-badge smell. And I'm on nights in the trauma side, which they don't normally put a new grad but they were short, they were always short. 
+
+So there's this lady comes in, and she's a Black lady, maybe thirty-five, and she's saying it's her stomach. And triage put her out in the hallway on a stretcher 'cause it's, you know, it's Grady, it's a Friday, there's people stacked up like firewood. And I'm doing my rounds and I go past her and something about her just — her color was off. She was gray around the mouth. Like ashy but not ashy, you know what I'm saying? And her pressure was, I think it was like ninety-eight over sixty, which, fine, whatever, that's a number some people walk around with. But her heart rate kept creeping. A hundred and six, a hundred and twelve, a hundred and eighteen. Every time I went past it went up like eight.
+
+So I go to the resident. Dr. Kessler. K-E-S-S. He had them little wire glasses and he used to eat sunflower seeds at the desk and spit 'em in a cup, which, you know. Nasty. And I say, doctor, the lady in hall four, I think something's going on with her, her rate's climbing. And he don't even look up, he says — and I remember this exactly, and it's not that I hold onto things, I'm really not like that — he says, "She's anxious. Everybody in this hallway is anxious. Go sit down for a minute, you look tired." Go sit down. Twenty-two years old. Go sit down.
+
+So I went and sat down. For about ninety seconds. And then I went and got a beta HCG off her, which, I didn't have an order, I'm not gonna sit here and lie to you, I sent it under a standing protocol that did not technically apply. And I went and got the ultrasound tech, Clarence, who used to owe me because I covered for him when he was late three times that month. And Clarence put the probe on her belly and her whole abdomen was free fluid. Ruptured ectopic. That woman was bleeding out into her own stomach in a hallway.
+
+And I remember the thing I felt was not — people think you feel scared. I didn't have room for scared. What I did was, I went step by step. Two large bore, one in each AC. Type and cross. Get the OR on the phone, don't ask the resident, call the OR. Head of the bed down. And I'm talking the whole time to the girl who was orienting with me, Nicole, I'm saying, see how her belly's tight, feel right here, that's what that feels like, you're gonna see this again. Because if you're teaching it you're not shaking. That's just — that's just efficient. 
+
+They took her up at, um, it was like 0347, and she lived. She lived. And Kessler never said nothing to me. Not sorry, not good catch, nothing. He just started reading my charting real careful after that. Which, that's its own kind of apology I guess.
+
+And then I got off at seven and drove home and my mama had Jaylen and he had been up half the night with his ear again, and I remember sitting in the driveway on Hollywood Road for like fifteen minutes before I went in. Just sitting. And then I went in and did the baby thing and slept two hours and went back.
+
+But see, that's the thing about me, I've never been one of these women that lives for a job. Some of these girls I work with, the hospital is they whole personality. I just — I know what I know, and when I know it I'm not gonna sit down. That's all that was.

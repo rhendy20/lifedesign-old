@@ -1,0 +1,2468 @@
+{
+  "insights": [
+    {
+      "id": "i1",
+      "category": "defining_beliefs",
+      "headline": "You believe the full truth about hardship has to be filtered before you hand it to the people you love or the people judging you.",
+      "explanation": "You edit reality the same way in three separate high-stakes moments: to the scholarship panel you gave the 'clean' version of your sister's illness and left out the ankle-swelling and your mom's sleepless kitchen-cleaning; to your mom in the ER you turned 'this is the kind of thing that can get away from us' into 'para observación nada más'; and now, weekly, the first thing you ask on every call is Cami's numbers, before you even say hi. Each time you name the omission yourself — 'It's just I didn't want it to be, like, wet' and 'It's just not the whole thing the lady said' — so this isn't unconscious, it's a rule you're following on purpose.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "It's just I didn't want it to be, like, wet? Like I didn't want them looking at me a certain way.",
+          "verbatim": true
+        },
+        {
+          "exp": 2,
+          "quote": "Which is true. That's a true sentence. It's just not the whole thing the lady said.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a close relationship, you'll give reassuring, edited updates about your own stress or health rather than the full picture, and you'll feel uneasy if someone pushes for the unabridged version."
+    },
+    {
+      "id": "i2",
+      "category": "patterns_to_explore",
+      "headline": "You can't stay still inside a moment of attention or feeling — you convert it into a task almost immediately.",
+      "explanation": "After a scholarship interview that made your hands press into your legs, stacking hotel chairs afterward made your 'whole body calm' — more than the interview itself did. Weeks later, the second your own move-in task ended you grabbed a stranger's futon, and after ten minutes of relief on your bed you got up and unpacked immediately 'because I didn't want to sit there.' Two years of being handed laminating and collating work by Mr. Bagwell, with no questions asked, is what you call 'the calmest I've been.' The pattern is consistent: idle time or direct emotional attention shows up, and within minutes you've found or made labor to absorb it.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "And then I just stood there... And I went over and grabbed the other end of the futon.",
+          "verbatim": false
+        },
+        {
+          "exp": 3,
+          "quote": "Nothing happened for two years and it was the calmest I've been.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "During a vacation, medical leave, or any stretch with no one to help and no task to do, you'll report restlessness or low mood out of proportion to the situation, and you'll invent chores to fill it."
+    },
+    {
+      "id": "i3",
+      "category": "defining_beliefs",
+      "headline": "You find being singled out for praise more threatening than an actual emergency.",
+      "explanation": "In the scholarship interview, a kind line — 'you carry a lot for someone your age' — made you deflect into bus schedules while your hands pressed into your legs, more somatic distress than you showed running fluent bilingual triage in the ER hours after your sister's flare. The same allergy shows up with a different adult: a counselor's public praise made you 'itchy' and want to leave, while Mr. Bagwell's silent, praise-free 'alright' was, in your words, better. You're composed under real stakes and destabilized by being seen well.",
+      "evidence": [
+        {
+          "exp": 1,
+          "quote": "In the interview my hands were doing this thing where I kept pressing them on my legs.",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "you're so bright, you're going places' ... I would get so, like, itchy. I'd just want to leave.",
+          "verbatim": false
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "At work, you'll underreact or deflect during a formal review or public recognition even though you handle actual operational fires with composure."
+    },
+    {
+      "id": "i4",
+      "category": "zone_of_genius",
+      "headline": "Your real gift is building an invisible logistics layer that people only notice once it's gone — and you've picked a career built to keep you invisible while indispensable.",
+      "explanation": "You ran real-time bilingual translation and quiet inventory management in the ER ('I know where the good vending machine is... the insurance card is in the blue folder'), became the informal aide in Mr. Bagwell's classroom without being assigned to, and physically inserted yourself into a stranger's move-in crisis unasked, grabbing the other end of a futon. You then named supply chain as the closest one-sentence description of what energizes you — 'stuff has to get places and somebody has to know where it is' — tying the career choice directly to the pattern rather than treating it as a fallback.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "I know where the good vending machine is and I know you park in the garage across, not the valet",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "And I went over and grabbed the other end of the futon.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "high",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In group projects or your first job, you'll end up as the de facto person managing logistics or handoffs even without a formal title, and you'll resist taking public credit for it."
+    },
+    {
+      "id": "i5",
+      "category": "patterns_to_explore",
+      "headline": "Your most honest emotional signal is a joke or non-sequitur fired off right after something true almost surfaces.",
+      "explanation": "After a doctor delivered frightening news, you deflected your mom with a technically-true reassurance and then, unprompted, bought her a coffee she didn't ask for — action standing in for a feeling you didn't say out loud. After your family drove off and 'something let go' in your chest, you immediately texted a cheerful 'buena vista' about a parking garage, and you flagged it yourself: 'I don't know why I said that. I do it constantly.' Both times, real feeling rises, you notice it, and you cover it with a small gesture or joke rather than stating it.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "And then I went and got her a coffee she didn't ask for.",
+          "verbatim": true
+        },
+        {
+          "exp": 4,
+          "quote": "I don't know why I said that. I do it constantly.",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "In a future close relationship, when a partner expresses hurt or affection directly, you'll likely respond with a helpful gesture or a joke before, or instead of, naming your own feeling back."
+    },
+    {
+      "id": "i6",
+      "category": "core_values",
+      "headline": "You consistently put other people's composure ahead of your own claim to acknowledgment, even when it costs you credit or comfort.",
+      "explanation": "You edited your sister's story to protect the panel's comfort rather than your own chance to look more sympathetic, softened the doctor's warning to protect your mom's ability to sleep rather than fully informing her, and have kept a drafted thank-you email to Mr. Bagwell unsent for over a year because voicing your own gratitude felt like 'making it into a bigger deal than it was.' Each time the cost lands on you: a less compelling answer, a mother left less informed, a mentor never thanked.",
+      "evidence": [
+        {
+          "exp": 2,
+          "quote": "dice que la quieren dejar para observación nada más, para vigilarla",
+          "verbatim": true
+        },
+        {
+          "exp": 3,
+          "quote": "it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was",
+          "verbatim": true
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": true,
+      "source_exp": null,
+      "would_predict": "You'll delay or avoid asking for a raise, recommendation letter, or favor even from people who clearly care about you, framing the ask to yourself as excessive."
+    },
+    {
+      "id": "i7",
+      "category": "patterns_to_explore",
+      "headline": "You read wordless, physical gestures from your father as the clearest language of approval — more fluent than verbal praise.",
+      "explanation": "At move-in, your father's way of saying he was proud was inspecting the lobby countertop joints and putting his hand on your neck for a second — you decoded it instantly: 'that's how he said he was proud of me, I think.' It mirrors how you read Mr. Bagwell, where a face-down test with a flat 'alright' landed as more meaningful than the counselor's spoken praise. Both men speak through minimal, physical, or task-based signals, and you treat both as legible and safe — worth checking whether you specifically seek out low-verbal, high-action care and go cold on relationships built around verbal affirmation.",
+      "evidence": [
+        {
+          "exp": 4,
+          "quote": "he put his hand on my neck for like a second... And that's how he said he was proud of me, I think",
+          "verbatim": false
+        },
+        {
+          "exp": 3,
+          "quote": "he put it on my desk face down and said 'alright.' That's it... honestly that was better",
+          "verbatim": false
+        }
+      ],
+      "confidence": "medium",
+      "scope": "cross",
+      "grounded": false,
+      "source_exp": null,
+      "would_predict": "You'll describe future mentors, bosses, or partners you feel closest to as people who 'don't make a big deal of things' or 'just show up,' and you'll be less responsive to relationships built mainly around verbal affirmation."
+    }
+  ],
+  "stages": {
+    "per_experience": [
+      {
+        "exp": 1,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "The event described occurred in March of senior year of high school, 2025."
+            },
+            {
+              "line": "L3",
+              "what_happened": "Interview was for a foundation that selects about twenty kids a year in Houston; speaker declines to name it."
+            },
+            {
+              "line": "L4",
+              "what_happened": "Interview took place downtown in a hotel conference room off the lobby, not a hotel room."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Parking cost twelve dollars; the foundation said in an email they would validate it; speaker brought twelve dollars cash in pocket as backup."
+            },
+            {
+              "line": "L7",
+              "what_happened": "The twelve dollars stayed folded in speaker's pocket for the duration."
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker's dad dropped them off and did not come inside."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Dad had a job in Katy; he installs countertops, granite and quartz."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Dad said from the truck: 'tú diles la verdad y ya' (tell them the truth and that's it)."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker responded 'okay.'"
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker states they were asked 'the challenge question' during the interview."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Speaker had a prepared version of an answer."
+            },
+            {
+              "line": "L15-16",
+              "what_happened": "The prepared answer was about speaker's sister getting sick and speaker helping out at home."
+            },
+            {
+              "line": "L19",
+              "what_happened": "Speaker's stated answer included the phrase: 'she got diagnosed, it was hard, I learned time management.'"
+            },
+            {
+              "line": "L21",
+              "what_happened": "Speaker states: 'I said time management to three adults in a hotel.'"
+            },
+            {
+              "line": "L22",
+              "what_happened": "One panelist (man on the left) asked 'and how is she doing now?'; speaker answered 'she's good, she's a sophomore, she's doing great.'"
+            },
+            {
+              "line": "L23",
+              "what_happened": "The week before the interview, the sister's ankles were swelling again, and speaker's mom was staying up cleaning the kitchen around 1am."
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker did not say this (the ankle swelling / mom not sleeping) in the interview."
+            },
+            {
+              "line": "L30",
+              "what_happened": "The woman with glasses said 'you carry a lot for someone your age'; speaker replied 'oh, it's fine, the bus from my house is only like thirty-five minutes so it's not bad.'"
+            },
+            {
+              "line": "L32",
+              "what_happened": "The panelists laughed, speaker laughed, and the interview ended."
+            },
+            {
+              "line": "L34",
+              "what_happened": "After the interview, a hotel employee was stacking about ten chairs; speaker began stacking chairs with him without being asked."
+            },
+            {
+              "line": "L36",
+              "what_happened": "The woman with glasses came out, saw speaker stacking chairs, said 'oh you don't have to do that'; speaker said 'no it's okay' and continued."
+            },
+            {
+              "line": "L40",
+              "what_happened": "During the interview, speaker's hands repeatedly pressed on their legs."
+            },
+            {
+              "line": "L42-43",
+              "what_happened": "Speaker received the scholarship: $4,000 a year, renewable, requires maintaining a 3.0 GPA and submitting a form in April."
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker read the acceptance email four times; first thought was that the foundation would 'find out something and take it back,' specifically that speaker's dad made more money one year on a big job and the family would be over the income cutoff."
+            },
+            {
+              "line": "L45-46",
+              "what_happened": "Speaker looked up the scholarship's income cutoff again at eleven at night."
+            },
+            {
+              "line": "L47",
+              "what_happened": "Speaker has the income cutoff information saved."
+            },
+            {
+              "line": "L48",
+              "what_happened": "Speaker's mom cried and video-called her sister (tía) in San Miguel, and had speaker say the amount out loud in Spanish ('cuatro mil'); speaker clarified it was per year, not all at once; mom said 'ya, ya, díselo' (okay, okay, tell her); speaker repeated the number."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L6",
+              "choice_made": "Brought twelve dollars cash despite being told parking would be validated",
+              "alternatives_present_in_text": "Trusting the email's statement that parking would be validated without backup cash"
+            },
+            {
+              "line": "L19",
+              "choice_made": "Gave a condensed, 'clean' version of the sister's illness ending in 'I learned time management'",
+              "alternatives_present_in_text": "Could have included more detail about ongoing hardship"
+            },
+            {
+              "line": "L22",
+              "choice_made": "Answered that sister 'is doing great'",
+              "alternatives_present_in_text": "Could have mentioned the ankle swelling from the week before (referenced in L23-24)"
+            },
+            {
+              "line": "L24",
+              "choice_made": "Did not mention the ankle swelling or mom's sleeplessness",
+              "alternatives_present_in_text": "Speaker explicitly notes this omission and says 'I don't know why I didn't say that' (L25)"
+            },
+            {
+              "line": "L30",
+              "choice_made": "Responded to a personal comment ('you carry a lot...') by talking about bus commute time",
+              "alternatives_present_in_text": "Could have responded directly to the comment about carrying a lot"
+            },
+            {
+              "line": "L34",
+              "choice_made": "Joined the hotel worker in stacking chairs after the interview",
+              "alternatives_present_in_text": "Could have left without helping"
+            },
+            {
+              "line": "L36",
+              "choice_made": "Continued stacking chairs after being told 'you don't have to do that'",
+              "alternatives_present_in_text": "Could have stopped when told it wasn't necessary"
+            }
+          ],
+          "self_descriptions": [],
+          "emotion_words": [
+            {
+              "line": "L38",
+              "quote": "I felt way better doing that than I felt in the whole interview."
+            },
+            {
+              "line": "L39",
+              "quote": "my whole body was calm"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "the carpet (swirls)",
+              "lines": [
+                "L4",
+                "L5",
+                "L50",
+                "L51"
+              ]
+            },
+            {
+              "phrase": "time management",
+              "lines": [
+                "L19",
+                "L20",
+                "L21"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L25",
+                "L37"
+              ]
+            },
+            {
+              "phrase": "four thousand / cuatro mil / it's per year",
+              "lines": [
+                "L43",
+                "L44",
+                "L48"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L23-24",
+              "quote": "But like the week before that she'd had a thing where her ankles were swelling again and my mom was doing the thing where she doesn't sleep and she cleans the kitchen at like one in the morning. And I didn't say that.",
+              "note": "Speaker names specific recent details, then states plainly these were left out of the interview answer."
+            },
+            {
+              "line": "L26-28",
+              "quote": "It wasn't like— it's not a lie. It's just I didn't want it to be, like, wet? Like I didn't want them looking at me a certain way.",
+              "note": "Speaker trails off mid-sentence twice ('It wasn't like—') before completing the thought."
+            },
+            {
+              "line": "L29",
+              "quote": "Um.",
+              "note": "Single-word pause line before moving to next topic."
+            },
+            {
+              "line": "L41",
+              "quote": "So.",
+              "note": "Single-word line transitioning abruptly from chair-stacking scene to outcome."
+            },
+            {
+              "line": "L49",
+              "quote": "That's basically the whole thing.",
+              "note": "Speaker moves to close the account after L48."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Dad",
+              "lines": [
+                "L8",
+                "L9",
+                "L10"
+              ],
+              "what_they_did": "Dropped speaker off, did not come inside, left for a countertop installation job in Katy, said 'tú diles la verdad y ya' from the truck."
+            },
+            {
+              "who": "Woman with glasses (panelist)",
+              "lines": [
+                "L22",
+                "L30",
+                "L36"
+              ],
+              "what_they_did": "Wore glasses on a chain, was writing during the interview; asked how the sister is doing now (attributed to man on the left, but see L22 phrasing); said 'you carry a lot for someone your age'; later came out and told speaker 'oh you don't have to do that' regarding chair-stacking."
+            },
+            {
+              "who": "Man on the left (panelist)",
+              "lines": [
+                "L22"
+              ],
+              "what_they_did": "Asked 'and how is she doing now?'"
+            },
+            {
+              "who": "Sister",
+              "lines": [
+                "L15",
+                "L16",
+                "L22",
+                "L23"
+              ],
+              "what_they_did": "Got diagnosed with an illness in the past; at time of interview was a sophomore doing 'great' 'mostly'; had ankles swelling again the week before the interview."
+            },
+            {
+              "who": "Mom",
+              "lines": [
+                "L23",
+                "L48"
+              ],
+              "what_they_did": "Was not sleeping and cleaning the kitchen at 1am the week before the interview; cried upon reading the acceptance email; video-called her sister in San Miguel and had speaker repeat the scholarship amount in Spanish, said 'ya, ya, díselo.'"
+            },
+            {
+              "who": "Tía (aunt) in San Miguel",
+              "lines": [
+                "L48"
+              ],
+              "what_they_did": "Was on the video call when speaker's mom announced the scholarship amount."
+            },
+            {
+              "who": "Hotel employee",
+              "lines": [
+                "L34"
+              ],
+              "what_they_did": "Was stacking about ten chairs after the interview; speaker joined him."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "The speaker feels calmer doing quiet, unrewarded labor than being seen or praised.",
+              "explanation": "Stacking chairs unasked and continuing after being told not to produced physical calm ('my whole body was calm'), while the interview itself produced pressing hands on legs. This same evasive instinct shows up when praised directly ('you carry a lot') and deflected to a bus schedule. Worth exploring whether being witnessed/acknowledged is uncomfortable in a way that doing quiet service is not.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "I felt way better doing that than I felt in the whole interview"
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "In the interview my hands were doing this thing where I kept pressing them on my legs"
+                },
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "oh, it's fine, the bus from my house is only like thirty-five minutes so it's not bad"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In group work settings, this person will volunteer for behind-the-scenes tasks over presenting/being recognized, and will deflect direct praise from teammates or managers."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "The speaker edits out ongoing hardship in real time and can't fully explain why.",
+              "explanation": "They knew the sister's ankles were swelling again and their mom wasn't sleeping the week before, yet gave the panel a resolved, 'clean' narrative and explicitly can't account for the omission ('I don't know why I didn't say that'). This recurs when deflecting the panelist's direct empathetic comment about what they carry. Worth exploring what they believe will happen if the messy, unresolved version is seen.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L23-L24",
+                  "quote": "her ankles were swelling again and my mom was doing the thing where she doesn't sleep and she cleans the kitchen at like one in the morning. And I didn't say that."
+                },
+                {
+                  "exp": 1,
+                  "line": "L25",
+                  "quote": "I don't know why I didn't say that."
+                },
+                {
+                  "exp": 1,
+                  "line": "L27-L28",
+                  "quote": "I didn't want it to be, like, wet? Like I didn't want them looking at me a certain way."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In close relationships, this person will underreport their own stress or struggle to people who ask how they're doing, defaulting to a tidy 'I'm fine' summary."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "The speaker believes good things they receive are conditional and could be revoked if the truth about their family is fully known.",
+              "explanation": "Immediately after winning, their first thought was the foundation would 'find out something and take it back,' specifically about income — and they checked the cutoff at 11pm and saved it. This tracks directly with the earlier instinct to keep the family's hardship hidden during the interview, suggesting a belief that visibility of the full truth threatens what they've earned.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "they're gonna find out something and take it back"
+                },
+                {
+                  "exp": 1,
+                  "line": "L45-L46",
+                  "quote": "I actually went and looked up the income cutoff again. Like at eleven at night."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In work settings, this person will over-verify they qualify for opportunities (raises, roles, awards) even after being selected, and will feel unsettled by unearned or unexplained good outcomes."
+            },
+            {
+              "category": "core_values",
+              "headline": "The speaker values quiet contribution over being thanked or excused from it.",
+              "explanation": "When a panelist explicitly released them from the chair-stacking task ('you don't have to do that'), they chose to keep working anyway rather than accept the out. This is a choice made against an easy exit, not just a passive habit, suggesting a genuine commitment to finishing help once started.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L36",
+                  "quote": "she said 'oh you don't have to do that' and I said 'no it's okay' and I kept doing it"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, this person will finish helping a colleague with a task even after being told it's not necessary, rather than stopping once technically released."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "patterns_to_explore",
+              "headline": "The speaker feels calmer doing quiet, unrewarded labor than being seen or praised.",
+              "explanation": "Stacking chairs unasked and continuing after being told not to produced physical calm ('my whole body was calm'), while the interview itself produced pressing hands on legs. This same evasive instinct shows up when praised directly ('you carry a lot') and deflected to a bus schedule. Worth exploring whether being witnessed/acknowledged is uncomfortable in a way that doing quiet service is not.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "I felt way better doing that than I felt in the whole interview"
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "In the interview my hands were doing this thing where I kept pressing them on my legs"
+                },
+                {
+                  "exp": 1,
+                  "line": "L30",
+                  "quote": "oh, it's fine, the bus from my house is only like thirty-five minutes so it's not bad"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In group work settings, this person will volunteer for behind-the-scenes tasks over presenting/being recognized, and will deflect direct praise from teammates or managers.",
+              "exp": 1
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "The speaker believes good things they receive are conditional and could be revoked if the truth about their family is fully known.",
+              "explanation": "Immediately after winning, their first thought was the foundation would 'find out something and take it back,' specifically about income — and they checked the cutoff at 11pm and saved it. This tracks directly with the earlier instinct to keep the family's hardship hidden during the interview, suggesting a belief that visibility of the full truth threatens what they've earned.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L44",
+                  "quote": "they're gonna find out something and take it back"
+                },
+                {
+                  "exp": 1,
+                  "line": "L45-L46",
+                  "quote": "I actually went and looked up the income cutoff again. Like at eleven at night."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In work settings, this person will over-verify they qualify for opportunities (raises, roles, awards) even after being selected, and will feel unsettled by unearned or unexplained good outcomes.",
+              "exp": 1
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "The speaker edits out ongoing hardship in real time and can't fully explain why.",
+              "reason": "restated",
+              "note": "Speaker already narrated exactly this ('I didn't say that... I don't know why I didn't say that... I didn't want it to be wet') — the candidate just repackages their own words, and only cites one instance, not two."
+            },
+            {
+              "headline": "The speaker values quiet contribution over being thanked or excused from it.",
+              "reason": "ungrounded",
+              "note": "A single instance of continuing a task after being told it's unnecessary doesn't establish a value 'over being thanked' — nothing about thanks appears in the quote; overreads one data point, and it overlaps entirely with the surviving chair-stacking pattern."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "patterns_to_explore",
+            "headline": "The speaker feels calmer doing quiet, unrewarded labor than being seen or praised.",
+            "explanation": "Stacking chairs unasked and continuing after being told not to produced physical calm ('my whole body was calm'), while the interview itself produced pressing hands on legs. This same evasive instinct shows up when praised directly ('you carry a lot') and deflected to a bus schedule. Worth exploring whether being witnessed/acknowledged is uncomfortable in a way that doing quiet service is not.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L38",
+                "quote": "I felt way better doing that than I felt in the whole interview"
+              },
+              {
+                "exp": 1,
+                "line": "L40",
+                "quote": "In the interview my hands were doing this thing where I kept pressing them on my legs"
+              },
+              {
+                "exp": 1,
+                "line": "L30",
+                "quote": "oh, it's fine, the bus from my house is only like thirty-five minutes so it's not bad"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In group work settings, this person will volunteer for behind-the-scenes tasks over presenting/being recognized, and will deflect direct praise from teammates or managers.",
+            "exp": 1
+          },
+          {
+            "category": "defining_beliefs",
+            "headline": "The speaker believes good things they receive are conditional and could be revoked if the truth about their family is fully known.",
+            "explanation": "Immediately after winning, their first thought was the foundation would 'find out something and take it back,' specifically about income — and they checked the cutoff at 11pm and saved it. This tracks directly with the earlier instinct to keep the family's hardship hidden during the interview, suggesting a belief that visibility of the full truth threatens what they've earned.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L44",
+                "quote": "they're gonna find out something and take it back"
+              },
+              {
+                "exp": 1,
+                "line": "L45-L46",
+                "quote": "I actually went and looked up the income cutoff again. Like at eleven at night."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In work settings, this person will over-verify they qualify for opportunities (raises, roles, awards) even after being selected, and will feel unsettled by unearned or unexplained good outcomes.",
+            "exp": 1
+          }
+        ]
+      },
+      {
+        "exp": 2,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker states their sister has lupus."
+            },
+            {
+              "line": "L2",
+              "what_happened": "Sister diagnosed when speaker was eleven and sister was eight; condition involves kidneys, joints, rashes, and fatigue."
+            },
+            {
+              "line": "L3",
+              "what_happened": "People say 'but she looks fine' in response to sister's condition."
+            },
+            {
+              "line": "L5",
+              "what_happened": "Event being recounted occurred sophomore year of high school."
+            },
+            {
+              "line": "L6",
+              "what_happened": "Sister had a flare, creatinine (kidney number) was elevated; they were sent to the ER at ~8pm; father was on a job in Conroe; speaker and mother went alone."
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker states mother 'understands more than she can say' in English."
+            },
+            {
+              "line": "L8",
+              "what_happened": "At triage, a staff member behind glass asked questions quickly, including about recent medication changes; mother looked to speaker."
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker describes performing translation."
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker translated in both directions."
+            },
+            {
+              "line": "L11",
+              "what_happened": "Speaker told the triage worker the prednisone dose and relayed his questions to mother; mother added information in Spanish not asked for, including about Cami not eating dinner; speaker told mother 'sí mami, ya se lo dije.'"
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker states sometimes told mother 'yeah I told him' without actually telling the worker, because the line was long."
+            },
+            {
+              "line": "L14",
+              "what_happened": "Waiting room had a TV bolted in the corner, news on mute, captions running three words behind."
+            },
+            {
+              "line": "L15",
+              "what_happened": "It was cold; speaker got mother a blanket from a nurse; mother fell asleep sitting up with purse on her lap; speaker bought a Dr Pepper for $1.75 from a machine that only took ones."
+            },
+            {
+              "line": "L16",
+              "what_happened": "Doctor came out around 2am, said they wanted to admit sister to watch kidney function, possibly do a pulse of steroids, used the word 'nephritis,' and said 'this is the kind of thing that can get away from us'; mother woke and asked '¿qué dijo? ¿qué dijo?'; speaker told her 'dice que la quieren dejar para observación nada más, para vigilarla.'"
+            },
+            {
+              "line": "L21",
+              "what_happened": "Mother said 'ah, okay,' made the sign of the cross, and relaxed."
+            },
+            {
+              "line": "L22",
+              "what_happened": "Speaker observed mother's shoulders go down."
+            },
+            {
+              "line": "L25",
+              "what_happened": "Speaker got mother a coffee she had not asked for."
+            },
+            {
+              "line": "L28",
+              "what_happened": "Speaker states they know where the vending machine is, where to park (garage, not valet), and where mother's insurance card is (blue folder, not red folder which holds father's truck stuff)."
+            },
+            {
+              "line": "L30",
+              "what_happened": "When sister is awake and talking, sister told speaker 'you can go home'; speaker responded 'nah I'm good' and then stood there."
+            },
+            {
+              "line": "L31",
+              "what_happened": "Speaker fixed sister's blanket despite it being fine."
+            },
+            {
+              "line": "L33",
+              "what_happened": "Sister was hospitalized for six days that time."
+            },
+            {
+              "line": "L34",
+              "what_happened": "Sister is currently described as 'okay-ish,' 'in remission-ish'; doctors use the term 'stable' rather than 'cured.'"
+            },
+            {
+              "line": "L34",
+              "what_happened": "People ask speaker if this makes them want to be a doctor."
+            },
+            {
+              "line": "L36",
+              "what_happened": "Speaker states they are doing supply chain (as a field of study/work)."
+            }
+          ],
+          "choices": [
+            {
+              "line": "L11",
+              "choice_made": "Told the triage worker the prednisone dose and relayed the question to mother, while mother added unsolicited information",
+              "alternatives_present_in_text": "None explicitly stated as alternative"
+            },
+            {
+              "line": "L12",
+              "choice_made": "Told mother 'yeah I told him' without conveying everything, due to the length of the line",
+              "alternatives_present_in_text": "Implied alternative: actually telling the worker everything mother said"
+            },
+            {
+              "line": "L16",
+              "choice_made": "Translated the doctor's statement to mother as 'just for observation, to watch her,' omitting the word 'nephritis' and the statement 'this is the kind of thing that can get away from us'",
+              "alternatives_present_in_text": "Could have translated the full statement including 'nephritis' and the doctor's warning"
+            },
+            {
+              "line": "L25",
+              "choice_made": "Got mother a coffee she didn't ask for",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L30",
+              "choice_made": "Responded 'nah I'm good' and stayed rather than going home when sister suggested it",
+              "alternatives_present_in_text": "Sister's suggestion: 'you can go home'"
+            },
+            {
+              "line": "L31",
+              "choice_made": "Fixed sister's blanket despite stating it was fine",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L34-36",
+              "choice_made": "Speaker states they are doing supply chain, not becoming a doctor",
+              "alternatives_present_in_text": "People's suggestion: becoming a doctor"
+            }
+          ],
+          "self_descriptions": [
+            {
+              "line": "L27",
+              "quote": "you kind of just become the person who knows where stuff is"
+            },
+            {
+              "line": "L28",
+              "quote": "I know where the good vending machine is and I know you park in the garage across, not the valet, and I know her insurance card is in the blue folder"
+            },
+            {
+              "line": "L29",
+              "quote": "I'm not that good at that part"
+            },
+            {
+              "line": "L40",
+              "quote": "That's not a deep answer"
+            },
+            {
+              "line": "L41",
+              "quote": "That's just the answer"
+            }
+          ],
+          "emotion_words": [],
+          "repetitions": [
+            {
+              "phrase": "I know / I'm doing",
+              "lines": [
+                "L9",
+                "L10",
+                "L27",
+                "L28"
+              ]
+            },
+            {
+              "phrase": "¿qué dijo?",
+              "lines": [
+                "L16"
+              ]
+            },
+            {
+              "phrase": "the blue one, not the red one",
+              "lines": [
+                "L28"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L26",
+                "L39"
+              ]
+            },
+            {
+              "phrase": "just for observation / to watch her",
+              "lines": [
+                "L16",
+                "L17"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L12",
+              "quote": "Sometimes I just said 'yeah I told him.' Because the line was long.",
+              "note": "Speaker states this fact and immediately gives a brief causal reason without further elaboration."
+            },
+            {
+              "line": "L18-20",
+              "quote": "Which is true. That's a true sentence. It's just not the whole thing the lady said.",
+              "note": "Speaker makes three short successive statements about the accuracy/completeness of the translation, then moves to next event (L21)."
+            },
+            {
+              "line": "L23-24",
+              "quote": "I remember thinking, okay. Good.",
+              "note": "Two short fragments after describing mother's reaction, followed immediately by new action (L25, getting coffee)."
+            },
+            {
+              "line": "L26",
+              "quote": "I don't know.",
+              "note": "Short interjection before moving to a new topic (becoming 'the person who knows where stuff is')."
+            },
+            {
+              "line": "L29-31",
+              "quote": "I'm not that good at that part?",
+              "note": "Statement followed immediately by a described scene (sister telling her to go home) without elaboration on what 'that part' means."
+            },
+            {
+              "line": "L32",
+              "quote": "Um.",
+              "note": "Single utterance functioning as a pause before stating length of hospital stay."
+            },
+            {
+              "line": "L35",
+              "quote": "I don't— no.",
+              "note": "Cut-off statement in response to the doctor question, followed by quick topic change to supply chain (L36)."
+            },
+            {
+              "line": "L39-40",
+              "quote": "I don't know. That's not a deep answer.",
+              "note": "Speaker offers brief dismissive statements at the end rather than elaborating further."
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Sister (Cami)",
+              "lines": [
+                "L1",
+                "L2",
+                "L6",
+                "L11",
+                "L29",
+                "L30",
+                "L33",
+                "L34"
+              ],
+              "what_they_did": "Diagnosed with lupus at age eight; experienced a flare with elevated creatinine; hospitalized for six days; currently described as 'okay-ish'/'stable'; while in hospital bed, told speaker 'you can go home.'"
+            },
+            {
+              "who": "Mother",
+              "lines": [
+                "L6",
+                "L7",
+                "L8",
+                "L11",
+                "L15",
+                "L16",
+                "L21",
+                "L22"
+              ],
+              "what_they_did": "Went to ER with speaker while father was away; looked to speaker during triage questioning; added unsolicited information in Spanish; fell asleep sitting up with purse on lap; asked '¿qué dijo?' when doctor spoke; said 'ah, okay,' made sign of the cross, and relaxed after speaker's translation."
+            },
+            {
+              "who": "Father",
+              "lines": [
+                "L6"
+              ],
+              "what_they_did": "Was on a job in Conroe the night of the ER visit."
+            },
+            {
+              "who": "Triage worker (man behind glass)",
+              "lines": [
+                "L8",
+                "L11"
+              ],
+              "what_they_did": "Asked fast questions including about recent medication changes."
+            },
+            {
+              "who": "Doctor",
+              "lines": [
+                "L16"
+              ],
+              "what_they_did": "Came out around 2am; stated they wanted to admit sister to watch kidney function, possibly do a pulse of steroids; used word 'nephritis'; said 'this is the kind of thing that can get away from us.'"
+            },
+            {
+              "who": "People (unspecified)",
+              "lines": [
+                "L3",
+                "L34"
+              ],
+              "what_they_did": "Say 'but she looks fine' about sister; ask speaker if sister's illness makes them want to be a doctor."
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "core_values",
+              "headline": "He protects his mother's peace of mind even at the cost of giving her the full truth.",
+              "explanation": "In the highest-stakes moment of the night, he chose to translate the doctor's warning as 'just for observation' rather than including 'nephritis' and 'this can get away from us.' This wasn't laziness or shortcutting (like L12's line-length excuse) — he immediately flags it himself as 'true but not the whole thing,' showing it was a deliberate tradeoff of accuracy for her calm.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "dice que la quieren dejar para observación nada más, para vigilarla"
+                },
+                {
+                  "exp": 1,
+                  "line": "L18-20",
+                  "quote": "Which is true. That's a true sentence. It's just not the whole thing the lady said."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a work setting, he'll shield teammates or family from alarming details of a problem while still handling the substance of it himself."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He is unusually good at real-time logistics translation — converting fragmented, high-stakes information across languages, audiences, and systems into something usable.",
+              "explanation": "He describes himself as the one who 'knows where stuff is' — parking, insurance folder, vending machine — and simultaneously ran live two-way translation under pressure (medication doses one way, questions the other). He's chosen a career (supply chain) that is structurally the same skill applied elsewhere, and frames it unprompted as meaningful ('stuff has to get places and somebody has to know where it is'), suggesting energy, not just competence.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L9-L11",
+                  "quote": "I'm doing it in both directions. I'm telling him the prednisone dose and I'm telling her what he asked"
+                },
+                {
+                  "exp": 1,
+                  "line": "L28",
+                  "quote": "I know where the good vending machine is and I know you park in the garage across, not the valet"
+                },
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "stuff has to get places and somebody has to know where it is"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work he'll be the person others route to when a project has too many moving, poorly-labeled pieces and someone needs to just make it navigable."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes he is responsible for managing what people can emotionally handle, not just what is factually true.",
+              "explanation": "He filtered the doctor's language for his mother based on what would let her exhale rather than what was complete, and immediately watched for the physical proof it worked ('I watched her shoulders go down'). This is a rule about his role, not a one-off decision — he is the regulator of others' emotional load.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "dice que la quieren dejar para observación nada más, para vigilarla"
+                },
+                {
+                  "exp": 1,
+                  "line": "L22",
+                  "quote": "I watched her shoulders go down"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In relationships, he'll under-share bad news or worry with partners/friends, preferring to absorb it himself until he's sure how to deliver a manageable version."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He acts fluently for people in crisis but goes quiet and physical (not verbal) once they're stable and talking.",
+              "explanation": "During the acute emergency he is articulate and directive (translating, negotiating, managing). Once his sister is awake and conversational, he says he's 'not that good at that part,' stands around, and fixes an already-fine blanket instead of talking. Worth checking whether this is discomfort with ordinary/relational closeness versus crisis-mode competence.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L29",
+                  "quote": "I'm not that good at that part?"
+                },
+                {
+                  "exp": 1,
+                  "line": "L30-31",
+                  "quote": "I'll be like 'nah I'm good' and then I'll just be standing there. And then I'll go fix her blanket even though the blanket is fine."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In friendships, he'll show up hard during someone's emergency but struggle to sustain easy, low-stakes conversation once the crisis passes."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He deflects questions about the emotional or identity-level meaning of this experience toward practical, minimizing answers.",
+              "explanation": "Asked whether the years of hospital experience make him want to be a doctor, he says no and pivots to supply chain, then closes with 'that's not a deep answer, that's just the answer' — echoing his earlier abrupt self-interruptions ('I don't know,' 'I don't— no'). The recurring move from something significant to something small is worth him examining rather than accepting at face value.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L35-36",
+                  "quote": "I don't— no. I'm doing supply chain."
+                },
+                {
+                  "exp": 1,
+                  "line": "L40-41",
+                  "quote": "That's not a deep answer. That's just the answer."
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "When asked directly about his own motivations or feelings in other domains (career choice, relationships), he'll redirect to practical framing rather than sit with the emotional question."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "core_values",
+              "headline": "He protects his mother's peace of mind even at the cost of giving her the full truth.",
+              "explanation": "In the highest-stakes moment of the night, he chose to translate the doctor's warning as 'just for observation' rather than including 'nephritis' and 'this can get away from us.' This wasn't laziness or shortcutting (like L12's line-length excuse) — he immediately flags it himself as 'true but not the whole thing,' showing it was a deliberate tradeoff of accuracy for her calm.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L16",
+                  "quote": "dice que la quieren dejar para observación nada más, para vigilarla"
+                },
+                {
+                  "exp": 1,
+                  "line": "L18-20",
+                  "quote": "Which is true. That's a true sentence. It's just not the whole thing the lady said."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In a work setting, he'll shield teammates or family from alarming details of a problem while still handling the substance of it himself.",
+              "exp": 2
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "He is unusually good at real-time logistics translation — converting fragmented, high-stakes information across languages, audiences, and systems into something usable.",
+              "explanation": "He describes himself as the one who 'knows where stuff is' — parking, insurance folder, vending machine — and simultaneously ran live two-way translation under pressure (medication doses one way, questions the other). He's chosen a career (supply chain) that is structurally the same skill applied elsewhere, and frames it unprompted as meaningful ('stuff has to get places and somebody has to know where it is'), suggesting energy, not just competence.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L9-L11",
+                  "quote": "I'm doing it in both directions. I'm telling him the prednisone dose and I'm telling her what he asked"
+                },
+                {
+                  "exp": 1,
+                  "line": "L28",
+                  "quote": "I know where the good vending machine is and I know you park in the garage across, not the valet"
+                },
+                {
+                  "exp": 1,
+                  "line": "L38",
+                  "quote": "stuff has to get places and somebody has to know where it is"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "At work he'll be the person others route to when a project has too many moving, poorly-labeled pieces and someone needs to just make it navigable.",
+              "exp": 2
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He acts fluently for people in crisis but goes quiet and physical (not verbal) once they're stable and talking.",
+              "explanation": "During the acute emergency he is articulate and directive (translating, negotiating, managing). Once his sister is awake and conversational, he says he's 'not that good at that part,' stands around, and fixes an already-fine blanket instead of talking. Worth checking whether this is discomfort with ordinary/relational closeness versus crisis-mode competence.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L29",
+                  "quote": "I'm not that good at that part?"
+                },
+                {
+                  "exp": 1,
+                  "line": "L30-31",
+                  "quote": "I'll be like 'nah I'm good' and then I'll just be standing there. And then I'll go fix her blanket even though the blanket is fine."
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In friendships, he'll show up hard during someone's emergency but struggle to sustain easy, low-stakes conversation once the crisis passes.",
+              "exp": 2
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes he is responsible for managing what people can emotionally handle, not just what is factually true.",
+              "reason": "restated",
+              "note": "This is the same claim as the core_values survivor above (filtering truth for his mother's shoulders-relaxing reaction) just relabeled as a belief; doesn't add a distinct, falsifiable operating assumption beyond the single cited incident."
+            },
+            {
+              "headline": "He deflects questions about the emotional or identity-level meaning of this experience toward practical, minimizing answers.",
+              "reason": "unfalsifiable",
+              "note": "Only one instance (the doctor question) is cited despite the pattern requirement of two; 'that's not a deep answer, that's just the answer' is plausibly just an honest self-assessment, not evidence of a recurring deflection habit — nothing here he could check to confirm or disconfirm."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "core_values",
+            "headline": "He protects his mother's peace of mind even at the cost of giving her the full truth.",
+            "explanation": "In the highest-stakes moment of the night, he chose to translate the doctor's warning as 'just for observation' rather than including 'nephritis' and 'this can get away from us.' This wasn't laziness or shortcutting (like L12's line-length excuse) — he immediately flags it himself as 'true but not the whole thing,' showing it was a deliberate tradeoff of accuracy for her calm.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L16",
+                "quote": "dice que la quieren dejar para observación nada más, para vigilarla"
+              },
+              {
+                "exp": 1,
+                "line": "L18-20",
+                "quote": "Which is true. That's a true sentence. It's just not the whole thing the lady said."
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In a work setting, he'll shield teammates or family from alarming details of a problem while still handling the substance of it himself.",
+            "exp": 2
+          },
+          {
+            "category": "zone_of_genius",
+            "headline": "He is unusually good at real-time logistics translation — converting fragmented, high-stakes information across languages, audiences, and systems into something usable.",
+            "explanation": "He describes himself as the one who 'knows where stuff is' — parking, insurance folder, vending machine — and simultaneously ran live two-way translation under pressure (medication doses one way, questions the other). He's chosen a career (supply chain) that is structurally the same skill applied elsewhere, and frames it unprompted as meaningful ('stuff has to get places and somebody has to know where it is'), suggesting energy, not just competence.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L9-L11",
+                "quote": "I'm doing it in both directions. I'm telling him the prednisone dose and I'm telling her what he asked"
+              },
+              {
+                "exp": 1,
+                "line": "L28",
+                "quote": "I know where the good vending machine is and I know you park in the garage across, not the valet"
+              },
+              {
+                "exp": 1,
+                "line": "L38",
+                "quote": "stuff has to get places and somebody has to know where it is"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "At work he'll be the person others route to when a project has too many moving, poorly-labeled pieces and someone needs to just make it navigable.",
+            "exp": 2
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He acts fluently for people in crisis but goes quiet and physical (not verbal) once they're stable and talking.",
+            "explanation": "During the acute emergency he is articulate and directive (translating, negotiating, managing). Once his sister is awake and conversational, he says he's 'not that good at that part,' stands around, and fixes an already-fine blanket instead of talking. Worth checking whether this is discomfort with ordinary/relational closeness versus crisis-mode competence.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L29",
+                "quote": "I'm not that good at that part?"
+              },
+              {
+                "exp": 1,
+                "line": "L30-31",
+                "quote": "I'll be like 'nah I'm good' and then I'll just be standing there. And then I'll go fix her blanket even though the blanket is fine."
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In friendships, he'll show up hard during someone's emergency but struggle to sustain easy, low-stakes conversation once the crisis passes.",
+            "exp": 2
+          }
+        ]
+      },
+      {
+        "exp": 3,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker describes junior and senior year of high school, introduces a teacher named Mr. Bagwell"
+            },
+            {
+              "line": "L3",
+              "what_happened": "Mr. Bagwell taught economics and a dual credit program with HCC"
+            },
+            {
+              "line": "L4",
+              "what_happened": "Mr. Bagwell is described as an older white man, heavy build, bad knee from playing JUCO football, owned a Cowboys mug reading 'WORLD'S OKAYEST TEACHER'"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Speaker ate lunch in Mr. Bagwell's classroom almost every day during junior and senior year"
+            },
+            {
+              "line": "L7",
+              "what_happened": "Speaker states the arrangement began because the cafeteria was loud and speaker had a habit of calling home at lunch"
+            },
+            {
+              "line": "L8",
+              "what_happened": "Speaker called home at lunch to find out lab results after speaker's mom returned from taking Cami to appointments"
+            },
+            {
+              "line": "L9",
+              "what_happened": "Speaker states you cannot hear anything in the cafeteria"
+            },
+            {
+              "line": "L10",
+              "what_happened": "Speaker asked to sit in Mr. Bagwell's room; he responded 'don't get crumbs in the keyboard'"
+            },
+            {
+              "line": "L12",
+              "what_happened": "After about a week, Mr. Bagwell began giving speaker tasks to do"
+            },
+            {
+              "line": "L14",
+              "what_happened": "Mr. Bagwell said 'hey, if you're bored, those need to be collated,' and speaker collated them"
+            },
+            {
+              "line": "L15",
+              "what_happened": "Mr. Bagwell owned a laminator and laminated items including a sign reading 'PLEASE PUSH IN CHAIRS'"
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker became proficient at using the laminator"
+            },
+            {
+              "line": "L17",
+              "what_happened": "Speaker describes a technique for feeding paper straight into the laminator to avoid bubbles"
+            },
+            {
+              "line": "L19",
+              "what_happened": "Mr. Bagwell never asked speaker questions about personal life"
+            },
+            {
+              "line": "L20",
+              "what_happened": "Mr. Bagwell did not ask about speaker's family"
+            },
+            {
+              "line": "L21",
+              "what_happened": "This pattern occurred over two years"
+            },
+            {
+              "line": "L22",
+              "what_happened": "Mr. Bagwell knew speaker had a sister from overhearing phone calls; he heard speaker say the word 'creatinina' on the phone"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Mr. Bagwell continued grading papers without turning around when he heard this"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Speaker states that at the time, speaker interpreted his lack of reaction as not caring, and later revised this interpretation"
+            },
+            {
+              "line": "L29",
+              "what_happened": "Speaker scored highest on a unit test; Mr. Bagwell placed the test face down on speaker's desk and said 'alright'"
+            },
+            {
+              "line": "L31",
+              "what_happened": "A college readiness counselor told speaker 'you're so bright, you're going places' in the hallway in front of other people"
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker wanted to leave when this happened"
+            },
+            {
+              "line": "L35",
+              "what_happened": "In senior year, Mr. Bagwell told speaker about a foundation scholarship"
+            },
+            {
+              "line": "L36",
+              "what_happened": "Mr. Bagwell handed speaker a folded, printed page and said 'the deadline's real,' then walked to the door for hall duty"
+            },
+            {
+              "line": "L38",
+              "what_happened": "Speaker applied for/completed the scholarship process ('I did it')"
+            },
+            {
+              "line": "L39",
+              "what_happened": "Mr. Bagwell ate the same lunch every day: turkey sandwich cut diagonally and a bag of pretzels"
+            },
+            {
+              "line": "L40",
+              "what_happened": "Mr. Bagwell gave speaker the pretzels about half the time, stating his cardiologist told him to limit them"
+            },
+            {
+              "line": "L42",
+              "what_happened": "Speaker and Mr. Bagwell sometimes talked about the Houston Texans"
+            },
+            {
+              "line": "L43",
+              "what_happened": "Mr. Bagwell disliked the Texans and was a Cowboys fan; this was a recurring joke between them"
+            },
+            {
+              "line": "L45",
+              "what_happened": "Speaker never returned to see Mr. Bagwell after graduation"
+            },
+            {
+              "line": "L47",
+              "what_happened": "Speaker has composed an email to Mr. Bagwell and has it saved in drafts"
+            },
+            {
+              "line": "L49",
+              "what_happened": "Speaker has not sent the email"
+            },
+            {
+              "line": "L50",
+              "what_happened": "The draft email has remained unsent for approximately one year and three months"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L7",
+              "choice_made": "Speaker began eating lunch in Mr. Bagwell's classroom instead of the cafeteria",
+              "alternatives_present_in_text": "Speaker could have continued eating in the loud cafeteria"
+            },
+            {
+              "line": "L10",
+              "choice_made": "Speaker asked to sit in Mr. Bagwell's room",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L38",
+              "choice_made": "Speaker applied for the scholarship after being told about it",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L45",
+              "choice_made": "Speaker did not go back to visit Mr. Bagwell after graduation",
+              "alternatives_present_in_text": "None stated"
+            },
+            {
+              "line": "L49",
+              "choice_made": "Speaker has not sent the drafted email",
+              "alternatives_present_in_text": "Speaker could send the email that is already composed in drafts"
+            }
+          ],
+          "self_descriptions": [],
+          "emotion_words": [
+            {
+              "line": "L31",
+              "quote": "itchy"
+            },
+            {
+              "line": "L56",
+              "quote": "calmest"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "That's it / That was it",
+              "lines": [
+                "L10",
+                "L11",
+                "L29",
+                "L37"
+              ]
+            },
+            {
+              "phrase": "laminat",
+              "lines": [
+                "L15",
+                "L16",
+                "L17"
+              ]
+            },
+            {
+              "phrase": "two years",
+              "lines": [
+                "L6",
+                "L21",
+                "L56"
+              ]
+            },
+            {
+              "phrase": "I don't know",
+              "lines": [
+                "L26",
+                "L33",
+                "L52"
+              ]
+            },
+            {
+              "phrase": "Nothing happened",
+              "lines": [
+                "L54",
+                "L56"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L44",
+              "quote": "And um.",
+              "note": "Speaker pauses with filler word before transitioning topics"
+            },
+            {
+              "line": "L46",
+              "quote": "Like after graduation.",
+              "note": "Short fragment following the statement about never going back, no elaboration given"
+            },
+            {
+              "line": "L53",
+              "quote": "It's not dramatic.",
+              "note": "Brief statement minimizing the account, immediately followed by further minimizing statements"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Mr. Bagwell",
+              "lines": [
+                "L1",
+                "L2",
+                "L3",
+                "L4",
+                "L10",
+                "L12",
+                "L14",
+                "L15",
+                "L22",
+                "L23",
+                "L29",
+                "L35",
+                "L36",
+                "L39",
+                "L40",
+                "L43"
+              ],
+              "what_they_did": "Taught economics/dual credit, allowed speaker to eat lunch in his room, gave speaker tasks (collating, laminating), overheard personal phone calls without commenting, responded minimally to speaker's test score ('alright'), informed speaker about a scholarship deadline, shared pretzels, engaged in a recurring joke about football teams"
+            },
+            {
+              "who": "Speaker's mother",
+              "lines": [
+                "L8"
+              ],
+              "what_they_did": "Dropped off Cami at appointments some days and returned home, at which point speaker would call to ask about lab results"
+            },
+            {
+              "who": "Cami",
+              "lines": [
+                "L8"
+              ],
+              "what_they_did": "Referenced as being taken to appointments by speaker's mother"
+            },
+            {
+              "who": "College readiness lady",
+              "lines": [
+                "L31"
+              ],
+              "what_they_did": "Told speaker 'you're so bright, you're going places' in the hallway in front of other people"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He experiences unasked, unpraised attention as safety, and effusive praise as a threat.",
+              "explanation": "He explicitly contrasts Mr. Bagwell's silence about his family and minimal 'alright' with the college counselor's public praise, which made him want to leave. He names two years of a teacher not probing him as 'the calmest I've been,' suggesting he equates being left alone with being cared for.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L31",
+                  "quote": "you're so bright, you're going places' ... I would get so, like, itchy"
+                },
+                {
+                  "exp": 3,
+                  "line": "L56",
+                  "quote": "Nothing happened for two years and it was the calmest I've been"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In relationships, he'll pull away from partners or friends who offer overt affirmation or want to 'talk about feelings,' and feel closest to people who let him be without commentary."
+            },
+            {
+              "category": "defining_beliefs",
+              "headline": "He believes love and care are proven through quiet, undemanding presence rather than words.",
+              "explanation": "He reinterprets Mr. Bagwell's silence when overhearing 'creatinina' as possibly intentional restraint rather than indifference, and treats small unspoken gestures (handing him the scholarship page, giving him pretzels) as the realest form of support he received. This suggests an operating belief that the most meaningful care is the kind that doesn't announce itself.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L23",
+                  "quote": "He just kept grading."
+                },
+                {
+                  "exp": 3,
+                  "line": "L24",
+                  "quote": "at the time I thought that was because he didn't care and then later I was like, oh"
+                },
+                {
+                  "exp": 3,
+                  "line": "L36",
+                  "quote": "handed me a printed-out page, folded, and said 'the deadline's real'"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he'll undervalue or distrust managers who give explicit verbal recognition, and instead read practical gestures (someone quietly covering for him, sharing a resource) as the real signal of respect."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He minimizes formative relationships even while describing them as shaping him.",
+              "explanation": "He repeatedly undercuts the significance of this two-year relationship ('It's not dramatic,' 'Nothing happened,' 'I laminated some signs in your room') right after calling it one of the things that shaped him. The unsent, drafted email for over a year suggests the same minimizing impulse blocks him from acting on what he actually values.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L52",
+                  "quote": "I don't know why that's one of the things I'd say shaped me."
+                },
+                {
+                  "exp": 3,
+                  "line": "L53",
+                  "quote": "It's not dramatic."
+                },
+                {
+                  "exp": 3,
+                  "line": "L48",
+                  "quote": "it sounds like I'm making it into a bigger deal than it was"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "Worth checking whether he downplays other significant mentors or relationships in his career story, describing them as 'no big deal' even when they materially changed his trajectory."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He drafts the vulnerable communication but doesn't send it.",
+              "explanation": "He has composed an email to Mr. Bagwell and held it in drafts for over a year, specifically because it 'sounds like I want something' or is 'a bigger deal than it was.' This is a single instance here, but paired with his discomfort at receiving praise (L31-32), it points to a broader avoidance of moments where he'd be seen as needing or wanting something from someone.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L47",
+                  "quote": "I have literally composed the email, I have it in drafts, and I read it and it sounds so— it sounds like I want something"
+                },
+                {
+                  "exp": 3,
+                  "line": "L50",
+                  "quote": "It's been like a year and three months."
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "Worth checking whether he has other unsent messages, unmade asks, or unexpressed gratitude in current relationships, especially where expressing it would mean admitting he needed someone."
+            },
+            {
+              "category": "core_values",
+              "headline": "He protects family responsibility even at the cost of normal teenage social routines.",
+              "explanation": "He gave up eating in the cafeteria with peers, not for a dramatic reason but so he could reliably call home and track his sister's medical lab results every day for two years. This was a sustained, unglamorous choice that shaped his entire high school routine.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L8",
+                  "quote": "I wanted to know how the labs came back"
+                },
+                {
+                  "exp": 3,
+                  "line": "L6",
+                  "quote": "I ended up eating lunch in his room like almost every day junior and senior year"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In current family or caregiving situations, he'll quietly restructure his own schedule or forgo social opportunities to stay reachable for family needs, without framing it as a sacrifice."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "He experiences unasked, unpraised attention as safety, and effusive praise as a threat.",
+              "explanation": "He explicitly contrasts Mr. Bagwell's silence about his family and minimal 'alright' with the college counselor's public praise, which made him want to leave. He names two years of a teacher not probing him as 'the calmest I've been,' suggesting he equates being left alone with being cared for.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L31",
+                  "quote": "you're so bright, you're going places' ... I would get so, like, itchy"
+                },
+                {
+                  "exp": 3,
+                  "line": "L56",
+                  "quote": "Nothing happened for two years and it was the calmest I've been"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In relationships, he'll pull away from partners or friends who offer overt affirmation or want to 'talk about feelings,' and feel closest to people who let him be without commentary.",
+              "exp": 3
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "He drafts the vulnerable communication but doesn't send it.",
+              "explanation": "He has composed an email to Mr. Bagwell and held it in drafts for over a year, specifically because it 'sounds like I want something' or is 'a bigger deal than it was.' Paired with his discomfort at receiving praise (L31-32), this points to avoidance of moments where he'd be seen as needing or wanting something from someone.",
+              "evidence": [
+                {
+                  "exp": 3,
+                  "line": "L47",
+                  "quote": "I have literally composed the email, I have it in drafts, and I read it and it sounds so— it sounds like I want something"
+                },
+                {
+                  "exp": 3,
+                  "line": "L50",
+                  "quote": "It's been like a year and three months."
+                }
+              ],
+              "confidence": "low",
+              "would_predict": "Worth checking whether he has other unsent messages, unmade asks, or unexpressed gratitude in current relationships, especially where expressing it would mean admitting he needed someone.",
+              "exp": 3
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "He believes love and care are proven through quiet, undemanding presence rather than words.",
+              "reason": "restated",
+              "note": "This is essentially the same claim as the surviving 'unasked, unpraised attention as safety' insight, just rephrased with different evidence pulled from the same two moments in the story."
+            },
+            {
+              "headline": "He minimizes formative relationships even while describing them as shaping him.",
+              "reason": "ungrounded",
+              "note": "The speaker's self-deprecating framing ('nothing happened,' 'not dramatic') reads as him processing the memory in real time / being self-aware about its subtlety, not evidence of a recurring minimizing pattern — and only one relationship is cited, not two."
+            },
+            {
+              "headline": "He protects family responsibility even at the cost of normal teenage social routines.",
+              "reason": "flattering",
+              "note": "Frames an incidental practical arrangement (moving from a loud cafeteria to a quiet room to make a phone call) as a values-driven sacrifice; the speaker frames it as circumstantial, not as a costly choice he made to protect a value."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "He experiences unasked, unpraised attention as safety, and effusive praise as a threat.",
+            "explanation": "He explicitly contrasts Mr. Bagwell's silence about his family and minimal 'alright' with the college counselor's public praise, which made him want to leave. He names two years of a teacher not probing him as 'the calmest I've been,' suggesting he equates being left alone with being cared for.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L31",
+                "quote": "you're so bright, you're going places' ... I would get so, like, itchy"
+              },
+              {
+                "exp": 3,
+                "line": "L56",
+                "quote": "Nothing happened for two years and it was the calmest I've been"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In relationships, he'll pull away from partners or friends who offer overt affirmation or want to 'talk about feelings,' and feel closest to people who let him be without commentary.",
+            "exp": 3
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "He drafts the vulnerable communication but doesn't send it.",
+            "explanation": "He has composed an email to Mr. Bagwell and held it in drafts for over a year, specifically because it 'sounds like I want something' or is 'a bigger deal than it was.' Paired with his discomfort at receiving praise (L31-32), this points to avoidance of moments where he'd be seen as needing or wanting something from someone.",
+            "evidence": [
+              {
+                "exp": 3,
+                "line": "L47",
+                "quote": "I have literally composed the email, I have it in drafts, and I read it and it sounds so— it sounds like I want something"
+              },
+              {
+                "exp": 3,
+                "line": "L50",
+                "quote": "It's been like a year and three months."
+              }
+            ],
+            "confidence": "low",
+            "would_predict": "Worth checking whether he has other unsent messages, unmade asks, or unexpressed gratitude in current relationships, especially where expressing it would mean admitting he needed someone.",
+            "exp": 3
+          }
+        ]
+      },
+      {
+        "exp": 4,
+        "extraction": {
+          "facts": [
+            {
+              "line": "L1",
+              "what_happened": "Speaker states move-in happened three weeks prior, August 2026"
+            },
+            {
+              "line": "L2",
+              "what_happened": "Temperature was 101 degrees"
+            },
+            {
+              "line": "L4",
+              "what_happened": "Whole family came in speaker's dad's truck, including Cami, who wore a hat and long sleeves due to sun sensitivity"
+            },
+            {
+              "line": "L5",
+              "what_happened": "Move-in process had a lane, volunteers in orange shirts, carts, and a twenty-minute unload window"
+            },
+            {
+              "line": "L6",
+              "what_happened": "Family left at 5:30am and was third truck in the lane"
+            },
+            {
+              "line": "L8-L10",
+              "what_happened": "Speaker's belongings totaled four items: two plaid zipper bags, a fan, and a plastic tub with sheets"
+            },
+            {
+              "line": "L11",
+              "what_happened": "Unloading took about eight minutes"
+            },
+            {
+              "line": "L12",
+              "what_happened": "Speaker then stood there"
+            },
+            {
+              "line": "L13",
+              "what_happened": "Neighboring family had many items including a rug, mini fridge, futon; the dad in that family was upset at the mom about the futon"
+            },
+            {
+              "line": "L14-L15",
+              "what_happened": "Speaker grabbed the other end of the futon and carried it to the elevator with that dad"
+            },
+            {
+              "line": "L16",
+              "what_happened": "Speaker's mom asked '¿qué haces?' and speaker replied 'nada, ya vengo'; speaker's dad walked around touching things in the building"
+            },
+            {
+              "line": "L17-L18",
+              "what_happened": "Dad looked at door frames and counters; he works in countertops and inspected the lobby countertop"
+            },
+            {
+              "line": "L19",
+              "what_happened": "Dad said the joints were bad"
+            },
+            {
+              "line": "L21",
+              "what_happened": "Dad said the joints were bad, then put his hand on speaker's neck for about a second"
+            },
+            {
+              "line": "L22",
+              "what_happened": "Mom made the bed using sheets brought from home"
+            },
+            {
+              "line": "L23",
+              "what_happened": "Speaker had wanted to buy new sheets with dining hall money, but mom had already washed and packed the home sheets in the tub"
+            },
+            {
+              "line": "L24",
+              "what_happened": "Mom smoothed the bed about eight times"
+            },
+            {
+              "line": "L25",
+              "what_happened": "Mom was crying a little while pretending she was hot"
+            },
+            {
+              "line": "L26",
+              "what_happened": "Family left due to traffic and Cami's need to avoid sun"
+            },
+            {
+              "line": "L27",
+              "what_happened": "Speaker walked them down; dad gave speaker $100 in twenties; speaker initially didn't want to take it but did; speaker still has $80 of it, kept in the tub"
+            },
+            {
+              "line": "L28",
+              "what_happened": "The truck left"
+            },
+            {
+              "line": "L29-L30",
+              "what_happened": "Speaker went back upstairs, sat on the bed, and for about the first ten minutes felt relieved"
+            },
+            {
+              "line": "L32",
+              "what_happened": "Speaker had the thought 'what is wrong with you' immediately after feeling relief"
+            },
+            {
+              "line": "L33",
+              "what_happened": "Speaker states mom had just cried in a parking lot"
+            },
+            {
+              "line": "L34",
+              "what_happened": "Speaker got up and unpacked immediately, within about twenty minutes"
+            },
+            {
+              "line": "L35-L36",
+              "what_happened": "Speaker texted family a photo out the window captioned 'buena vista' (good view); the view was a parking garage"
+            },
+            {
+              "line": "L37",
+              "what_happened": "The view consists of a parking garage and part of a tree"
+            },
+            {
+              "line": "L39",
+              "what_happened": "Speaker states they do this ('buena vista'-type statement) constantly"
+            },
+            {
+              "line": "L40",
+              "what_happened": "During the first week, speaker's roommate (from Plano) has a full-size fridge and talks to his mom on speakerphone in the room"
+            },
+            {
+              "line": "L43",
+              "what_happened": "Speaker describes daily schedule as class, work at the dining hall, then free time from 4pm with 'nobody needs anything'"
+            },
+            {
+              "line": "L44",
+              "what_happened": "Speaker calls family every Sunday at seven"
+            },
+            {
+              "line": "L45",
+              "what_happened": "First question speaker asks every call is how were Cami's numbers"
+            },
+            {
+              "line": "L46",
+              "what_happened": "Mom has started saying 'hola primero, Elmer' (say hi first)"
+            },
+            {
+              "line": "L47-L48",
+              "what_happened": "Speaker responds 'hi' then asks how were her numbers"
+            }
+          ],
+          "choices": [
+            {
+              "line": "L14",
+              "choice_made": "Speaker went over and grabbed the other end of the neighboring family's futon",
+              "alternatives_present_in_text": "Speaker had already finished unloading and was standing there with nothing to do; could have stayed with own family or continued standing"
+            },
+            {
+              "line": "L27",
+              "choice_made": "Speaker took the $100 from dad",
+              "alternatives_present_in_text": "Speaker states 'I didn't want to take it and I took it'"
+            },
+            {
+              "line": "L34",
+              "choice_made": "Speaker got up and unpacked immediately",
+              "alternatives_present_in_text": "Speaker states reason was 'because I didn't want to sit there,' implying option to continue sitting was present"
+            },
+            {
+              "line": "L35",
+              "choice_made": "Speaker texted 'buena vista' (good view) to describe the parking garage view",
+              "alternatives_present_in_text": "None specified in text; speaker states 'I don't know why I said that'"
+            },
+            {
+              "line": "L45",
+              "choice_made": "Speaker asks about Cami's numbers as the first question every call",
+              "alternatives_present_in_text": "Mom's prompt 'hola primero, Elmer' suggests alternative of greeting first"
+            }
+          ],
+          "self_descriptions": [],
+          "emotion_words": [
+            {
+              "line": "L4",
+              "quote": "she was so mad about it"
+            },
+            {
+              "line": "L25",
+              "quote": "she was crying a little"
+            },
+            {
+              "line": "L30",
+              "quote": "I was so relieved"
+            },
+            {
+              "line": "L32",
+              "quote": "what is wrong with you"
+            },
+            {
+              "line": "L40",
+              "quote": "not homesick exactly"
+            }
+          ],
+          "repetitions": [
+            {
+              "phrase": "how were Cami's numbers / her numbers",
+              "lines": [
+                "L45",
+                "L48"
+              ]
+            },
+            {
+              "phrase": "buena vista / I do it constantly",
+              "lines": [
+                "L35",
+                "L39"
+              ]
+            }
+          ],
+          "skipped_or_rushed": [
+            {
+              "line": "L20",
+              "quote": "And that's how he said he was proud of me, I think",
+              "note": "speaker moves quickly from describing dad's statement about joints to interpreting it, adding qualifier 'I think', without elaboration"
+            },
+            {
+              "line": "L34",
+              "quote": "And then I got up and unpacked, like, immediately, in like twenty minutes, because I didn't want to sit there",
+              "note": "speaker states action taken quickly and gives brief stated reason without further detail"
+            },
+            {
+              "line": "L38",
+              "quote": "And I don't know why I said that",
+              "note": "speaker states lack of explanation and moves on without elaborating"
+            },
+            {
+              "line": "L40",
+              "quote": "it was more like I didn't know what I was for?",
+              "note": "speaker poses this as a question and moves directly into describing daily schedule rather than elaborating on the statement"
+            }
+          ],
+          "other_people": [
+            {
+              "who": "Cami",
+              "lines": [
+                "L4",
+                "L26"
+              ],
+              "what_they_did": "Came on move-in day wearing hat and long sleeves due to sun sensitivity; was mad about it; family needed to leave partly because she needed to avoid sun"
+            },
+            {
+              "who": "Speaker's dad",
+              "lines": [
+                "L6",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L21",
+                "L27"
+              ],
+              "what_they_did": "Had family leave at 5:30am; walked around touching building surfaces; inspected door frames and lobby countertop professionally; said the joints were bad; put hand on speaker's neck for a second; gave speaker $100 in twenties"
+            },
+            {
+              "who": "Speaker's mom",
+              "lines": [
+                "L16",
+                "L22",
+                "L23",
+                "L24",
+                "L25",
+                "L46"
+              ],
+              "what_they_did": "Asked '¿qué haces?'; brought sheets from home and made the bed; had already washed and packed the home sheets before speaker could buy new ones; smoothed the bed about eight times; cried a little while pretending to be hot; now says 'hola primero, Elmer' on calls"
+            },
+            {
+              "who": "Neighboring family's dad",
+              "lines": [
+                "L13",
+                "L15"
+              ],
+              "what_they_did": "Was upset at the mom about the futon; carried the futon to the elevator with speaker"
+            },
+            {
+              "who": "Roommate",
+              "lines": [
+                "L40"
+              ],
+              "what_they_did": "Is from Plano; has a full-size fridge; talks to his mom on speakerphone in the room"
+            }
+          ]
+        },
+        "interpretation": {
+          "candidates": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Elmer believes he has to stay useful or busy to justify his own presence.",
+              "explanation": "The moment his own task (unloading) was finished, he immediately found someone else's work to do (the futon) rather than standing idle; later he names the same discomfort directly — not knowing 'what I was for' once nobody needs anything from him. This suggests an operating belief that his worth is tied to being needed rather than simply being.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L12",
+                  "quote": "And then I just stood there."
+                },
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "And I went over and grabbed the other end of the futon."
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "it was more like I didn't know what I was for?"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his career, he will gravitate toward roles or moments with heavy, visible workload and feel unsettled or restless during unstructured downtime or slow periods."
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Elmer downplays or deflects moments of emotional intensity almost immediately after they happen.",
+              "explanation": "After feeling real relief on the bed, he pivots within minutes to self-criticism ('what is wrong with you') and physical action (unpacking fast so he wouldn't sit there); he also sent a cheerful, deflecting caption ('buena vista') about a parking-garage view right after an emotional goodbye, and says he does this constantly. The pattern of quickly converting feeling into action or lighthearted deflection recurs at least twice in this single experience and is worth him examining.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L32",
+                  "quote": "what is wrong with you"
+                },
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "I got up and unpacked, like, immediately, in like twenty minutes, because I didn't want to sit there"
+                },
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "I do it constantly"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In close relationships, he will likely change the subject, joke, or busy himself right after a partner or friend expresses vulnerable emotion toward him, and may not notice he's doing it."
+            },
+            {
+              "category": "core_values",
+              "headline": "Elmer prioritizes his sister's wellbeing above the ordinary rituals of connection, even when it costs him socially.",
+              "explanation": "He leads every weekly call with Cami's health numbers instead of a greeting, despite his mom explicitly asking him to say hi first — and he does it anyway. This is a value acted on under mild social cost (his mom's repeated correction), not just a stated priority.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L45",
+                  "quote": "the first thing I ask, every time, before anything, is how were Cami's numbers"
+                },
+                {
+                  "exp": 1,
+                  "line": "L46",
+                  "quote": "my mom's started going 'hola primero, Elmer.'"
+                },
+                {
+                  "exp": 1,
+                  "line": "L48",
+                  "quote": "How were her numbers."
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In friendships or partnerships, he will consistently check on the vulnerable or at-risk person in a group first, even when social norms suggest greeting the room or himself should come first."
+            },
+            {
+              "category": "zone_of_genius",
+              "headline": "Elmer reads unspoken need in a room and steps in without being asked.",
+              "explanation": "Without any request, he identified tension between a stranger's family (dad upset about the futon) and simply acted — grabbing the other end and solving the friction wordlessly. This wasn't idle helpfulness; it was picking up on strain and neutralizing it through action rather than words.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L13",
+                  "quote": "the dad was doing the thing where he's mad at the mom about the futon"
+                },
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "And I went over and grabbed the other end of the futon"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "At work, he will be the one colleagues quietly rely on to defuse tension in a team by taking on a task rather than addressing the conflict verbally."
+            }
+          ]
+        },
+        "critic": {
+          "survivors": [
+            {
+              "category": "defining_beliefs",
+              "headline": "Elmer believes he has to stay useful or busy to justify his own presence.",
+              "explanation": "The moment his own task (unloading) was finished, he immediately found someone else's work to do (the futon) rather than standing idle; later he names the same discomfort directly — not knowing 'what I was for' once nobody needs anything from him. This suggests an operating belief that his worth is tied to being needed rather than simply being.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L12",
+                  "quote": "And then I just stood there."
+                },
+                {
+                  "exp": 1,
+                  "line": "L14",
+                  "quote": "And I went over and grabbed the other end of the futon."
+                },
+                {
+                  "exp": 1,
+                  "line": "L40",
+                  "quote": "it was more like I didn't know what I was for?"
+                }
+              ],
+              "confidence": "high",
+              "would_predict": "In his career, he will gravitate toward roles or moments with heavy, visible workload and feel unsettled or restless during unstructured downtime or slow periods.",
+              "exp": 4
+            },
+            {
+              "category": "patterns_to_explore",
+              "headline": "Elmer downplays or deflects moments of emotional intensity almost immediately after they happen.",
+              "explanation": "After feeling real relief on the bed, he pivots within minutes to self-criticism ('what is wrong with you') and physical action (unpacking fast so he wouldn't sit there); he also sent a cheerful, deflecting caption ('buena vista') about a parking-garage view right after an emotional goodbye, and says he does this constantly. The pattern of quickly converting feeling into action or lighthearted deflection recurs at least twice in this single experience and is worth him examining.",
+              "evidence": [
+                {
+                  "exp": 1,
+                  "line": "L32",
+                  "quote": "what is wrong with you"
+                },
+                {
+                  "exp": 1,
+                  "line": "L34",
+                  "quote": "I got up and unpacked, like, immediately, in like twenty minutes, because I didn't want to sit there"
+                },
+                {
+                  "exp": 1,
+                  "line": "L39",
+                  "quote": "I do it constantly"
+                }
+              ],
+              "confidence": "medium",
+              "would_predict": "In close relationships, he will likely change the subject, joke, or busy himself right after a partner or friend expresses vulnerable emotion toward him, and may not notice he's doing it.",
+              "exp": 4
+            }
+          ],
+          "deleted": [
+            {
+              "headline": "Elmer prioritizes his sister's wellbeing above the ordinary rituals of connection, even when it costs him socially.",
+              "reason": "restated",
+              "note": "He directly narrates this exact behavior and pattern himself (L45-L48); the 'analysis' adds no inference beyond what he already stated."
+            },
+            {
+              "headline": "Elmer reads unspoken need in a room and steps in without being asked.",
+              "reason": "ungrounded",
+              "note": "A single instance of grabbing one end of a futon does not establish an exceptional, energizing capability others come to him for — it's one data point stretched into a 'genius' claim."
+            }
+          ]
+        },
+        "survivors": [
+          {
+            "category": "defining_beliefs",
+            "headline": "Elmer believes he has to stay useful or busy to justify his own presence.",
+            "explanation": "The moment his own task (unloading) was finished, he immediately found someone else's work to do (the futon) rather than standing idle; later he names the same discomfort directly — not knowing 'what I was for' once nobody needs anything from him. This suggests an operating belief that his worth is tied to being needed rather than simply being.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L12",
+                "quote": "And then I just stood there."
+              },
+              {
+                "exp": 1,
+                "line": "L14",
+                "quote": "And I went over and grabbed the other end of the futon."
+              },
+              {
+                "exp": 1,
+                "line": "L40",
+                "quote": "it was more like I didn't know what I was for?"
+              }
+            ],
+            "confidence": "high",
+            "would_predict": "In his career, he will gravitate toward roles or moments with heavy, visible workload and feel unsettled or restless during unstructured downtime or slow periods.",
+            "exp": 4
+          },
+          {
+            "category": "patterns_to_explore",
+            "headline": "Elmer downplays or deflects moments of emotional intensity almost immediately after they happen.",
+            "explanation": "After feeling real relief on the bed, he pivots within minutes to self-criticism ('what is wrong with you') and physical action (unpacking fast so he wouldn't sit there); he also sent a cheerful, deflecting caption ('buena vista') about a parking-garage view right after an emotional goodbye, and says he does this constantly. The pattern of quickly converting feeling into action or lighthearted deflection recurs at least twice in this single experience and is worth him examining.",
+            "evidence": [
+              {
+                "exp": 1,
+                "line": "L32",
+                "quote": "what is wrong with you"
+              },
+              {
+                "exp": 1,
+                "line": "L34",
+                "quote": "I got up and unpacked, like, immediately, in like twenty minutes, because I didn't want to sit there"
+              },
+              {
+                "exp": 1,
+                "line": "L39",
+                "quote": "I do it constantly"
+              }
+            ],
+            "confidence": "medium",
+            "would_predict": "In close relationships, he will likely change the subject, joke, or busy himself right after a partner or friend expresses vulnerable emotion toward him, and may not notice he's doing it.",
+            "exp": 4
+          }
+        ]
+      }
+    ],
+    "synthesis": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "Elmer believes the full truth about hardship must be filtered before it's given to the people he loves or the institutions that judge him.",
+          "explanation": "He edits reality in the same specific way across three separate high-stakes contexts: to the scholarship panel he gives the 'clean' version of his sister's illness and omits the ankle-swelling and his mother's sleeplessness (exp1, L17-24); to his mother in the ER he translates 'this is the kind of thing that can get away from us' into 'just for observation' (exp2, L16-20); and even now, weekly, he opens every family call by asking for the medical number before anything else, as if that's the load-bearing fact he must manage (exp4, L45-48). The mechanism is identical — control the information so the other person (or panel) stays calm or satisfied — and he names the omission as deliberate each time ('It's just I didn't want it to be, like, wet' / 'It's just not the whole thing the lady said').",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "It's just I didn't want it to be, like, wet? Like I didn't want them looking at me a certain way."
+            },
+            {
+              "exp": 2,
+              "quote": "Which is true. That's a true sentence. It's just not the whole thing the lady said."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In a romantic partnership or close friendship, he will give reassuring, edited updates about his own stress or health rather than the full picture, and will feel uneasy if someone tries to get the unabridged version."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Elmer cannot tolerate being witnessed in stillness — he converts every moment of unstructured attention or feeling into a task.",
+          "explanation": "This shows up as chair-stacking after an interview that made his body calm ('I felt way better doing that than I felt in the whole interview,' exp1, L38), as grabbing a stranger's futon the second his own move-in task ends (exp4, L14), and as unpacking immediately after ten minutes of relief so he wouldn't 'sit there' (exp4, L34). It also appears relationally in Mr. Bagwell's room, where two years of being handed laminating and collating work — never questions — is what he calls 'the calmest I've been' (exp3, L56). The recurring shape is: idle time or direct emotional attention arrives, and within moments he has found or invented labor to absorb it. Worth him checking whether he can distinguish 'I am at peace' from 'I have made myself useful' — right now the evidence suggests they may be fused.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "And then I just stood there... And I went over and grabbed the other end of the futon."
+            },
+            {
+              "exp": 3,
+              "quote": "Nothing happened for two years and it was the calmest I've been."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "During a vacation, medical leave, or any enforced period with no one to help and no task to complete, he will report restlessness or low mood disproportionate to the situation, and will invent chores to fill it."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "Elmer treats being directly praised or singled out as more threatening than a genuine emergency.",
+          "explanation": "In the scholarship interview, a kind acknowledgment ('you carry a lot for someone your age') triggers a nonsensical deflection to bus schedules, and his hands press into his legs throughout — more somatic distress than he shows managing an actual ER crisis with fluent bilingual triage (exp1 vs exp2). In exp3, the same allergy appears with a different adult: a counselor's public praise makes him 'itchy' and want to leave, while Mr. Bagwell's silent, praise-free 'alright' is what he calls better. The contrast is sharpest because in the ER he is calm and capable under real stakes, but in two separate moments of being seen well, his body escalates.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "In the interview my hands were doing this thing where I kept pressing them on my legs."
+            },
+            {
+              "exp": 3,
+              "quote": "you're so bright, you're going places' ... I would get so, like, itchy. I'd just want to leave."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "contradiction",
+          "would_predict": "At work, he will underreact or deflect during a formal performance review or public recognition (award, LinkedIn shoutout) even though he handles actual operational fires with composure."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Elmer's real gift is building an invisible, trustworthy information-and-logistics layer that other people don't notice until it's gone — and he has now chosen a career built entirely around staying invisible while indispensable.",
+          "explanation": "The pattern spans three separate settings: real-time bilingual/medical translation and quiet inventory-management in the ER ('I know where the good vending machine is... the insurance card is in the blue folder,' exp2, L28); becoming the informal aide in a classroom, mastering the laminator and getting handed tasks nobody assigned (exp3, L14-17); and, unprompted, physically integrating himself into a stranger's move-in crisis without being asked (exp4, L14). He then explicitly names supply chain — 'stuff has to get places and somebody has to know where it is' — as the closest one-sentence description of what energizes him, connecting a career choice directly to the pattern rather than describing it as a bland fallback.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I know where the good vending machine is and I know you park in the garage across, not the valet"
+            },
+            {
+              "exp": 4,
+              "quote": "And I went over and grabbed the other end of the futon."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "In group projects or a first job, he will end up as the de facto person managing logistics, schedules, or handoffs even without a formal title for it, and will resist taking public credit for that role."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Elmer's most honest emotional signal is a joke or a non-sequitur sent immediately after something true has almost surfaced.",
+          "explanation": "After a doctor delivers frightening news, he deflects his mother with a technically-true reassurance and then unpromptedly buys her a coffee she didn't ask for (exp2, L16-25) — action standing in for the feeling he didn't voice. After his family leaves him at college and something 'let go' in his chest, he immediately texts a cheerful 'buena vista' captioning a parking garage, which he flags himself as compulsive ('I do it constantly,' exp4, L38-39). Both moments follow the same arc: genuine feeling rises, gets noticed by him, and is immediately covered by a small caretaking or lighthearted gesture rather than being stated. He might check what happens if he lets the sentence finish before he swerves.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "And then I went and got her a coffee she didn't ask for."
+            },
+            {
+              "exp": 4,
+              "quote": "I don't know why I said that. I do it constantly."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "In a future close relationship, when a partner expresses hurt or affection directly, he will likely respond with a helpful gesture or a joke before, or instead of, naming his own feeling back."
+        },
+        {
+          "category": "core_values",
+          "headline": "Elmer consistently prioritizes other people's composure over his own claim to acknowledgment, even when it costs him credit or comfort.",
+          "explanation": "He edits his sister's story to protect the panel's comfort rather than his own chance to look more sympathetic (exp1), softens the doctor's warning to protect his mother's ability to sleep that night rather than fully informing her (exp2), and has kept a drafted thank-you email to Mr. Bagwell unsent for over a year specifically because voicing his own gratitude/need felt like 'making it into a bigger deal than it was' (exp3, L47-48). In each case the cost is his own: a less compelling interview answer, a mother left less informed, a mentor never thanked. This is a value only if it's costly, and each instance shows him choosing the other person's ease over his own accurate expression.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "dice que la quieren dejar para observación nada más, para vigilarla"
+            },
+            {
+              "exp": 3,
+              "quote": "it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "recurrence",
+          "would_predict": "He will delay or avoid asking for a raise, recommendation letter, or favor even from people who clearly owe or care for him, framing the ask to himself as excessive."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Elmer reads physical, wordless gestures from his father as the primary language of approval, and seems more fluent in receiving love this way than verbally.",
+          "explanation": "At move-in, his father's version of saying he's proud is inspecting the countertop joints and putting a hand on his neck for a second (exp4, L18-21) — Elmer immediately and correctly decodes this ('that's how he said he was proud of me, I think') without needing words. This mirrors his read of Mr. Bagwell, where a face-down test with 'alright' registers as more meaningful than the counselor's spoken praise (exp3, L29-31). Both men communicate through minimal, physical, or task-based signals, and Elmer treats both as legible and safe. Worth exploring whether he seeks out or thrives specifically under low-verbal, high-action forms of care, and whether that shapes who he trusts.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "he put his hand on my neck for like a second... And that's how he said he was proud of me, I think"
+            },
+            {
+              "exp": 3,
+              "quote": "he put it on my desk face down and said 'alright.' That's it... honestly that was better"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "kind": "unnamed_constant",
+          "would_predict": "He will describe future mentors, bosses, or partners he feels closest to as people who 'don't make a big deal of things' or 'just show up,' and will be less responsive to relationships built primarily around verbal affirmation."
+        }
+      ]
+    },
+    "delivery": {
+      "insights": [
+        {
+          "category": "defining_beliefs",
+          "headline": "You believe the full truth about hardship has to be filtered before you hand it to the people you love or the people judging you.",
+          "explanation": "You edit reality the same way in three separate high-stakes moments: to the scholarship panel you gave the 'clean' version of your sister's illness and left out the ankle-swelling and your mom's sleepless kitchen-cleaning; to your mom in the ER you turned 'this is the kind of thing that can get away from us' into 'para observación nada más'; and now, weekly, the first thing you ask on every call is Cami's numbers, before you even say hi. Each time you name the omission yourself — 'It's just I didn't want it to be, like, wet' and 'It's just not the whole thing the lady said' — so this isn't unconscious, it's a rule you're following on purpose.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "It's just I didn't want it to be, like, wet? Like I didn't want them looking at me a certain way."
+            },
+            {
+              "exp": 2,
+              "quote": "Which is true. That's a true sentence. It's just not the whole thing the lady said."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: seeing the same edited-truth move show up with a partner or friend outside your family. Would lower: a case where you volunteered the hard, unflattering version unprompted.",
+          "would_predict": "In a close relationship, you'll give reassuring, edited updates about your own stress or health rather than the full picture, and you'll feel uneasy if someone pushes for the unabridged version."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You can't stay still inside a moment of attention or feeling — you convert it into a task almost immediately.",
+          "explanation": "After a scholarship interview that made your hands press into your legs, stacking hotel chairs afterward made your 'whole body calm' — more than the interview itself did. Weeks later, the second your own move-in task ended you grabbed a stranger's futon, and after ten minutes of relief on your bed you got up and unpacked immediately 'because I didn't want to sit there.' Two years of being handed laminating and collating work by Mr. Bagwell, with no questions asked, is what you call 'the calmest I've been.' The pattern is consistent: idle time or direct emotional attention shows up, and within minutes you've found or made labor to absorb it.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "And then I just stood there... And I went over and grabbed the other end of the futon."
+            },
+            {
+              "exp": 3,
+              "quote": "Nothing happened for two years and it was the calmest I've been."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: noticing this in a low-stakes setting with no observer present at all. Would lower: a documented stretch where you sat with unstructured time and felt fine.",
+          "would_predict": "During a vacation, medical leave, or any stretch with no one to help and no task to do, you'll report restlessness or low mood out of proportion to the situation, and you'll invent chores to fill it."
+        },
+        {
+          "category": "defining_beliefs",
+          "headline": "You find being singled out for praise more threatening than an actual emergency.",
+          "explanation": "In the scholarship interview, a kind line — 'you carry a lot for someone your age' — made you deflect into bus schedules while your hands pressed into your legs, more somatic distress than you showed running fluent bilingual triage in the ER hours after your sister's flare. The same allergy shows up with a different adult: a counselor's public praise made you 'itchy' and want to leave, while Mr. Bagwell's silent, praise-free 'alright' was, in your words, better. You're composed under real stakes and destabilized by being seen well.",
+          "evidence": [
+            {
+              "exp": 1,
+              "quote": "In the interview my hands were doing this thing where I kept pressing them on my legs."
+            },
+            {
+              "exp": 3,
+              "quote": "you're so bright, you're going places' ... I would get so, like, itchy. I'd just want to leave."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: the same reaction in a workplace performance review. Would lower: an instance of receiving direct praise calmly.",
+          "would_predict": "At work, you'll underreact or deflect during a formal review or public recognition even though you handle actual operational fires with composure."
+        },
+        {
+          "category": "zone_of_genius",
+          "headline": "Your real gift is building an invisible logistics layer that people only notice once it's gone — and you've picked a career built to keep you invisible while indispensable.",
+          "explanation": "You ran real-time bilingual translation and quiet inventory management in the ER ('I know where the good vending machine is... the insurance card is in the blue folder'), became the informal aide in Mr. Bagwell's classroom without being assigned to, and physically inserted yourself into a stranger's move-in crisis unasked, grabbing the other end of a futon. You then named supply chain as the closest one-sentence description of what energizes you — 'stuff has to get places and somebody has to know where it is' — tying the career choice directly to the pattern rather than treating it as a fallback.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "I know where the good vending machine is and I know you park in the garage across, not the valet"
+            },
+            {
+              "exp": 4,
+              "quote": "And I went over and grabbed the other end of the futon."
+            }
+          ],
+          "confidence": "high",
+          "scope": "cross",
+          "confidence_note": "Would raise: this role recurring in a group project or first job without a title attached. Would lower: you actively seeking credit or visibility for logistics work you've done.",
+          "would_predict": "In group projects or your first job, you'll end up as the de facto person managing logistics or handoffs even without a formal title, and you'll resist taking public credit for it."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "Your most honest emotional signal is a joke or non-sequitur fired off right after something true almost surfaces.",
+          "explanation": "After a doctor delivered frightening news, you deflected your mom with a technically-true reassurance and then, unprompted, bought her a coffee she didn't ask for — action standing in for a feeling you didn't say out loud. After your family drove off and 'something let go' in your chest, you immediately texted a cheerful 'buena vista' about a parking garage, and you flagged it yourself: 'I don't know why I said that. I do it constantly.' Both times, real feeling rises, you notice it, and you cover it with a small gesture or joke rather than stating it.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "And then I went and got her a coffee she didn't ask for."
+            },
+            {
+              "exp": 4,
+              "quote": "I don't know why I said that. I do it constantly."
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise: a third instance in a non-family relationship. Would lower: a moment where you named the feeling directly instead of swerving.",
+          "would_predict": "In a future close relationship, when a partner expresses hurt or affection directly, you'll likely respond with a helpful gesture or a joke before, or instead of, naming your own feeling back."
+        },
+        {
+          "category": "core_values",
+          "headline": "You consistently put other people's composure ahead of your own claim to acknowledgment, even when it costs you credit or comfort.",
+          "explanation": "You edited your sister's story to protect the panel's comfort rather than your own chance to look more sympathetic, softened the doctor's warning to protect your mom's ability to sleep rather than fully informing her, and have kept a drafted thank-you email to Mr. Bagwell unsent for over a year because voicing your own gratitude felt like 'making it into a bigger deal than it was.' Each time the cost lands on you: a less compelling answer, a mother left less informed, a mentor never thanked.",
+          "evidence": [
+            {
+              "exp": 2,
+              "quote": "dice que la quieren dejar para observación nada más, para vigilarla"
+            },
+            {
+              "exp": 3,
+              "quote": "it sounds like I want something. Or it sounds like I'm making it into a bigger deal than it was"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise: a case where you clearly asked for something for yourself and held the ask. Would lower: evidence the withheld thank-you was about something other than this pattern (e.g. simple procrastination).",
+          "would_predict": "You'll delay or avoid asking for a raise, recommendation letter, or favor even from people who clearly care about you, framing the ask to yourself as excessive."
+        },
+        {
+          "category": "patterns_to_explore",
+          "headline": "You read wordless, physical gestures from your father as the clearest language of approval — more fluent than verbal praise.",
+          "explanation": "At move-in, your father's way of saying he was proud was inspecting the lobby countertop joints and putting his hand on your neck for a second — you decoded it instantly: 'that's how he said he was proud of me, I think.' It mirrors how you read Mr. Bagwell, where a face-down test with a flat 'alright' landed as more meaningful than the counselor's spoken praise. Both men speak through minimal, physical, or task-based signals, and you treat both as legible and safe — worth checking whether you specifically seek out low-verbal, high-action care and go cold on relationships built around verbal affirmation.",
+          "evidence": [
+            {
+              "exp": 4,
+              "quote": "he put his hand on my neck for like a second... And that's how he said he was proud of me, I think"
+            },
+            {
+              "exp": 3,
+              "quote": "he put it on my desk face down and said 'alright.' That's it... honestly that was better"
+            }
+          ],
+          "confidence": "medium",
+          "scope": "cross",
+          "confidence_note": "Would raise: a third example with a different low-verbal adult. Would lower: you naming a verbally-affirming relationship as one where you also felt safe and close.",
+          "would_predict": "You'll describe future mentors, bosses, or partners you feel closest to as people who 'don't make a big deal of things' or 'just show up,' and you'll be less responsive to relationships built mainly around verbal affirmation."
+        }
+      ]
+    }
+  },
+  "generation": "v1",
+  "model": "claude-sonnet-5",
+  "cost_usd": 1.3885,
+  "latency_ms": 182141,
+  "persona": "p10_freshman",
+  "n_experiences": 4,
+  "condition": "v1__mid",
+  "frozen_at": "2026-09-18T16:05:46.037976+00:00"
+}

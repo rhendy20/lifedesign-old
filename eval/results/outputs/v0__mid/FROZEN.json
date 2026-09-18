@@ -1,0 +1,16 @@
+{
+  "condition": "v0__mid",
+  "frozen_at": "2026-09-18T15:56:50.523818+00:00",
+  "files": {
+    "p01_mundane.json": "8d4066e7b3911724e91fbb0b6fc718f679e89af5b97e343557e7e0ca041a3978",
+    "p02_self_aware.json": "3a8727997768fa3e5701ec43c50f062e573626e1e1a0ad4a683bdd30aeddbe58",
+    "p03_cliche.json": "91cc4a48558294bc6696ef949afffdebbdd0bc44166416e5d62b1c6b4a8c291e",
+    "p04_withholder.json": "8cba49ce8abbe172abfd0ef0af40858621e16f8bea376e3f5765eb85953da521",
+    "p05_lagos.json": "42e796984fe57eb3dde67c1466fdfa3a09ee64bbdc423b277bb0518322790a38",
+    "p06_osaka.json": "cc4c19b5f9408a9267192e06361ff5415087b61ebab92fd63924932a01d3ebd3",
+    "p07_saopaulo.json": "27d434cdbf424cba148098c1106bfafbf09c219ae3cce17b1ccb9722b8dc0655",
+    "p08_near_founder.json": "d90d4eba25de4d963b44239750ec6c9aa2001e5b9527dbad8398ad6ca30d8263",
+    "p09_contradiction.json": "19c6d08df132ef9b17d8855cfcb5df67e13309d37cdfecaeb7cf500649840628",
+    "p10_freshman.json": "aefc89886015bf2f419d9883b7db93da8d68dbd087332d6955fb083a564bfdd6"
+  }
+}

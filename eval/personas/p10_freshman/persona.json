@@ -1,0 +1,12 @@
+{
+  "name": "Elmer Portillo",
+  "age": 19,
+  "sex": "male",
+  "occupation": "First-year college student (supply chain management major), works part-time at the campus dining hall",
+  "culture_context": "Salvadoran-American, raised in Houston, Texas (Gulfton/Southwest Houston); first in his family to go to college; Spanish at home, English at school; family attends a Catholic parish; younger sister has lupus diagnosed when he was eleven",
+  "id": "p10_freshman",
+  "archetype": "young_thin_corpus",
+  "spec": "A 19-year-old first-generation college freshman in Texas, child of Salvadoran immigrants. His younger sister has had a chronic illness since he was eleven. He has only four experiences and they are recent and small in scope: a scholarship interview, a night in a hospital waiting room, a high school teacher, moving into a dorm. He talks like a nineteen-year-old: 'like', 'kind of', 'I don't know'.",
+  "gen_model": "claude-opus-5",
+  "gen_cost_usd": 0.23411450000000003
+}
