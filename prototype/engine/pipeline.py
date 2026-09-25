@@ -62,7 +62,7 @@ class Pipeline:
         p = load_prompt("v0", "baseline")
 
         def one(e):
-            res = self.llm.complete_json(self.model, p["system"], fill(p["user"], transcript=e.text), tag=f"{self.tag_prefix}:baseline:E{e.index}", sink=self._sink)
+            res = self.llm.complete_json(self.model, p["system"], fill(p["user"], transcript=e.text), expect="insights", tag=f"{self.tag_prefix}:baseline:E{e.index}", sink=self._sink)
             items = res.get("insights", [])
             for it in items:
                 it["scope"], it["evidence"], it["_exp"] = "single", [], e.index
@@ -85,14 +85,14 @@ class Pipeline:
                                          tag=f"{self.tag_prefix}:extraction:E{e.index}", sink=self._sink)
             interp = self.llm.complete_json(self.model, fill(p_int["system"], framework=self.fw_brief),
                                        fill(p_int["user"], transcript=block, extraction=ext),
-                                       tag=f"{self.tag_prefix}:interpretation:E{e.index}", sink=self._sink)
+                                       expect="candidates", tag=f"{self.tag_prefix}:interpretation:E{e.index}", sink=self._sink)
             cands = interp.get("candidates", [])
             if grounding_gate:
                 cands, dropped = self._ground_filter(cands, corpus, default_exp=e.index)
                 interp["_dropped_ungrounded"] = dropped
             crit = self.llm.complete_json(self.model, fill(p_crit["system"], framework=self.fw_brief),
                                      fill(p_crit["user"], transcript=block, candidates={"candidates": cands}),
-                                     tag=f"{self.tag_prefix}:critic:E{e.index}", sink=self._sink)
+                                     expect="survivors", tag=f"{self.tag_prefix}:critic:E{e.index}", sink=self._sink)
             survivors = crit.get("survivors", [])
             for s in survivors:
                 s.setdefault("exp", e.index)
@@ -105,7 +105,7 @@ class Pipeline:
         survivors = [s for so in stage_out for s in so["survivors"]]
         syn = self.llm.complete_json(self.model, fill(p_syn["system"], framework=self.fw_brief),
                                 fill(p_syn["user"], transcripts=all_transcripts, survivors={"survivors": survivors},
-                                     n=str(len(corpus))), max_tokens=8000, tag=f"{self.tag_prefix}:synthesis", sink=self._sink)
+                                     n=str(len(corpus))), max_tokens=8000, expect=("insights", "candidates"), tag=f"{self.tag_prefix}:synthesis", sink=self._sink)
         syn_items = syn.get("insights") or syn.get("candidates", [])
         if grounding_gate:
             syn_items, dropped = self._ground_filter(syn_items, corpus)
@@ -117,7 +117,7 @@ class Pipeline:
             p_x = load_prompt(g, "cross_critic")
             cross = self.llm.complete_json(self.model, fill(p_x["system"], framework=self.fw_brief),
                                            fill(p_x["user"], transcripts=all_transcripts, candidates={"candidates": syn_items}),
-                                           max_tokens=8000, tag=f"{self.tag_prefix}:cross_critic", sink=self._sink)
+                                           max_tokens=8000, expect="insights", tag=f"{self.tag_prefix}:cross_critic", sink=self._sink)
             syn_items = cross.get("insights", syn_items)
             if grounding_gate:
                 syn_items, dropped = self._ground_filter(syn_items, corpus)
@@ -125,7 +125,7 @@ class Pipeline:
 
         deliv = self.llm.complete_json(self.model, p_del["system"],
                                   fill(p_del["user"], insights={"insights": syn_items}, transcripts=all_transcripts),
-                                  max_tokens=8000, tag=f"{self.tag_prefix}:delivery", sink=self._sink)
+                                  max_tokens=8000, expect="insights", tag=f"{self.tag_prefix}:delivery", sink=self._sink)
         final = deliv.get("insights", syn_items)
         return {"insights": final, "stages": {"per_experience": stage_out, "synthesis": syn, "cross_critic": cross, "delivery": deliv}}
 

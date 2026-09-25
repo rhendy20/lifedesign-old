@@ -1,0 +1,188 @@
+{
+  "persona": "p08_near_founder",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.401635,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Cleanly names the asymmetry — intolerable when measured, loving when he holds the measure — with the right evidence (Kaylee, QBR decks, private touch spreadsheet, Council doc).",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x002",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures intimacy-via-artifact and the six-minute ceiling on unstructured presence; ties father's clipboard to the agenda doc without his framing.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x003",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Largely restates a throughline he states himself ('my dad had the truck, I've got the doc'); the insight even concedes he names it.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x004",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Misattributes follow-through: Everton is the one who initiates every New Year's; predicting an actively maintained unstructured long friendship runs against the role-mediated friendship pattern.",
+      "note": "Praise dressed as insight; evidence shows the other person sustaining contact.",
+      "condition": "v3__mid",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x005",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates the 100%-ownership trade he already narrates explicitly, including the 'but I sleep' framing.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Same asymmetry as x001 but thinner — only the downward half is evidenced; still non-obvious against his stated autonomy value.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x007",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly isolates preemption as the signature move (quit Monday, letter before transfers, notice before reorg) rather than a values story.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x008",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Observation of a common self-deprecating hedge; the appended prediction (he'd credit team over self) sits uneasily with how proudly he claims the wall.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x009",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Measurement as tolerance for uncontrollable waiting is a step past 'systems guy'; health-tracking prediction is consistent with undiscussed behaviour but stays close to known territory.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x010",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Mostly catalogues the boards/spreadsheets he already jokes about; the control caveat is the only added edge.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Sharp somatic read — relief is described more vividly than wanting — but stops short of the exit-timing-plus-narration pattern.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x012",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Adjacent logistical over-delivery as substitute for repair; the missed first call → Costco trays link is genuinely earned.",
+      "condition": "v3__mid",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x013",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Reframes an episode he already tells as his proudest as 'genius'; praise more than discovery, though it avoids the delegator decoy.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Parallel-measurement refinement is a real observation; 'loyalty is to the measurement system, not the people' overreaches slightly but is traceable.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x015",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Nails the odd-hours redundant labor as discharge (garage twice, 2am regrout) and that he doesn't recognize it as anxiety.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x016",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Exact preemptive-exit-plus-retroactive-narrative pattern with the timing evidence; brushes the scoreboard habit without developing it.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    }
+  ]
+}

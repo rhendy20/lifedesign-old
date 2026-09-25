@@ -59,3 +59,25 @@ Phase-boundary log. What shipped, what the score was, what changed.
 **Frozen for the tier comparison: v3.** v2 and v3 are indistinguishable on every judged metric; v3 is the latest generation with 100% grounding and the full stage set, and the Haiku run of it was already underway. v2 is the cost-efficient equivalent (17% cheaper) and is noted as such in DECISION.md.
 
 **Spend**: $48.18 of the raised $100 ceiling (see OPEN-QUESTIONS Q12).
+
+## Phase 4 boundary — tier comparison (2026-09-18 → 2026-09-25)
+
+**Shipped**: frozen v3 run on Fable (3 personas, $30), Haiku (10 personas), Sonnet (10, from Phase 2). Two blind pooled score sets:
+`0dcb6f16` (three tiers, three personas) and `c7c379d2` (Sonnet vs Haiku, ten personas). A Claude Code session limit
+interrupted set B; three personas were re-scored a week later into the same set (OPEN-QUESTIONS Q13).
+
+| pool | tier | depth≥3 | hit recall | FP | $/exp |
+|---|---|---|---|---|---|
+| A (3 personas) | Fable | 93% | 80% | 0% | 2.01 |
+| A | Sonnet | 52% | 33% | 0% | 0.20 |
+| A | Haiku | 44% | 53% | 8% | 0.14 |
+| B (10 personas) | Sonnet | 62% | 54% | 4% | 0.22 |
+| B | Haiku | 52% | 56% | 13% | 0.15 |
+
+**Found along the way**: the judge's absolute scale shifts with pool composition (same v3 outputs: 77% / 63% / 52%).
+FINDINGS corrected; all comparisons now reported within-pool.
+
+## Phase 5 boundary — deliverables (2026-09-25)
+
+FINDINGS.md, DECISION.md, INSIGHTS.md, prototype README, eval README, changelog complete. The first end-to-end prototype run failed and exposed a CLI context leak (OPEN-QUESTIONS Q16). After the fix, the prototype ran clean in one command
+(see the verification note in prototype/README.md). Committed outputs were redacted and re-frozen. **Total spend: about $95 of the $100 ceiling.**

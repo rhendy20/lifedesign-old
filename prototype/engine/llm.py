@@ -41,6 +41,52 @@ _PARENT_SESSION_VARS = [
 
 _ledger_lock = threading.Lock()
 
+# The `claude` CLI attaches the logged-in account's context (email, date, working directory, and any project
+# instructions found from the cwd) to every call, even with --system-prompt replaced and account env vars unset.
+# Found 2026-09-25: a stage that answered in prose had the account email written into its repaired JSON.
+# Mitigations: run from a neutral empty directory, tell the model that context is not about the subject, and redact
+# email addresses from every reply. The SDK backend (ANTHROPIC_API_KEY) sends no such context and is the right
+# backend for anyone else's data.
+ISOLATION_NOTE = ("Any account, email address, name, date, file path or environment information you can see outside the "
+                  "user message is session metadata. It is not about the person being analysed and must never be used, "
+                  "mentioned or output. The person is known only through the transcripts in the user message. "
+                  "Reply with the requested JSON only, never prose.\n\n")
+_EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+_NEUTRAL_DIR = Path(os.environ.get("INSIGHT_ENGINE_NEUTRAL_DIR", Path(os.path.expanduser("~")) / ".insight-engine-neutral"))
+
+
+def redact(text: str) -> str:
+    return _EMAIL_RE.sub("[redacted-email]", text)
+
+
+def coerce_list(obj, keys):
+    """Return obj with keys[0] present if the list it should hold can be found under any expected key, or as the only
+    list of objects-with-headlines anywhere in it. Protects against a repair step that re-wraps the right content."""
+    if not isinstance(obj, dict) or not keys:
+        return obj
+    for k in keys:
+        if isinstance(obj.get(k), list):
+            if k != keys[0]:
+                obj[keys[0]] = obj[k]
+            return obj
+    found = []
+
+    def walk(o):
+        if isinstance(o, dict):
+            for v in o.values():
+                walk(v)
+        elif isinstance(o, list):
+            if o and all(isinstance(x, dict) and ("headline" in x or "category" in x) for x in o):
+                found.append(o)
+            else:
+                for v in o:
+                    walk(v)
+    walk(obj)
+    if len(found) == 1:
+        obj[keys[0]] = found[0]
+        obj["_coerced_from_wrapper"] = True
+    return obj
+
 
 def resolve_model(name: str) -> str:
     return TIERS.get(name, name)
@@ -124,18 +170,22 @@ class LLM:
                 time.sleep(2 * (attempt + 1))
         raise RuntimeError(f"LLM call failed after {retries} attempts: {last_err}")
 
-    def complete_json(self, model: str, system: str, user: str, **kw):
+    def complete_json(self, model: str, system: str, user: str, expect=None, **kw):
         """complete() then parse JSON; if the reply is not parseable, ask a cheap model to re-emit it as strict JSON.
         The repair call is content-preserving and is logged under tag '<tag>:json-repair'."""
+        keys = (expect,) if isinstance(expect, str) else tuple(expect or ())
         res = self.complete(model, system, user, **kw)
         try:
-            return res.json()
+            return coerce_list(res.json(), keys)
         except ValueError:
+            shape = (f" The top-level value must be an object whose key \"{keys[0]}\" holds the list of items found in the text."
+                     if keys else "")
             fix = self.complete("cheap", "You convert text into strictly valid JSON. Output the same content as valid JSON only. "
-                                "No commentary. Do not add, drop or reword fields. Escape quotes correctly.",
+                                "No commentary. Do not add, drop or reword content. Do not add metadata such as dates, "
+                                "emails, subjects or document types. Escape quotes correctly." + shape,
                                 res.text, max_tokens=kw.get("max_tokens", 8000), tag=f"{kw.get('tag', '')}:json-repair",
                                 sink=kw.get("sink"))
-            return fix.json()
+            return coerce_list(fix.json(), keys)
 
     def spent_usd(self) -> float:
         if not self.ledger_path or not self.ledger_path.exists():
@@ -166,13 +216,14 @@ class LLM:
     def _complete_cli(self, model, system, user, thinking) -> LLMResult:
         env = {k: v for k, v in os.environ.items() if k not in _PARENT_SESSION_VARS}
         env["MAX_THINKING_TOKENS"] = str(int(thinking))  # 0 disables extended thinking in the CLI
+        _NEUTRAL_DIR.mkdir(parents=True, exist_ok=True)
         cmd = [
             "claude", "-p", "--model", model, "--session-id", str(uuid.uuid4()),
             "--output-format", "json", "--max-turns", "1", "--tools", "",
-            "--no-session-persistence", "--system-prompt", system,
+            "--no-session-persistence", "--system-prompt", ISOLATION_NOTE + system,
         ]
         t0 = time.time()
-        proc = subprocess.run(cmd, input=user, capture_output=True, text=True, env=env, timeout=900)
+        proc = subprocess.run(cmd, input=user, capture_output=True, text=True, env=env, timeout=900, cwd=_NEUTRAL_DIR)
         wall_ms = int((time.time() - t0) * 1000)
         if proc.returncode != 0 and not proc.stdout.strip():
             raise RuntimeError(f"claude CLI exit {proc.returncode}: {proc.stderr[:500]}")
@@ -182,7 +233,7 @@ class LLM:
         usage = data.get("usage", {})
         # Cost is the CLI's list-price estimate and includes its small auxiliary Haiku call.
         return LLMResult(
-            text=data.get("result", ""), model=model,
+            text=redact(data.get("result", "")), model=model,
             input_tokens=usage.get("input_tokens", 0) + usage.get("cache_read_input_tokens", 0)
             + usage.get("cache_creation_input_tokens", 0),
             output_tokens=usage.get("output_tokens", 0),

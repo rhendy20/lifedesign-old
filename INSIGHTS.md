@@ -2,7 +2,7 @@
 
 **Read this first, then read the scores. Robert's corpus was not supplied, so none of these are about Robert.** They are the
 engine's best output about ten synthetic people whose authors planted hidden truths in a separate context. Each entry is verbatim
-from the frozen v3 output on Sonnet 5, ranked by the blind judge's depth score (set `50d0a4d5`), capped at two per person.
+from the frozen v3 output on Sonnet 5, ranked by the blind judge's depth score (set `50d0a4d5`), capped at two per person. A short second section adds the best three from the Fable tier, which was run on three personas only.
 "Hit" means the judge matched it to a truth the persona's author planted and the narrator never named. "Grounded" means every
 quote was found verbatim in the transcript by code. The planted truth is shown after each hit so you can judge the match yourself.
 
@@ -156,4 +156,62 @@ _Would predict:_ Health and Wellness: Mental and emotional health — facing a p
 _Planted truth it matched (judge-only file):_ She is soothed by codified procedure and external authority structures far more than by people; ambiguity and 'connections' culture frighten her, and following an ordered sequence is how she regulates her own emotion.
 
 _Judge note:_ Arithmetic-as-anxiety-management traced across three episodes with a plausible health prediction.
+
+
+---
+
+# Fable tier: best three (pool `0dcb6f16`, three personas)
+
+Same frozen v3 pipeline, same transcripts, Fable 5.1 instead of Sonnet 5. Scored blind in a pool with the Sonnet and Haiku outputs for the same people. Compare F1 with Sonnet's best for the same man. Sonnet described what he does. Fable heard two stories, told decades apart, rhyme.
+
+## F1. The fly rod is the tractor again thirty-five years later, finished, stored at an exact address, and not handed over, and you tell both stories without hearing the rhyme.
+
+_Robert "Bob" Kwiatkowski, 61, Retired machinist (CNC/manual toolroom, 40 yrs) (withholder) · patterns_to_explore · confidence high · judge depth **4** · **hit** on planted truth #0 · grounded_
+
+E2: three weeks of lunches, keyway broached, Deere green, on the shelf by the breaker panel for Nick's whole life. E5: cork turned, wraps in Cascade green for his hockey colors, finished in June, in the tube in the spare room closet with "I'll see." Both are made with exact fidelity to Nick, both are placed rather than given, and both get a deferral ("you don't give a baby," "I'll see") that covers the first weeks and nothing after. My framing: the making is the gift you can perform; the handover requires standing in the room while Nick reacts, which is the one act missing from every Nick scene. Both objects get a precise storage location, and in E2 you correct yourself mid-sentence to get the location right, so forgetting is ruled out; the imprecision is reserved for the moment of giving.
+
+> “took me three weeks of lunches” — _The night Nick was born_
+> “It's on the shelf by the breaker panel.” — _The night Nick was born_
+> “wraps in green 'cause Cascade green was his hockey colors when he was little” — _Last day at the shop_
+> “It's in the closet in the spare room in the tube.” — _Last day at the shop_
+
+_Would predict:_ Relationships / Family and parenting: the basement holds other finished objects made for named people that were never delivered, and Nick, asked what his father has made him, will name nothing.
+
+_Planted truth it matched (judge-only file):_ Making or repairing a physical object is his only channel for love, and the gift is almost always undelivered, anonymous, or done while the person is absent — so it never obliges anyone to respond.
+
+_Judge note:_ Tractor-and-rod rhyme is the planted claim at full strength, and the undelivered-objects prediction extends it correctly.
+
+## F2. You believe that to be helped is to be held, so a decision only enters the family once it is already done; your own explanation (sparing five people disappointment) leaves out E2, where what you were sparing was yourself a year of being owned.
+
+_Temitope Adebayo-Ogunyemi, 24, Final-year nursing student (BNSc), Lagos; part-time clinical placements at a general hospital (different_life_shape) · defining_beliefs · confidence high · judge depth **4** · **hit** on planted truth #0 · grounded_
+
+E2 gives the mechanism in your own metaphor: help makes you "walk in a way that doesn't disturb their hand", and one phone call would mean "every conversation will have that inside it" for a year. E3 you bring the printout after admission; E5 you will speak "when it is already done". In E5 you link E3 and E5 yourself ("I never thought about that") but not E2, and E2 is the story that shows the secrecy is not only altruism: what you pre-empt is a claim on you, not their sadness. The word "hold" recurs unprompted in E2 and E5 for both money and knowledge, and disclosure is always a finished object handed over. Counted: three of five stories have a fait-accompli reveal; E1 and E4 contain no family-facing decision to disclose.
+
+> “It's like, when somebody is holding you up, you start to walk in a way that doesn't disturb their hand.” — _Aunty Funmi and the brown envelope_
+> “Because the moment I say it, it becomes a thing that everybody is holding, and then if it doesn't work, I'm not the only one that it didn't work for.” — _The IELTS I didn't tell anybody about_
+> “I told him after, when the admission list came out, I brought the printout and I said Daddy, see, I got admission, and he looked at it and he said, nursing.” — _Under the shelter at Ojota_
+> “I never thought about that.” — _The IELTS I didn't tell anybody about_
+
+_Would predict:_ Relationships (marriage and partnership): a future partner will first hear about a job application, a course or a move when the acceptance letter exists; if the partner names this as being shut out you will list the reasons it was kinder.
+
+_Planted truth it matched (judge-only file):_ She systematically withholds bad or uncertain news from the people closest to her until she has already solved it, so that she delivers a finished fact rather than a shared problem; she experiences this as protection, not secrecy.
+
+_Judge note:_ Nails the fait-accompli disclosure rule and adds the E2 'being owned' motive; partner prediction matches the romance domain prediction.
+
+## F3. Contrition and tenderness are spoken only where no reply is possible or the reply is guaranteed absolution; Malachi's "it's cool" is the only living reply you accept.
+
+_Yolanda "Yoli" Pryor, 47, Emergency department charge nurse (stated_vs_lived_contradiction) · patterns_to_explore · confidence high · judge depth **3** · **hit** on planted truth #3 · grounded_
+
+Forty apologies to a GCS of three; "I'm sorry it's so cold" to a posturing five-year-old; "baby I'm sorry" to Malachi, answered "it's cool" twice and taken at face value. Against that: Cheryl to voicemail, Marcus not autopsied, no word to Kessler, Ghaffari, or the administrator. Apology to a responsive adult peer: 0 of 5. E5 tests the pattern with a living recipient and it holds: the apology reaches Malachi because his answer cannot open anything. You count the apologies to the boy ("forty times") and give the child's apology in full; the apology to Malachi is three words and his reply is reported twice, closing the scene. You read Brianna's shaking hands as fear that must be treated; you read Malachi's "it's cool" as the end of the matter. What this protects you from is being answered with a real grievance.
+
+> “I said it probably forty times.” — _The young man I stayed with_
+> “I saw her name on the phone and I let it go to voicemail.” — _The young man I stayed with_
+> “Malachi said, "It's cool, Ma." And I said baby I'm sorry, and he said it's cool.” — _Teaching Brianna, and Malachi's birthday_
+> “I'm like, the patient expired, let's move.” — _The night of the four gunshots_
+
+_Would predict:_ Relationships (Friendships and community): Patrice, the one friend who reads you, will be the friend you see least one-on-one; you will keep her close in groups and at events where nothing can be said back.
+
+_Planted truth it matched (judge-only file):_ She performs verbal repair — apology, tenderness, explanation — only toward people who cannot respond (unconscious, dying, dead), and avoids it entirely with living intimates.
+
+_Judge note:_ Precisely captures apology reserved for those who cannot answer, with Malachi's 'it's cool' as the only living reply she accepts.
 

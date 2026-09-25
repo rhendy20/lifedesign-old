@@ -103,3 +103,35 @@ frozen architecture would be roughly $90 on top of $36 already spent.
 (withholder, stated-vs-lived contradiction, different life shape: Lagos); Haiku runs on all ten. The three-tier comparison is
 reported on the identical three-persona corpus, and the Haiku-vs-Sonnet comparison on all ten. This is the reversible choice:
 the subset can be widened later by anyone with budget; the ceiling cannot be un-spent.
+
+## Q13. The tier scoring hit a Claude Code session limit mid-run.
+
+Three personas in the Sonnet-vs-Haiku pool failed with "You've hit your session limit". They were re-scored a week later
+into the same score set, with the same judge and the same pooled blind method. No engine output was regenerated; all were frozen before the limit hit.
+
+## Q14. The judge's absolute scale depends on what is in the pool.
+
+The same frozen v3 Sonnet outputs scored 77% deep next to v0–v2, 63% next to Haiku, and 52% next to Fable.
+**Assumption:** report every comparison inside its pool and name the pool, and never compare absolute percentages across pools.
+Rankings held inside every pool. FINDINGS.md was corrected: an earlier draft claimed the judge was stable within 3 points,
+which was true only across similar pools.
+
+## Q15. Is Fable's lead the model, or reasoning the setting failed to suppress?
+
+Fable produced 28k output tokens per experience against Sonnet's 12k with `MAX_THINKING_TOKENS=0` set for both.
+**Assumption:** reported as model-plus-possible-reasoning. Separating them needs the SDK path with thinking explicitly
+disabled and the usage fields inspected; not done here because the API key was not available.
+
+## Q16. The CLI backend leaks the logged-in account's context into every call.
+
+Found 2026-09-25 when the first end-to-end prototype run failed. The `claude` CLI adds the account email, the date and the working
+directory to every call. Run from the repo, it also adds project context that names Robert. This happens even with
+`--system-prompt` replaced and the account environment variables unset; `--bare` removes it but breaks authentication.
+In 9 of the 30 v2/v3 Sonnet outputs, a delivery stage answered in prose and the JSON-repair step invented a document
+wrapper with the email in it. **Impact on results: none on scores.** The email sat only in raw stage records, never in a scored
+insight. In those 9 outputs the final insights are the cross-critic or synthesis wording rather than the delivery rewording.
+**Fixed:** neutral working directory, an isolation note on every stage, email redaction on every reply, and a schema-aware
+repair step. The prototype then ran clean with no repairs. The committed outputs were redacted and re-frozen with an amendment note.
+**Not fixed:** the email is still in this branch's git history (commits before the redaction). It is Robert's own email in his own
+repository; rewriting pushed history was not done. **Rule for the platform:** use the SDK backend (`ANTHROPIC_API_KEY`) for any
+data that is not the logged-in user's own.

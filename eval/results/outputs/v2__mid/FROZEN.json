@@ -3,14 +3,20 @@
   "frozen_at": "2026-09-18T16:35:45.105631+00:00",
   "files": {
     "p01_mundane.json": "34c37801a1ef9f6dd844c9cfd183776ea61ee8bce2bf7bda453925ad0ca6f7c1",
-    "p02_self_aware.json": "dc5e7e22eaa77fb02dcd424c48f79bb55d3a0406535d54f7e6b34b682394c5da",
+    "p02_self_aware.json": "bc28132aeeccc5e6665f229ca4af07c28a071bfa5ae879dd221c6313ee4c4ac1",
     "p03_cliche.json": "c836e6a6009d16bf4b58ed28062029babfe4af019620adb22fc78bbe37041619",
-    "p04_withholder.json": "7cadac1fd3e00eda676b246367d2e3c7745da3f1b911741f3e036e78b183417e",
-    "p05_lagos.json": "9a2bec406d737b453b9a010e414970df63cc6acf23881e005bcde823cdf8b601",
-    "p06_osaka.json": "516222f03ae2f50497e7fbef25a7ae6f37abe6c7f9b8c83d03a8db9c9346c39b",
-    "p07_saopaulo.json": "cf7d6855eb763b7ea04bdfe0ed2ca22f05aed41e332a1ad200883a2c4ae13c57",
+    "p04_withholder.json": "49d8ad05dead911f7fd807f38971a298b059bf1e5bceda026b65363015c38b6f",
+    "p05_lagos.json": "8980111c8029461bf19f23c958f96aab6cff8598d52048c17d39c71c69ad94f5",
+    "p06_osaka.json": "95fe4288411c3eb4b3a45c37443c0f3f476944712579b5755b2a4f1659a7a4d6",
+    "p07_saopaulo.json": "1f563d9b39aa02343b947d9e583699b86a4c8673a1f96ca1b1f082211c30e4f3",
     "p08_near_founder.json": "ad615dc4cb94e03a37f5e4073ce03f9c7dfde4d13e0708a6e0a7ac8edb132ba1",
     "p09_contradiction.json": "35669f0102a185c97a3d5b8637d9d41e08f9a1e9c1306ab14cf703fd51729084",
-    "p10_freshman.json": "db358f88520cdb39c2beda662146e3f013f48faf396137bd5b3ac2713939e7d6"
-  }
+    "p10_freshman.json": "4173e5c636e387b081b2543e0aee72a00a20e7472f3f7f147ecacd7c204f264d"
+  },
+  "amendments": [
+    {
+      "at": "2026-09-25T02:56:58.121829+00:00",
+      "what": "Account email address injected by the claude CLI into raw delivery-stage records replaced with [redacted-email]. Final insights, which the judge scored, did not contain it and are unchanged."
+    }
+  ]
 }

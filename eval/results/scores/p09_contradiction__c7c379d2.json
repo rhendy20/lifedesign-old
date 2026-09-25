@@ -1,0 +1,199 @@
+{
+  "persona": "p09_contradiction",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.3520795,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 2,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Quotes her own explicit line 'if you're teaching it you're not shaking' but then frames narration as directed at others' fear rather than her own regulation, missing the self-soothing inversion.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x002",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Confident unsupported thesis that she believes she has no agency to prevent disaster; transcripts show the opposite (she catches what others miss and counts her saves), and 'cannot attend her son's birthday if someone is in resuscitation' is invented.",
+      "note": "Long, fluent, over-theorized; builds a belief system the evidence doesn't require.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x003",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "True and well-evidenced contradiction of her 'I can separate it' claim, but it's the most visible surface pattern — each story literally ends with the family cost.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x004",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates her known willingness to override doctors/admin with a systems gloss; small misread ('she does not advocate further' with Ghaffari — she did).",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x005",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "'Act first, bypass permission' is a real thread, but the E4 example is her using charge authority, not circumventing it; largely within known territory.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x006",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates her own clinical anecdotes as a talent; also misstates the near-drowning child as eighteen months old (she was five). Praise, not insight.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x007",
+      "depth": 1,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Heroic summary of all five stories; true of most competent senior ED nurses and mostly restates what she says about herself.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x008",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Notices she registers slights precisely yet substitutes outcome for confrontation — specific and traceable, but stops short of naming the decades-long vindication ledger.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x009",
+      "depth": 2,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Accurate description of her teaching method that she already narrates herself; takes the pedagogy at face value rather than asking what it does for her.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Linguistic 'that's just' tic is genuinely observed across all five and not something she'd have named; the 'colleagues stopped complimenting her' extrapolation is unsupported but framed as prediction.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": 4,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Catches the precision asymmetry between clinical and domestic language, the core of the planted memory-asymmetry pattern, though it reads it as emotional vocabulary rather than quantified recall.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x012",
+      "depth": 2,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Essentially a narrower rewrite of E5 plus her own explicit 'it works on anybody'; frames the narration as technique she already claims.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x013",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Takes her 'I didn't need a pat on the head' at face value while quoting 'But I do remember every word she said to me' in the same block; contradicted by her verbatim decades-old grudge ledger.",
+      "note": "Credulous restatement of her self-image; misses that the evidence it cites undercuts the claim.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": 3,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Pairs the tenderness toward unconscious patients with the refusal to reopen the sister/ex ruptures — substantially the planted asymmetry, though softened into a general 'ritual over talk' frame.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x015",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Mostly a close paraphrase of E3; slightly misreads her on truth ('he wasn't by himself' she insists was literally true, not a kindness).",
+      "condition": "v3__mid",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x016",
+      "depth": 3,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The disclaimer-then-exhaustive-detail structure is a genuine meta-observation about how she tells stories, not about what she says in them.",
+      "condition": "v3__mid",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x017",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "She already states this (turned it down three times, hates meetings); 'unaccountable informal authority' is a thin addition.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    }
+  ]
+}

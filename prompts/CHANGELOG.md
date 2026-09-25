@@ -40,3 +40,9 @@ Driven by the v2 kind breakdown: `recurrence` insights scored 87% deep / 46% hit
   detail check, parsimony on assumed hidden feelings, dedupe, coverage) cuts to 8-10.
 - Delivery states the function and the counterexample.
 Score effect (pooled re-score of all four generations, set 50d0a4d5; v0=22%, v1=76%, v2=77%): depth≥3 **76%** (flat), mean depth 2.84, depth-4s 7 (v2: 12), hit recall 58% (=v2), hit share 46% (+2), FP 2% (=v2), grounded 100%, $0.216/exp (+17%), 121 model-s/exp (+25%). Read: the cross-experience critic did not move depth or false positives; the two remaining FPs survived it. **Plateau across v1→v2→v3 (76/77/76): stop rule fires, iteration ends here.**
+
+## Tier comparison on frozen v3 (no prompt change)
+Same prompts, three models, blind pooled judging.
+- Pool A (3 personas, all three tiers): Fable 93% deep / 80% recall / 0% FP at $2.01/exp; Sonnet 52% / 33% / 0% at $0.20; Haiku 44% / 53% / 8% at $0.14.
+- Pool B (10 personas, Sonnet vs Haiku): Sonnet 62% / 54% / 4% at $0.22; Haiku 52% / 56% / 13% at $0.15.
+Read: the model moved depth and recall more than any prompt generation did. See FINDINGS.md §4 for caveats (n=3, judge pool effect, possible reasoning confound).

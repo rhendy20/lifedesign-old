@@ -1,0 +1,188 @@
+{
+  "persona": "p10_freshman",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.37828500000000004,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Names the technically-true-but-partial editing pattern and the gap with the father's 'tell the truth' instruction; well-evidenced and not something he states about himself.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x002",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly avoids the homesickness decoy by centering relief, but the core (Sunday call, labs before hello) is already known to him and the 'crisis' forecast is unfounded speculation.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x003",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Deflection of praise is known_self; the hundred-dollar link is a nice extension but explains it as pity-management rather than the actual provisional/revocable logic.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x004",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the hands-busy regulation pattern; the added caveat ('doesn't flee into task-work at the hospital') is shaky — the Dr Pepper, coffee and already-fine blanket are exactly that.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x005",
+      "depth": 2,
+      "hit": 3,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Gets the spoken-praise-repels / task-as-warmth structure, but he already articulates both halves in E3, so little is added beyond his own framing.",
+      "condition": "v3__mid",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x006",
+      "depth": 2,
+      "hit": null,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Largely a restatement of the known translator/logistician identity plus generic 'worth is conditional' framing; 'hasn't developed peer relationships' is asserted with no transcript basis.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x007",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Quotes his own stated position on supply chain back to him; true and correctly dodges the medicine decoy, but adds almost nothing he doesn't say outright.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x008",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Usefulness-as-worth is a common therapeutic read, but the unsent-email evidence ('it sounds like I want something') genuinely grounds the 'need is disqualifying' half.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x009",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Cleanest statement of the dosage/severity-editing pattern; the parking-garage text as the same operation in miniature is the strongest single observation in the pool.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Links unstructured time and unspent money under one earning logic; touches the stillness-distress and untouched-reserve behaviours without quite naming either mechanism.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Same downward-editing pattern, with the right extension that he does it when nothing medical is at stake; slightly weakened by his own partial awareness of the hospital instance.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x012",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly pairs the unasked-for labour with the bodily calm he reports; framed as a talent rather than as regulation, which misses the distress side of stillness.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x013",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Essentially paraphrases the closing paragraph of E4, including his mother's line; 'data before affect' is the only addition.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x014",
+      "depth": 4,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Grounded in the futon/made-bed/untouched-money cluster and correctly forecasts avoidance of his own medical and support needs — matches the undiscussed health domain.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x015",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Reaches the same curation-of-information pattern as x009 but padded with laminator detail that doesn't belong to it; the 'deployed defensively' observation is the real content.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x016",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": true,
+      "fp_reason": "Asserts he 'does not know her as a person beyond her illness' and that he substitutes surveillance for care — unsupported; the transcript shows awkwardness when she's well, not ignorance of her.",
+      "note": "Built on a known pattern, then overreaches into a confident deficit claim about the sibling relationship the transcripts don't license.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    }
+  ]
+}
