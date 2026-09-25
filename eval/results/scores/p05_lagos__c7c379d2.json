@@ -1,0 +1,199 @@
+{
+  "persona": "p05_lagos",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.3506145,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Cleanly names the withhold-until-solved pattern and predicts it into partnership communication; the 'producing less relief over time' escalation is decorative and unsupported.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x002",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Well-evidenced but mostly reorganises what she narrates about herself into praise; 'zone of genius' framing adds admiration, not new pattern.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x003",
+      "depth": 3,
+      "hit": 2,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Directly captures the denied ledger of who showed up; the prediction that she'll eventually produce the data as evidence sits awkwardly against her never cashing it in.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x004",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Gets the procedure-plus-anti-connections structure as a governing belief, not just a preference; well traced across four accounts.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x005",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Same procedural-regulation pattern, tighter: it is the visibility of the staircase, not the outcome, that calms her.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": 3,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Accurate on somatic decision then post-hoc reasoning, though she half-names this herself in E3; the 'analysis will stall her' addition is speculative.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x007",
+      "depth": 2,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Trajectory narrative that lands on the fees-as-organising-fact she already states outright; correctly rejects the freedom-abroad decoy but adds little.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x008",
+      "depth": 3,
+      "hit": 1,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Adds the emotional function to the known number-habit — arithmetic as fear management — and predicts it onto her own health, consistent with her deferral pattern.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x009",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Strong reading of the belief underneath the secrecy: visibility distributes failure. Evidence genuinely supports it.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The nine-year phrase echo is a real, checkable textual catch; the parenting prediction is plausible but not anchored.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x011",
+      "depth": 2,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates the eldest-daughter role she already knows and states; the legacy prediction is unfalsifiable framing.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x012",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Sharpens the impulse/analysis split by noting she treats the paperwork as a lesser second phase — a real observation she has not made.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": 0,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correct pattern, but she draws the change-of-course/IELTS parallel herself in E5; the insight mostly formalises her own mid-sentence realisation.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Catches the self-description colliding with the kept comb, but stops at 'contradiction' without reaching the displaced-grief pattern; partial only.",
+      "condition": "v3__mid",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x015",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Good on narrative control as protection framed as pragmatism; the predicted resentment at unrecognised labour is added weight the transcripts don't support.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x016",
+      "depth": 2,
+      "hit": null,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Debt-avoidance around Aunty Funmi is something she explains explicitly herself; the autonomy framing is a relabel rather than a discovery.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x017",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Confidently asserts she trusts her read of people more than her own arithmetic — unsupported and against the evidence, where numbers are her primary regulator.",
+      "note": "The obligation-forecasting observation is real but restates her stated reasoning, then overreaches with a reversed claim about what she trusts.",
+      "condition": "v3__mid",
+      "insight_id": "i8"
+    }
+  ]
+}

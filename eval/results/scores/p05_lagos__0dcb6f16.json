@@ -1,0 +1,299 @@
+{
+  "persona": "p05_lagos",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap",
+    "v3__fable"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.44428550000000006,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly generalises the handbook/staircase pleasure into a self-regulation mechanism across inventory, NMC columns; traceable and non-obvious.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x002",
+      "depth": 4,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Nails the fait-accompli disclosure rule and adds the E2 'being owned' motive; partner prediction matches the romance domain prediction.",
+      "condition": "v3__fable",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x003",
+      "depth": 2,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Largely restates the eldest-carries-family fact she already voices in E5; little added.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x004",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Competent recap of three episodes as 'systems design'; flattering but adds no mechanism she wouldn't already claim.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x005",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Autonomy/anti-indebtedness framing is supported and specific, but stops short of the withhold-until-finished mechanism; partner prediction is on the right track.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x006",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Points at contradictions she herself lays side by side in the same paragraphs; observation rather than insight.",
+      "condition": "v3__mid",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x007",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the protective withholding well; the 'producing less relief over time' escalation claim is unevidenced padding.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x008",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Real but thin; the added clause that she trusts social reads over her own arithmetic runs against the rest of the corpus.",
+      "condition": "v3__mid",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x009",
+      "depth": 4,
+      "hit": 4,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Isolates the selectivity — she goes to the unheld one — and predicts specialty preference consistent with the latent claim.",
+      "condition": "v3__fable",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x010",
+      "depth": 2,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Right pattern, but she makes this exact connection aloud in E5; insight mostly repeats her own realisation.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x011",
+      "depth": 4,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Best statement of procedure-as-emotional-regulation, with the steady-hands evidence, plus a testable specialty/acute-care prediction.",
+      "condition": "v3__fable",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x012",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Fresh derived rule — labels outward, counts inward — spanning family, patients and interviewers; Tayo prediction is checkable.",
+      "condition": "v3__fable",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": 2,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the ledger-while-denying-score pattern precisely; the prediction that she'd later produce the data as evidence overreaches (she never cashes it in).",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Transparent-system-as-permission is well traced; prediction is somewhat generic for someone already in nursing.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x015",
+      "depth": 3,
+      "hit": 3,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Extends act-then-rationalise beyond the two she admits (counting, receipts, comb) and names what the label does for her.",
+      "condition": "v3__fable",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x016",
+      "depth": 2,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly rejects the japa-for-freedom reading but mainly restates E5's explicit 'that's the actual reason'; burnout forecast is speculative.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x017",
+      "depth": 2,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The verbal echo across nine years is a nice catch, but the underlying claim is already known_self.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x018",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Useful counter-reading that the 'impulse' is always twinned with same-week paperwork; supported, though it slightly blunts the true somatic pattern.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x019",
+      "depth": 3,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The 'Anyway'-as-lock mechanism is a genuine textual pattern beyond the known self-label; coaching-exit prediction is testable.",
+      "condition": "v3__fable",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x020",
+      "depth": 2,
+      "hit": 3,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correct pattern but almost entirely quoted from her own explicit admission in E3/E5.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x021",
+      "depth": 3,
+      "hit": 1,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Arithmetic-as-anxiolytic is well evidenced by the mosquito line; health prediction is broadly consistent with the health domain.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x022",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Derives the metric behind the ledger — attendance, not money — and explains the rounded sums versus exact absences; non-obvious.",
+      "condition": "v3__fable",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x023",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Two-word deference as a door-closer; correctly refutes the compliant-eldest reading and gives a checkable workplace prediction.",
+      "condition": "v3__fable",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x024",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Solid statement of solve-alone-and-control-the-narrative; the predicted resentment at unnoticed labour is the weakest part.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x025",
+      "depth": 2,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Right family of claim but leans on the reason she states herself in E5 ('five people are disappointed instead of one').",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x026",
+      "depth": 3,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Load-bearing-member belief with the sharp observation that her mother is never imagined as someone who could count; stays protective of the father rather than sliding into the resentment decoy.",
+      "condition": "v3__fable",
+      "insight_id": "i4"
+    }
+  ]
+}

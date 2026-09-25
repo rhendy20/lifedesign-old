@@ -1,0 +1,299 @@
+{
+  "persona": "p04_withholder",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap",
+    "v3__fable"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.4235985,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 2,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Repackages the trade competence he already names; the speech-tempo observation adds texture but not a new pattern.",
+      "condition": "v3__fable",
+      "insight_id": "i10"
+    },
+    {
+      "id": "x002",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly reads withdrawal-as-verdict and non-clarification, but stops short of the full preemptive-exit structure.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x003",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Gets making-as-love, but underweights that the objects are never handed over.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x004",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "His own stated creed; lumping the hospital and cake exits under 'completion' slightly misreads them.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x005",
+      "depth": 4,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Task-substituted-for-presence is the planted pattern, and the hospitalised-coworker prediction lands on the friendship domain.",
+      "condition": "v3__fable",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Condition-vs-gesture gap is genuinely non-obvious and correctly resists the craftsmanship-pride decoy.",
+      "condition": "v3__fable",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x007",
+      "depth": 3,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Builds past the known medical minimizing to the function: nobody is ever put in the position of tending him.",
+      "condition": "v3__fable",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x008",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Names the self-authored exit that forecloses being the rejected party; evidence is exact.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x009",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Anonymous-gift mechanism correctly generalized from Devon back to the tractor and Walt.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Care severed from acknowledgment; clean statement of the same planted pattern.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Mostly reframes E5, though 'does it best when it can look like it wasn't him' is a real observation.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x012",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Pre-emption across divorce, layoff and even the weather line; the 'every time' reading is earned.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x013",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates the leave-it-clean ethic he states himself; the disclosure caveat is a small addition.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Objects-as-only-channel is right; 'love must be earned through competence' is an unforced extra layer.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x015",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the swap into fact/date/weather exactly where feeling surfaces, plus the 'Anyway' exit marker.",
+      "condition": "v3__fable",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x016",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Sealed chapters maintained invisibly from the edge — the one-way proximity pattern, minus the keeping-current detail.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x017",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Poses a question rather than resolving one; largely a paraphrase of E4 with hedges.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x018",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Sharp: he passes on the tool and deletes the encounter he himself says was the point.",
+      "condition": "v3__fable",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x019",
+      "depth": 4,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "'Which, fine' as the closing move on any claim, with a money prediction consistent with the hidden financial profile.",
+      "condition": "v3__fable",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x020",
+      "depth": 4,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Tractor-and-rod rhyme is the planted claim at full strength, and the undelivered-objects prediction extends it correctly.",
+      "condition": "v3__fable",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x021",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Verdict-before-verdict across divorce, discharge and buyout; grammar note on who acts is a bonus.",
+      "condition": "v3__fable",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x022",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Precise-about-things, vague-about-people is near-generic for this profile and misses the substitution mechanism.",
+      "condition": "v3__cheap",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x023",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "His stated creed restated; 'work outranks people' is a slightly moralized gloss.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x024",
+      "depth": 3,
+      "hit": 4,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The generic 'you' landing on every decision point — self-erasure as grammar, well evidenced across all five.",
+      "condition": "v3__fable",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x025",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Body-as-equipment metaphor over content he already narrates about himself.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x026",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Slides into the loner decoy — 'more comfortable in solo maker space than group settings', sparse contacts — contradicted by daily Denny's, the truck outside the house, and gifts made for people.",
+      "note": "Object-curation contrast is real, but the conclusion drawn about preferring things to people is the planted false reading.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    }
+  ]
+}

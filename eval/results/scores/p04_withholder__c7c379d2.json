@@ -1,0 +1,188 @@
+{
+  "persona": "p04_withholder",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.29351849999999996,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates his own stated ethic ('if you're gonna do it you do it'); the added framing about legitimacy of work-claims is thin.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x002",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Accurate on object-care vs. no initiation, but the 'objects don't disappoint' framing drifts toward the loner decoy and the prediction (sparse contact, avoids groups) ignores the daily diner.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x003",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Catches the anonymized-gift mechanism (Devon's mics, hidden tractor) and why the source must be obscured.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x004",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Raises a question rather than resolving one; the withholding itself is already known to him.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x005",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Links the lease and the buyout as self-authored exits that foreclose being the rejected party — the preemptive-exit pattern, though limited to two instances.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Plausible and traceable for the divorce; the Nick example is weaker (he did tell him, Nick reacted), so it's adjacent to rather than the same as the exit pattern.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x007",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Body-as-equipment is a vivid restatement of what he already knows about himself; the battery-register observation gestures at something deeper but doesn't develop it.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x008",
+      "depth": 2,
+      "hit": null,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Well-evidenced contrast, but it is the generic 'precise about things, vague about people' read; misses that the numbers arrive exactly where feeling would.",
+      "condition": "v3__cheap",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x009",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The 'best when it looks like it wasn't him' clause is real; the 'energized by / exceptional at' framing edges toward craftsman-pride he does not claim.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x010",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Mostly his stated ethic; the qualifier that the value stops at disclosure is the only genuinely added edge.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Nails the severing of care from acknowledgment and why — care given without having to manage the other person's response.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x012",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly identifies made objects as his affection channel; the 'love must be earned through competence' premise is an unsupported add-on but the mechanism is right.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Same channel insight framed as zone of genius; 'reaches for making when he cannot speak' is the load-bearing line, and the workshop prediction is consistent.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the sealed chapter maintained from outside — invisible care without crossing the threshold; the Christmas Eve truck is the right evidence.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x015",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Known ethic; forcing the early hospital discharge and skipping the cake into 'task completion' is a misread of what are exits, not finishes.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x016",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Strongest version of the move-first pattern across lease, buyout and the 'every time' forecast line; frames it as protection from being surprised.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    }
+  ]
+}

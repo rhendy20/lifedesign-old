@@ -1,0 +1,184 @@
+{
+  "persona": "p06_osaka",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.32762749999999996,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Accurate synthesis of her ledger/timetable/spreadsheet pleasure, but this is exactly what she already says about herself; 'apologizes for it' is a nice touch that adds little new.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x002",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Gets the indispensable-but-invisible architecture (desk facing door, Ueda-san phoning) and names the solitude-plus-power tension; frames it as wanting to be needed rather than appetite for control, but substantially the same pattern.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x003",
+      "depth": 1,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": true,
+      "fp_reason": "Explains her refusals as self-protection from judgment/'exposure of inadequacy' — the evidence points the other way (she chose the second chair for the control it gives); leans on the passive/fearful decoy.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x004",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Treats absent grief as dissociation and predicts collapse of energy if she grieves; matches the 'frozen in unresolved grief' decoy and misses that widowhood is her most expansive period.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x005",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The public-credit/private-authorship split is a genuine non-obvious distinction grounded in the folder, the Kishi lie, and the wedding comparison.",
+      "condition": "v3__mid",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x006",
+      "depth": 4,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Cleanly captures the fait-accompli method across three decades, including the 'I am consulting you now' tell, and the medical-decision prediction matches the hidden health forecast.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x007",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The asymmetry observation — she holds for everyone, no one named holds for her — is real and its friendship prediction is consistent with her confide-in-nobody pattern.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x008",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Precise structural noticing: confession surfaces then is immediately re-covered by procedure ('and then I got up and made the tea'); modest but genuinely traceable.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x009",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly notes the denial is always triggered by someone else's pity, and wisely hedges that the denials may be right; stops short of seeing the relief underneath.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Same fait-accompli mechanism, well evidenced including the grandmother's non-discussion as the template; prediction stays inside an area the transcripts already cover.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Duplicate of the unilateral-action pattern with decision-sovereignty as the motive — correct and evidenced, but adds little beyond x006/x010.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x012",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Identifies indispensable-without-title as a repeated structure and predicts she'd hand over the title while keeping operational control — right pattern, though it over-attributes the motive to 1978 injury rather than appetite.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x013",
+      "depth": 1,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": true,
+      "fp_reason": "Predicts she 'may struggle with leisure that does not serve an external purpose' — directly contradicted by Hagi, the soba counter, swimming, and Sundays alone.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x014",
+      "depth": 1,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": true,
+      "fp_reason": "Restates her own E1 self-analysis, then pathologizes it as a defence 'no longer functional' requiring a breakdown into grief — the frozen-grief decoy.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x015",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The four-words-and-a-rice-cracker rule traced forward into the husband's Tennōji reply and her better dinner is a genuinely non-obvious cross-episode read.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x016",
+      "depth": 2,
+      "hit": null,
+      "known_match": 6,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Solid but largely known-self: system-fixing without credit; the 'may avoid relational roles' rider sits awkwardly against Kawabata and the Nishinari years.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    }
+  ]
+}

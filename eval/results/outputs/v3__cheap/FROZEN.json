@@ -1,0 +1,17 @@
+{
+  "condition": "v3__cheap",
+  "frozen_at": "2026-09-18T17:37:30.942042+00:00",
+  "note": "two runner processes; manifest rebuilt over all ten files",
+  "files": {
+    "p01_mundane.json": "cba431344ba7622de02b8c996d0a88956c4d4e57693142c9699f1667fa5bd794",
+    "p02_self_aware.json": "b2938e8705baba68088fd49601e8aaf18f4f9d11add01574e52c2d1fb16611d5",
+    "p03_cliche.json": "62d0eb4a9f322e441fbbf6b0def261c03214d7c1b3e2a83d67fa1375d218fffa",
+    "p04_withholder.json": "923470557e5682f62df7b6538a43bc51b6b0f0131692b1013ec5a0aaf465c0e2",
+    "p05_lagos.json": "681f537168c0a244d7d92306fcb1d97b641a2cfa4d01cfaf94480084f594ae13",
+    "p06_osaka.json": "5c2d81014a3fa03f894d52f6faec5b25fcc33590ec7da8ade0b5eb246358085a",
+    "p07_saopaulo.json": "8ca7defecea0c63913cf6177d06ea1ff5f4d7a6851fca2a6604a3aaf8ea09a80",
+    "p08_near_founder.json": "e4d7783525d628be1e2bbcbdf6cbba6d3404866030949eb6bdcd11915d01104c",
+    "p09_contradiction.json": "4f18c65e461435ed67a80b5ddfe878754258a50eac5e96cf032c348b89752eff",
+    "p10_freshman.json": "9479060b1295011bea7269c6e0abd2354e35c64f5ba5c62a213fb6e449dae0e9"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "persona": "p07_saopaulo",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.3784335,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly identifies route/time arithmetic as displaced emotion-regulation rather than mere competence; well traced across E1/E4/E5.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x002",
+      "depth": 2,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Real gap between self-deprecation and conduct, but largely a flattering restatement of what he already says about himself.",
+      "condition": "v3__mid",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x003",
+      "depth": 3,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Sharp reading that his trust is conditioned on not being asked; consistent with the undiscussed friendship pattern of older men who don't probe.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x004",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Clean capture of site-avoidance rationalised as convenience, including the tell that the pastel reason cannot cover 25 minutes.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x005",
+      "depth": 3,
+      "hit": 2,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Task-substitution mechanism is right; misses the asymmetry with how fluently he narrates others' feelings.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Best statement of the object-instead-of-feeling reflex, traced through all five transcripts with accurate quotes.",
+      "condition": "v3__cheap",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x007",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Care-as-invisible-labour is specific and supported, but stops short of the self-impoverishment and letting-others-be-blamed core.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x008",
+      "depth": 2,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "True but close to what he already knows about himself; the 'absorber' framing adds little beyond the stories themselves.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x009",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly isolates that concealment is part of the act, not incidental; sofa lie cited as the key evidence.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Genuine, evidenced pattern of refusing clean narratives about Wellington, Simone and the robber; slightly praise-tinted but grounded.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x011",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Mostly reorganises what he already narrates about the robbery; the 'genius' framing is admiration rather than new structure.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x012",
+      "depth": 3,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Tracks the same concealment across three ages of the child; prediction about hiding health/money until crisis is consistent with undiscussed domains.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": 0,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Same counting behaviour as x001 but read as magical control; defensible from the 51-minute math done after the doctor's verdict.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": 4,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Catches that rest must arrive disguised as duty — Bené's lie about the direction is exactly the right evidence.",
+      "condition": "v3__mid",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x015",
+      "depth": 0,
+      "hit": null,
+      "known_match": 8,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates his own explicit confession about the exchange program and adds only a question.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x016",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Narrow, accurate version of the displacement reflex at the instant of shock; clock-before-face is the strongest possible citation.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x017",
+      "depth": 0,
+      "hit": null,
+      "known_match": 8,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Duplicate of the exchange-program admission he already makes verbatim, with no added mechanism.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x018",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "He already knows the phrase is compulsive and a family joke; reading it as denial is a modest, unverifiable extension.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    }
+  ]
+}

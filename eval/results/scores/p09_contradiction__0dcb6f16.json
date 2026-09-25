@@ -1,0 +1,310 @@
+{
+  "persona": "p09_contradiction",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap",
+    "v3__fable"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.4717055,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 2,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Accurate description of her teaching method, but she already narrates herself as the department's trainer; frames the narration as pedagogy for others' fear, missing that it regulates her own.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x002",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Catches the self-assignment of the worst room and the 'in it I can breathe' inability to watch from outside; the home-stillness contrast is well evidenced.",
+      "condition": "v3__fable",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x003",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Pairs intimacy-toward-the-unconscious with refusal of verbal repair with living intimates; slightly diluted by folding debriefs in as 'ritual'.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x004",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Mostly a retelling of the E3 washing scene plus her own 'not mystical' hedge; the faith prediction is sensible but adds little she doesn't know.",
+      "condition": "v3__mid",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x005",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Expert-clinician perception she openly claims ('I know what I know'); also misstates the drowning child as eighteen months old.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Strong structural read: the 'not a work person' line always lands after a home-cost scene and escalates as the family's workarounds ritualize.",
+      "condition": "v3__fable",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x007",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly isolates narration-as-action and that she never applies it to herself, but inverts the deeper pattern (the teaching is her own regulation, not only the junior's).",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x008",
+      "depth": 3,
+      "hit": 4,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Nails the precision asymmetry — exact vitals and clock times versus 'did the baby thing' / 'watched something'.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x009",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Long philosophical construction about presence-without-agency that the transcripts don't require; she does speak about these events at length, weakening the 'cannot speak' premise.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x010",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Takes her 'I don't need a pat on the head' denial at face value and asserts she doesn't resent the silence, while the transcripts show a verbatim decades-long grievance ledger ('I do remember every word she said to me')",
+      "note": "Praise that repeats her self-image and misses the vindication bookkeeping in the same quotes it cites.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Well-evidenced: fear is only ever an attribute of others or a negation in herself; stops just short of naming teaching as her own regulation.",
+      "condition": "v3__fable",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x012",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates her explicit stance toward doctors, admin and meetings; the 'substitutes her judgment' framing is her own account of herself.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The deltas-versus-snapshots distinction is a genuinely sharper account of her clinical eye, and the aside about blurry self-facts is accurate.",
+      "condition": "v3__fable",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x014",
+      "depth": 2,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Essentially E5 retold with a label; she already knows and states the trick and that she trained half the department.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x015",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Sharp and checkable: one statement of the case, then bypass or silence, with the agent-position dropping out of her grammar after each overruling.",
+      "condition": "v3__fable",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x016",
+      "depth": 2,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Affirms the teacher identity she claims outright; the 'repeatable craft' framing is flattering rather than revealing.",
+      "condition": "v3__fable",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x017",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Precisely captures apology reserved for those who cannot answer, with Malachi's 'it's cool' as the only living reply she accepts.",
+      "condition": "v3__fable",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x018",
+      "depth": 3,
+      "hit": 2,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Directly names the verbatim grievance ledger held alongside the denial of holding onto things; the refrain-repetition evidence is real.",
+      "condition": "v3__fable",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x019",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Gets the hoarding of the dangerous assignment plus the two-step where an efficiency reason is offered then immediately supplemented by the real one.",
+      "condition": "v3__fable",
+      "insight_id": "i10"
+    },
+    {
+      "id": "x020",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Modest but true discourse pattern — pre-emptive discount followed by exhaustive detail — traceable in four of five openings.",
+      "condition": "v3__mid",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x021",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Administers the walkthrough in three stories, receives it in none, and in E5 giving two of them is the stated cost of the birthday; well grounded.",
+      "condition": "v3__fable",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x022",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "She states the charge refusals and the meetings reason herself; the 'authority without title' gloss adds only a little.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x023",
+      "depth": 2,
+      "hit": null,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Notices the precise registration of slights but stops at 'declines to pursue', treating her non-confrontation as settled rather than as the ledger substituting for it.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x024",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Aggregates her stated self-view (acts when systems fail) with the costs she already narrates; competent summary, little new.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x025",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The 'that's just' tic is real and repeated at every point of significance; the coda about colleagues learning not to compliment her is unsupported speculation.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x026",
+      "depth": 3,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Adds a real nuance to the known confrontation trait: she spends borrowed authority on a specific patient rather than escalating formally.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x027",
+      "depth": 3,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Directly contradicts her 'I can separate it' claim with a costed leak in every account; obvious once stated but she would not say it.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "condition": "v3__fable",
+  "frozen_at": "2026-09-18T17:34:54.634376+00:00",
+  "files": {
+    "p04_withholder.json": "4dc50b96ce6865345e8c91895ef164c54a017d9425c8f458fca217bf4bc39b72",
+    "p05_lagos.json": "cd3b32913949be60ed0a0df7e96d3579b02688b613f1c173ae60cf23fe62953b",
+    "p09_contradiction.json": "5eb7e5e217d0bdc6601df74fd34bf06dd120785ae2a257aee103ea255ed060b3"
+  }
+}

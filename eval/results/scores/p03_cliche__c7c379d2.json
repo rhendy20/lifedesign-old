@@ -1,0 +1,188 @@
+{
+  "persona": "p03_cliche",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.34913249999999996,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Evidence is real but the framing is flattering sales-guy praise ('reads micro-signals'); the Kayla example is actually avoidance, not accurate reading, and 'energized by being correctly understood' is unsupported.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x002",
+      "depth": 2,
+      "hit": null,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correct and cleanly timed observation, but it is essentially his own stated 'pressure makes diamonds' creed with an avoidance label attached.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x003",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Well-evidenced but a standard therapy read of the provider archetype; largely a restatement of his self-proclaimed 'move in silence' identity.",
+      "condition": "v3__cheap",
+      "insight_id": "i9"
+    },
+    {
+      "id": "x004",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the hidden financial-spine pattern including the 'that's family / don't count it' reframe and the unstated cost.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x005",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Motion-as-safety is plausible and evidenced, but 'to prevent abandonment / make himself indispensable' is added motive the transcripts don't establish.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": 4,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Catches the exact-number-for-vague-feeling substitution (sleep pivoting to posting schedule), though it misses the insomnia-as-discipline rebrand.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x007",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Gets the unglamorous, unpaid caretaking of isolated elderly customers as the real gift, opposite his closer identity; doesn't quite name the 'old people' specificity.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x008",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Sharp: names both the concealed subsidy and the tell that the exact dollar figures prove he has counted what he claims not to track.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x009",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly links father, Big Mike and Kayla into one non-confrontation pattern; 'protecting their image' is a fair reading of the mechanism.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Good formal evidence (most sensory detail, 'I don't post about this'), but frames it as institutional advocacy rather than the actual elderly-tenderness pattern.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The cleanest contrast in the pool: hours of presence for strangers/elders, logistics-and-money for the people entangled with him.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x012",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Largely duplicates x005 and restates his own 'move in silence' ethos; the shame-protection motive is asserted, not shown.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Usefully resists the devout-believer decoy by showing the God-talk is post-hoc syntax over relentless control, though the 'disposable' inference overreaches.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Names the never-escalate pattern precisely and makes a checkable prediction about how he'll manage his nine reps.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x015",
+      "depth": 2,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Mostly the known 'quotes his mentors constantly' trait; the 'person becomes disposable' twist sits uneasily with his continued defense of Mike.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x016",
+      "depth": 2,
+      "hit": null,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Overlaps heavily with x002 and with his own stated creed; the external-precision/internal-vagueness observation is the only part that adds anything.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    }
+  ]
+}

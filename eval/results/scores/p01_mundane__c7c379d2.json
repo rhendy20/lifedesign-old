@@ -1,0 +1,177 @@
+{
+  "persona": "p01_mundane",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.40036249999999995,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly names the swap from emotional register into practical/product talk at the exact moment of intimacy; the funeral near-miss is a good second anchor.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x002",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Reads the fence ritual as a tracked injustice that 'troubles him deeply' — the stewing/grudge framing the author flags as false; the measuring is noticing, not grievance.",
+      "note": "Good observation of the say/do gap but lands on the resentment decoy.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x003",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the engineered invisibility plus the unstated want behind it; vagueness-at-the-ask is a real textual signal.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x004",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Asserts he is 'structurally unable to advance' and predicts resentment at being stuck; the transcript says everyone assumed the job was his and he declined to apply — echoes the regret/inertia decoys.",
+      "note": "The buried Cheryl-as-real-reason point is sharp, but it is wrapped in an unsupported trapped-by-competence thesis.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x005",
+      "depth": 3,
+      "hit": 2,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Precision-outward/omission-inward is the right shape of the technical-specification-as-feeling pattern.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Cross-story synthesis: the durable artifact substitutes for the conversation not had; builds beyond the known 'I keep everything'.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x007",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Largely re-describes what he narrates himself in every story; the marriage-distance prediction is asserted, not evidenced.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x008",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Restates E5 in his own explanatory terms ('that's how you get a thing done'); accepts the no-credit-needed framing without testing it.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x009",
+      "depth": 2,
+      "hit": null,
+      "known_match": 3,
+      "false_positive": true,
+      "fp_reason": "Turns the kept application into unresolved ambivalence/regret about the promotion, contradicting the stated and genuine 'I don't regret it'; adjacent to the secret-regret decoy.",
+      "note": "Notices the unfinished Section Six and the retained form, but mis-assigns the motive.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x010",
+      "depth": 4,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Gets the protect-the-powerless duty and the asymmetry toward himself, and its health prediction (advocates for others, delays own care) matches the undiscussed health domain.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Solve-invisibly-and-stay-silent is the right pattern; folding the fence in as 'harm done to him' blurs it slightly.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x012",
+      "depth": 2,
+      "hit": null,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Accurate but essentially the thing he is already proud of — he reads the back page nobody reads.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": null,
+      "known_match": 0,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "The disclaimer/precision pairing adds a mechanism to something he only half-knows: the specificity betrays the caring the preamble disowns.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x014",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Directly names the recognition hunger he denies and links it to building an indispensable-but-uncredited system.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x015",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Takes the 'I don't want a plaque' story at face value and generalizes it to the promotion as a chosen value; the author flags the doesn't-need-credit reading as false.",
+      "note": "Fluent restatement of his own rationalization, with the 27-year rumination unaccounted for.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    }
+  ]
+}

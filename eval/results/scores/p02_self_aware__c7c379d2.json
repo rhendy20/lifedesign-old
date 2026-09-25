@@ -1,0 +1,177 @@
+{
+  "persona": "p02_self_aware",
+  "conditions": [
+    "v3__mid",
+    "v3__cheap"
+  ],
+  "judge": "claude-opus-5",
+  "judge_cost_usd": 0.3655725,
+  "n_latent": 5,
+  "scores": [
+    {
+      "id": "x001",
+      "depth": 3,
+      "hit": 1,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Correctly links the four-second formulation to the exit that follows (Golden parking lot, group-chat departure); the 'genius' framing softens it but the mechanism is right.",
+      "condition": "v3__cheap",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x002",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Non-obvious reframe: the surveillance apparatus turned on herself, so self-awareness is lateral rather than progress; traceable to ribbon-thickness and 'see it from orbit'.",
+      "condition": "v3__cheap",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x003",
+      "depth": 2,
+      "hit": null,
+      "known_match": 4,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Essentially the 'unflappable / shingles' item she already narrates; 'chooses' adds little beyond her own account.",
+      "condition": "v3__mid",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x004",
+      "depth": 3,
+      "hit": 4,
+      "known_match": 1,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Gets the covert bid — engineered refusal then resentment at the unmet offer — though she half-names it herself as the 'martyr loop'.",
+      "condition": "v3__cheap",
+      "insight_id": "i6"
+    },
+    {
+      "id": "x005",
+      "depth": 2,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Attunement-as-gift is close to what she already says ('you just know me'); the 'concealment is the same motion' line is the only real addition.",
+      "condition": "v3__mid",
+      "insight_id": "i3"
+    },
+    {
+      "id": "x006",
+      "depth": 3,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Captures the asymmetry appetite — holder never held — including the therapy-room pull; stops short of naming the covert-information specifics.",
+      "condition": "v3__cheap",
+      "insight_id": "i8"
+    },
+    {
+      "id": "x007",
+      "depth": 3,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Somatic breakdown as the only sanctioned request for rest; consistent with the health domain, though it overlaps her known trouble asking directly.",
+      "condition": "v3__mid",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x008",
+      "depth": 0,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Repeats her own verbatim formulation ('I leave before I'm left', 'permanent reads as taken'); adds nothing and accepts the misfiling.",
+      "condition": "v3__cheap",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x009",
+      "depth": 3,
+      "hit": 3,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Clean catch of the nocturnal solitary discharge as her actual regulation, with the extra observation that it clusters around praise and held secrets.",
+      "condition": "v3__mid",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x010",
+      "depth": 3,
+      "hit": null,
+      "known_match": 2,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Usefully extends the amputation pattern past romance to the senior title and the cohort chat, and implicitly rebuts the people-pleaser reading.",
+      "condition": "v3__mid",
+      "insight_id": "i5"
+    },
+    {
+      "id": "x011",
+      "depth": 3,
+      "hit": null,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Naming without relational risk — fluency up, exposure down; correct against the 'therapy made her open' story, but restates much of the transcript.",
+      "condition": "v3__cheap",
+      "insight_id": "i7"
+    },
+    {
+      "id": "x012",
+      "depth": 1,
+      "hit": null,
+      "known_match": null,
+      "false_positive": true,
+      "fp_reason": "Recasts covert surveillance (diary, Jeremy's email, mother's Roseanne emails) as altruistic shame-protection; the transcripts show the knowing served her own footing, not the other person's dignity.",
+      "note": "Charitable misread that launders the central pattern into a virtue.",
+      "condition": "v3__cheap",
+      "insight_id": "i4"
+    },
+    {
+      "id": "x013",
+      "depth": 3,
+      "hit": null,
+      "known_match": 7,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Directly contests her 'healthiest ever' claim with the concurrent four-hours-sleep, grout, group-chat exit; correct but largely assembles her own disclosures.",
+      "condition": "v3__cheap",
+      "insight_id": "i2"
+    },
+    {
+      "id": "x014",
+      "depth": 4,
+      "hit": 0,
+      "known_match": null,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Nails the asymmetric-knowledge engine including that access outlasts need, and predicts the concealed/asymmetric money arrangement with a partner.",
+      "condition": "v3__mid",
+      "insight_id": "i1"
+    },
+    {
+      "id": "x015",
+      "depth": 2,
+      "hit": null,
+      "known_match": 5,
+      "false_positive": false,
+      "fp_reason": "",
+      "note": "Accurate on the withholding and the one-directional friendship prediction, but accepts her 'protecting them' cover story instead of the self-protective function.",
+      "condition": "v3__mid",
+      "insight_id": "i4"
+    }
+  ]
+}
